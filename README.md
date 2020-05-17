@@ -3,7 +3,7 @@
 ## Table of Contents:
 Preface - This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
 
-___________________________________________________________________________________________________________________
+# ___________________________________________________________________________________________________________________
 
 ## Part 1 - Concepts:
 This part of the book is a self contained one that explains the history, the concepts, the intuitions and the applications of DL to Machine Vision, Speech, Comprehension, Art, Music and Games 
@@ -22,7 +22,7 @@ This chapter, introduce some of the concepts that enable deep learning models to
 
 ### Chapter 5 - Games
 This chapter explains deep reinforcement learning that has produced some of the most surprising artificial-neural-network advances, involving AI breakthroughs of recent years in a very human activity i.e. playing games and interacting with the environment around them. It explains what reinforcement learning (RL) & how RL’s fusion with deep learning has enabled machines to meet or surpass human-level performance on a diverse range of complex challenges in games, and physical-manipulation tasks.
-_______________________________________________________________________________________________________________________
+# _______________________________________________________________________________________________________________________
 
 ## Part 2: DL - Code & Theory:  
 Part 1 provided a high-level overview of deep learning we sprinkled with foundational  concepts from its hierarchical, representation-learning nature through to its relationship to the field of artificial intelligence.  Part II of the book we dive into the low-level theory and mathematics behind in as simple language as possible with iPython notebooks to reify the theory.
@@ -42,7 +42,7 @@ Introduces gradient descent and back-propagation and applies these concepts s to
 ### Chapter 10 - Advanced Deep NN 
 Discusses technical issues involved in the creation of high-performing neural networks, techniques that overcome them, applies these in code to architecting a production grade  deep neural network.
 
-_______________________________________________________________________________________________________________________
+# _______________________________________________________________________________________________________________________
 
 ## Part 3 - DL Applications:
 Work through a range of application areas, primarily via hands-on example code including convolutional neural networks and apply them to machine vision tasks, Recurrent neural networks for natural language processing, Generative adversarial networks for visual creativity,  Deep reinforcement learning for sequential decision making within complex, changing environments
@@ -59,7 +59,7 @@ GAN basics, Dataset, Discriminator, Generator, Adversary, GAN application
 ### Chapter 14: Deep Reinforcement Learning (DRL)
 DRL Theory, Q Learning, DQN, OpenAI Gym, SLM Lab Agents
 
-_______________________________________________________________________________________________________________________
+# _______________________________________________________________________________________________________________________
 
 ## Part 4 - Architecting Deep Learning Systems:
 ### Chapter 15: 
