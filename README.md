@@ -2,7 +2,7 @@
 # ____________________________________________________________________
 
 ## Table of Contents:
-# Preface: 
+## Preface: 
 This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
 
 # ____________________________________________________________________
