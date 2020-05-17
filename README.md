@@ -1,7 +1,9 @@
 # Deep Learning Elegantly for Everyone
+# ____________________________________________________________________
 
 ## Table of Contents:
-Preface - This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
+# Preface: 
+This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
 
 # ____________________________________________________________________
 ## Part 1 - Concepts:
