@@ -3,8 +3,7 @@
 ## Table of Contents:
 Preface - This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
 
-# ___________________________________________________________________________________________________________________
-
+# _____________________________________________________________________
 ## Part 1 - Concepts:
 This part of the book is a self contained one that explains the history, the concepts, the intuitions and the applications of DL to Machine Vision, Speech, Comprehension, Art, Music and Games 
 
