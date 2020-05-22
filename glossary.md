@@ -2,5 +2,5 @@
 
 | S.No. | English | Tamil | Telugu
 | --- | --- | --- | --- 
-| 1 | Machine Learning | | 
+| 1 | Deep Learning | ஆழக்கற்றல் | 
 
