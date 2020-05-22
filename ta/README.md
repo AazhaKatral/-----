@@ -1,28 +1,32 @@
 # ஆழக்கற்றல்:  ஓர் எளிய அறிமுகம்
 # ____________________________________________________________________
-
-## Table of Contents:
-## Preface: 
-This section of the book lays the motivational groundwork for this book, what its intentions are and how to go about comprehending the contents of this book
-
+# ஆழக்கற்றல்: ஓர் எளிய அறிமுகம்
 # ____________________________________________________________________
-## Part 1 - Concepts:
-This part of the book is a self contained one that explains the history, the concepts, the intuitions and the applications of DL to Machine Vision, Speech, Comprehension, Art, Music and Games 
 
-### Chapter 1 - Vision
-This chapter deals with vision and is focused on conveying a high-level understanding of what deep learning is in the context of vision. The vision analogy provides insight into how deep learning approaches are so powerful and so broadly applicable.
+## உள்ளடக்கம்
+## அறிமுகம்:
+இந்தப் பகுதி இந்த புத்தகம் எழுதப்படதன் நோக்கம் மற்றும் இந்த புத்தகத்தை எவ்வாறு படித்து புரிந்து கொள்வது என்பதை விளக்குகிறது.
+# ____________________________________________________________________
+## பகுதி 1 - நோக்கம்:
+இந்தப்பகுதி ஆழக்கற்றல் துறை காட்சி, உரையாடல், கலை, இசை மற்றும் கணினி விளையாட்டு போன்ற துறைகளில் எவ்வாறெல்லாம் பயன்படுத்தப்படுகிறது என்பதை விளக்கிறது.
 
-### Chapter 2 - Language
-This chapter builds atop our deep learning foundations  via the vision analogy and examines how deep learning is incorporated into human language applications, with a particular emphasis on how it can automatically learn features that represents the meaning of words.
+### அத்தியாயம் 1 - காட்சி
+அன்றாட வாழ்கையில் நாம் காணும் ஒவ்வொரு காட்சிகளையும், காட்சிகளின் பண்புகளையும், காட்சிகளை எவ்வாறெல்லாம் ஆழக்கற்றல் துறை எப்படி பயன்படுத்துகிறது என்பதை இந்த அத்தியாயம் மேலோட்டமாக விளக்குகிறது.
 
-### Chapter 3 - Art
+### அத்தியாயம் 2 - மொழி
+ஒத்த தன்மையுடைய பொருட்களையும், காட்சிகளையும் நாம் பேசும் மொழி, எவ்வாறு இணைக்கிறது என்பதையும், ஆழக்கற்றல் சொற்களை அவற்றின் பொருளுடன் புரிந்து கொண்டு அந்த சொற்களின் சிறப்பு அம்சங்களை எவ்வாறு தானாக பயிற்றுவித்துக்கொள்கிறது என்பதை இந்த அத்தியாயம் விளக்குகிறது.
+
+
+### அத்தியாயம் 3 - கலை
+இந்த அத்தியாயம் ஆழக்கற்றல் மூலம் மனிதனின் கற்பனை சக்தியை உள்வாங்கி, புதிய கலை படைப்புகளை உருவாக்கும் முறையை அறிமுகப்படுத்துகிறது. generative adversarial network(GANs) - இரண்டு நியூரல் நெட்வொர்க்குகளின் போட்டியும் அதனால் உருவாக்கப்பட்ட அற்புதமான காட்சிகளையும் விளக்குகிறது. It also establishes the connection between the latent spaces associated with GANs and the word-vector spaces associated with language models.
+
+### அத்தியாயம் 4 - இசை
 This chapter, introduce some of the concepts that enable deep learning models to create art and intrinsically human, creative activity. It covers the high-level concepts behind GANs, and  the novel visual works they can produce. It also establishes the connection between the latent spaces associated with GANs and the word-vector spaces associated with language models.
 
-### Chapter 4 - Music
-This chapter, introduce some of the concepts that enable deep learning models to create art and intrinsically human, creative activity. It covers the high-level concepts behind GANs, and  the novel visual works they can produce. It also establishes the connection between the latent spaces associated with GANs and the word-vector spaces associated with language models.
 
-### Chapter 5 - Games
-This chapter explains deep reinforcement learning that has produced some of the most surprising artificial-neural-network advances, involving AI breakthroughs of recent years in a very human activity i.e. playing games and interacting with the environment around them. It explains what reinforcement learning (RL) & how RL’s fusion with deep learning has enabled machines to meet or surpass human-level performance on a diverse range of complex challenges in games, and physical-manipulation tasks.
+### அத்தியாயம் 5 - கணினி விளையாட்டு
+இந்த அத்தியாயம், மீள் கற்றல் முறை மூலம், மனிதனின் ஒவ்வொரு செயல்யாடுகளையும் முழுமையாக கவனித்து, உள்வாங்கி மனிதனை விட மிகுந்த திறனுடனும் அறிவுடனும் செயல்படுவதில்  செயற்கை நுண்ணறிவு துறை அடைந்துள்ள வளர்சிகளை விளக்குகிறது.
+
 # ____________________________________________________________________
 
 ## Part 2: DL - Code & Theory:  
