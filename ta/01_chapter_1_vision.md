@@ -2,7 +2,7 @@
 
 ## Biological Vision 
 
-###பார்வை பரிணாமம்
+### பார்வை பரிணாமம்
 
 பூமியில் உள்ள உயிர்களின் பரிணாம வளர்சியில் ஒளியின் பங்கு இன்றியமையாதது. ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன்  கேம்பிரியன் காலகட்டத்தில், உலகத்தில் பல்லுயிர் பெருக்கத்தால் உயிர்களின் உருவாக்கத்தில் ஒரு எழுற்சி ஏற்பட்டது.  ஆண்ட்ரு பார்கரின் “பார்வை எழுச்சிக் கோட்பாடு”   நண்டு இணத்தைச் சேர்ந்த ட்ரைலோபைட் எனப்படும் ஒரு கடல் வாழ் உயிரியின் ஒளியுணரி திறனில் ஆரம்பித்தது என்கிறது. மேலும் பூமியின் வளி மண்டலத்தில் ஏற்பட்ட மாற்றங்களே இந்த ஒளி உணர் திறனுக்கு காரணம் என்கிறார்.
 Vision has been a crucial factor in the evolution of life on earth. About five hundred fifty million years ago, in the prehistoric Cambrian period, the number of species on the planet began to surge! Our understanding today of the causal factors behind this surge in biodiversity are still evolving but current research (Andrew Parker’s “Light Switch Theory” in particular)  indicates that a critical factor was the development of light detectors in animals like the trilobite (a small marine animal related to modern crabs). This development of light detectors was in turn triggered by visibility changes in the earth’s atmosphere.
