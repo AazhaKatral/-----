@@ -6,7 +6,7 @@
 
 பூமியில் உள்ள உயிர்களின் பரிணாம வளர்சியில் ஒளியின் பங்கு இன்றியமையாதது. சுமார் ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன்  கேம்பிரியன் காலகட்டத்தில்,  பல்லுயிர் பெருக்கத்தால் பூமியில், உயிர்களின் உருவாக்கத்தில் ஒரு எழுற்சி ஏற்பட்டது.  ஆண்ட்ரு பார்கரின் "பார்வை எழுச்சிக் கோட்பாடு" நண்டு இனத்தைச் சேர்ந்த ட்ரைலோபைட் எனப்படும் ஒரு கடல் வாழ் உயிரியின் ஒளியுணர் திறனில் ஆரம்பித்தது என்கிறது. மேலும் பூமியின் வளி மண்டலத்தில் ஏற்பட்ட மாற்றங்களே இந்த ஒளி உணர் திறனுக்கு காரணமாக அமைந்தது என்கிறது அவரின் கோட்பாடு.
 
-ஒளியின் இருப்பே இந்த பூ உலகில் உயிர்கள் வாழும் திறனையும் சத்தியையும் தருகிறது. விலங்குகள் இரை தேடவும், நண்பனை, எதிரியை, தொலை தூரத்தில் இருந்து வரும் தடைகளை அறிந்துகொள்ளவும் அவைகளின் பார்வைத்திறனையே பயன்படுத்துகிறது..
+ஒளியின் இருப்பே இந்த உலகில் உயிர்கள் வாழும் திறனையும் சத்தியையும் தருகிறது. விலங்குகள் இரை தேடவும், நண்பனை, எதிரியை, தொலை தூரத்தில் இருந்து வரும் தடைகளை அறிந்துகொள்ளவும் அவைகளின் பார்வைத்திறனையே பயன்படுத்துகிறது..
 
 Now, commonsense tells us that, given the presence of light, a visual system (even a simple one) would enable a powerful set of survival capabilities. With vision, animals could spot food, friends, foes, and obstacles at much longer distances. This was an enormous advantage. Other senses such as smell, also enable animals to detect these as well. But the accuracy, distance and “light-speed” immediacy of vision, are unmatched! So, the fact that the trilobite could see, set off an evolutionary “arms race”; one that, according to some scientists, triggered the Cambrian explosion as the trilobite’s prey, as well as its predators, had to evolve rapidly just to survive! 
 
