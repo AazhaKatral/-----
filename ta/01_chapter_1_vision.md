@@ -6,7 +6,7 @@
 
 சுமார்  ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன் கேம்பிரியன் காலகட்டத்தில்(Cambrian period) பூமியின் வளி மண்டலத்தில்(atmosphere) சில மாற்றங்கள் ஏற்பட்டது. பூமியில் உள்ள உயிர்கள் ஒளியை உணர ஆரம்பத்தன. நண்டு இனத்தைச் சேர்ந்த ட்ரைலோபைட்(Trilobyte) எனப்படும் ஒரு கடல் வாழ் உயிரிக்கு ஒளியை உணர்ந்து கொள்ளும் திறன் இருந்தது என்கிறார்கள். பல்லுயிர் பெருக்கத்தால்(biodiversity) பூமியில், உயிர்களின் உருவாக்கத்தில் ஒரு எழுற்சி ஏற்பட்டது.  இதனை "பார்வை எழுச்சிக் கோட்பாடு" என்றார் ஆண்ரூ பார்கர் என்ற விஞ்ஞானி.
 
-பொதுவாக பார்வைத்திறன் நுகரும் திறனை விட வலிமையானது. உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா? எதிரியா? என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக்  கையாள ஆரம்பித்தன. 
+பார்வைத்திறன், நுகரும் திறனை விட வலிமையானது. உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா? எதிரியா? என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக் கையாள ஆரம்பித்தன. ஒளியை உயிர்கள் உணர ஆரம்பித்த பின் இரையும், இரையை வேட்டையாடும் உயினங்களும் போட்டி போட்டுக்கொண்டு அதிக எண்ணிக்கையில் உருவாகின. இதையே கேம்பிரியன் வெடிப்பு(Cambrian explosion) என்றார்கள் விஞ்ஞானிகள்,
 
 Now, commonsense tells us that, given the presence of light, a visual system (even a simple one) would enable a powerful set of survival capabilities. With vision, animals could spot food, friends, foes, and obstacles at much longer distances. This was an enormous advantage. Other senses such as smell, also enable animals to detect these as well. But the accuracy, distance and “light-speed” immediacy of vision, are unmatched! So, the fact that the trilobite could see, set off an evolutionary “arms race”; one that, according to some scientists, triggered the Cambrian explosion as the trilobite’s prey, as well as its predators, had to evolve rapidly just to survive! 
 
