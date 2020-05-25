@@ -8,9 +8,8 @@
 
 பார்வைத்திறன், நுகரும் திறனை விட வலிமையானது. உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா? எதிரியா? என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக் கையாள ஆரம்பித்தன. ஒளியை உயிர்கள் உணர ஆரம்பித்த பின் இரையும், இரையை வேட்டையாடும் உயினங்களும் போட்டி போட்டுக்கொண்டு அதிக எண்ணிக்கையில் உருவாகின. இதையே கேம்பிரியன் வெடிப்பு(Cambrian explosion) என்றார்கள் விஞ்ஞானிகள்,
 
-
-Here is a graph of time against genera (categories of related species). Notice in the graph that, the number of species on our planet began to increase rapidly 550 million years ago i.e. during the prehistoric Cambrian period. The horizontal axis represents the period in millions of years and ranges from 550 million years before the current era to the present time. The vertical axis represents the genera from 0 to 5, in terms of thousands of genera. This single curve-graph succinctly shows the rise of species from the pre-historic Cambrian era until today. There is a small increase from the Cambrian era that remains constant for a while, when it attains one thousand genera. At this point, after a subtle dip, a gradual increase is noticed, reaching around 4000 genera in the present generation. 
-
+550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு(horizontal axis) காலத்தை குறிக்கிறது. அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு(vertical axis ) உயினங்களின் எண்ணிக்கையைக் குறிக்கிறது. இந்த வளைவு-வரைபடம் வரலாற்றுக்கு முந்தைய கேம்ப்ரியன் காலத்திலிருந்து இன்று வரை உயிரினங்களின் வளர்ச்சியை சுருக்கமாகக் காட்டுகிறது.  
+ 
 
 Trilobyte Fossils. The fossil on the left is from Himachal Pradesh!)
 
