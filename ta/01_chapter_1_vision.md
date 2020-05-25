@@ -17,7 +17,7 @@ Trilobyte Fossils. The fossil on the left is from Himachal Pradesh!)
 
 ட்ரைலோபைட் மற்றும் கேம்பிரியன் யுகத்தில் வாழ்ந்த பல செல் உயிர்களின் பவடிவங்கள், பூலோகத்தில் ஏற்பட்ட கேம்பிரியன் வெடிப்புக்கு சாட்சிகளாக இருந்தாலும். இந்த வெடிப்புக்கான காரணத்தை யாரும் தெளிவாக விளக்கவில்லை.
 
-அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
+அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி ஆண்ரூபார்கர் தனது "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
 
 But the recognition of the impact of light and vision on evolution and biodiversity was an idea that took its time to arrive.
   Charles Darwin, best known for his contributions to the science of
