@@ -13,6 +13,12 @@
 
 Trilobyte Fossils. The fossil on the left is from Himachal Pradesh!)
 
+சார்லஸ் டார்வின் தனது பரிணாமக் கொள்கையில்(Theoru of Evolution), விலங்குகளின் ஒளி உணர் திறனால் ஏற்றப்பட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை. அவர் தனது இயற்கை தேர்வுக் கோட்பாடில்(Theory if natural selection) ஒவ்வொரு சூழ்நிலையிலும் இயற்கை உயிர்களிடத்தில் அதனை நிலைநிறுத்திக்கொள்ளப் பல நிர்பந்தங்களை விதிக்கிறது. அந்தந்த நிலைக்குத் தன்னை தகவமைத்துக்கொள்ளும் இனம் அடுத்தகட்டத்துக்குப் பரிணமிக்கிறது என்றார். கேப்ரியன் வெடிப்பைப் புரிந்து கொள்வதில் அவருக்கு சிக்கல் இருந்தது.
+
+ட்ரைலோபைட் மற்றும் கேம்பிரியன் யுகத்தில் வாழ்ந்த பல செல் உயிர்களின் பவடிவங்கள், பூலோகத்தில் ஏற்பட்ட கேம்பிரியன் வெடிப்புக்கு சாட்சிகளாக இருந்தாலும். இந்த வெடிப்புக்கான காரணத்தை யாரும் தெளிவாக விளக்கவில்லை.
+
+அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
+
 But the recognition of the impact of light and vision on evolution and biodiversity was an idea that took its time to arrive.
   Charles Darwin, best known for his contributions to the science of
 Evolution and one of the most influential figures in human history, had a hard time comprehending how life diversity could, so suddenly, burst into evolution during the Cambrian period. After all, natural selection emphasized small gradual changes over a long period of time, not rapid bursts. Hence, in his lifetime, he could not adequately explain the Cambrian explosion from a classic evolutionary theory perspective. But fossil records clearly show that complex multi-cellular organisms existed in the Precambrian periods. Trilobites and other famous Cambrian fossils were preceded by a number of creatures that "swarmed" in the prehistoric seas. So, his basic evolutionary hypothesis was proven via scientific evidence in posterity, which is a tribute to the veracity of his hypothesis but what was not completely clear was why there was such an explosion.
