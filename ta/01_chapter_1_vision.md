@@ -12,18 +12,12 @@
  
 Trilobyte Fossils. The fossil on the left is from Himachal Pradesh!)
 
-சார்லஸ் டார்வின் தனது பரிணாமக் கொள்கையில்(Theoru of Evolution), விலங்குகளின் ஒளி உணர் திறனால் ஏற்றப்பட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை. அவர் தனது இயற்கை தேர்வுக் கோட்பாடில்(Theory if natural selection) உயிர்களின் பரிணாம வளர்சியில் இயற்கையின் பங்கு முக்கியம் என்கிறார். இயற்கை தரும் சவால்களை எதிர்கொண்டு, இயற்கைக்கு ஏற்றார் போல் தன்னை தகவமைத்துக்கொல்லும் உயிரினங்கள் மட்டுமே இந்த பூமியில் வாழ்கின்றன. மற்ற இனங்கள் உருதெரியாமல் அழிந்துவிடுகின்றன என்கிறார் அவர். கேப்ரியன் வெடிப்பைப் புரிந்து கொள்வதில் அவருக்கு சிக்கல் இருந்தது.
-
+சார்லஸ் டார்வின் தனது பரிணாமக் கொள்கையில்(Theoru of Evolution), விலங்குகளின் ஒளி உணர் திறனால் ஏற்றப்பட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை. அவர் தனது இயற்கை தேர்வுக் கோட்பாடில்(Theory if natural selection) உயிர்களின் பரிணாம வளர்சியில் இயற்கையின் பங்கு முக்கியம் என்கிறார். இயற்கை தரும் சவால்களை எதிர்கொண்டு, இயற்கைக்கு ஏற்றார் போல் தன்னை தகவமைத்துக்கொல்லும் உயிரினங்கள் மட்டுமே இந்த பூமியில் வாழ்கின்றன. மற்ற இனங்கள் உருதெரியாமல் அழிந்துவிடுகின்றன என்கிறார் அவர். கேப்ரியன் வெடிப்பைப் புரிந்து கொள்வதில் அவருக்கு சிக்கல் இருந்தது. அவரால் பல்லுயிர் பெருக்கத்துக்கான காரணத்தை பரிணாமக் கொண்கையோடு தொடர்பு படுத்த முடியவில்லை.
 
 ட்ரைலோபைட் மற்றும் கேம்பிரியன் யுகத்தில் வாழ்ந்த பல செல் உயிர்களின் பவடிவங்கள், பூலோகத்தில் ஏற்பட்ட கேம்பிரியன் வெடிப்புக்கு சாட்சிகளாக இருந்தாலும். இந்த வெடிப்புக்கான காரணத்தை யாரும் தெளிவாக விளக்கவில்லை.
 
 அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி ஆண்ரூபார்கர் தனது "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
 
-But the recognition of the impact of light and vision on evolution and biodiversity was an idea that took its time to arrive.
-  Charles Darwin, best known for his contributions to the science of
-Evolution and one of the most influential figures in human history, had a hard time comprehending how life diversity could, so suddenly, burst into evolution during the Cambrian period. After all, natural selection emphasized small gradual changes over a long period of time, not rapid bursts. Hence, in his lifetime, he could not adequately explain the Cambrian explosion from a classic evolutionary theory perspective. But fossil records clearly show that complex multi-cellular organisms existed in the Precambrian periods. Trilobites and other famous Cambrian fossils were preceded by a number of creatures that "swarmed" in the prehistoric seas. So, his basic evolutionary hypothesis was proven via scientific evidence in posterity, which is a tribute to the veracity of his hypothesis but what was not completely clear was why there was such an explosion.
- 
-  Andrew Parker, a Zoologist from Oxford, in his Light Switch Theory states that vision was the key to unlocking the Cambrian explosion puzzle. He does a good job of bridging the gap in our understanding of the Cambrian period in his book “In the Blink of an Eye: How Vision Sparked the Big Bang of Evolution”. Here’s how he addresses Darwin’s issues with the implausible pace of biodiversity during the Cambrian period:
 
 “Revolutions in evolutionary theory have occurred since Darwin’s time. We know now that the history of life on Earth has been dominated by long periods of gradual evolution— ‘micro-evolution’ —or even a complete standstill. But these periods ended abruptly and were replaced by ‘macro-evolution’—short but prolific bursts in evolutionary activity, hence supporting a so-called ‘punctuated equilibrium’ model for evolutionary history. Darwin and others of his time cannot be blamed for overlooking macro-evolution because its discovery was a consequence of twentieth-century fossil finds and the development of modern biochemical techniques.”
 
