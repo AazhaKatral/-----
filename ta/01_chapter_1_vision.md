@@ -14,12 +14,12 @@
 <br/>
 <table>
   <tr>
-    <td>Trilobyte fossile from Himachal Pradesh</td>
     <td>ட்ரைலோபைட்</td>
+    <td>Trilobyte fossile from Himachal Pradesh</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
     <td valign="top"><img src="../img/en_US/Trilobyte.png"></td>
+    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
   </tr>
 </table>
 <br/>
