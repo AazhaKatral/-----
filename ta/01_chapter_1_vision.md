@@ -1,6 +1,6 @@
 ## பகுதி 1: ஆழக்கற்றல் தோற்றம்
 
-## ஒளியை உணர்தல்
+## ஒளியும் உயிர்களின் தோற்றமும்
 
 ### பார்வை பரிணாமம்
 
@@ -18,8 +18,9 @@ Trilobyte Fossils. The fossil on the left is from Himachal Pradesh!
 
 அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி ஆண்ரூபார்கர் தனது "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
 
+*"டார்வின் காலத்திலிருந்து பரிணாமக் கோட்பாட்டில் புரட்சிகள் நிகழ்ந்தன. பூமியின் உள்ள உயிர்களின் வாழ்க்கை வரலாறு நீண்ட கால படிப்படியான பரிணாம வளர்ச்சியால் உருவானதை ‘மைக்ரோ பரிணாமம்’ என்கிறார்கள். அதே போல் குறுகிய காலத்தில் உயிர்களின் உருவாக்கத்தில் ஏற்பட்ட வெடிப்பை ‘மேக்ரோ- பரிணாமம் எனலாம். டார்வின் மற்றும் அவர் சமகால விஞ்ஞானிள் இந்த மேக்ரோ பரிணாமத்தை கவனிக்கவில்லை என்று சொல்ல முடியாது. டார்வின் இருபதாம் நூற்றாண்டில்  அவருக்கு கிடைத்த படிமங்கள், தரவுகள் மற்றும் அப்போதைய உயிர்வேதியல் நுட்பங்களின் அடிப்படையில் அவரது பரிணாமக்கோட்பாட்டை  நிறுவினார்"*
 
-“Revolutions in evolutionary theory have occurred since Darwin’s time. We know now that the history of life on Earth has been dominated by long periods of gradual evolution— ‘micro-evolution’ —or even a complete standstill. But these periods ended abruptly and were replaced by ‘macro-evolution’—short but prolific bursts in evolutionary activity, hence supporting a so-called ‘punctuated equilibrium’ model for evolutionary history. Darwin and others of his time cannot be blamed for overlooking macro-evolution because its discovery was a consequence of twentieth-century fossil finds and the development of modern biochemical techniques.”
+கேம்ரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் 
 
 In fact, his perspectives on the Cambrian period itself is a bit different from other scientists:
 ” [….] the Cambrian period is not properly described simply by its great life diversity. This flippant approach to the most dramatic event in the history of life is misleading in the extreme, and, has led to a number of false explanations for the cause of the event. […] The Cambrian explosion is the evolutionary episode in which under remorseless selection pressure all animal phyla attained complex external forms. In other words, it is the event during which animal phyla changed from all looking the same to looking different. […] By external parts of animals, I refer to the materials, the colors and the shapes of the outer layers. These have a closer association with the environment than do with internal organizations. […] Think of the protective spines, swimming paddles, burrowing shapes, grasping arms, eyes and colors.”
@@ -33,20 +34,22 @@ Andrew Parker’s Light Switch Theory is controversial among biologists, but it 
    Talking about the dominance of vision over olfaction, roughly, 2/3 (60%+) of the brain is "involved" in vision, the breakdown being 20% dedicated to "visual-only" function, the other 40%  doing vision+touch, or vision+motor, or vision+attention, or vision+spatial navigation, or vision+meaning, etc. There’s a smooth gradation from areas fully specialized to one thing to areas involved in many things. Smell, physically is underneath and not visible!
 
 
-
-
 Today, we know for a fact that in modern mammals, a large proportion of the cerebral cortex (the outer gray matter of the brain) is involved in visual perception. In the half-billion years since trilobites developed rudimentary vision, the complexity of the sense has increased considerably. So has our understanding of it. But just as with other important ideas, our understanding of the process of perception by our brain has been a long and slow dawning through time.
 
 Evolution of our perspectives on vision through Ancient and Medieval periods
 
-  Galen (c.130-200) was a physician, anatomist, writer and philosopher who became the most famous physician in the Roman Empire (he was the personal physician of the emperor Marcus Aurelius). His theories dominated European medicine for 1,500 years. Galen, who studied in Alexandria (where bodily dissection was allowed), introduced the concept of visual disparity i.e. the two eyes see the same object differently, in the 10th chapter of his work entitled On the Use of the Parts of the Human Body. The story goes that he had intended to omit that chapter as it would contain too many difficult mathematical formulae, but then had a dream which persuaded him to keep it in. From Galen we all derive our use of many anatomical terms for the parts of the eye such as the retina or the crystalline lens.
+## பண்டைய மற்றும் இடைக்கால பார்வை பற்றிய சிந்தனைகள்
 
-  Avicenna (Ibn Sina) (980-1037), a visionary Persian polymath was the first to overturn the, then common, idea that the eye emitted rays that bounced off an object being viewed, thus triggering perception. Avicenna determined that actually, light rays go into the eye and that the lens of the eye played in a role in the visual process. William Osler, one of the founding fathers of modern medicine and a founder of Johns Hopkins University described Avicenna's book as the most important work ever...it was used in medical schools beyond the late 14th century!
-'it is not the ray that leaves the eye and meets the object that gives rise to vision, but rather the form of perceived object passes into the eye and is transmuted by the transparent body, that is, the lens'.
+கேலன் (சி .130-200) ரோமானியப் பேரரசில் மிகவும் பிரபலமான மருத்துவர், உடற்கூறியல் நிபுணர், எழுத்தாளர் மற்றும் தத்துவஞானி,பேரரசர் மார்கஸ் ஆரேலியஸின் தனிப்பட்ட மருத்துவராக பணியாற்றியவர். ஐரோப்பிய மருத்துவத்தில் அவரது கோட்பாடுகள் இன்றும் ஆதிக்கம் செலுத்துகிறது. அவர் மனிதனின் இரு கண்களும் ஒரே பொருளை வித்தியாசமாக பார்க்கின்றன என்றார். இன்று நாம் பயன்படுத்தும்  ரெட்டினா(விழித்திரை), லென்ஸ் போன்ற வார்த்தைகள் கேலன் உலகுக்கு அளித்த கொடை எனலாம்.
 
- In 1503 Gregor Reisch, a well-known humanist, published Margarita philosophica, a brief encyclopedia of knowledge, intended as a textbook for young students. In it we find mention of Reisch's cell theory which (though anatomically inaccurate) recognized that a mechanistic process was at work inside our brain. Reisch suggested that images passed through a hierarchical chain of cells inside the brain. You can see this chain in the diagram to the left. The eyes input information to the first set of cells, the “sensus commensis”. This information was then relayed to the second and third set of cells for progressively higher thought processing. For its time, this was extremely sophisticated thinking about the process of vision and cognition.
+ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளி பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
+அவிசென்னா (இப்னு சினா) (980-1037), என்ற பல்துறை வல்லுநர்பொ ருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார். 
 
-Da Vinci and the Early Modern Period
+1503 ஆம் ஆண்டில் மனிதநேயவாதியான கிரிகோர் ரீச் மார்கரிட்டா ஃபிலிசிகா என்ற  நூலை வெளியிட்டார். பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகத்தில், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது. மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார்.
+இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
+
+
+## Da Vinci and the Early Modern Period#
 
  Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
 
