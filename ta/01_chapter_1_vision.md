@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>ட்ரைலோபைட்</td>
-    <td>Trilobyte fossile from Himachal Pradesh</td>
+    <td>Trilobyte fossil from Himachal Pradesh</td>
   </tr>
   <tr>
     <td valign="top"><img src="../img/en_US/Trilobyte.png"></td>
