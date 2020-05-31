@@ -39,9 +39,7 @@
 
 ஆண்ட்ரூ பார்க்கரின் “பார்வை மாற்றுக் கோட்பாடு” ஒரு சர்சைக்குரிய விவாதப் பொருளாக இருந்தது. ,  கண்களையும் பார்வையையும்  இயற்கை தேர்வுக்கு (Theory of Natural selection)  ஒரு உந்து சக்தியாக இருந்ததால். ஆண்ட்ரூ பார்கரின் ஆய்வுகளை பல விஞ்ஞானிகள் மேற்கோள் காட்டினர். மனித முலத்தின் பரிணாம வளர்ச்சியில் பார்வை மிகவும் முக்கியத்துவம் வாய்ந்தது. நமது மூளையின் பெரும்பகுதி காட்சிகளின் செயலாக்கத்தில் ஈடுபட்டுள்ளது. செயற்கை நுண்ணறிவு(Artificial intellegence) துறைக்கு மூளையின் இந்த செயல்பாட்டை இயந்திரம் மூலம் அனுகுவதால், பார்வையும், ஒளியும் ஆழக்கற்றலுக்கு எவ்வளவு முக்கியம் என்பது தெளிவாகிறது.
 
-
-   Talking about the dominance of vision over olfaction, roughly, 2/3 (60%+) of the brain is "involved" in vision, the breakdown being 20% dedicated to "visual-only" function, the other 40%  doing vision+touch, or vision+motor, or vision+attention, or vision+spatial navigation, or vision+meaning, etc. There’s a smooth gradation from areas fully specialized to one thing to areas involved in many things. Smell, physically is underneath and not visible!
-
+*மூளையில் மூன்றில் இரண்டு பகுதி (60% +) பார்வை மற்றும் அதனோடு தொடர்புடைய பணிகளைச் செய்கிறது. அதில் இருபது சதவிகிதம் பார்வை தொடர்புடைய செயல்பாடுகளை மற்றும் நிர்வகிக்கிறது. மற்ற நாற்பது சதவிகிரம் பார்வையோடு தொடர்புடைய தொடுதல், கவனித்தல், நகர்தல், நுகர்தல் போன்ற பணிகளை நிர்வகிக்கிறது.*
 
 Today, we know for a fact that in modern mammals, a large proportion of the cerebral cortex (the outer gray matter of the brain) is involved in visual perception. In the half-billion years since trilobites developed rudimentary vision, the complexity of the sense has increased considerably. So has our understanding of it. But just as with other important ideas, our understanding of the process of perception by our brain has been a long and slow dawning through time.
 
