@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td>Trilobyte fossile from Himachal Pradesh</td>
-    <td>Trilobyte</td>
+    <td>ட்ரைலோபைட்</td>
   </tr>
   <tr>
     <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
