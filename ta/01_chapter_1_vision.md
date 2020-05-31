@@ -37,7 +37,7 @@ Today, we know for a fact that in modern mammals, a large proportion of the cere
 
 Evolution of our perspectives on vision through Ancient and Medieval periods
 
-#பண்டைய மற்றும் இடைக்கால காலங்களில் பார்வை பற்றிய சிந்தனைகள்#
+## பண்டைய மற்றும் இடைக்கால காலங்களில் பார்வை பற்றிய சிந்தனைகள்
 
 கேலன் (சி .130-200) ரோமானியப் பேரரசில் மிகவும் பிரபலமான மருத்துவர், உடற்கூறியல் நிபுணர், எழுத்தாளர் மற்றும் தத்துவஞானி, பேரரசர் அவர் பேரரசர் மார்கஸ் ஆரேலியஸின் தனிப்பட்ட மருத்துவராக பணியாற்றியவர்.ஐரோப்பிய மருத்துவத்தில் அவரது கோட்பாடுகள் இன்றும் ஆதிக்கம் செலுத்துகிறது. அவர் மனிதனின் இரு கண்களும் ஒரே பொருளை வித்தியாசமாக பார்க்கின்றன என்றார். இன்று நாம் பயன்படுத்து  ரெட்டினா(விழித்திரை), லென்ஸ் போன்ற வார்த்தைகள் கேலன் உலகுக்கு அளித்த கொடை எனலாம்.
 
@@ -48,7 +48,7 @@ Evolution of our perspectives on vision through Ancient and Medieval periods
 இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
 
 
-#Da Vinci and the Early Modern Period#
+## Da Vinci and the Early Modern Period#
 
  Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
 
