@@ -2,7 +2,7 @@
 
 | S.No. | English (en_US) | Tamil (ta_IN) | Telugu (te_IN) | Kannada (kn_IN)
 | --- | --- | --- | --- | ---
-| 1 | atmosphere | | |
+| 1 | atmosphere |வளிம்ண்ம்ண்ட்ம்ண்டம்ண்டல்ம்ண்டம்ண்
 | 2 | Biodiversity | | |
 | 3 | Cambrian Biodiversity | பல்லுயிர் பெருக்கம் | |
 | 4 | Cambrian explosion | | |
