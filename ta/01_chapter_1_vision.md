@@ -17,8 +17,8 @@
     <td>Trilobyte</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td valign="top"><img src="../img/Trilobyte.png"></td>
+    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td valign="top"><img src="../img/en_US/Trilobyte.png"></td>
   </tr>
 </table>
 
