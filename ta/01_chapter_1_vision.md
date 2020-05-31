@@ -46,7 +46,9 @@ Evolution of our perspectives on vision through Ancient and Medieval periods
 ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளி பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
 அவிசென்னா (இப்னு சினா) (980-1037), என்ற பல்துறை வல்லுநர்பொ ருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார். 
 
- In 1503 Gregor Reisch, a well-known humanist, published Margarita philosophica, a brief encyclopedia of knowledge, intended as a textbook for young students. In it we find mention of Reisch's cell theory which (though anatomically inaccurate) recognized that a mechanistic process was at work inside our brain. Reisch suggested that images passed through a hierarchical chain of cells inside the brain. You can see this chain in the diagram to the left. The eyes input information to the first set of cells, the “sensus commensis”. This information was then relayed to the second and third set of cells for progressively higher thought processing. For its time, this was extremely sophisticated thinking about the process of vision and cognition.
+1503 ஆம் ஆண்டில் மனிதநேயவாதியான கிரிகோர் ரீச் மார்கரிட்டா ஃபிலிசிகா என்ற  நூலை வெளியிட்டார். பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகத்தில், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது. மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார்.
+இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
+
 
 Da Vinci and the Early Modern Period
 
