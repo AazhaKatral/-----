@@ -76,13 +76,7 @@
 
 <br/>
 
-Today, we know for a fact that in modern mammals, a large proportion of the cerebral cortex (the outer gray matter of the brain) is involved in visual perception. In the half-billion years since trilobites developed rudimentary vision, the complexity of the sense has increased considerably. So has our understanding of it. But just as with other important ideas, our understanding of the process of perception by our brain has been a long and slow dawning through time.
-
-<br/>
-
-Evolution of our perspectives on vision through Ancient and Medieval periods
-
-<br/>
+நவீன பாலூட்டிகளில்  முன்மூளையில் உள்ள கோள வடிவிலான, சாம்பல் நிற பொருளாலான, இரண்டு பெரிய அறைகள் உள்ளன. இவை  புலன்களில் இருந்து வரும் சமிக்கைகளை பெருமூளைப் புறணிக்கு அனுப்புகின்றன. அரை பில்லியன் ஆண்டுகளுக்கு முன் ட்ரைலோபைட்களுக்கு கிடைத்த ஒளி உணர்திறன், சிக்கலான பல மாற்றங்களைப் பெற்றுள்ளது. 
 
 ## பண்டைய மற்றும் இடைக்கால பார்வை பற்றிய சிந்தனைகள்
 
