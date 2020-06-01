@@ -267,3 +267,5 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
+
+<br/>
