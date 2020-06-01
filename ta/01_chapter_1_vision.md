@@ -16,7 +16,7 @@
 <br/>
 <table>
   <tr>
-    <td>ட்ரைலோபைட்</td>
+    <td align="center">ட்ரைலோபைட்</td>
     <td>Trilobyte fossil from Himachal Pradesh</td>
     <td>Meme</td>
   </tr>
