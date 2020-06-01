@@ -160,6 +160,7 @@ DaVinci’s Inverted retinal image
 The Seventeenth Century
 
 <br/>
+ரீனே டிகார்ட்ஸ் என்ற நவீன தத்துவ விஞ்ஞானி இயற்கணித(algebra) சமன்பாடுகளின் (equations) மூலம் வடிவியல்(geometry) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  “மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா” என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
 
 Rene Descartes is considered the first modern philosopher and is famous for having made an important connection between geometry and algebra, which allowed for the solving of geometrical problems by way of algebraic equations. He is also famous for having promoted a new conception of matter, which allowed for the accounting of (bio)physical phenomena by way of mechanical explanations and most famously for having written a relatively short work, Meditationes de Prima Philosophia (Meditations On First Philosophy), published in 1641, in which he provides a philosophical groundwork for the possibility of the sciences.
 
