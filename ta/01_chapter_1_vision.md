@@ -89,7 +89,7 @@
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/HumanBrain_2.png"></td>
+    <td valign="center"><img src="../img/en_US/HumanBrain_2.jpg"></td>
   </tr>
 </table>
 <br/>
