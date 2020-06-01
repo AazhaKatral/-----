@@ -294,6 +294,7 @@ So, what then is the role of nurture for the normal development of the brain? Wa
 The researchers decided to address this question by studying the impact of raising kittens and monkeys from birth with one eye covered and the other left open. They found that the animal behaved as if it was blind in the previously covered eye, just like in a child after cataract surgery. The cause of this loss of vision turned out to be that neurons in the visual cortex no longer responded to stimulation of the deprived eye but only vigorously to the normal eye. The elegant patterns of ocular dominance the researchers had seen in healthy animals disappeared, with the one dominant eye taking over almost the entire visual cortex. 
 
 <br/>
+<br/>
 
 Over a series of experiments, they demonstrated that the brain could literally wire or rewire itself in response to external input (or lack thereof)—a phenomenon known as neuroplasticity—and that this ability seemed to fade with age. Almost immediately, this realization of the importance of early stimulation to the wiring of the visual cortex translated from the lab to the clinic, where doctors were working to treat children born with cataracts and other eye impairments. With Hubel and Wiesel's new understanding, doctors began treating children as early as possible, with much better outcomes. Truly, Hubel and Wiesel were pioneers of the visual system, exploring the physiology behind visual perception in animals, thereby teaching us much about how our own minds work. 
 
