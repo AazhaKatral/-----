@@ -39,8 +39,8 @@
     <td>Number of species (Time vs Genera)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="top"><img src="../img/en_US/Picture1.png"></td>
+    <td align="center" valign="top"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td align="center" valign="top"><img src="../img/en_US/Picture1.png"></td>
   </tr>
 </table>
 <br/>
