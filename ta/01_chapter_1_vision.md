@@ -22,8 +22,8 @@
   </tr>
   <tr>
     <td align="center" valign="center"><img src="../img/en_US/Trilobyte.png"></td>
-    <td align="center" valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td align="center" valign="top"><img src="../img/en_US/Vivek_meme.png"></td>    
+    <td align="center" valign="center"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td align="center" valign="center"><img src="../img/en_US/Vivek_meme.png"></td>    
   </tr>
 </table>
 <br/>
