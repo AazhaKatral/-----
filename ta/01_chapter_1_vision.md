@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="center">ட்ரைலோபைட்</td>
-    <td align="center">Trilobyte fossil from Himachal Pradesh</td>
+    <td align="center">இமாச்சல பிரதேசத்தில் கண்டெடுத்த ட்ரைலோபைட் படிமம்</td>
     <td align="center">Meme</td>
   </tr>
   <tr>
