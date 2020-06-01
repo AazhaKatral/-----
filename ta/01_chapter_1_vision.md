@@ -135,14 +135,14 @@
 அந்த காலகட்டத்தில் இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
 
 <br/>
-## Da Vinci and the Early Modern Period#
+## ## டா வின்சியும் நவீன கால துவக்கமும் ##
 
-Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
+லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர். ஓவியம், உடற்கூறு,  வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர். அவர் கண்களே அறிவின் திறவுகோள் என்றார். லியோனார்டோவைப் பொறுத்தவரை, பார்வை என்பது மனிதனின் மிக உயர்ந்த உணர்வாக இருந்தது. பார்வை மட்டுமே உண்மைகளை உடனடியாகவும், சரியாகவும், உறுதியாகவும் தெரிவிக்கிறது என்றார்.  ஒரு பொருளை **“எப்படிப் பார்ப்பது என்று தெரிந்துகொள்வது”** (saper vedere) அவரது ஆய்வுகளின் முக்கிய கருப்பொருளாக இருந்தது.
 
-<br/>
+<br> 
 
-Leonardo studied vision extensively and was the first to propose the theory that the inverted retinal image was actually re-inverted inside the brain. Below, you can see two of Leonardo's drawings, dating from 1490 and 1506 respectively. The third image demonstrates his theory of the re-inversion of an inverted retinal image.
- 
+1508 ஆம் ஆண்டு டாவின்சி தனது Codex of the eye, Manual D, யில் கண்ணின் தன்மையைப் பற்றி சொல்லும்போது, ஒரு கிண்ணத்தில் தண்ணீரை நிரப்பி அதனுள் நமது தலையை அமிழ்த்தியோ அல்லது நீர் நிரம்பிய ஒரு கண்ணாடி அரைக்கோளத்ததை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டோ விழிவெண்படலத்தின் ஒளிவிலகல் சக்தியை (Refractive power) நேரடியாக மாற்றி அமைக்கலாம் என்று தனது ஒரு ஓவியத்தில் காட்டியிருக்கிறார்.
+
 <br/>
 
 
