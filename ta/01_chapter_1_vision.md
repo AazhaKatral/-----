@@ -35,12 +35,12 @@
 <br/>
 <table>
   <tr>
-    <td>வாத்தியார்</td>
-    <td>Number of species (Time vs Genera)</td>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Number of species (Time vs Genera)</td>
   </tr>
   <tr>
-    <td align="center" valign="top"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td align="center" valign="top"><img src="../img/en_US/Picture1.png"></td>
+    <td valign="top"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td valign="top"><img src="../img/en_US/Picture1.png"></td>
   </tr>
 </table>
 <br/>
