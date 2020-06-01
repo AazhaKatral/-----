@@ -4,143 +4,211 @@
 
 ### பார்வை பரிணாமம்
 
-சுமார்  ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன் கேம்பிரியன் யுக (Cambrian period) பூமியின் வளி மண்டலத்தில் (atmosphere) சில மாற்றங்கள் ஏற்பட்டது. பூமியில் உள்ள உயிர்கள் ஒளியை உணர ஆரம்பித்தன.  நண்டு இனத்தைச் சேர்ந்த ட்ரைலோபைட்(Trilobyte) எனப்படும் ஒரு கடல் வாழ் உயிரிக்கு ஒளியை உணர்ந்து கொள்ளும் திறன் வந்தது என்கிறார்கள்.  பல்லுயிர் பெருக்கத்தால் (Biodiversity) பூமியில், உயிர்களின் உருவாக்கத்தில் ஒரு எழுச்சி ஏற்பட்டது.  இதனை "பார்வை எழுச்சிக் கோட்பாடு" (Light Switch Theory) என்றார் ஆண்ரூ பார்கர் (Andrew Parker) என்ற விஞ்ஞானி.
+சுமார்  ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன் **கேம்பிரியன் யுக** (**Cambrian period**) பூமியின் வளி மண்டலத்தில் (atmosphere) சில மாற்றங்கள் ஏற்பட்டது. பூமியில் உள்ள உயிர்கள் ஒளியை உணர ஆரம்பித்தன.  நண்டு இனத்தைச் சேர்ந்த **ட்ரைலோபைட்** (**Trilobyte**) எனப்படும் ஒரு கடல் வாழ் உயிரிக்கு ஒளியை உணர்ந்து கொள்ளும் திறன் வந்தது என்கிறார்கள்.  பல்லுயிர் பெருக்கத்தால் (Biodiversity) பூமியில், உயிர்களின் உருவாக்கத்தில் ஒரு எழுச்சி ஏற்பட்டது.  இதனை **பார்வை எழுச்சிக் கோட்பாடு** (**Light Switch Theory**) என்றார் **ஆண்ரூ பார்கர்** (**Andrew Parker**) என்ற விஞ்ஞானி.
 
-பார்வைத்திறன், நுகரும் திறனை விட வலிமையானது.  உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா, எதிரியா என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக் கையாள ஆரம்பித்தன.  ஒளியை உயிர்கள் உணர ஆரம்பித்த பின் இரையும், இரையை வேட்டையாடும் உயிரினங்களும் போட்டி போட்டுக்கொண்டு அதிக எண்ணிக்கையில் உருவாகின.  இதையே "கேம்பிரியன் வெடிப்பு" (Cambrian explosion) என்றார்கள் விஞ்ஞானிகள்.
+<br/>
 
-550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு (horizontal axis) காலத்தை குறிக்கிறது.  அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு (vertical axis) உயிரினங்களின் எண்ணிக்கையைக் குறிக்கிறது. இந்த வரைபடம் வரலாற்றுக்கு முந்தைய கேம்ரியன் காலத்திலிருந்து இன்று வரை உயிரினங்களின் வளர்ச்சியை சுருக்கமாகக் காட்டுகிறது.  
+பார்வைத்திறன், நுகரும் திறனை விட வலிமையானது.  உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா, எதிரியா என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக் கையாள ஆரம்பித்தன.  ஒளியை உயிர்கள் உணர ஆரம்பித்த பின் இரையும், இரையை வேட்டையாடும் உயிரினங்களும் போட்டி போட்டுக்கொண்டு அதிக எண்ணிக்கையில் உருவாகின.  இதையே **கேம்பிரியன் வெடிப்பு** (**Cambrian explosion**) என்றார்கள் விஞ்ஞானிகள்.
+
+<br/>
+
+*550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு (horizontal axis) காலத்தை குறிக்கிறது.  அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு (vertical axis) உயிரினங்களின் எண்ணிக்கையைக் குறிக்கிறது. இந்த வரைபடம் வரலாற்றுக்கு முந்தைய கேம்ரியன் காலத்திலிருந்து இன்று வரை உயிரினங்களின் வளர்ச்சியை சுருக்கமாகக் காட்டுகிறது.*
  
 
+<br/>
 <table>
   <tr>
-    <td>Trilobyte fossile from Himachal Pradesh</td>
-    <td>Trilobyte</td>
+    <td>ட்ரைலோபைட்</td>
+    <td>Trilobyte fossil from Himachal Pradesh</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
     <td valign="top"><img src="../img/en_US/Trilobyte.png"></td>
+    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
   </tr>
 </table>
+<br/>
 
 
 சார்லஸ் டார்வின் (Charles Darwin) தனது பரிணாமக் கொள்கையில் (Theory of Evolution), விலங்குகளின் ஒளி உணர் திறனால் ஏற்பட்ட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை.  அவர் தனது இயற்கை தேர்வுக் கோட்பாடில் (Theory of Natural selection) உயிர்களின் பரிணாம வளர்ச்சியில் இயற்கையின் பங்கு முக்கியம் என்கிறார்.  இயற்கை தரும் சவால்களை எதிர்கொண்டு, இயற்கைக்கு ஏற்றார் போல் தன்னை தகவமைத்துக்கொள்ளும் உயிரினங்கள் மட்டுமே இந்த பூமியில் வாழ்கின்றன. மற்ற இனங்கள் உருதெரியாமல் அழிந்துவிடுகின்றன என்கிறார் அவர். கேப்ரியன் வெடிப்பைப் புரிந்து கொள்வதில் அவருக்கு சிக்கல் இருந்தது. அவரால் பல்லுயிர் பெருக்கத்துக்கான காரணத்தை பரிணாமக் கொண்கையோடு தொடர்பு படுத்த முடியவில்லை.
 
+<br/>
+
 ட்ரைலோபைட் மற்றும் கேம்பிரியன் யுகத்தில் வாழ்ந்த பல செல் உயிர்களின் பவடிவங்கள், பூலோகத்தில் ஏற்பட்ட கேம்பிரியன் வெடிப்புக்கு சாட்சிகளாக இருந்தாலும். இந்த வெடிப்புக்கான காரணத்தை யாரும் தெளிவாக விளக்கவில்லை.
+
+<br/>
 
 அந்த சமயத்தில் தான் ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை சார்ந்த உயிரியல் விஞ்ஞானி ஆண்ரூபார்கர் தனது "பார்வை மாற்றுக் கொள்கை" மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார். 
 
+<br/>
+
 *"டார்வின் காலத்திலிருந்து பரிணாமக் கோட்பாட்டில் புரட்சிகள் நிகழ்ந்தன. பூமியின் உள்ள உயிர்களின் வாழ்க்கை வரலாறு நீண்ட கால படிப்படியான பரிணாம வளர்ச்சியால் உருவானதை ‘மைக்ரோ பரிணாமம்’ என்கிறார்கள். அதே போல் குறுகிய காலத்தில் உயிர்களின் உருவாக்கத்தில் ஏற்பட்ட வெடிப்பை ‘மேக்ரோ- பரிணாமம் எனலாம். டார்வின் மற்றும் அவர் சமகால விஞ்ஞானிள் இந்த மேக்ரோ பரிணாமத்தை கவனிக்கவில்லை என்று சொல்ல முடியாது. டார்வின் இருபதாம் நூற்றாண்டில்  அவருக்கு கிடைத்த படிமங்கள், தரவுகள் மற்றும் அப்போதைய உயிர்வேதியல் நுட்பங்களின் அடிப்படையில் அவரது பரிணாமக்கோட்பாட்டை  நிறுவினார்"*
 
-கேம்ரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் 
+<br/>
 
-In fact, his perspectives on the Cambrian period itself is a bit different from other scientists:
-” [….] the Cambrian period is not properly described simply by its great life diversity. This flippant approach to the most dramatic event in the history of life is misleading in the extreme, and, has led to a number of false explanations for the cause of the event. […] The Cambrian explosion is the evolutionary episode in which under remorseless selection pressure all animal phyla attained complex external forms. In other words, it is the event during which animal phyla changed from all looking the same to looking different. […] By external parts of animals, I refer to the materials, the colors and the shapes of the outer layers. These have a closer association with the environment than do with internal organizations. […] Think of the protective spines, swimming paddles, burrowing shapes, grasping arms, eyes and colors.”
+*கேம்ரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் உலகில் உள்ள பல உயிர்களின் நிறம், வடிவம், வெளிப்புற அடுக்களில் மாற்றங்கள் நிகழ்ந்தன.  உள் அமைப்பை விட சுற்றுப்புற சூழலுடன் தொடர்புள்ள முது கெலும்பு, நீச்சல் துடுப்புகள், கண்கள், வண்ணங்களை புரிந்துகொள்ளுதல் போன்றவற்றில் அதிக மாற்றங்கள் நிகழ்தது.*
 
+<br/>
 
-Parker’s Light Switch Theory postulates that once the atmospheric changes that occurred around the Cambrian increased the amount of light reaching the Earth, the species survival benefits of vision became clear. Therefore, eyes emerged rapidly, and nervous systems developed as part of the co-evolution of the eye and the brain. Vision accelerated predation as, with vision, predators were able to see, pursue, and capture prey better.  Hard parts assisting predation such as teeth and jaws emerged to support predation. In evolutionary prey response, protective hard parts such as shells evolved to protect smaller animals from the predators. Newer predatory behavior and countermeasures evolve. For example, with the arrival of vision for predators, prey developed camouflage. And the process continued. All animals had to adapt to the presence of eyes not only in terms of their [the animals’] color, but also their shape and behavior i.e. all factors affecting an animal’s appearance on a retina. Species that didn't adapt died out (predator and prey alike).
+கேம்ப்ரியன் காலத்தில் ஏற்பட்ட வளிமண்டல மாற்றத்தால் பூமி அதிக ஒளியைப் பெற்றது. இதனால் உயிர்களின் கண்கள் மற்றும் பார்வையைத் தூண்டும் நரம்பபுகள், நரம்பு மண்டலங்கள், மற்றும் நரம்பு மண்டலங்களைத் தூண்டும் மூளை என அனைத்து உறுப்புகளிலும் மாற்றங்கள் நிகழ்தது. இதன் விளைவாக வேட்டையாடும் விலங்குகளால் தங்கள் இரையை துள்ளியமாக காணவும், பிடிக்கவும் முடிந்தது. பின்னர் வேட்டைக்கு ஏற்றார் போல் பற்கள் மற்றும் தாடைகள் போன்ற கடினமான பாகங்கள் தோன்றின. அதே போல் பெரிய விலங்குகளுக்கு இரையாகும் சிறிய விலங்குகள் தங்களை பாதுகாத்துக்கொள்ள அவைகளின் மேல் கவசங்கள் உருவாகின. சில உயிரிகள் தங்கள் நிறங்களை தாங்களே மாற்றிக்கொள்ளும் தன்மையைப் பெற்றன. கண்களை, விழித்திரையை மாற்றி அமைத்துக் கொள்ள முடியாத உயிரங்கள் எல்லாம் மாண்டு போயின.
 
-Andrew Parker’s Light Switch Theory is controversial among biologists, but it is cited with approval by many scientists not only because it possibly explains the reason for the Cambrian explosion, but also sets apart the eyes and vision as one of the driving forces of natural selection and evolution. That is a radical but plausible viewpoint. Parker’s theory also suggests an evolutionary reason for the overwhelming supremacy of the human vision over the other senses, and in general of the gradual natural predominance of vision over olfaction in primates. The importance of vision in humanity’s evolutionary journey and the fact that so much of our brain is involved in visual processing, is also the reason why AI has and continues to be obsessed with Machine Vision!
+<br/>
 
+ஆண்ட்ரூ பார்க்கரின் “பார்வை மாற்றுக் கோட்பாடு” ஒரு சர்சைக்குரிய விவாதப் பொருளாக இருந்தது. ,  கண்களையும் பார்வையையும்  இயற்கை தேர்வுக்கு (Theory of Natural selection)  ஒரு உந்து சக்தியாக இருந்ததால். ஆண்ட்ரூ பார்கரின் ஆய்வுகளை பல விஞ்ஞானிகள் மேற்கோள் காட்டினர். மனித முலத்தின் பரிணாம வளர்ச்சியில் பார்வை மிகவும் முக்கியத்துவம் வாய்ந்தது. நமது மூளையின் பெரும்பகுதி காட்சிகளின் செயலாக்கத்தில் ஈடுபட்டுள்ளது. செயற்கை நுண்ணறிவு(Artificial intellegence) துறைக்கு மூளையின் இந்த செயல்பாட்டை இயந்திரம் மூலம் அனுகுவதால், பார்வையும், ஒளியும் ஆழக்கற்றலுக்கு எவ்வளவு முக்கியம் என்பது தெளிவாகிறது.
 
-   Talking about the dominance of vision over olfaction, roughly, 2/3 (60%+) of the brain is "involved" in vision, the breakdown being 20% dedicated to "visual-only" function, the other 40%  doing vision+touch, or vision+motor, or vision+attention, or vision+spatial navigation, or vision+meaning, etc. There’s a smooth gradation from areas fully specialized to one thing to areas involved in many things. Smell, physically is underneath and not visible!
+<br/>
 
+*மூளையில் மூன்றில் இரண்டு பகுதி (60% +) பார்வை மற்றும் அதனோடு தொடர்புடைய பணிகளைச் செய்கிறது. அதில் இருபது சதவிகிதம் பார்வை தொடர்புடைய செயல்பாடுகளை மற்றும் நிர்வகிக்கிறது. மற்ற நாற்பது சதவிகிரம் பார்வையோடு தொடர்புடைய தொடுதல், கவனித்தல், நகர்தல், நுகர்தல் போன்ற பணிகளை நிர்வகிக்கிறது.*
+
+<br/>
 
 Today, we know for a fact that in modern mammals, a large proportion of the cerebral cortex (the outer gray matter of the brain) is involved in visual perception. In the half-billion years since trilobites developed rudimentary vision, the complexity of the sense has increased considerably. So has our understanding of it. But just as with other important ideas, our understanding of the process of perception by our brain has been a long and slow dawning through time.
 
+<br/>
+
 Evolution of our perspectives on vision through Ancient and Medieval periods
+
+<br/>
 
 ## பண்டைய மற்றும் இடைக்கால பார்வை பற்றிய சிந்தனைகள்
 
 கேலன் (சி .130-200) ரோமானியப் பேரரசில் மிகவும் பிரபலமான மருத்துவர், உடற்கூறியல் நிபுணர், எழுத்தாளர் மற்றும் தத்துவஞானி,பேரரசர் மார்கஸ் ஆரேலியஸின் தனிப்பட்ட மருத்துவராக பணியாற்றியவர். ஐரோப்பிய மருத்துவத்தில் அவரது கோட்பாடுகள் இன்றும் ஆதிக்கம் செலுத்துகிறது. அவர் மனிதனின் இரு கண்களும் ஒரே பொருளை வித்தியாசமாக பார்க்கின்றன என்றார். இன்று நாம் பயன்படுத்தும்  ரெட்டினா(விழித்திரை), லென்ஸ் போன்ற வார்த்தைகள் கேலன் உலகுக்கு அளித்த கொடை எனலாம்.
 
+<br/>
+
 ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளி பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
 அவிசென்னா (இப்னு சினா) (980-1037), என்ற பல்துறை வல்லுநர்பொ ருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார். 
+
+<br/>
 
 1503 ஆம் ஆண்டில் மனிதநேயவாதியான கிரிகோர் ரீச் மார்கரிட்டா ஃபிலிசிகா என்ற  நூலை வெளியிட்டார். பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகத்தில், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது. மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார்.
 இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
 
+<br/>
 
 ## Da Vinci and the Early Modern Period#
 
- Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
+Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
+
+<br/>
 
 Leonardo studied vision extensively and was the first to propose the theory that the inverted retinal image was actually re-inverted inside the brain. Below, you can see two of Leonardo's drawings, dating from 1490 and 1506 respectively. The third image demonstrates his theory of the re-inversion of an inverted retinal image.
  
- 
+<br/>
+
+
 1490 Drawing by Da Vinci
 
-
+<br/>
  
 1506 Drawing by DaVinci
 
+<br/>
 
- 
 DaVinci’s Inverted retinal image
  
+<br/>
+
 The Seventeenth Century
 
-  Rene Descartes is considered the first modern philosopher and is famous for having made an important connection between geometry and algebra, which allowed for the solving of geometrical problems by way of algebraic equations. He is also famous for having promoted a new conception of matter, which allowed for the accounting of (bio)physical phenomena by way of mechanical explanations and most famously for having written a relatively short work, Meditationes de Prima Philosophia (Meditations On First Philosophy), published in 1641, in which he provides a philosophical groundwork for the possibility of the sciences.
-     As part of a series of experiments on the mechanics of biological vision, Descartes stripped the sclera and choroid off the eye of an ox and performed a projection experiment onto a piece of paper and proved that the retina initially actually sees an inverted image and hence concluded it indeed was the brain that  did the second inversion. The diagram on the left, from Descartes' La Dioptrique (1637), shows the Descartes observing the retinal image.
+<br/>
 
- Later, in his Traité de l'Homme (finished by 1648 but not published until 1664, after his death) Descartes thought of the brain as a machine with fibers running from the eyes like optical cables. These formed a rudimentary visual pathway. The inner soul within the brain then viewed the image transferred to it along the pathway by vibrational forces. You can see the two separate vibrating paths in his drawing on the left which shows the eyes looking at an apple and the image travelling to an artist's representation of the soul.
+Rene Descartes is considered the first modern philosopher and is famous for having made an important connection between geometry and algebra, which allowed for the solving of geometrical problems by way of algebraic equations. He is also famous for having promoted a new conception of matter, which allowed for the accounting of (bio)physical phenomena by way of mechanical explanations and most famously for having written a relatively short work, Meditationes de Prima Philosophia (Meditations On First Philosophy), published in 1641, in which he provides a philosophical groundwork for the possibility of the sciences.
+
+<br/>
+
+As part of a series of experiments on the mechanics of biological vision, Descartes stripped the sclera and choroid off the eye of an ox and performed a projection experiment onto a piece of paper and proved that the retina initially actually sees an inverted image and hence concluded it indeed was the brain that  did the second inversion. The diagram on the left, from Descartes' La Dioptrique (1637), shows the Descartes observing the retinal image.
+
+<br/>
+
+Later, in his Traité de l'Homme (finished by 1648 but not published until 1664, after his death) Descartes thought of the brain as a machine with fibers running from the eyes like optical cables. These formed a rudimentary visual pathway. The inner soul within the brain then viewed the image transferred to it along the pathway by vibrational forces. You can see the two separate vibrating paths in his drawing on the left which shows the eyes looking at an apple and the image travelling to an artist's representation of the soul.
  
-  That same year of 1664 an anatomist, often referred to as the 'Father of Neurology', Thomas Willis (1621-1675), investigated the brains of different animals. The illustrations of his findings, published as the Cerebri Anatome, were drawn by Sir Christopher Wren the architect.
- Willis rejected the idea that the actual substance of the brain (or some fluid within it) performed its functions. He concluded that the performance of the human visual function was closely related to an extensive cerebral cortex and that was why man had better memory than many animals. Infact, the ophthalmic branch of the fifth nerve is called Willis' Nerve. 
+<br/>
+
+That same year of 1664 an anatomist, often referred to as the 'Father of Neurology', Thomas Willis (1621-1675), investigated the brains of different animals. The illustrations of his findings, published as the Cerebri Anatome, were drawn by Sir Christopher Wren the architect.
+
+<br/>
+
+Willis rejected the idea that the actual substance of the brain (or some fluid within it) performed its functions. He concluded that the performance of the human visual function was closely related to an extensive cerebral cortex and that was why man had better memory than many animals. Infact, the ophthalmic branch of the fifth nerve is called Willis' Nerve. 
+
+<br/>
 
 In 1682 William Briggs (1650-1704) developed the work of Willis when he described optic pathways more thoroughly and hinted at the idea that the retinal nerve fibres from the two eyes may cross over at some point behind the eye. (Newton's Opticks, already written but not yet published, would confirm this in 1705). Briggs recognized that fusion occurred in the optic tract, not in the “soul”.
- Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
- Diagram of the visual pathway according to Isaac Newton, produced in 1682 but not publicized at the time
 
- 
+<br/>
 
+Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
 
+<br/>
+
+Diagram of the visual pathway according to Isaac Newton, produced in 1682 but not publicized at the time
+
+<br/>
 
 The Eighteenth and Nineteenth Centuries
 
+<br/>
+
 In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
 
+<br/>
   
-   
-
 The Twentieth Century
 
-  Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
-  Here are his recordings from the sensory nerves of a cat's toe (1929).
- 
+<br/>
+
+Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
+
+<br/>
+
+Here are his recordings from the sensory nerves of a cat's toe (1929).
+
+<br/>
  
 Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
 
+<br/>
+
 Enter Hubel and Wiesel  
+
+<br/>
 
 Then, in the late 1950s, physiologists David Hubel and Torsten Wiesel (Figure 1.3) began carrying out research on how visual information is processed in the mammalian cerebral cortex (reference 3). Eventually this resulted in major progress in our understanding of the brain, significant advances in the treatment of childhood cataracts, and informing current research to enable computers to process images more like the human mind. In 1981, they were awarded a Nobel Prize in Physiology or Medicine for their groundbreaking work. (reference 4) 
 
-
-  
+<br/>
 
 Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
 
 
+<br/>
+
 Hubel and Wiesel conducted their research by showing images to anesthetized cats while simultaneously recording the activity of individual neurons from the primary visual cortex, the first part of the cerebral cortex to receive visual input from the eyes. 
 
 
-   Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2). 
+<br/>
+
+Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2). 
+
+<br/>
 
 In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! 
 
+<br/>
+
 The two researchers began their research with what was known i.e. light stimulates light-sensing receptor cells in the retina of the eye, and different receptor cells respond to stimuli in different parts of the retina's visual field. 
 
+<br/>
+
 But Hubel and Wiesel were studying nerve cells, or neurons, in higher-functioning areas of the brain which had not previously studied. They found these cells frustratingly unresponsive to even simple stimuli—small spots of light or a black dot on a clear glass slide projected onto a screen. Then, as the cats watched, one of the researchers accidentally moved the glass slide a little too far, bringing its faint edge into view. Suddenly those same neurons began firing like mad causing celebrations! 
-
  
-
+<br/>
 
 As they were adjusting their equipment, a single line moved across the screen at a particular angle—and that caused one cat's neuron to fire. The scientists then proceeded to study that single neuron for nine consecutive hours.  Over the course of the next several months, Hubel and Wiesel made the first crucial steps forward in our understanding of visual processing. They found that particular neurons in the visual cortexes of cats and monkeys—the areas in their brains responsible for processing visual information—did not respond to simple points of light, but rather to lines, and in particular, lines and contours with specific orientations. Some neurons responded to horizontal lines, others to vertical, and still others to orientations in between. In addition, they found neurons responding to signals from both eyes, but usually one or the other would dominate.
 
+<br/>
 
  A simple cell in the primary visual cortex of a cat fires at different rates, depending on the orientation of a line shown to the cat. The orientation of the line is provided in the left-hand column, while the right-hand column shows the firing (electrical activity) in the cell over time (one second). A vertical line (in the fifth row from the top) causes the most electrical activity for this particular simple cell. Lines slightly off vertical (in the intermediate rows) cause less activity for the cell, while lines approaching horizontal (in the topmost and bottommost rows) cause little to no activity.
 
- 
-
+<br/>
    
 This figure shows how, via many hierarchically organized layers of neurons feeding information into increasingly higher-order neurons, gradually more complex visual stimuli can be represented by the brain! Here, you can see: 
 1.	The eyes are focused on an image of a mouse’s head
@@ -155,20 +223,35 @@ This figure shows how, via many hierarchically organized layers of neurons feedi
 1.	Hubel, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurons in the cat’s striate cortex. The Journal of Physiology, 148, 574– 91. 4. The 1981 Nobel Prize in Physiology or Medicine, shared with American neurobiologist Roger Sperry. 
 
 
+<br/>
 
 Over subsequent years, Hubel and Wiesel refined their understanding, mapping the visual centers of their feline and primate subjects with increasing precision. They found the visual cortex consisted of narrow columns of cells organized by eye preference and response to orientation, which they termed "ocular dominance columns" and "orientation columns." Combined these columns of cells formed an elegantly organized functional map of neurons that could process the complex input arriving from both of the animal's eyes. 
 
+<br/>
+
 Their inspiring work on cats’ visual cortex ultimately led to their winning the 1981 Nobel Prize in physiology or medicine, which they shared with CalTech's Roger Sperry. The Nobel committee singled out their research for solving "one of the most well-guarded secrets of the brain: the way by which its cells decode the message which the brain receives from the eye."
+
+<br/>
 
 Interestingly, soon after moving from Johns Hopkins to Harvard, with their newfound understanding of the brain's organizational structure in hand, Hubel and Wiesel sought to address a perennial question in biology namely, nature or nurture? To answer that question, they decided to tackle this problem from a vision perspective. Hubel and Wiesel began by studying the brains of newborn animals with no visual experience. Interestingly, they found that their feline and primate subjects were born with that elegant functional map already in place in their visual cortices. They found neurons that would respond only to oriented stimuli and that responded to stimulation of both eyes. They concluded that nature provides the neural connections necessary for these two basic response properties.
 
+<br/>
+
 So, what then is the role of nurture for the normal development of the brain? Was vision fixed at birth? It was well known, from medical clinics, that children born with cataracts suffer from severe visual deficits even after their opaque lens is removed a few years after birth. If vision was prewired at birth, with the physical blockage gone, why would this be the case? After all, Hubel and Wiesel had shown that the necessary neural connections should be present at birth.
+
+<br/>
 
 The researchers decided to address this question by studying the impact of raising kittens and monkeys from birth with one eye covered and the other left open. They found that the animal behaved as if it was blind in the previously covered eye, just like in a child after cataract surgery. The cause of this loss of vision turned out to be that neurons in the visual cortex no longer responded to stimulation of the deprived eye but only vigorously to the normal eye. The elegant patterns of ocular dominance the researchers had seen in healthy animals disappeared, with the one dominant eye taking over almost the entire visual cortex. 
 
+<br/>
+
 Over a series of experiments, they demonstrated that the brain could literally wire or rewire itself in response to external input (or lack thereof)—a phenomenon known as neuroplasticity—and that this ability seemed to fade with age. Almost immediately, this realization of the importance of early stimulation to the wiring of the visual cortex translated from the lab to the clinic, where doctors were working to treat children born with cataracts and other eye impairments. With Hubel and Wiesel's new understanding, doctors began treating children as early as possible, with much better outcomes. Truly, Hubel and Wiesel were pioneers of the visual system, exploring the physiology behind visual perception in animals, thereby teaching us much about how our own minds work. 
 
+<br/>
+
 This is critical for today's computing technology. For some tasks, like computing and factoring large numbers, silicon has our "wetware" beat handily, but for the complex tasks like visual processing, machines are only beginning to catch up to the human brain.  This is no small matter. Teaching computers how our minds work is big business. The "machine vision" market is projected to be tens of billions of dollars. Hubel and Wiesel's work is extremely relevant to this burgeoning field. From a slip of the hand while cats watched images on a screen, have come better treatments for childhood vision disorders and teaching computers how to process images—a powerful example of how science can advance society in the most unexpected ways.
+
+<br/>
 
   Here are some interesting points about our cerebral cortex: 
 -	First, it is one of the more recent evolutionary developments of the brain, contributing to the complexity of mammal behavior relative to the behavior of older classes of animals like reptiles and amphibians. 
@@ -181,13 +264,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 
 5. Especially functional MRI, which provides insight into which regions of the cerebral cortex are notably active or inactive when the brain is engaged in a particular activity. 
 
-       
+<br/>
 
- The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-
-
-
-
-
-
+The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
