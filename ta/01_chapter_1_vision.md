@@ -17,13 +17,13 @@
 <table>
   <tr>
     <td align="center">ட்ரைலோபைட்</td>
-    <td>Trilobyte fossil from Himachal Pradesh</td>
-    <td>Meme</td>
+    <td align="center">Trilobyte fossil from Himachal Pradesh</td>
+    <td align="center">Meme</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/en_US/Trilobyte.png"></td>
-    <td valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td valign="top"><img src="../img/en_US/Vivek_meme.png"></td>    
+    <td align="center" valign="top"><img src="../img/en_US/Trilobyte.png"></td>
+    <td align="center" valign="top"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td align="center" valign="top"><img src="../img/en_US/Vivek_meme.png"></td>    
   </tr>
 </table>
 <br/>
