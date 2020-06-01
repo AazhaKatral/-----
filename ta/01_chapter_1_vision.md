@@ -21,9 +21,9 @@
     <td align="center">Meme</td>
   </tr>
   <tr>
-    <td align="center" valign="center"><img src="../img/en_US/Trilobyte.png"></td>
-    <td align="center" valign="center"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td align="center" valign="center"><img src="../img/en_US/Vivek_meme.png"></td>    
+    <td valign="center"><img src="../img/en_US/Trilobyte.png"></td>
+    <td valign="center"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td valign="center"><img src="../img/en_US/Vivek_meme.png"></td>    
   </tr>
 </table>
 <br/>
@@ -39,8 +39,8 @@
     <td align="center">Number of species (Time vs Genera)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="top"><img src="../img/en_US/Picture1.png"></td>
+    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture1.png"></td>
   </tr>
 </table>
 <br/>
