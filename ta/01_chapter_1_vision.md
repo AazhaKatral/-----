@@ -161,10 +161,10 @@ DaVinci’s Inverted retinal image
 
 <br/>
 <br/>
-அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில் உண்மையில் ஒரு தலைகீழ் படத்தைக் காண்கிறது என்பதை நிரூபித்தார். மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
+அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில்  ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார். மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
 
 <br/>
-
+<br/>
 Later, in his Traité de l'Homme (finished by 1648 but not published until 1664, after his death) Descartes thought of the brain as a machine with fibers running from the eyes like optical cables. These formed a rudimentary visual pathway. The inner soul within the brain then viewed the image transferred to it along the pathway by vibrational forces. You can see the two separate vibrating paths in his drawing on the left which shows the eyes looking at an apple and the image travelling to an artist's representation of the soul.
  
 <br/>
