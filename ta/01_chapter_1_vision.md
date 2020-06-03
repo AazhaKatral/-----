@@ -165,12 +165,12 @@ DaVinci’s Inverted retinal image
 
 <br/>
 <br/>
-Later, in his Traité de l'Homme (finished by 1648 but not published until 1664, after his death) Descartes thought of the brain as a machine with fibers running from the eyes like optical cables. These formed a rudimentary visual pathway. The inner soul within the brain then viewed the image transferred to it along the pathway by vibrational forces. You can see the two separate vibrating paths in his drawing on the left which shows the eyes looking at an apple and the image travelling to an artist's representation of the soul.
- 
+டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதிமுடித்த புத்தகத்தில். மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார். இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார். மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம். ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
+
+
 <br/>
-
-That same year of 1664 an anatomist, often referred to as the 'Father of Neurology', Thomas Willis (1621-1675), investigated the brains of different animals. The illustrations of his findings, published as the Cerebri Anatome, were drawn by Sir Christopher Wren the architect.
-
+1664 ஆம் ஆண்டின் அதே ஆண்டில், 'நரம்பியலின் தந்தை' என்று அழைக்கப்படும் ஒரு உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார். அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிடப்பட்டன. அந்த புத்தகதில் உள்ள ஓவியங்கள் சர் கிறிஸ்டோபர் ரென் என்ற கட்டிடக் கலைஞரால் வரையப்பட்டது.
+ 
 <br/>
 
 Willis rejected the idea that the actual substance of the brain (or some fluid within it) performed its functions. He concluded that the performance of the human visual function was closely related to an extensive cerebral cortex and that was why man had better memory than many animals. Infact, the ophthalmic branch of the fifth nerve is called Willis' Nerve. 
