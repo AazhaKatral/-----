@@ -155,13 +155,10 @@
 1508 ஆம் ஆண்டு டாவின்சி, நீர் நிரம்பிய ஒரு கண்ணாடி அரை உருண்டையை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டால் விழிவெண்படலத்தின் ஒளிவிலகல் (Refraction) தன்மையை நேரடியாக மாற்றியமைக்க முடியும் என்று தனது ஓவியத்தில் காட்டியிருக்கிறார்.
 
 <br/>
-
-
-1490 Drawing by Da Vinci
-
-<br/>
  
-1506 Drawing by DaVinci
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Drawing_by_da_Vinci_in_1506.png"></img>
+</div>
 
 <br/>
 
