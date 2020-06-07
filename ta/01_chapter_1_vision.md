@@ -162,6 +162,12 @@
 
 <br/>
 
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/DaVinci_InvertedRetinalImage.png"></img>
+</div>
+
+<br/>
+
 DaVinci’s Inverted retinal image
  
 <br/>
