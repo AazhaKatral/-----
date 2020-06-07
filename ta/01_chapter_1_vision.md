@@ -167,27 +167,32 @@ DaVinci’s Inverted retinal image
 <br/>
 டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதிமுடித்த புத்தகத்தில். மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார். இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார். மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம். ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
 
+<br/>
+<br/>
+1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார். அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார். அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார். நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். 
 
 <br/>
-1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார். அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார். அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார். நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். மூளையின் அடித்தளத்திலிருந்து வரும் சமிஞ்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை வில்லிஸின் நரம்பு என்று அழைக்கப்படுகிறது.
+<br/>
+மூளையின் அடித்தளத்திலிருந்து வரும் சமிஞ்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை வில்லிஸின் நரம்பு என்று அழைக்கப்படுகிறது.
 
+<br/>
+<br/>
+
+வில்ஸ்ஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் வில்லியம் பிரிக்ஸ் இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார். 
 
 <br/>
 
-In 1682 William Briggs (1650-1704) developed the work of Willis when he described optic pathways more thoroughly and hinted at the idea that the retinal nerve fibres from the two eyes may cross over at some point behind the eye. (Newton's Opticks, already written but not yet published, would confirm this in 1705). Briggs recognized that fusion occurred in the optic tract, not in the “soul”.
-
-<br/>
+1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
 
 Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
 
 <br/>
-
-Diagram of the visual pathway according to Isaac Newton, produced in 1682 but not publicized at the time
+1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
 
 <br/>
 
-The Eighteenth and Nineteenth Centuries
 
+பதினெட்டு மற்றும் பத்தொன்பதான் நூற்றாண்டு
 <br/>
 
 In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
