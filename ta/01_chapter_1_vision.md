@@ -233,11 +233,6 @@ Enter Hubel and Wiesel
 <br/>
 பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் டேவிட் ஹூபெல் மற்றும் டார்ஸ்டன் வீசல் (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
 
-
-<br/>
-
-Then, in the late 1950s, physiologists David Hubel and Torsten Wiesel (Figure 1.3) began carrying out research on how visual information is processed in the mammalian cerebral cortex (reference 3). Eventually this resulted in major progress in our understanding of the brain, significant advances in the treatment of childhood cataracts, and informing current research to enable computers to process images more like the human mind. In 1981, they were awarded a Nobel Prize in Physiology or Medicine for their groundbreaking work. (reference 4) 
-
 <br/>
 
 Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
