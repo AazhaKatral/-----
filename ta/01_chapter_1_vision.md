@@ -224,7 +224,9 @@ Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of th
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
 <br/>
- 
+
+சர் சார்லஸ் வீட்ஸ்டோன் (1802-75) ஸ்டீரியோஸ்கோபிக் பார்வை பற்றி ஆராய்ச்சி செய்தார். இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை ஹோரேஸ் பார்லோ(b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார். 
+
 Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
 
 <br/>
