@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td align="center">ட்ரைலோபைட்</td>
-    <td align="center">Trilobyte fossil from Himachal Pradesh</td>
+    <td align="center">இமாச்சல பிரதேசத்தில் கண்டெடுத்த ட்ரைலோபைட் படிமம்</td>
     <td align="center">Meme</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
 </table>
 <br/>
 
-*"550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு (horizontal axis) காலத்தை குறிக்கிறது.  அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு (vertical axis) உயிரினங்களின் எண்ணிக்கையைக் குறிக்கிறது. இந்த வரைபடம் வரலாற்றுக்கு முந்தைய கேம்பிரியன் காலத்திலிருந்து இன்று வரை உயிரினங்களின் வளர்ச்சியை சுருக்கமாகக் காட்டுகிறது."*
+*"550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு (horizontal axis) காலத்தை குறிக்கிறது.  அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு (vertical axis) உயிரினங்களின் எண்ணிக்கையைக் குறிக்கிறது"*
  
 
 <br/>
@@ -114,7 +114,7 @@
 
 <br/>
 
-ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளி பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
+ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளிக்கற்றைகள் பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
 **அவிசென்னா** (**இப்னு சினா**) (980-1037), என்ற பல்துறை வல்லுநர் பொருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார்.
 
 <div style='float: center'>
@@ -123,26 +123,23 @@
 
 <br/>
 
-1503 ஆம் ஆண்டில் மனித நேயவாதியான **கிரிகோர் ரீச்** (**Gregor Reisch**) _மார்கரிட்டா ஃபிலசாபிகா_ என்ற  நூலை வெளியிட்டார்.  பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகத்தில், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது. 
+1503 ஆம் ஆண்டில் மனித நேயவாதியான **கிரிகோர் ரீச்** (**Gregor Reisch**) _மார்கரிட்டா ஃபிலசாபிகா_ என்ற  நூலை வெளியிட்டார்.  பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகம், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது என்கிறது. 
 
 <div style='float: center'>
   <img style='width: 600px' src="../img/en_US/GregorReisch.png"></img>
 </div>
 
 <br/>
+மேலும் அவர் மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார். அந்த காலகட்டத்தில் இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
 
-மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார்.
-அந்த காலகட்டத்தில் இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
+## டா வின்சியும் நவீன கால துவக்கமும் ##
 
-<br/>
-## Da Vinci and the Early Modern Period#
+லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர். ஓவியம், உடற்கூறு,  வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர். அவர் கண்களே அறிவின் திறவுகோள் என்றார். லியோனார்டோவைப் பொறுத்தவரை, பார்வை என்பது மனிதனின் மிக உயர்ந்த உணர்வாக இருந்தது. பார்வை மட்டுமே உண்மைகளை உடனடியாகவும், சரியாகவும், உறுதியாகவும் தெரிவிக்கிறது என்றார்.  ஒரு பொருளை **எப்படிப் பார்ப்பது என்று தெரிந்துகொள்வது** (saper vedere) அவரது ஆய்வுகளின் முக்கிய கருப்பொருளாக இருந்தது.
 
-Leonardo da Vinci, the great Italian polymath had a spirit of scientific inquiry and a mechanical inventiveness that were centuries ahead of their time. The unique fame that Leonardo had rests largely on his ability to pursue his unlimited desire for knowledge despite setbacks. It guided all his thinking and behavior. An artist by disposition and endowment, he considered his eyes to be his main avenue to knowledge; to Leonardo, sight was man’s highest sense because it alone conveyed the facts of experience immediately, correctly, and with certainty. Hence, every phenomenon perceived became an object of knowledge, and saper vedere (“knowing how to see”) became the great theme of his studies. 
+<br/> 
 
-<br/>
+1508 ஆம் ஆண்டு டாவின்சி, நீர் நிரம்பிய ஒரு கண்ணாடி  அரை உருண்டையை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டால் விழிவெண்படலத்தின் ஒளிவிலகல்(Refraction) தன்மையை நேரடியாக மாற்றியமைக்க முடியும் என்று தனது ஓவியத்தில்  காட்டியிருக்கிறார்.
 
-Leonardo studied vision extensively and was the first to propose the theory that the inverted retinal image was actually re-inverted inside the brain. Below, you can see two of Leonardo's drawings, dating from 1490 and 1506 respectively. The third image demonstrates his theory of the re-inversion of an inverted retinal image.
- 
 <br/>
 
 
@@ -158,59 +155,61 @@ DaVinci’s Inverted retinal image
  
 <br/>
 
-The Seventeenth Century
+## பதினேழாம் நூற்றாண்டு ##
+<br/>
+ரீனே டிகார்ட்ஸ் என்ற நவீன தத்துவ விஞ்ஞானி இயற்கணித(algebra) சமன்பாடுகளின் (equations) மூலம் வடிவியல்(geometry) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  “மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா” என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
+
+<br/>
+<br/>
+அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில்  ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார். மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
+
+<br/>
+<br/>
+டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதிமுடித்த புத்தகத்தில். மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார். இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார். மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம். ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
+
+<br/>
+<br/>
+1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார். அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார். அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார். நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். 
+
+<br/>
+<br/>
+மூளையின் அடித்தளத்திலிருந்து வரும் சமிஞ்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை வில்லிஸின் நரம்பு என்று அழைக்கப்படுகிறது.
+
+<br/>
+<br/>
+
+வில்ஸ்ஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் வில்லியம் பிரிக்ஸ் இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார். 
 
 <br/>
 
-Rene Descartes is considered the first modern philosopher and is famous for having made an important connection between geometry and algebra, which allowed for the solving of geometrical problems by way of algebraic equations. He is also famous for having promoted a new conception of matter, which allowed for the accounting of (bio)physical phenomena by way of mechanical explanations and most famously for having written a relatively short work, Meditationes de Prima Philosophia (Meditations On First Philosophy), published in 1641, in which he provides a philosophical groundwork for the possibility of the sciences.
-
-<br/>
-
-As part of a series of experiments on the mechanics of biological vision, Descartes stripped the sclera and choroid off the eye of an ox and performed a projection experiment onto a piece of paper and proved that the retina initially actually sees an inverted image and hence concluded it indeed was the brain that  did the second inversion. The diagram on the left, from Descartes' La Dioptrique (1637), shows the Descartes observing the retinal image.
-
-<br/>
-
-Later, in his Traité de l'Homme (finished by 1648 but not published until 1664, after his death) Descartes thought of the brain as a machine with fibers running from the eyes like optical cables. These formed a rudimentary visual pathway. The inner soul within the brain then viewed the image transferred to it along the pathway by vibrational forces. You can see the two separate vibrating paths in his drawing on the left which shows the eyes looking at an apple and the image travelling to an artist's representation of the soul.
- 
-<br/>
-
-That same year of 1664 an anatomist, often referred to as the 'Father of Neurology', Thomas Willis (1621-1675), investigated the brains of different animals. The illustrations of his findings, published as the Cerebri Anatome, were drawn by Sir Christopher Wren the architect.
-
-<br/>
-
-Willis rejected the idea that the actual substance of the brain (or some fluid within it) performed its functions. He concluded that the performance of the human visual function was closely related to an extensive cerebral cortex and that was why man had better memory than many animals. Infact, the ophthalmic branch of the fifth nerve is called Willis' Nerve. 
-
-<br/>
-
-In 1682 William Briggs (1650-1704) developed the work of Willis when he described optic pathways more thoroughly and hinted at the idea that the retinal nerve fibres from the two eyes may cross over at some point behind the eye. (Newton's Opticks, already written but not yet published, would confirm this in 1705). Briggs recognized that fusion occurred in the optic tract, not in the “soul”.
-
-<br/>
+1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
 
 Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
 
 <br/>
-
-Diagram of the visual pathway according to Isaac Newton, produced in 1682 but not publicized at the time
-
-<br/>
-
-The Eighteenth and Nineteenth Centuries
+1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
 
 <br/>
 
-In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
+
+பதினெட்டு மற்றும் பத்தொன்பதான் நூற்றாண்டு
+<br/>
+1738 இல் ஜான் டைலர் வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
+பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது. 
+**In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.**
 
 <br/>
   
 The Twentieth Century
+இருபதாம் நூற்றாண்டு
 
 <br/>
+லார்ட் எட்கர் அட்ரியன் (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை  பதிவுசெய்தார்.
 
 Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
 
 <br/>
-
-Here are his recordings from the sensory nerves of a cat's toe (1929).
+பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
 <br/>
  
@@ -293,6 +292,7 @@ So, what then is the role of nurture for the normal development of the brain? Wa
 
 The researchers decided to address this question by studying the impact of raising kittens and monkeys from birth with one eye covered and the other left open. They found that the animal behaved as if it was blind in the previously covered eye, just like in a child after cataract surgery. The cause of this loss of vision turned out to be that neurons in the visual cortex no longer responded to stimulation of the deprived eye but only vigorously to the normal eye. The elegant patterns of ocular dominance the researchers had seen in healthy animals disappeared, with the one dominant eye taking over almost the entire visual cortex. 
 
+<br/>
 <br/>
 
 Over a series of experiments, they demonstrated that the brain could literally wire or rewire itself in response to external input (or lack thereof)—a phenomenon known as neuroplasticity—and that this ability seemed to fade with age. Almost immediately, this realization of the importance of early stimulation to the wiring of the visual cortex translated from the lab to the clinic, where doctors were working to treat children born with cataracts and other eye impairments. With Hubel and Wiesel's new understanding, doctors began treating children as early as possible, with much better outcomes. Truly, Hubel and Wiesel were pioneers of the visual system, exploring the physiology behind visual perception in animals, thereby teaching us much about how our own minds work. 
