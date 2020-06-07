@@ -175,9 +175,9 @@
 <br/>
 <table>
   <tr>
-    <td align="center">ட்ரைலோபைட்</td>
-    <td align="center">இமாச்சல பிரதேசத்தில் கண்டெடுத்த ட்ரைலோபைட் படிமம்</td>
-    <td align="center">Meme</td>
+    <td align="center">1490 Drawing by da Vinci</td>
+    <td align="center">1506 Drawing by da Vinci</td>
+    <td align="center">da Vinci’s Inverted Retinal Image</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1490.png"></td>
