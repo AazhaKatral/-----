@@ -168,7 +168,24 @@
 
 <br/>
 
-DaVinci’s Inverted retinal image
+
+<br/>
+
+
+<br/>
+<table>
+  <tr>
+    <td align="center">ட்ரைலோபைட்</td>
+    <td align="center">இமாச்சல பிரதேசத்தில் கண்டெடுத்த ட்ரைலோபைட் படிமம்</td>
+    <td align="center">Meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1490.png"></td>
+    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1506.png"></td>
+    <td valign="center"><img src="../img/en_US/DaVinci_InvertedRetinalImage.png"></td>    
+  </tr>
+</table>
+<br/>
  
 <br/>
 
