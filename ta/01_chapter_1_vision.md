@@ -243,11 +243,9 @@ Enter Hubel and Wiesel
 
 Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
 
-
-<br/>
-
-Hubel and Wiesel conducted their research by showing images to anesthetized cats while simultaneously recording the activity of individual neurons from the primary visual cortex, the first part of the cerebral cortex to receive visual input from the eyes. 
-
+<br/> 
+<br/> 
+ஹூபல் மற்றும் வைசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
 
 <br/>
 
