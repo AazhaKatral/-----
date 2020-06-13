@@ -249,20 +249,17 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 <br/>
 
-Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2). 
+**Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).** 
 
 <br/>
 
-In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! 
+**In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! **
 
 <br/>
-
-The two researchers began their research with what was known i.e. light stimulates light-sensing receptor cells in the retina of the eye, and different receptor cells respond to stimuli in different parts of the retina's visual field. 
+கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
 
 <br/>
-
-But Hubel and Wiesel were studying nerve cells, or neurons, in higher-functioning areas of the brain which had not previously studied. They found these cells frustratingly unresponsive to even simple stimuli—small spots of light or a black dot on a clear glass slide projected onto a screen. Then, as the cats watched, one of the researchers accidentally moved the glass slide a little too far, bringing its faint edge into view. Suddenly those same neurons began firing like mad causing celebrations! 
- 
+ ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி படித்துக்கொண்டிருந்தனர். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை. சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச்செய்தனர். தற்செயலாக கண்ணாடிவில்லையை நகர்திய போது பூனைவ வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது. அப்போது அந்த நரம்புசெல்கள் வெறித்தனமாக செயல்பட ஆரம்பத்தின.
 <br/>
 
 As they were adjusting their equipment, a single line moved across the screen at a particular angle—and that caused one cat's neuron to fire. The scientists then proceeded to study that single neuron for nine consecutive hours.  Over the course of the next several months, Hubel and Wiesel made the first crucial steps forward in our understanding of visual processing. They found that particular neurons in the visual cortexes of cats and monkeys—the areas in their brains responsible for processing visual information—did not respond to simple points of light, but rather to lines, and in particular, lines and contours with specific orientations. Some neurons responded to horizontal lines, others to vertical, and still others to orientations in between. In addition, they found neurons responding to signals from both eyes, but usually one or the other would dominate.
