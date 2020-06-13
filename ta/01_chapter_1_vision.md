@@ -267,10 +267,12 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 <br/>
 
- A simple cell in the primary visual cortex of a cat fires at different rates, depending on the orientation of a line shown to the cat. The orientation of the line is provided in the left-hand column, while the right-hand column shows the firing (electrical activity) in the cell over time (one second). A vertical line (in the fifth row from the top) causes the most electrical activity for this particular simple cell. Lines slightly off vertical (in the intermediate rows) cause less activity for the cell, while lines approaching horizontal (in the topmost and bottommost rows) cause little to no activity.
+பூனையின் மூளையில், புறணி(cortex) இல் உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர்வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர்வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது 
+குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்ர்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
 
 <br/>
-   
+<br/>
+
 This figure shows how, via many hierarchically organized layers of neurons feeding information into increasingly higher-order neurons, gradually more complex visual stimuli can be represented by the brain! Here, you can see: 
 1.	The eyes are focused on an image of a mouse’s head
 2.	Photons of light stimulate neurons located in the retina of each eye, and this raw visual information is transmitted from the eyes to the primary visual cortex of the brain
