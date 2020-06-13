@@ -226,7 +226,7 @@
 1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture21.png"></img>
+  <img style='width: 600px' src="../img/en_US/WilliamBriggs_1682_visual_pathway_drawing.png"></img>
 </div>
 
 <br/>
@@ -234,7 +234,7 @@
 1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture22.png"></img>
+  <img style='width: 600px' src="../img/en_US/IsaacNewton_1682_visual_pathway_drawing.png"></img>
 </div>
 
 <br/>
