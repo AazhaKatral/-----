@@ -202,7 +202,7 @@
 1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Cerebri_Anatome_drawings.png"></img>
+  <img style='width: 600px' src="../img/en_US/CerebriAnatome_drawings.png"></img>
 </div>
 
 <br/>
@@ -213,122 +213,35 @@
 மூளையின் அடித்தளத்திலிருந்து வரும் சமிக்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை **வில்லிஸ் நரம்பு** என்று அழைக்கப்படுகிறது.
 
 <br/>
+<br/>
 
 வில்லிஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் **வில்லியம் பிரிக்ஸ்** (**William Briggs**) இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture20.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture21.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture22.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture23.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture24.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture29.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture30.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture31.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture32.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture33.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture35.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture36.png"></img>
+  <img style='width: 600px' src="../img/en_US/WilliamBriggs_OpticTractFusion.png"></img>
 </div>
 
 <br/>
 
 1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
 
-Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/WilliamBriggs_1682_visual_pathway_drawing.png"></img>
+</div>
 
 <br/>
+
 1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
 
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/IsaacNewton_1682_visual_pathway_drawing.png"></img>
+</div>
+
 <br/>
 
 
-பதினெட்டு மற்றும் பத்தொன்பதான் நூற்றாண்டு
+## பதினெட்டு மற்றும் பத்தொன்பதாம் நூற்றாண்டு ##
+
 <br/>
 1738 இல் ஜான் டைலர் வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
 பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது. 
@@ -467,5 +380,89 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture23.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture24.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture29.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture30.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture31.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture32.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture33.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture35.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture36.png"></img>
+</div>
 
 <br/>
