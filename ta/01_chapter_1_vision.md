@@ -272,14 +272,29 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 <br/>
 <br/>
+இந்த எண்ணிக்கை நியூரான்களின் பல படிநிலை ஒழுங்கமைக்கப்பட்ட அடுக்குகள் வழியாக தகவல்களை அதிக அளவில் ஒழுங்குபடுத்தும் நியூரான்களுக்கு எவ்வாறு அளிக்கிறது, படிப்படியாக மிகவும் சிக்கலான காட்சி தூண்டுதல்கள் மூளையால் எவ்வாறு குறிப்பிடப்படுகின்றன என்பதைக் காட்டுகிறது! இங்கே, நீங்கள் காணலாம்:
 
-This figure shows how, via many hierarchically organized layers of neurons feeding information into increasingly higher-order neurons, gradually more complex visual stimuli can be represented by the brain! Here, you can see: 
-1.	The eyes are focused on an image of a mouse’s head
-2.	Photons of light stimulate neurons located in the retina of each eye, and this raw visual information is transmitted from the eyes to the primary visual cortex of the brain
-3.	The first layer of primary visual cortex neurons to receive this input— Hubel and Wiesel’s simple cells— are specialized to detect edges (straight lines) at specific orientations. There would be many thousands of such neurons; for simplicity, we’re only showing just four in the figure
-4.	These simple neurons relay information about the presence or absence of lines at particular orientations to a subsequent layer of complex cells
-5.	The complex cells assimilate and recombine the information, enabling the representation of more complex visual stimuli such as the curvature of the mouse’s head
-6.	As information is passed through several subsequent layers, representations of visual stimuli incrementally become more complex and more abstract. 
+கீழே உள்ள படத்தில் வரிசையாக ஒழுங்காக அடுக்கப்பட்ட நீயூரான்கள் தகவலை அதிக படிநிலை கொண்ட நீயூரான்களோடு தகவல்களை பகிர்ந்து கொள்வதைக் காணலாம்.
+
+கண்கள் சுட்டியின் தலையின் படத்தை மையமாகக் கொண்டுள்ளன
+
+1. கண்கள் பூனையில் தலையில் மேல் உள்ள பிம்பத்தை பார்க்கிறது.
+
+2 ஃபோட்டான்கள் கண்ணின் விழித்திரையில் அமைந்துள்ள நியூரான்களைத் தூண்டுகிறது. இந்த காட்சி தகவல்கள் கண்களிலிருந்து மூளையின் முதன்மை காட்சி புறணிக்கு அனுப்பப்படுகிறது.
+
+3. மூளையின் புறணியின் முதல் அடுக்கில் உள்ள நீயூரான்கள் தகவலைப் பெறுகிறது.  ஹூபல் மற்றும் வீசல் குறிப்பிட்ட **எளிய செல்கள்** கோடுகளை கண்டறிகின்றன. உண்மையில் இது போல பல்ஆயிரம் நியூரான்கள் இருக்கும்; எளிமைக்காக, படத்தில் நான்கு மட்டுமே காட்டுகிறோம்
+
+4. இந்த எளிய நியூரான்கள் செங்குத்து, கிடைமட்ட மற்றும் சாய்த கோடுகளை இருப்பைப் பற்றிய தகவலை சிக்கலான(complex) நீயூரான்களுக்கு அனுப்புகிறது.
+சிக்கலான கலங்களின் அடுத்தடுத்த அடுக்குக்கு குறிப்பிட்ட நோக்குநிலைகளில் கோடுகள் இருப்பது அல்லது இல்லாதிருப்பது பற்றிய தகவல்களை வெளியிடுகின்றன
+
+5. சிக்கலான செல்கள் தகவல்களை ஒருங்கிணைத்து மீண்டும் ஒருங்கிணைக்கின்றன, இது சுட்டியின் தலையின் வளைவு போன்ற மிகவும் சிக்கலான காட்சி தூண்டுதல்களை பிரதிநிதித்துவப்படுத்துகிறது.
+
+5. சிக்கலான செல்கள் ஒருங்கிணைக்கப்படும் போது. நேர்கோடு மட்டுமில்லாமல் வளைவுகளையும், மிகச் சிக்கலான காட்சிகளைத் தூண்டுகிறது.
+
+6. பல அடுத்தடுத்த அடுக்குகள் வழியாக தகவல் அனுப்பப்படுவதால், காட்சி தூண்டுதலின் அதிகளவில் சிக்கலானதாகவும், மேலும் சுருக்கமாகவும் மாறும்.
+
+7.
+
 7.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
 
 
