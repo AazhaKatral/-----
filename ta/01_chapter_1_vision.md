@@ -69,7 +69,7 @@
 
 <br/>
 
-*கேம்பிரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் உலகில் உள்ள பல உயிர்களின் நிறம், வடிவம், வெளிப்புற அடுக்களில் மாற்றங்கள் நிகழ்ந்தன.  உள் அமைப்பை விட சுற்றுப்புற சூழலுடன் தொடர்புள்ள முதுகெலும்பு, நீச்சல் துடுப்புகள், கண்கள், வண்ணங்களை புரிந்துகொள்ளுதல் போன்றவற்றில் அதிக மாற்றங்கள் நிகழ்தது.*
+கேம்பிரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் உலகில் உள்ள பல உயிர்களின் நிறம், வடிவம், வெளிப்புற அடுக்களில் மாற்றங்கள் நிகழ்ந்தன.  உள் அமைப்பை விட சுற்றுப்புற சூழலுடன் தொடர்புள்ள முதுகெலும்பு, நீச்சல் துடுப்புகள், கண்கள், வண்ணங்களை புரிந்துகொள்ளுதல் போன்றவற்றில் அதிக மாற்றங்கள் நிகழ்தது.
 
 <br/>
 
@@ -134,42 +134,80 @@
 
 ## டா வின்சியும் நவீன கால துவக்கமும் ##
 
-லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர். ஓவியம், உடற்கூறு,  வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர். அவர் கண்களே அறிவின் திறவுகோள் என்றார். லியோனார்டோவைப் பொறுத்தவரை, பார்வை என்பது மனிதனின் மிக உயர்ந்த உணர்வாக இருந்தது. பார்வை மட்டுமே உண்மைகளை உடனடியாகவும், சரியாகவும், உறுதியாகவும் தெரிவிக்கிறது என்றார்.  ஒரு பொருளை **எப்படிப் பார்ப்பது என்று தெரிந்துகொள்வது** (saper vedere) அவரது ஆய்வுகளின் முக்கிய கருப்பொருளாக இருந்தது.
+லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர்.  ஓவியம், உடற்கூறு, வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர்.  அவர் கண்களே அறிவின் திறவுகோள் என்றார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Leonardo_da_Vinci.png"></img>
+</div>
+
+<br/>
+
+லியோனார்டோவைப் பொறுத்தவரை, பார்வை என்பது மனிதனின் மிக உயர்ந்த உணர்வாக இருந்தது. பார்வை மட்டுமே உண்மைகளை உடனடியாகவும், சரியாகவும், உறுதியாகவும் தெரிவிக்கிறது என்றார்.  ஒரு பொருளை **எப்படிப் பார்ப்பது என்று தெரிந்துகொள்வது** (saper vedere) அவரது ஆய்வுகளின் முக்கிய கருப்பொருளாக இருந்தது.
 
 <br/> 
 
-1508 ஆம் ஆண்டு டாவின்சி, நீர் நிரம்பிய ஒரு கண்ணாடி  அரை உருண்டையை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டால் விழிவெண்படலத்தின் ஒளிவிலகல்(Refraction) தன்மையை நேரடியாக மாற்றியமைக்க முடியும் என்று தனது ஓவியத்தில்  காட்டியிருக்கிறார்.
-
-<br/>
-
-
-1490 Drawing by Da Vinci
-
-<br/>
+1508 ஆம் ஆண்டு டாவின்சி, நீர் நிரம்பிய ஒரு கண்ணாடி அரை உருண்டையை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டால் விழிவெண்படலத்தின் ஒளிவிலகல் (Refraction) தன்மையை நேரடியாக மாற்றியமைக்க முடியும் என்று தனது ஓவியத்தில் காட்டியிருக்கிறார்.
  
-1506 Drawing by DaVinci
-
 <br/>
 
-DaVinci’s Inverted retinal image
+<br/>
+<table>
+  <tr>
+    <td align="center">1490 Drawing by da Vinci</td>
+    <td align="center">1506 Drawing by da Vinci</td>
+    <td align="center">da Vinci’s Inverted Retinal Image</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1490.png"></td>
+    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1506.png"></td>
+    <td valign="center"><img src="../img/en_US/DaVinci_InvertedRetinalImage.png"></td>    
+  </tr>
+</table>
+<br/>
  
 <br/>
 
 ## பதினேழாம் நூற்றாண்டு ##
-<br/>
-ரீனே டிகார்ட்ஸ் என்ற நவீன தத்துவ விஞ்ஞானி இயற்கணித(algebra) சமன்பாடுகளின் (equations) மூலம் வடிவியல்(geometry) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  “மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா” என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
+**ரீனே டிகார்ட்ஸ்** (**Rene Descartes**) என்ற நவீன தத்துவ விஞ்ஞானி **இயற்கணித** (**algebra**), **சமன்பாடுகளின்** (**equations**) மூலம் **வடிவியல்** (**geometry**) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/ReneDescartes.png"></img>
+</div>
 
 <br/>
-<br/>
-அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில்  ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார். மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
+
+அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  **மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா** (**Meditationes de Prima Philosophia**) என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Descartes_Drawing_MechanicsOfBiologicalVision.png"></img>
+</div>
 
 <br/>
-<br/>
-டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதிமுடித்த புத்தகத்தில். மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார். இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார். மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம். ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
+
+அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில் ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார்.  மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Descartes_Drawing_RetinalImage.png"></img>
+</div>
 
 <br/>
+
+டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதி முடித்த புத்தகத்தில்.  மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார்.  இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார்.  மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.  அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம்.  ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/ThomasWillis.png"></img>
+</div>
+
 <br/>
-1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார். அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார். அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார். நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். 
+1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/CerebriAnatome_drawings.png"></img>
+</div>
+
+<br/>
+
+அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார்.  நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். 
 
 <br/>
 <br/>
@@ -212,7 +250,9 @@ Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of th
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
 <br/>
- 
+
+சர் சார்லஸ் வீட்ஸ்டோன் (1802-75) ஸ்டீரியோஸ்கோபிக் பார்வை பற்றி ஆராய்ச்சி செய்தார். இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை ஹோரேஸ் பார்லோ(b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார். 
+
 Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
 
 <br/>
@@ -220,80 +260,92 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 Enter Hubel and Wiesel  
 
 <br/>
-
-Then, in the late 1950s, physiologists David Hubel and Torsten Wiesel (Figure 1.3) began carrying out research on how visual information is processed in the mammalian cerebral cortex (reference 3). Eventually this resulted in major progress in our understanding of the brain, significant advances in the treatment of childhood cataracts, and informing current research to enable computers to process images more like the human mind. In 1981, they were awarded a Nobel Prize in Physiology or Medicine for their groundbreaking work. (reference 4) 
+பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் டேவிட் ஹூபெல் மற்றும் டார்ஸ்டன் வீசல் (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
 
 <br/>
 
 Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
 
+<br/> 
+<br/> 
+ஹூபல் மற்றும் வைசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
 
 <br/>
 
-Hubel and Wiesel conducted their research by showing images to anesthetized cats while simultaneously recording the activity of individual neurons from the primary visual cortex, the first part of the cerebral cortex to receive visual input from the eyes. 
-
-
-<br/>
-
-Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2). 
+**Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).** 
 
 <br/>
 
-In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! 
+**In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! **
+
+<br/>
+கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
+
+<br/>
+ ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை. சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச்செய்தனர். தற்செயலாக கண்ணாடிவில்லையை நகர்திய போது பூனைவ வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது. அப்போது அந்த நரம்புசெல்கள் வெறித்தனமாக செயல்பட ஆரம்பத்தின.
+<br/>
+<br/>
+
+வேரொரு கோணத்தில் வில்லையை நகர்தி சரி செய்த போது ஒரு ஒற்றை கோடு ஒரு குறிப்பிட்ட கோணத்தில் திரையின் குறுக்கே நகர்ந்தது. உடனே பூனையின் மூளையில் உள்ள ஒரு நியீரான் அதிவேகமாக செயல்பட்டது.  விஞ்ஞானிகள் அந்த ஒற்றை நியூரானை தொடர்ந்து ஒன்பது மணி நேரம் ஆய்வு செய்தனர். சிலமாதங்கள் இந்த ஆய்வை தொடர்ந்தனர். பின்னர் மூளையின் காட்சிகளை எவ்வாறு புரிந்துகொள்கிறது என்பது பற்றிய ஆய்வின் முக்கியமான கட்டத்தை நெருங்கினர்.  பூனைகள் மற்றும் குரங்குகளின் காட்சி புறணிப் பகுதிகளில் உள்ள குறிப்பிட்ட நியூரான்கள்-காட்சித் தகவல்களைச் செயலாக்குவதற்குப் பொறுப்பான அவர்களின் மூளையில் உள்ள பகுதிகள்-ஒளியின் எளிய புள்ளிகளுக்கு பதிலளிக்கவில்லை ஆனால் குறுக்கு, நெடுக்கு கோடுகளுக்கு அவைகள் பதிலளித்ன. அந்த நியூரான்கள் இரு கண்களிலிருந்தும் வரும் சமிஞ்ஞைகளுக்கு பதிலளிக்கின்றன என்பதைக் கண்டறிந்தனர். 
 
 <br/>
 
-The two researchers began their research with what was known i.e. light stimulates light-sensing receptor cells in the retina of the eye, and different receptor cells respond to stimuli in different parts of the retina's visual field. 
+பூனையின் மூளையில், புறணி(cortex) இல் உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர்வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர்வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது 
+குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்ர்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
 
 <br/>
-
-But Hubel and Wiesel were studying nerve cells, or neurons, in higher-functioning areas of the brain which had not previously studied. They found these cells frustratingly unresponsive to even simple stimuli—small spots of light or a black dot on a clear glass slide projected onto a screen. Then, as the cats watched, one of the researchers accidentally moved the glass slide a little too far, bringing its faint edge into view. Suddenly those same neurons began firing like mad causing celebrations! 
- 
 <br/>
+இந்த எண்ணிக்கை நியூரான்களின் பல படிநிலை ஒழுங்கமைக்கப்பட்ட அடுக்குகள் வழியாக தகவல்களை அதிக அளவில் ஒழுங்குபடுத்தும் நியூரான்களுக்கு எவ்வாறு அளிக்கிறது, படிப்படியாக மிகவும் சிக்கலான காட்சி தூண்டுதல்கள் மூளையால் எவ்வாறு குறிப்பிடப்படுகின்றன என்பதைக் காட்டுகிறது! இங்கே, நீங்கள் காணலாம்:
 
-As they were adjusting their equipment, a single line moved across the screen at a particular angle—and that caused one cat's neuron to fire. The scientists then proceeded to study that single neuron for nine consecutive hours.  Over the course of the next several months, Hubel and Wiesel made the first crucial steps forward in our understanding of visual processing. They found that particular neurons in the visual cortexes of cats and monkeys—the areas in their brains responsible for processing visual information—did not respond to simple points of light, but rather to lines, and in particular, lines and contours with specific orientations. Some neurons responded to horizontal lines, others to vertical, and still others to orientations in between. In addition, they found neurons responding to signals from both eyes, but usually one or the other would dominate.
+கீழே உள்ள படத்தில் வரிசையாக ஒழுங்காக அடுக்கப்பட்ட நீயூரான்கள் தகவலை அதிக படிநிலை கொண்ட நீயூரான்களோடு தகவல்களை பகிர்ந்து கொள்வதைக் காணலாம்.
 
-<br/>
+கண்கள் சுட்டியின் தலையின் படத்தை மையமாகக் கொண்டுள்ளன
 
- A simple cell in the primary visual cortex of a cat fires at different rates, depending on the orientation of a line shown to the cat. The orientation of the line is provided in the left-hand column, while the right-hand column shows the firing (electrical activity) in the cell over time (one second). A vertical line (in the fifth row from the top) causes the most electrical activity for this particular simple cell. Lines slightly off vertical (in the intermediate rows) cause less activity for the cell, while lines approaching horizontal (in the topmost and bottommost rows) cause little to no activity.
+1. கண்கள் பூனையில் தலையில் மேல் உள்ள பிம்பத்தை பார்க்கிறது.
 
-<br/>
-   
-This figure shows how, via many hierarchically organized layers of neurons feeding information into increasingly higher-order neurons, gradually more complex visual stimuli can be represented by the brain! Here, you can see: 
-1.	The eyes are focused on an image of a mouse’s head
-2.	Photons of light stimulate neurons located in the retina of each eye, and this raw visual information is transmitted from the eyes to the primary visual cortex of the brain
-3.	The first layer of primary visual cortex neurons to receive this input— Hubel and Wiesel’s simple cells— are specialized to detect edges (straight lines) at specific orientations. There would be many thousands of such neurons; for simplicity, we’re only showing just four in the figure
-4.	These simple neurons relay information about the presence or absence of lines at particular orientations to a subsequent layer of complex cells
-5.	The complex cells assimilate and recombine the information, enabling the representation of more complex visual stimuli such as the curvature of the mouse’s head
-6.	As information is passed through several subsequent layers, representations of visual stimuli incrementally become more complex and more abstract. 
+2 ஃபோட்டான்கள் கண்ணின் விழித்திரையில் அமைந்துள்ள நியூரான்களைத் தூண்டுகிறது. இந்த காட்சி தகவல்கள் கண்களிலிருந்து மூளையின் முதன்மை காட்சி புறணிக்கு அனுப்பப்படுகிறது.
+
+3. மூளையின் புறணியின் முதல் அடுக்கில் உள்ள நீயூரான்கள் தகவலைப் பெறுகிறது.  ஹூபல் மற்றும் வீசல் குறிப்பிட்ட **எளிய செல்கள்** கோடுகளை கண்டறிகின்றன. உண்மையில் இது போல பல்ஆயிரம் நியூரான்கள் இருக்கும்; எளிமைக்காக, படத்தில் நான்கு மட்டுமே காட்டுகிறோம்
+
+4. இந்த எளிய நியூரான்கள் செங்குத்து, கிடைமட்ட மற்றும் சாய்த கோடுகளை இருப்பைப் பற்றிய தகவலை சிக்கலான(complex) நீயூரான்களுக்கு அனுப்புகிறது.
+சிக்கலான கலங்களின் அடுத்தடுத்த அடுக்குக்கு குறிப்பிட்ட நோக்குநிலைகளில் கோடுகள் இருப்பது அல்லது இல்லாதிருப்பது பற்றிய தகவல்களை வெளியிடுகின்றன
+
+5. சிக்கலான செல்கள் தகவல்களை ஒருங்கிணைத்து மீண்டும் ஒருங்கிணைக்கின்றன, இது சுட்டியின் தலையின் வளைவு போன்ற மிகவும் சிக்கலான காட்சி தூண்டுதல்களை பிரதிநிதித்துவப்படுத்துகிறது.
+
+5. சிக்கலான செல்கள் ஒருங்கிணைக்கப்படும் போது. நேர்கோடு மட்டுமில்லாமல் வளைவுகளையும், மிகச் சிக்கலான காட்சிகளைத் தூண்டுகிறது.
+
+6. அடுத்தடுத்த அடுக்குகள் வழியாக தகவல் அனுப்பப்படும் போது, காட்சி தூண்டுதல்கள் அதிகளவில் சிக்கலானதாகவும், மேலும் சுருக்கமாகவும் மாறும்.
+
+7. படத்தில் உள்ள கடைசி நியூரானுக்கு முன்னால் பல நீயூரான்கள் அடுக்கப்பட்டுள்ளது புள்ளிக்கோடுகள் மூலம் விளக்கப்பட்டுள்ளது. 
+
 7.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
 
+ 
 
-1.	Hubel, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurons in the cat’s striate cortex. The Journal of Physiology, 148, 574– 91. 4. The 1981 Nobel Prize in Physiology or Medicine, shared with American neurobiologist Roger Sperry. 
+1. ஹூபெல், டி. எச்., & வைசல், டி.என். (1959). பூனையின் புறனியின் அடுக்களில் உள்ள நியூரான்களின் ஸ்ட்ரைட் கார்டெக்ஸில் ஒற்றை நியூரான்களின் வரவேற்பு புலங்கள். தி ஜர்னல் ஆஃப் பிசியாலஜி, 148, 574– 91. 4. 1981 ஆம் ஆண்டு உடலியல் அல்லது மருத்துவத்துக்கான நோபல் பரிசு, அமெரிக்க நரம்பியல் ஆய்வாளர் ரோஜர் ஸ்பெரியுடன் பகிர்ந்து கொள்ளப்பட்டது.
+<br/>
+
+அடுத்தடுத்த ஆண்டுகளில், ஹூபெல் மற்றும் வீசல் ஆகியோர் தங்கள் புரிதலைச் செம்மைப்படுத்தினர், மேலும் அவர்களின் பூனை மற்றும் உயர் விலங்கினங்களின் பார்ர்கும் திறம் குறித்த வரைபடங்களை துல்லியமாக வரைந்தனர். மூளையின் புறணி கண்களின் விருப்பத்துக்கு ஏற்ப செயல்படுவதற்காக குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர்.  இந்த அடுக்கை "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) மற்றும் "அறியும் திறன் அடுக்கு" (orientation columns) அழைத்தனர்.இந்த அடுக்குகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்குகிறது என்று கண்டறிந்தனர்.
 
 
 <br/>
 
-Over subsequent years, Hubel and Wiesel refined their understanding, mapping the visual centers of their feline and primate subjects with increasing precision. They found the visual cortex consisted of narrow columns of cells organized by eye preference and response to orientation, which they termed "ocular dominance columns" and "orientation columns." Combined these columns of cells formed an elegantly organized functional map of neurons that could process the complex input arriving from both of the animal's eyes. 
+பூனையின் புறணியைக் கொண்டு அவர்கள் செய்த ஆராய்சிக்காக அவர்களுக்கு 1981 இல் உடற்கூறியல் மற்றும் மருத்துவத்துக்கான நோபல் பரிசு பெற்றனர். . நோபல் கமிட்டி "மூளையின் மிகவும் பாதுகாக்கப்பட்ட இரகசியங்களில் ஒன்று: மூளை கண்ணிலிருந்து பெறும் செய்தியை அதன் செல்கள் டிகோட் செய்யும் முறை" என்ற ஆராய்சியை மையமாகக் கொண்டு அவர்களுக்கு பரிசு வழங்கப்பட்டது.
 
 <br/>
 
-Their inspiring work on cats’ visual cortex ultimately led to their winning the 1981 Nobel Prize in physiology or medicine, which they shared with CalTech's Roger Sperry. The Nobel committee singled out their research for solving "one of the most well-guarded secrets of the brain: the way by which its cells decode the message which the brain receives from the eye."
+
+ஹூபல் மற்றும் வைசல்ஜா ன்ஸ் ஹாப்கின்ஸிலிருந்து ஹார்வர்டுக்குச் இடம் பெயர்ந்தனர். மூளையின் நிறுவன கட்டமைப்பைப் பற்றிய புதிய புரிதலுடன்,  உயிரியலில் ஒரு வற்றாத கேள்வியைத் தீர்க்க முயன்றனர், அதாவது **இயற்கை அல்லது வளர்ப்பு**? அந்த கேள்விக்கு பதிலளிக்க. காட்சி அனுபவம் இல்லாத புதிதாகப் பிறந்த பூனை மற்றும் உயர்வகை விலங்குகளின் மூளைகளைப் ஹூபல் மற்றும் வீசல் ஆராயத் தொடங்கினர். இந்த விலங்குகள் பிறக்கும் போதே சரியான செயல்பாட்டுத்திறனுடன் பிறந்திருப்பதைக் கண்டனர்.  சுவாரஸ்யமாக, அவர்களின் பூனை மற்றும் உயர்வகை விலங்குகளின் பாடங்கள் அவற்றின் நேர்த்தியான செயல்பாட்டு வரைபடத்துடன் ஏற்கனவே பிறந்திருப்பதைக் கண்டறிந்தனர். அவைகளின் நியூரான்கள் நோக்குநிலை தூண்டுதல்கள் மற்றும் இரு கண்களின் தூண்டுதலுக்கு மட்டுமே பதிலளித்தன. இந்த இரண்டு அடிப்படை பதில்களுக்கும் தேவையான நரம்பியல் இணைப்புகளை இயற்கை வழங்குகிறது என்று அவர்கள் முடிவு செய்தனர்
+
 
 <br/>
-
-Interestingly, soon after moving from Johns Hopkins to Harvard, with their newfound understanding of the brain's organizational structure in hand, Hubel and Wiesel sought to address a perennial question in biology namely, nature or nurture? To answer that question, they decided to tackle this problem from a vision perspective. Hubel and Wiesel began by studying the brains of newborn animals with no visual experience. Interestingly, they found that their feline and primate subjects were born with that elegant functional map already in place in their visual cortices. They found neurons that would respond only to oriented stimuli and that responded to stimulation of both eyes. They concluded that nature provides the neural connections necessary for these two basic response properties.
-
+மூளையின் இயல்பான வளர்சியை கூடுதல் கவனத்துடன் பேணிவளர்க்க முடியுமா? பிறக்கும் போதே பார்வைத்திறன் உறுதி செய்யப்பட்டு தான் பிறக்கிறோமா? என்ற கேள்வி மேலெழுந்தது. கண்புரை நோயால் பிறந்த குழந்தைகள் பிறந்து சில ஆண்டுகளுக்குப் பிறகு ஒளிபுகா லென்ஸ் அகற்றப்பட்ட பின்னரும் கடுமையான பார்வைக் குறைபாடுகளால் பாதிக்கப்படுகிறார்கள் என்பது அனைவரும் அறிந்ததே.பிறக்கும் போதே பார்வைத்திறன் இருந்திருந்தால், லென்ஸ் அகற்றப்பட்ட உடன்  ஏன் குறைபாடுகள் நீங்குவதில்லை போன்ற கேள்விகள் எழுந்தன. இவை எல்லாவற்றிக்கும் மேலாக ஹூபல் மற்றும் வைசல் குழந்தைகள் பிறக்கும் போது அவர்களுக்கு இருக்க வேண்டிய பார்வைத்திறனுக்கான நரம்பு இணைப்புகளை கண்டறிந்தனர்.
 <br/>
-
-So, what then is the role of nurture for the normal development of the brain? Was vision fixed at birth? It was well known, from medical clinics, that children born with cataracts suffer from severe visual deficits even after their opaque lens is removed a few years after birth. If vision was prewired at birth, with the physical blockage gone, why would this be the case? After all, Hubel and Wiesel had shown that the necessary neural connections should be present at birth.
-
-<br/>
-
-The researchers decided to address this question by studying the impact of raising kittens and monkeys from birth with one eye covered and the other left open. They found that the animal behaved as if it was blind in the previously covered eye, just like in a child after cataract surgery. The cause of this loss of vision turned out to be that neurons in the visual cortex no longer responded to stimulation of the deprived eye but only vigorously to the normal eye. The elegant patterns of ocular dominance the researchers had seen in healthy animals disappeared, with the one dominant eye taking over almost the entire visual cortex. 
-
+பிறந்த பூனை மற்றும் குரங்கின் ஒரு கண்ணை மூடி மற்றொரு கண்ணைத் திறந்து ஆராய்ச்சி செய்தனர். சில நாட்கள் கழித்து மூடிய கண்ணை திறந்த பிறகும், கண் புரை அகற்றிய குழந்தை போல மூடப்பட்ட கண் குருட்டுகண் போலவே விலங்குகள் நடந்து கொண்டது. இதற்கு காரணம் புறணியில் உள்ள காட்சி நரம்புகள் மூடப்பட்ட கண்களிலில் இருந்து வரும் சமிஞ்ஞை களுக்கு பதிலளிக்காமல் மூடாத கண்களுக்கு மட்டுமே பதிலளித்தன.  ஆரோக்கியமான விலங்குகளின் "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) செயல்படுவதைப்போல இல்லாமல் ஒரு கண் ஊணமான விலங்காகவே அவைகள் செயல்பட்டன.
 <br/>
 <br/>
+தொடர்ச்சியான பல சோதனைகளுக்கு பின் மூளை வெளியில் இருந்து வரும் தகவல்களுக்கு  நீயூரோப்ளாஸ்டி முறையில் பதிலளிக்கும், ஆனால் அதற்கு சிலகாலம் ஆகும் என்று கண்டு பிடித்தனர். எனவே கண்புரை குறைபாடு உள்ள குழந்தைகளுக்கு உடனே சிகிச்சை செய்வதின் மூலம் பார்வைத் திறனைச் சீக்கிரம் பெற முடியும் என்று கண்டறிந்தனர். 
+
 
 Over a series of experiments, they demonstrated that the brain could literally wire or rewire itself in response to external input (or lack thereof)—a phenomenon known as neuroplasticity—and that this ability seemed to fade with age. Almost immediately, this realization of the importance of early stimulation to the wiring of the visual cortex translated from the lab to the clinic, where doctors were working to treat children born with cataracts and other eye impairments. With Hubel and Wiesel's new understanding, doctors began treating children as early as possible, with much better outcomes. Truly, Hubel and Wiesel were pioneers of the visual system, exploring the physiology behind visual perception in animals, thereby teaching us much about how our own minds work. 
 
