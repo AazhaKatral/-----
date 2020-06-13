@@ -218,7 +218,7 @@
 வில்லிஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் **வில்லியம் பிரிக்ஸ்** (**William Briggs**) இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture20.png"></img>
+  <img style='width: 600px' src="../img/en_US/WilliamBriggs_OpticTractFusion.png"></img>
 </div>
 
 <br/>
