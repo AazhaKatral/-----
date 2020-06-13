@@ -291,27 +291,31 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 5. சிக்கலான செல்கள் ஒருங்கிணைக்கப்படும் போது. நேர்கோடு மட்டுமில்லாமல் வளைவுகளையும், மிகச் சிக்கலான காட்சிகளைத் தூண்டுகிறது.
 
-6. பல அடுத்தடுத்த அடுக்குகள் வழியாக தகவல் அனுப்பப்படுவதால், காட்சி தூண்டுதலின் அதிகளவில் சிக்கலானதாகவும், மேலும் சுருக்கமாகவும் மாறும்.
+6. அடுத்தடுத்த அடுக்குகள் வழியாக தகவல் அனுப்பப்படும் போது, காட்சி தூண்டுதல்கள் அதிகளவில் சிக்கலானதாகவும், மேலும் சுருக்கமாகவும் மாறும்.
 
-7.
+7. படத்தில் உள்ள கடைசி நியூரானுக்கு முன்னால் பல நீயூரான்கள் அடுக்கப்பட்டுள்ளது புள்ளிக்கோடுகள் மூலம் விளக்கப்பட்டுள்ளது. 
 
 7.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
 
+ 
 
-1.	Hubel, D. H., & Wiesel, T. N. (1959). Receptive fields of single neurons in the cat’s striate cortex. The Journal of Physiology, 148, 574– 91. 4. The 1981 Nobel Prize in Physiology or Medicine, shared with American neurobiologist Roger Sperry. 
+1. ஹூபெல், டி. எச்., & வைசல், டி.என். (1959). பூனையின் புறனியின் அடுக்களில் உள்ள நியூரான்களின் ஸ்ட்ரைட் கார்டெக்ஸில் ஒற்றை நியூரான்களின் வரவேற்பு புலங்கள். தி ஜர்னல் ஆஃப் பிசியாலஜி, 148, 574– 91. 4. 1981 ஆம் ஆண்டு உடலியல் அல்லது மருத்துவத்துக்கான நோபல் பரிசு, அமெரிக்க நரம்பியல் ஆய்வாளர் ரோஜர் ஸ்பெரியுடன் பகிர்ந்து கொள்ளப்பட்டது.
+<br/>
 
+அடுத்தடுத்த ஆண்டுகளில், ஹூபெல் மற்றும் வீசல் ஆகியோர் தங்கள் புரிதலைச் செம்மைப்படுத்தினர், மேலும் அவர்களின் பூனை மற்றும் உயர் விலங்கினங்களின் பார்ர்கும் திறம் குறித்த வரைபடங்களை துல்லியமாக வரைந்தனர். மூளையின் புறணி கண்களின் விருப்பத்துக்கு ஏற்ப செயல்படுவதற்காக குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர்.  இந்த அடுக்கை "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) மற்றும் "அறியும் திறன் அடுக்கு" (orientation columns) அழைத்தனர்.இந்த அடுக்குகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்குகிறது என்று கண்டறிந்தனர்.
+
+
+காட்சி புறணி கண் விருப்பம் மற்றும் நோக்குநிலைக்கு பதிலளிப்பதன் மூலம் ஒழுங்கமைக்கப்பட்ட கலங்களின் குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர், அவை "விழியின் ஆதிக்க அடுக்கு மற்றும் "நோக்குநிலை நெடுவரிசைகள்" என்று அழைக்கப்பட்டன. கலங்களின் இந்த நெடுவரிசைகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்கியது.
 
 <br/>
 
-Over subsequent years, Hubel and Wiesel refined their understanding, mapping the visual centers of their feline and primate subjects with increasing precision. They found the visual cortex consisted of narrow columns of cells organized by eye preference and response to orientation, which they termed "ocular dominance columns" and "orientation columns." Combined these columns of cells formed an elegantly organized functional map of neurons that could process the complex input arriving from both of the animal's eyes. 
+பூனையின் புறணியைக் கொண்டு அவர்கள் செய்த ஆராய்சிக்காக அவர்களுக்கு 1981 இல் உடற்கூறியல் மற்றும் மருத்துவத்துக்கான நோபல் பரிசு பெற்றனர். . நோபல் கமிட்டி "மூளையின் மிகவும் பாதுகாக்கப்பட்ட இரகசியங்களில் ஒன்று: மூளை கண்ணிலிருந்து பெறும் செய்தியை அதன் செல்கள் டிகோட் செய்யும் முறை" என்ற ஆராய்சியை மையமாகக் கொண்டு அவர்களுக்கு பரிசு வழங்கப்பட்டது.
 
 <br/>
 
-Their inspiring work on cats’ visual cortex ultimately led to their winning the 1981 Nobel Prize in physiology or medicine, which they shared with CalTech's Roger Sperry. The Nobel committee singled out their research for solving "one of the most well-guarded secrets of the brain: the way by which its cells decode the message which the brain receives from the eye."
 
-<br/>
+ஹூபல் மற்றும் வைசல்ஜா ன்ஸ் ஹாப்கின்ஸிலிருந்து ஹார்வர்டுக்குச் இடம் பெயர்ந்தனர். மூளையின் நிறுவன கட்டமைப்பைப் பற்றிய புதிய புரிதலுடன்,  உயிரியலில் ஒரு வற்றாத கேள்வியைத் தீர்க்க முயன்றனர், அதாவது **இயற்கை அல்லது வளர்ப்பு**? அந்த கேள்விக்கு பதிலளிக்க. காட்சி அனுபவம் இல்லாத புதிதாகப் பிறந்த பூனை மற்றும் உயர்வகை விலங்குகளின் மூளைகளைப் ஹூபல் மற்றும் வீசல் ஆராயத் தொடங்கினர். இந்த விலங்குகள் பிறக்கும் போதே சரியான செயல்பாட்டுத்திறனுடன் பிறந்திருப்பதைக் கண்டனர்.  சுவாரஸ்யமாக, அவர்களின் பூனை மற்றும் உயர்வகை விலங்குகளின் பாடங்கள் அவற்றின் நேர்த்தியான செயல்பாட்டு வரைபடத்துடன் ஏற்கனவே பிறந்திருப்பதைக் கண்டறிந்தனர். அவைகளின் நியூரான்கள் நோக்குநிலை தூண்டுதல்கள் மற்றும் இரு கண்களின் தூண்டுதலுக்கு மட்டுமே பதிலளித்தன. இந்த இரண்டு அடிப்படை பதில்களுக்கும் தேவையான நரம்பியல் இணைப்புகளை இயற்கை வழங்குகிறது என்று அவர்கள் முடிவு செய்தனர்
 
-Interestingly, soon after moving from Johns Hopkins to Harvard, with their newfound understanding of the brain's organizational structure in hand, Hubel and Wiesel sought to address a perennial question in biology namely, nature or nurture? To answer that question, they decided to tackle this problem from a vision perspective. Hubel and Wiesel began by studying the brains of newborn animals with no visual experience. Interestingly, they found that their feline and primate subjects were born with that elegant functional map already in place in their visual cortices. They found neurons that would respond only to oriented stimuli and that responded to stimulation of both eyes. They concluded that nature provides the neural connections necessary for these two basic response properties.
 
 <br/>
 
