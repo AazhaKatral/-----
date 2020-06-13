@@ -202,21 +202,119 @@
 1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/CerebriAnatome_drawings.png"></img>
+  <img style='width: 600px' src="../img/en_US/Cerebri_Anatome_drawings.png"></img>
 </div>
 
 <br/>
 
-அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார்.  நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், செரிபரல் கார்டக்ஸ் தான் காரணம் என்றார். 
+அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார்.  நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், **செரிபரல் கார்டக்ஸ்** (**Cerebral Cortex**) தான் காரணம் என்றார். 
 
 <br/>
-<br/>
-மூளையின் அடித்தளத்திலிருந்து வரும் சமிஞ்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை வில்லிஸின் நரம்பு என்று அழைக்கப்படுகிறது.
+மூளையின் அடித்தளத்திலிருந்து வரும் சமிக்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை **வில்லிஸ் நரம்பு** என்று அழைக்கப்படுகிறது.
 
 <br/>
+
+வில்லிஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் **வில்லியம் பிரிக்ஸ்** (**William Briggs**) இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture20.png"></img>
+</div>
+
 <br/>
 
-வில்ஸ்ஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் வில்லியம் பிரிக்ஸ் இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார். 
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture21.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture22.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture23.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture24.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture29.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture30.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture31.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture32.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture33.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture35.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture36.png"></img>
+</div>
 
 <br/>
 
