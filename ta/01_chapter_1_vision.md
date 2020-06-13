@@ -318,9 +318,7 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 
 <br/>
-
-So, what then is the role of nurture for the normal development of the brain? Was vision fixed at birth? It was well known, from medical clinics, that children born with cataracts suffer from severe visual deficits even after their opaque lens is removed a few years after birth. If vision was prewired at birth, with the physical blockage gone, why would this be the case? After all, Hubel and Wiesel had shown that the necessary neural connections should be present at birth.
-
+மூளையின் இயல்பான வளர்சியை கூடுதல் கவனத்துடன் பேணிவளர்க்க முடியுமா? பிறக்கும் போதே பார்வைத்திறன் உறுதி செய்யப்பட்டு தான் பிறக்கிறோமா? என்ற கேள்வி மேலெழுந்தது. கண்புரை நோயால் பிறந்த குழந்தைகள் பிறந்து சில ஆண்டுகளுக்குப் பிறகு ஒளிபுகா லென்ஸ் அகற்றப்பட்ட பின்னரும் கடுமையான பார்வைக் குறைபாடுகளால் பாதிக்கப்படுகிறார்கள் என்பது அனைவரும் அறிந்ததே.பிறக்கும் போதே பார்வைத்திறன் இருந்திருந்தால், லென்ஸ் அகற்றப்பட்ட உடன்  ஏன் குறைபாடுகள் நீங்குவதில்லை போன்ற கேள்விகள் எழுந்தன. இவை எல்லாவற்றிக்கும் மேலாக ஹூபல் மற்றும் வைசல் குழந்தைகள் பிறக்கும் போது அவர்களுக்கு இருக்க வேண்டிய பார்வைத்திறனுக்கான நரம்பு இணைப்புகளை கண்டறிந்தனர்.
 <br/>
 
 The researchers decided to address this question by studying the impact of raising kittens and monkeys from birth with one eye covered and the other left open. They found that the animal behaved as if it was blind in the previously covered eye, just like in a child after cataract surgery. The cause of this loss of vision turned out to be that neurons in the visual cortex no longer responded to stimulation of the deprived eye but only vigorously to the normal eye. The elegant patterns of ocular dominance the researchers had seen in healthy animals disappeared, with the one dominant eye taking over almost the entire visual cortex. 
