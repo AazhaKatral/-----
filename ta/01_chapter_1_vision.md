@@ -202,7 +202,7 @@
 1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/ThomasWillis.png"></img>
+  <img style='width: 600px' src="../img/en_US/CerebriAnatome_drawings.png"></img>
 </div>
 
 <br/>
