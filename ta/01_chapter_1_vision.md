@@ -222,12 +222,21 @@
 
 <br/>
 
-1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
-
-Diagram of the visual pathway according to William Briggs (1682) bearing the first hint of an understanding of the decussation of fibers at the chiasma
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture21.png"></img>
+</div>
 
 <br/>
+
+1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
+
+<br/>
+
 1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture22.png"></img>
+</div>
 
 <br/>
 
@@ -371,18 +380,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture21.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture22.png"></img>
-</div>
 
 <br/>
 
