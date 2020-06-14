@@ -333,7 +333,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/Picture30.png"></td>
+    <td valign="center"><img src="../img/en_US/OrientationSelectivityExperiment_with_Cat.png"></td>
   </tr>
 </table>
 <br/>
