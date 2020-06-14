@@ -514,9 +514,3 @@ The figure on the left above, shows how visual input travels from the eye to our
 </div>
 
 <br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/BrainVisualCortex.png"></img>
-</div>
-
-<br/>
