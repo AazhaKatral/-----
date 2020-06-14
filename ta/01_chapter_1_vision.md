@@ -311,7 +311,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 <table>
   <tr>
     <td align="center">Superman & Batman</td>
-    <td align="center">டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
+    <td align="center">Nobel Prize-winning neurophysiologists டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/Picture28.png"></td>
