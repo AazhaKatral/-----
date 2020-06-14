@@ -314,8 +314,8 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
     <td align="center">Nobel Prize-winning neurophysiologists டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Picture28.png"></td>
-    <td valign="center"><img src="../img/en_US/Picture29.png"></td>    
+    <td valign="center"><img src="../img/en_US/Superman_and_Batman.png"></td>
+    <td valign="center"><img src="../img/en_US/Hubel_and_Wiesel.png"></td>    
   </tr>
 </table>
 
