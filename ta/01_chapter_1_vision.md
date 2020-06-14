@@ -418,12 +418,6 @@ The figure on the left above, shows how visual input travels from the eye to our
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
   <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
 </div>
 
