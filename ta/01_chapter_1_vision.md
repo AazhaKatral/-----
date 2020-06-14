@@ -325,7 +325,21 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 <br/>
 
-**Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).** 
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Orientation selectivity experiment with cat</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture30.png"></td>
+  </tr>
+</table>
+<br/>
+
+
+*Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).* 
 
 <br/>
 
@@ -423,12 +437,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture30.png"></img>
-</div>
 
 <br/>
 
