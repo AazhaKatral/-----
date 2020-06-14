@@ -357,7 +357,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Minions_meme.png.png"></img>
+  <img style='width: 600px' src="../img/en_US/Minions_meme.png"></img>
 </div>
 
 <br/>
