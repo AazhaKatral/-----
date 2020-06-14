@@ -277,11 +277,11 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 
 <br/>
 
-
-Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
-
-<br/>
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
+</div>
 
 <br/>
 
