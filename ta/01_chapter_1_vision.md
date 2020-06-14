@@ -396,7 +396,8 @@ Over a series of experiments, they demonstrated that the brain could literally w
 
 <br/>
 
-This is critical for today's computing technology. For some tasks, like computing and factoring large numbers, silicon has our "wetware" beat handily, but for the complex tasks like visual processing, machines are only beginning to catch up to the human brain.  This is no small matter. Teaching computers how our minds work is big business. The "machine vision" market is projected to be tens of billions of dollars. Hubel and Wiesel's work is extremely relevant to this burgeoning field. From a slip of the hand while cats watched images on a screen, have come better treatments for childhood vision disorders and teaching computers how to process images—a powerful example of how science can advance society in the most unexpected ways.
+<br/>
+இன்றைய கணினித் தொழில் நுட்பம் எண்களைக் மிக துள்ளியமாகவும் நேர்தியாகவும் கையாள்வதில் மனிதனை மிஞ்ஞிவிட்டது. ஆனால் பிம்பங்களைக் கையாள்வதில் அவைகளால் மனித மூளையை மிஞ்ச முடியவில்லை. மனித மூளையின் செயலாக்கத்தை கணினிக்கு சொல்லிக் கொடுப்பது மிகப்பெரிய பில்லியன் டாலர் வியாபாரமாக இன்று இருக்கிறது. ஹூபல் மற்றும் வைசல் இருவரும் பூனையை வைத்து செய்த சோதனை எப்படி குழந்தைகளின் பார்வைக் குறைபாட்டை தீர்ததோ அதே போல, கணினிக்கு பிம்பங்களை புரிந்து கொள்ளும் வழி தெரிந்து விட்டால், நம் சமூகத்தில் மிகப்பெரிய வளர்சியை ஏற்படுத்தும்.
 
 <br/>
 
