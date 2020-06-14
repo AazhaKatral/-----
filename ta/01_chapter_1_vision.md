@@ -341,15 +341,15 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 *Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).* 
 
-<br/>
 
-*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! *
+*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
 
 <br/>
 கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
 
 <br/>
- ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை. சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச்செய்தனர். தற்செயலாக கண்ணாடிவில்லையை நகர்திய போது பூனைவ வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது. அப்போது அந்த நரம்புசெல்கள் வெறித்தனமாக செயல்பட ஆரம்பத்தின.
+
+ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை. சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச்செய்தனர். தற்செயலாக கண்ணாடிவில்லையை நகர்திய போது பூனைவ வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது. அப்போது அந்த நரம்புசெல்கள் வெறித்தனமாக செயல்பட ஆரம்பத்தின.
 <br/>
 <br/>
 
@@ -357,7 +357,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 <br/>
 
-பூனையின் மூளையில், புறணி(cortex) இல் உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர்வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர்வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது 
+பூனையின் மூளையில், புறணி (cortex) இல் உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர்வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர்வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது 
 குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்ர்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
 
 <br/>
