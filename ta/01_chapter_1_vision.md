@@ -371,10 +371,7 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 பிறந்த பூனை மற்றும் குரங்கின் ஒரு கண்ணை மூடி மற்றொரு கண்ணைத் திறந்து ஆராய்ச்சி செய்தனர். சில நாட்கள் கழித்து மூடிய கண்ணை திறந்த பிறகும், கண் புரை அகற்றிய குழந்தை போல மூடப்பட்ட கண் குருட்டுகண் போலவே விலங்குகள் நடந்து கொண்டது. இதற்கு காரணம் புறணியில் உள்ள காட்சி நரம்புகள் மூடப்பட்ட கண்களிலில் இருந்து வரும் சமிஞ்ஞை களுக்கு பதிலளிக்காமல் மூடாத கண்களுக்கு மட்டுமே பதிலளித்தன.  ஆரோக்கியமான விலங்குகளின் "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) செயல்படுவதைப்போல இல்லாமல் ஒரு கண் ஊணமான விலங்காகவே அவைகள் செயல்பட்டன.
 <br/>
 <br/>
-தொடர்ச்சியான பல சோதனைகளுக்கு பின் மூளை வெளியில் இருந்து வரும் தகவல்களுக்கு  நீயூரோப்ளாஸ்டி முறையில் பதிலளிக்கும், ஆனால் அதற்கு சிலகாலம் ஆகும் என்று கண்டு பிடித்தனர். எனவே கண்புரை குறைபாடு உள்ள குழந்தைகளுக்கு உடனே சிகிச்சை செய்வதின் மூலம் பார்வைத் திறனைச் சீக்கிரம் பெற முடியும் என்று கண்டறிந்தனர். 
-
-
-Over a series of experiments, they demonstrated that the brain could literally wire or rewire itself in response to external input (or lack thereof)—a phenomenon known as neuroplasticity—and that this ability seemed to fade with age. Almost immediately, this realization of the importance of early stimulation to the wiring of the visual cortex translated from the lab to the clinic, where doctors were working to treat children born with cataracts and other eye impairments. With Hubel and Wiesel's new understanding, doctors began treating children as early as possible, with much better outcomes. Truly, Hubel and Wiesel were pioneers of the visual system, exploring the physiology behind visual perception in animals, thereby teaching us much about how our own minds work. 
+தொடர்ச்சியான பல சோதனைகளுக்கு பின் மூளை வெளியில் இருந்து வரும் தகவல்களுக்கு ஏற்ப நீயூரோப்ளாஸ்டி முறையில் நரம்புகளை இணைக்கவும், மறு இணைப்பு செய்யவும் முடியும். ஆனால் அதற்கு சிலகாலம் ஆகும் என்று கண்டு பிடித்தனர். எனவே கண்புரை குறைபாடு உள்ள குழந்தைகளுக்கு உடனே சிகிச்சை செய்வதின் மூலம் பார்வைத் திறனைச் சீக்கிரம் பெற முடியும் என்று கண்டறிந்தனர். 
 
 <br/>
 
