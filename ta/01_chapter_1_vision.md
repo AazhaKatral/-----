@@ -271,54 +271,94 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 
 **லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
-Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
+</div>
 
 <br/>
+
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
+</div>
+
 <br/>
 
-சர் சார்லஸ் வீட்ஸ்டோன் (1802-75) ஸ்டீரியோஸ்கோபிக் பார்வை பற்றி ஆராய்ச்சி செய்தார். இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை ஹோரேஸ் பார்லோ(b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார். 
+**சர் சார்லஸ் வீட்ஸ்டோன்** (**Sir Charles Wheatstone**) (1802-75) ஸ்டீரியோஸ்கோபிக் பார்வை பற்றி ஆராய்ச்சி செய்தார். 
+
+<br/>
+
+இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை **ஹோரேஸ் பார்லோ** (**Horace Barlow**) (b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
+</div>
+
+<br/>
+
 
 Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
 
 <br/>
 
-## Enter Hubel and Wiesel ##
+## ஹூபெல் மற்றும் வீசல் ##
+
+பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் **டேவிட் ஹூபெல்** (**David Hubel**) மற்றும் **டார்ஸ்டன் வீசல்** (**Torsten Wiesel**) (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்ச்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
+
 
 <br/>
-பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் டேவிட் ஹூபெல் மற்றும் டார்ஸ்டன் வீசல் (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
-
-<br/>
-
-Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
+<table>
+  <tr>
+    <td align="center">Superman & Batman</td>
+    <td align="center">Nobel Prize-winning neurophysiologists டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Picture28.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture29.png"></td>    
+  </tr>
+</table>
 
 <br/> 
-<br/> 
-ஹூபல் மற்றும் வைசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
+
+ஹூபல் மற்றும் வீசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
 
 <br/>
 
-**Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).** 
-
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Orientation selectivity experiment with cat</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture30.png"></td>
+  </tr>
+</table>
 <br/>
 
-**In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! **
+
+*Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).* 
+
+
+*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
 
 <br/>
 கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
 
 <br/>
- ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை. சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச்செய்தனர். தற்செயலாக கண்ணாடிவில்லையை நகர்திய போது பூனைவ வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது. அப்போது அந்த நரம்புசெல்கள் வெறித்தனமாக செயல்பட ஆரம்பத்தின.
+
+ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை.  சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச் செய்தனர்.  தற்செயலாக கண்ணாடி வில்லையை நகர்த்திய போது பூனை வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது.  அப்போது அந்த நரம்பு செல்கள் வெறித்தனமாக செயல்பட ஆரம்பித்தன.
 <br/>
 <br/>
 
-வேரொரு கோணத்தில் வில்லையை நகர்தி சரி செய்த போது ஒரு ஒற்றை கோடு ஒரு குறிப்பிட்ட கோணத்தில் திரையின் குறுக்கே நகர்ந்தது. உடனே பூனையின் மூளையில் உள்ள ஒரு நியீரான் அதிவேகமாக செயல்பட்டது.  விஞ்ஞானிகள் அந்த ஒற்றை நியூரானை தொடர்ந்து ஒன்பது மணி நேரம் ஆய்வு செய்தனர். சிலமாதங்கள் இந்த ஆய்வை தொடர்ந்தனர். பின்னர் மூளையின் காட்சிகளை எவ்வாறு புரிந்துகொள்கிறது என்பது பற்றிய ஆய்வின் முக்கியமான கட்டத்தை நெருங்கினர்.  பூனைகள் மற்றும் குரங்குகளின் காட்சி புறணிப் பகுதிகளில் உள்ள குறிப்பிட்ட நியூரான்கள்-காட்சித் தகவல்களைச் செயலாக்குவதற்குப் பொறுப்பான அவர்களின் மூளையில் உள்ள பகுதிகள்-ஒளியின் எளிய புள்ளிகளுக்கு பதிலளிக்கவில்லை ஆனால் குறுக்கு, நெடுக்கு கோடுகளுக்கு அவைகள் பதிலளித்ன. அந்த நியூரான்கள் இரு கண்களிலிருந்தும் வரும் சமிஞ்ஞைகளுக்கு பதிலளிக்கின்றன என்பதைக் கண்டறிந்தனர். 
+வேரொரு கோணத்தில் வில்லையை நகர்த்தி சரி செய்த போது ஒரு ஒற்றை கோடு ஒரு குறிப்பிட்ட கோணத்தில் திரையின் குறுக்கே நகர்ந்தது. உடனே பூனையின் மூளையில் உள்ள ஒரு நியீரான் அதிவேகமாக செயல்பட்டது.  விஞ்ஞானிகள் அந்த ஒற்றை நியூரானை தொடர்ந்து ஒன்பது மணி நேரம் ஆய்வு செய்தனர். சிலமாதங்கள் இந்த ஆய்வை தொடர்ந்தனர். பின்னர் மூளையின் காட்சிகளை எவ்வாறு புரிந்துகொள்கிறது என்பது பற்றிய ஆய்வின் முக்கியமான கட்டத்தை நெருங்கினர்.  பூனைகள் மற்றும் குரங்குகளின் காட்சி புறணிப் பகுதிகளில் உள்ள குறிப்பிட்ட நியூரான்கள்-காட்சித் தகவல்களைச் செயலாக்குவதற்குப் பொறுப்பான அவர்களின் மூளையில் உள்ள பகுதிகள்-ஒளியின் எளிய புள்ளிகளுக்கு பதிலளிக்கவில்லை.  ஆனால் குறுக்கு, நெடுக்கு கோடுகளுக்கு அவைகள் பதிலளித்தன.  அந்த நியூரான்கள் இரு கண்களிலிருந்தும் வரும் சமிக்ஞைகளுக்கு பதிலளிக்கின்றன என்பதைக் கண்டறிந்தனர். 
 
 <br/>
 
-பூனையின் மூளையில், புறணி(cortex) இல் உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர்வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர்வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது 
-குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்ர்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
+பூனையின் மூளையில், புறணியில் (cortex) உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர் வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர் வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது
+குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
 
 <br/>
 <br/>
@@ -334,7 +374,7 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 3. மூளையின் புறணியின் முதல் அடுக்கில் உள்ள நீயூரான்கள் தகவலைப் பெறுகிறது.  ஹூபல் மற்றும் வீசல் குறிப்பிட்ட **எளிய செல்கள்** கோடுகளை கண்டறிகின்றன. உண்மையில் இது போல பல்ஆயிரம் நியூரான்கள் இருக்கும்; எளிமைக்காக, படத்தில் நான்கு மட்டுமே காட்டுகிறோம்
 
-4. இந்த எளிய நியூரான்கள் செங்குத்து, கிடைமட்ட மற்றும் சாய்த கோடுகளை இருப்பைப் பற்றிய தகவலை சிக்கலான(complex) நீயூரான்களுக்கு அனுப்புகிறது.
+4. இந்த எளிய நியூரான்கள் செங்குத்து, கிடைமட்ட மற்றும் சாய்த கோடுகளை இருப்பைப் பற்றிய தகவலை சிக்கலான (complex) நீயூரான்களுக்கு அனுப்புகிறது.
 சிக்கலான கலங்களின் அடுத்தடுத்த அடுக்குக்கு குறிப்பிட்ட நோக்குநிலைகளில் கோடுகள் இருப்பது அல்லது இல்லாதிருப்பது பற்றிய தகவல்களை வெளியிடுகின்றன
 
 5. சிக்கலான செல்கள் தகவல்களை ஒருங்கிணைத்து மீண்டும் ஒருங்கிணைக்கின்றன, இது சுட்டியின் தலையின் வளைவு போன்ற மிகவும் சிக்கலான காட்சி தூண்டுதல்களை பிரதிநிதித்துவப்படுத்துகிறது.
@@ -345,19 +385,19 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 
 7. படத்தில் உள்ள கடைசி நியூரானுக்கு முன்னால் பல நீயூரான்கள் அடுக்கப்பட்டுள்ளது புள்ளிக்கோடுகள் மூலம் விளக்கப்பட்டுள்ளது. 
 
-7.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
+8.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
 
  
 
 1. ஹூபெல், டி. எச்., & வைசல், டி.என். (1959). பூனையின் புறனியின் அடுக்களில் உள்ள நியூரான்களின் ஸ்ட்ரைட் கார்டெக்ஸில் ஒற்றை நியூரான்களின் வரவேற்பு புலங்கள். தி ஜர்னல் ஆஃப் பிசியாலஜி, 148, 574– 91. 4. 1981 ஆம் ஆண்டு உடலியல் அல்லது மருத்துவத்துக்கான நோபல் பரிசு, அமெரிக்க நரம்பியல் ஆய்வாளர் ரோஜர் ஸ்பெரியுடன் பகிர்ந்து கொள்ளப்பட்டது.
 <br/>
 
-அடுத்தடுத்த ஆண்டுகளில், ஹூபெல் மற்றும் வீசல் ஆகியோர் தங்கள் புரிதலைச் செம்மைப்படுத்தினர், மேலும் அவர்களின் பூனை மற்றும் உயர் விலங்கினங்களின் பார்ர்கும் திறம் குறித்த வரைபடங்களை துல்லியமாக வரைந்தனர். மூளையின் புறணி கண்களின் விருப்பத்துக்கு ஏற்ப செயல்படுவதற்காக குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர்.  இந்த அடுக்கை "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) மற்றும் "அறியும் திறன் அடுக்கு" (orientation columns) அழைத்தனர்.இந்த அடுக்குகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்குகிறது என்று கண்டறிந்தனர்.
+அடுத்தடுத்த ஆண்டுகளில், ஹூபெல் மற்றும் வீசல் ஆகியோர் தங்கள் புரிதலைச் செம்மைப்படுத்தினர், மேலும் அவர்களின் பூனை மற்றும் உயர் விலங்கினங்களின் பார்ர்கும் திறம் குறித்த வரைபடங்களை துல்லியமாக வரைந்தனர். மூளையின் புறணி கண்களின் விருப்பத்துக்கு ஏற்ப செயல்படுவதற்காக குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர்.  இந்த அடுக்கை **விழியின் ஆதிக்க அடுக்கு** (**ocular dominance columns**) மற்றும் **அறியும் திறன் அடுக்கு** (**orientation columns**) அழைத்தனர்.  இந்த அடுக்குகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்குகிறது என்று கண்டறிந்தனர்.
 
 
 <br/>
 
-பூனையின் புறணியைக் கொண்டு அவர்கள் செய்த ஆராய்சிக்காக அவர்களுக்கு 1981 இல் உடற்கூறியல் மற்றும் மருத்துவத்துக்கான நோபல் பரிசு பெற்றனர். . நோபல் கமிட்டி "மூளையின் மிகவும் பாதுகாக்கப்பட்ட இரகசியங்களில் ஒன்று: மூளை கண்ணிலிருந்து பெறும் செய்தியை அதன் செல்கள் டிகோட் செய்யும் முறை" என்ற ஆராய்சியை மையமாகக் கொண்டு அவர்களுக்கு பரிசு வழங்கப்பட்டது.
+பூனையின் புறணியைக் கொண்டு அவர்கள் செய்த ஆராய்சிக்காக அவர்களுக்கு 1981 இல் உடற்கூறியல் மற்றும் மருத்துவத்துக்கான நோபல் பரிசு பெற்றனர். . நோபல் கமிட்டி **மூளையின் மிகவும் பாதுகாக்கப்பட்ட இரகசியங்களில் ஒன்று: மூளை கண்ணிலிருந்து பெறும் செய்தியை அதன் செல்கள் டிகோட் செய்யும் முறை** என்ற ஆராய்சியை மையமாகக் கொண்டு அவர்களுக்கு பரிசு வழங்கப்பட்டது.
 
 <br/>
 
@@ -368,67 +408,48 @@ Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel
 <br/>
 மூளையின் இயல்பான வளர்சியை கூடுதல் கவனத்துடன் பேணிவளர்க்க முடியுமா? பிறக்கும் போதே பார்வைத்திறன் உறுதி செய்யப்பட்டு தான் பிறக்கிறோமா? என்ற கேள்வி மேலெழுந்தது. கண்புரை நோயால் பிறந்த குழந்தைகள் பிறந்து சில ஆண்டுகளுக்குப் பிறகு ஒளிபுகா லென்ஸ் அகற்றப்பட்ட பின்னரும் கடுமையான பார்வைக் குறைபாடுகளால் பாதிக்கப்படுகிறார்கள் என்பது அனைவரும் அறிந்ததே.பிறக்கும் போதே பார்வைத்திறன் இருந்திருந்தால், லென்ஸ் அகற்றப்பட்ட உடன்  ஏன் குறைபாடுகள் நீங்குவதில்லை போன்ற கேள்விகள் எழுந்தன. இவை எல்லாவற்றிக்கும் மேலாக ஹூபல் மற்றும் வைசல் குழந்தைகள் பிறக்கும் போது அவர்களுக்கு இருக்க வேண்டிய பார்வைத்திறனுக்கான நரம்பு இணைப்புகளை கண்டறிந்தனர்.
 <br/>
-பிறந்த பூனை மற்றும் குரங்கின் ஒரு கண்ணை மூடி மற்றொரு கண்ணைத் திறந்து ஆராய்ச்சி செய்தனர். சில நாட்கள் கழித்து மூடிய கண்ணை திறந்த பிறகும், கண் புரை அகற்றிய குழந்தை போல மூடப்பட்ட கண் குருட்டுகண் போலவே விலங்குகள் நடந்து கொண்டது. இதற்கு காரணம் புறணியில் உள்ள காட்சி நரம்புகள் மூடப்பட்ட கண்களிலில் இருந்து வரும் சமிஞ்ஞை களுக்கு பதிலளிக்காமல் மூடாத கண்களுக்கு மட்டுமே பதிலளித்தன.  ஆரோக்கியமான விலங்குகளின் "விழியின் ஆதிக்க அடுக்கு"(ocular dominance columns) செயல்படுவதைப்போல இல்லாமல் ஒரு கண் ஊணமான விலங்காகவே அவைகள் செயல்பட்டன.
+
+பிறந்த பூனை மற்றும் குரங்கின் ஒரு கண்ணை மூடி மற்றொரு கண்ணைத் திறந்து ஆராய்ச்சி செய்தனர். சில நாட்கள் கழித்து மூடிய கண்ணை திறந்த பிறகும், கண் புரை அகற்றிய குழந்தை போல மூடப்பட்ட கண் குருட்டுகண் போலவே விலங்குகள் நடந்து கொண்டது. இதற்கு காரணம் புறணியில் உள்ள காட்சி நரம்புகள் மூடப்பட்ட கண்களிலில் இருந்து வரும் சமிஞ்ஞை களுக்கு பதிலளிக்காமல் மூடாத கண்களுக்கு மட்டுமே பதிலளித்தன.  ஆரோக்கியமான விலங்குகளின் **விழியின் ஆதிக்க அடுக்கு** (**ocular dominance columns**) செயல்படுவதைப்போல இல்லாமல் ஒரு கண் ஊணமான விலங்காகவே அவைகள் செயல்பட்டன.
+
 <br/>
 <br/>
 தொடர்ச்சியான பல சோதனைகளுக்கு பின் மூளை வெளியில் இருந்து வரும் தகவல்களுக்கு ஏற்ப நீயூரோப்ளாஸ்டி முறையில் நரம்புகளை இணைக்கவும், மறு இணைப்பு செய்யவும் முடியும். ஆனால் அதற்கு சிலகாலம் ஆகும் என்று கண்டு பிடித்தனர். எனவே கண்புரை குறைபாடு உள்ள குழந்தைகளுக்கு உடனே சிகிச்சை செய்வதின் மூலம் பார்வைத் திறனைச் சீக்கிரம் பெற முடியும் என்று கண்டறிந்தனர். 
 
 <br/>
 
-This is critical for today's computing technology. For some tasks, like computing and factoring large numbers, silicon has our "wetware" beat handily, but for the complex tasks like visual processing, machines are only beginning to catch up to the human brain.  This is no small matter. Teaching computers how our minds work is big business. The "machine vision" market is projected to be tens of billions of dollars. Hubel and Wiesel's work is extremely relevant to this burgeoning field. From a slip of the hand while cats watched images on a screen, have come better treatments for childhood vision disorders and teaching computers how to process images—a powerful example of how science can advance society in the most unexpected ways.
+இன்றைய கணினித் தொழில் நுட்பம் எண்களைக் மிக துள்ளியமாகவும் நேர்தியாகவும் கையாள்வதில் மனிதனை மிஞ்ஞிவிட்டது. ஆனால் பிம்பங்களைக் கையாள்வதில் அவைகளால் மனித மூளையை மிஞ்ச முடியவில்லை. மனித மூளையின் செயலாக்கத்தை கணினிக்கு சொல்லிக் கொடுப்பது மிகப்பெரிய பில்லியன் டாலர் வியாபாரமாக இன்று இருக்கிறது. ஹூபல் மற்றும் வைசல் இருவரும் பூனையை வைத்து செய்த சோதனை எப்படி குழந்தைகளின் பார்வைக் குறைபாட்டை தீர்ததோ அதே போல, கணினிக்கு பிம்பங்களை புரிந்து கொள்ளும் வழி தெரிந்து விட்டால், நம் சமூகத்தில் மிகப்பெரிய வளர்சியை ஏற்படுத்தும்.
 
 <br/>
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
 
-  Here are some interesting points about our cerebral cortex: 
--	First, it is one of the more recent evolutionary developments of the brain, contributing to the complexity of mammal behavior relative to the behavior of older classes of animals like reptiles and amphibians. 
--	Second, while the brain is informally referred to as “gray matter” because the cerebral cortex is the brain’s external surface and this cortical tissue is gray in color, the bulk of the brain is in fact “white matter”. 
--	By and large, the white matter is responsible for carrying information over longer distances than the gray matter, so its neurons have a white-colored, fatty coating that hurries the pace of signal conduction. A coarse analogy could be to consider neurons in the white matter to act as “highways.” 
--	These high-speed motorways have a limited number of on-ramps or exits but can transport a signal from one part of the brain to another extremely fast. In contrast, the “local roads” of gray matter facilitate myriad opportunities for interconnection between neurons at the expense of speed. 
--	A gross generalization, therefore, is to consider the cerebral cortex— the gray matter— as the part of the brain where the most complex computations happen, affording the animals with the largest proportion of it— such as mammals, particularly the great apes like Homo sapiens— their complex behaviors. 
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
 
-Today, through countless subsequent recordings from the cortical neurons of brain-surgery patients as well as noninvasive techniques like magnetic resonance imaging (MRI) neuroscientists have pieced together a fairly high-resolution map of regions that are specialized to process particular visual stimuli, such as color, motion, and faces.
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
 
-5. Especially functional MRI, which provides insight into which regions of the cerebral cortex are notably active or inactive when the brain is engaged in a particular activity. 
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
+
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
+
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
+
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+MRI தொழில் நுட்பத்தைப் பயன்படுத்தி மூளையின் பாதிக்க பட்ட பகுதியை தெளிவாக 2D மற்றும் 3D படமாக பார்க்க முடியும். மூளை அறுவை சிகிச்சை செய்துகொள்வர்களின் எண்ணற்ற படங்களில் இருந்து காட்சி, நிறம், நகர்வு மற்றும் முகங்களை தெரிந்து கொள்ள உதவும் மூளையின் முக்கிய பிராந்தியங்களைக் கொண்ட படங்களைப் ஒன்றாக இணைத்தனர்.
+
 
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture29.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture30.png"></img>
-</div>
 
 <br/>
 
