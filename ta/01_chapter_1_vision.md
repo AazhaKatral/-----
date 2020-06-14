@@ -318,10 +318,6 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
     <td valign="center"><img src="../img/en_US/Picture29.png"></td>    
   </tr>
 </table>
-<br/>
-
-
-Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
 
 <br/> 
 
