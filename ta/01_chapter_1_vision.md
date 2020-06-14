@@ -258,8 +258,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">1506 Drawing by da Vinci</td>
   </tr>
   <tr>
+    <td valign="center"><img src="../img/en_US/Picture23.png"></td>
     <td valign="center"><img src="../img/en_US/Picture24.png"></td>
-    <td valign="center"><img src="../img/en_US/Picture25.png"></td>
   </tr>
 </table>
 <br/>
