@@ -476,13 +476,13 @@ The figure on the left above, shows how visual input travels from the eye to our
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture32.png"></img>
+  <img style='width: 600px' src="../img/en_US/CatVisualCortex_LineOrientation_vs_ElectricalActivity.png"></img>
 </div>
 
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture33.png"></img>
+  <img style='width: 600px' src="../img/en_US/Vadivelu_meme.png"></img>
 </div>
 
 <br/>
@@ -494,13 +494,13 @@ The figure on the left above, shows how visual input travels from the eye to our
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture35.png"></img>
+  <img style='width: 600px' src="../img/en_US/BrainVisualCortex.png"></img>
 </div>
 
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture36.png"></img>
+  <img style='width: 600px' src="../img/en_US/Kolb_and_Whishaw_BrainVisualCortex.png"></img>
 </div>
 
 <br/>
