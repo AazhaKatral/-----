@@ -168,6 +168,7 @@
 <br/>
 
 ## பதினேழாம் நூற்றாண்டு ##
+
 **ரீனே டிகார்ட்ஸ்** (**Rene Descartes**) என்ற நவீன தத்துவ விஞ்ஞானி **இயற்கணித** (**algebra**), **சமன்பாடுகளின்** (**equations**) மூலம் **வடிவியல்** (**geometry**) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.  
 
 <div style='float: center'>
@@ -242,18 +243,33 @@
 
 ## பதினெட்டு மற்றும் பத்தொன்பதாம் நூற்றாண்டு ##
 
-<br/>
-1738 இல் ஜான் டைலர் வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
-பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது. 
-**In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.**
+1738 இல் **ஜான் டைலர்** (**John Taylor**) வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
+பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது.
 
+<br/>
+
+In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
+
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Standard phrenological head vs Franz Gall's head</td>
+    <td align="center">19th century visual region of Brain</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/FranzGall_head.png"></td>
+    <td valign="center"><img src="../img/en_US/19th_century_visual_region_of_Brain.png"></td>
+  </tr>
+</table>
+<br/>
+ 
 <br/>
   
-The Twentieth Century
-இருபதாம் நூற்றாண்டு
+## இருபதாம் நூற்றாண்டு ##
 
-<br/>
-லார்ட் எட்கர் அட்ரியன் (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை  பதிவுசெய்தார்.
+**லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
 Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
 
@@ -268,7 +284,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 <br/>
 
-Enter Hubel and Wiesel  
+## Enter Hubel and Wiesel ##
 
 <br/>
 பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் டேவிட் ஹூபெல் மற்றும் டார்ஸ்டன் வீசல் (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
@@ -380,18 +396,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture23.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture24.png"></img>
-</div>
 
 <br/>
 
