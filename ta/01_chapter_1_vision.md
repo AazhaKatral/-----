@@ -292,7 +292,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை **ஹோரேஸ் பார்லோ** (**Horace Barlow**) (b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture27.png"></img>
+  <img style='width: 600px' src="../img/en_US/HoraceBarlow.png"></img>
 </div>
 
 <br/>
