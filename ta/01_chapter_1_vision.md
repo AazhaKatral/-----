@@ -242,17 +242,32 @@
 
 ## பதினெட்டு மற்றும் பத்தொன்பதாம் நூற்றாண்டு ##
 
-<br/>
-1738 இல் ஜான் டைலர் வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
-பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது. 
-**In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.**
+1738 இல் **ஜான் டைலர்** (**John Taylor**) வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
+பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது.
 
+<br/>
+
+In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
+
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">1490 Drawing by da Vinci</td>
+    <td align="center">1506 Drawing by da Vinci</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Picture24.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture25.png"></td>
+  </tr>
+</table>
+<br/>
+ 
 <br/>
   
-The Twentieth Century
-இருபதாம் நூற்றாண்டு
+## இருபதாம் நூற்றாண்டு ##
 
-<br/>
 லார்ட் எட்கர் அட்ரியன் (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை  பதிவுசெய்தார்.
 
 Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
