@@ -271,6 +271,13 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 
 **லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
+</div>
+
+<br/>
+
+
 Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
 
 <br/>
@@ -396,12 +403,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
-</div>
 
 <br/>
 
