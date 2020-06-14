@@ -254,8 +254,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 <br/>
 <table>
   <tr>
-    <td align="center">1490 Drawing by da Vinci</td>
-    <td align="center">1506 Drawing by da Vinci</td>
+    <td align="center">Standard phrenological head vs Franz Gall's head</td>
+    <td align="center">19th century visual region of Brain</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/Picture23.png"></td>
