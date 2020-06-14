@@ -345,6 +345,13 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 *In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
 
 <br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Minions_meme.png"></img>
+</div>
+
+<br/>
+
 கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
 
 <br/>
@@ -502,15 +509,5 @@ The figure on the left above, shows how visual input travels from the eye to our
   </tr>
 </table>
 <br/>
-
-<br/>
-
-
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
-</div>
 
 <br/>
