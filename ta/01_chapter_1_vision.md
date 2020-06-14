@@ -269,7 +269,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
   
 ## இருபதாம் நூற்றாண்டு ##
 
-லார்ட் எட்கர் அட்ரியன் (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை  பதிவுசெய்தார்.
+**லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
 Lord Edgar Adrian (1889-1977) recorded sensory nerve impulses from the end of the 1920s and so gave us the notion of a pulse code with a frequency of transmission to the brain that can be measured.
 
