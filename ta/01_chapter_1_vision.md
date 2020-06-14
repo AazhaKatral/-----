@@ -490,6 +490,25 @@ The figure on the left above, shows how visual input travels from the eye to our
 
 <br/>
 
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Kolb and Whishaw: Brain Visual Cortex</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/Kolb_and_Whishaw_BrainVisualCortex.png"></td>
+  </tr>
+</table>
+<br/>
+
+<br/>
+
+
+
+<br/>
+
 <div style='float: center'>
   <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
 </div>
