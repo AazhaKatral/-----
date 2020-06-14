@@ -272,7 +272,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 **லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture25.png"></img>
+  <img style='width: 600px' src="../img/en_US/LordEdgarAdrian.png"></img>
 </div>
 
 <br/>
@@ -280,7 +280,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture26.png"></img>
+  <img style='width: 600px' src="../img/en_US/CatToeSensoryNerve_recordings.png"></img>
 </div>
 
 <br/>
