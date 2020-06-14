@@ -420,21 +420,35 @@ Over a series of experiments, they demonstrated that the brain could literally w
 
 <br/>
 
-<br/>
-இன்றைய கணினித் தொழில் நுட்பம் எண்களைக் மிக துள்ளியமாகவும் நேர்தியாகவும் கையாள்வதில் மனிதனை மிஞ்ஞிவிட்டது. ஆனால் பிம்பங்களைக் கையாள்வதில் அவைகளால் மனித மூளையை மிஞ்ச முடியவில்லை. மனித மூளையின் செயலாக்கத்தை கணினிக்கு சொல்லிக் கொடுப்பது மிகப்பெரிய பில்லியன் டாலர் வியாபாரமாக இன்று இருக்கிறது. ஹூபல் மற்றும் வைசல் இருவரும் பூனையை வைத்து செய்த சோதனை எப்படி குழந்தைகளின் பார்வைக் குறைபாட்டை தீர்ததோ அதே போல, கணினிக்கு பிம்பங்களை புரிந்து கொள்ளும் வழி தெரிந்து விட்டால், நம் சமூகத்தில் மிகப்பெரிய வளர்ச்சியை ஏற்படுத்தும்.
+இன்றைய கணினித் தொழில் நுட்பம் எண்களைக் மிக துள்ளியமாகவும் நேர்தியாகவும் கையாள்வதில் மனிதனை மிஞ்ஞிவிட்டது. ஆனால் பிம்பங்களைக் கையாள்வதில் அவைகளால் மனித மூளையை மிஞ்ச முடியவில்லை. மனித மூளையின் செயலாக்கத்தை கணினிக்கு சொல்லிக் கொடுப்பது மிகப்பெரிய பில்லியன் டாலர் வியாபாரமாக இன்று இருக்கிறது. ஹூபல் மற்றும் வைசல் இருவரும் பூனையை வைத்து செய்த சோதனை எப்படி குழந்தைகளின் பார்வைக் குறைபாட்டை தீர்ததோ அதே போல, கணினிக்கு பிம்பங்களை புரிந்து கொள்ளும் வழி தெரிந்து விட்டால், நம் சமூகத்தில் மிகப்பெரிய வளர்சியை ஏற்படுத்தும்.
 
 <br/>
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
 
-  Here are some interesting points about our cerebral cortex: 
--	First, it is one of the more recent evolutionary developments of the brain, contributing to the complexity of mammal behavior relative to the behavior of older classes of animals like reptiles and amphibians. 
--	Second, while the brain is informally referred to as “gray matter” because the cerebral cortex is the brain’s external surface and this cortical tissue is gray in color, the bulk of the brain is in fact “white matter”. 
--	By and large, the white matter is responsible for carrying information over longer distances than the gray matter, so its neurons have a white-colored, fatty coating that hurries the pace of signal conduction. A coarse analogy could be to consider neurons in the white matter to act as “highways.” 
--	These high-speed motorways have a limited number of on-ramps or exits but can transport a signal from one part of the brain to another extremely fast. In contrast, the “local roads” of gray matter facilitate myriad opportunities for interconnection between neurons at the expense of speed. 
--	A gross generalization, therefore, is to consider the cerebral cortex— the gray matter— as the part of the brain where the most complex computations happen, affording the animals with the largest proportion of it— such as mammals, particularly the great apes like Homo sapiens— their complex behaviors. 
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
 
-Today, through countless subsequent recordings from the cortical neurons of brain-surgery patients as well as noninvasive techniques like magnetic resonance imaging (MRI) neuroscientists have pieced together a fairly high-resolution map of regions that are specialized to process particular visual stimuli, such as color, motion, and faces.
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
 
-5. Especially functional MRI, which provides insight into which regions of the cerebral cortex are notably active or inactive when the brain is engaged in a particular activity. 
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
+
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
+
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
+
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+MRI தொழில் நுட்பத்தைப் பயன்படுத்தி மூளையின் பாதிக்க பட்ட பகுதியை தெளிவாக 2D மற்றும் 3D படமாக பார்க்க முடியும். மூளை அறுவை சிகிச்சை செய்துகொள்வர்களின் எண்ணற்ற படங்களில் இருந்து காட்சி, நிறம், நகர்வு மற்றும் முகங்களை தெரிந்து கொள்ள உதவும் மூளையின் முக்கிய பிராந்தியங்களைக் கொண்ட படங்களைப் ஒன்றாக இணைத்தனர்.
+
 
 <br/>
 
