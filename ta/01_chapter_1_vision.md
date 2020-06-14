@@ -168,6 +168,7 @@
 <br/>
 
 ## பதினேழாம் நூற்றாண்டு ##
+
 **ரீனே டிகார்ட்ஸ்** (**Rene Descartes**) என்ற நவீன தத்துவ விஞ்ஞானி **இயற்கணித** (**algebra**), **சமன்பாடுகளின்** (**equations**) மூலம் **வடிவியல்** (**geometry**) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.  
 
 <div style='float: center'>
@@ -258,8 +259,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">19th century visual region of Brain</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Picture23.png"></td>
-    <td valign="center"><img src="../img/en_US/Picture24.png"></td>
+    <td valign="center"><img src="../img/en_US/FranzGall_head.png"></td>
+    <td valign="center"><img src="../img/en_US/19th_century_visual_region_of_Brain.png"></td>
   </tr>
 </table>
 <br/>
