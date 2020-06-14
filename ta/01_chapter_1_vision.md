@@ -305,9 +305,22 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 ## Enter Hubel and Wiesel ##
 
 <br/>
-பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் டேவிட் ஹூபெல் மற்றும் டார்ஸ்டன் வீசல் (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
+பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் **டேவிட் ஹூபெல்** (**David Hubel**) மற்றும் **டார்ஸ்டன் வீசல்** (**Torsten Wiesel**) (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
+
 
 <br/>
+<table>
+  <tr>
+    <td align="center">Superman & Batman</td>
+    <td align="center">டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/Picture28.png"></td>
+    <td valign="center"><img src="../img/en_US/Picture29.png"></td>    
+  </tr>
+</table>
+<br/>
+
 
 Nobel Prize-winning neurophysiologists David Hubel (left) and Torsten Wiesel 
 
@@ -415,18 +428,6 @@ Today, through countless subsequent recordings from the cortical neurons of brai
 <br/>
 
 The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture28.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture29.png"></img>
-</div>
 
 <br/>
 
