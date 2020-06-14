@@ -345,13 +345,35 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 *In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
 
 <br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/Minions_meme.png"></img>
+</div>
+
+<br/>
+
 கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
 
 <br/>
 
 ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை.  சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச் செய்தனர்.  தற்செயலாக கண்ணாடி வில்லையை நகர்த்திய போது பூனை வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது.  அப்போது அந்த நரம்பு செல்கள் வெறித்தனமாக செயல்பட ஆரம்பித்தன.
 <br/>
+
 <br/>
+<table>
+  <tr>
+    <td align="center">Cat Visual Cortex LineOrientation vs Electrical Activity</td>
+    <td align="center">Meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/CatVisualCortex_LineOrientation_vs_ElectricalActivity.png"></td>
+    <td valign="center"><img src="../img/en_US/Vadivelu_meme.png"></td>
+  </tr>
+</table>
+<br/>
+
+<br/>
+
 
 வேரொரு கோணத்தில் வில்லையை நகர்த்தி சரி செய்த போது ஒரு ஒற்றை கோடு ஒரு குறிப்பிட்ட கோணத்தில் திரையின் குறுக்கே நகர்ந்தது. உடனே பூனையின் மூளையில் உள்ள ஒரு நியீரான் அதிவேகமாக செயல்பட்டது.  விஞ்ஞானிகள் அந்த ஒற்றை நியூரானை தொடர்ந்து ஒன்பது மணி நேரம் ஆய்வு செய்தனர். சிலமாதங்கள் இந்த ஆய்வை தொடர்ந்தனர். பின்னர் மூளையின் காட்சிகளை எவ்வாறு புரிந்துகொள்கிறது என்பது பற்றிய ஆய்வின் முக்கியமான கட்டத்தை நெருங்கினர்.  பூனைகள் மற்றும் குரங்குகளின் காட்சி புறணிப் பகுதிகளில் உள்ள குறிப்பிட்ட நியூரான்கள்-காட்சித் தகவல்களைச் செயலாக்குவதற்குப் பொறுப்பான அவர்களின் மூளையில் உள்ள பகுதிகள்-ஒளியின் எளிய புள்ளிகளுக்கு பதிலளிக்கவில்லை.  ஆனால் குறுக்கு, நெடுக்கு கோடுகளுக்கு அவைகள் பதிலளித்தன.  அந்த நியூரான்கள் இரு கண்களிலிருந்தும் வரும் சமிக்ஞைகளுக்கு பதிலளிக்கின்றன என்பதைக் கண்டறிந்தனர். 
 
@@ -475,32 +497,17 @@ The figure on the left above, shows how visual input travels from the eye to our
 
 <br/>
 
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture32.png"></img>
-</div>
-
 <br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture33.png"></img>
-</div>
-
+<table>
+  <tr>
+    <td align="center">Brain Visual Cortex</td>
+    <td align="center">Kolb and Whishaw: Brain Visual Cortex</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/BrainVisualCortex.png"></td>
+    <td valign="center"><img src="../img/en_US/Kolb_and_Whishaw_BrainVisualCortex.png"></td>
+  </tr>
+</table>
 <br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture34.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture35.png"></img>
-</div>
-
-<br/>
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Picture36.png"></img>
-</div>
 
 <br/>
