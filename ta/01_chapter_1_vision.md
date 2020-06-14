@@ -321,7 +321,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 <br/> 
 
-ஹூபல் மற்றும் வைசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
+ஹூபல் மற்றும் வீசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
 
 <br/>
 
@@ -343,7 +343,7 @@ Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921
 
 <br/>
 
-**In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! **
+*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector! *
 
 <br/>
 கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
