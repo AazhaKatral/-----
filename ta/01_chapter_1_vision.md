@@ -507,4 +507,3 @@ The figure on the left above, shows how visual input travels from the eye to our
 <br/>
 
 <br/>
-<br/>
