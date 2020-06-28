@@ -290,18 +290,11 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 
 <br/>
 
-இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை **ஹோரேஸ் பார்லோ** (**Horace Barlow**) (b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார்.
-
-<div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/HoraceBarlow.png"></img>
-</div>
+இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை **ஹோரேஸ் பார்லோ** (**Horace Barlow**) (b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார். அவர் **ஒளியின் தூண்டுதலுக்கு** ஏற்ப விலங்குகள் எவ்வாறு தங்களை தகவமைத்துக்கொள்கின்றன என்று ஆராய்ந்தார்.
 
 <br/>
 
 
-Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
-
-<br/>
 
 ## ஹூபெல் மற்றும் வீசல் ##
 
