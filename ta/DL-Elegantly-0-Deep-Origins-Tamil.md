@@ -12,8 +12,8 @@
 
 பல ஆண்டுகாளாக பல விஞ்ஞானிகள் அல்லும் பகலும் ஆராச்சிகள் செய்து மூளை எவ்வாறு செயல்படுகிறது என்பதைக் கண்டறிந்தனர்.
 
-
-Historical evidence shows that the brain has been a constant object of study from antiquity (B.C.E). Scientists from ancient times, across several civilizations, studied the brain to comprehend its functions and used that knowledge for medical purposes  (reference: images of Indian historical figures who studied the brain including Charaka, Sushruta, trepanation in Harappa: https://bit.ly/38tt9L5; Babylonian, Egyptian efforts). 
+மூளை பழங்காலத்தில் (பி.சி.இ) இருந்து தொடர்ந்து ஆய்வு செய்யப்படுவதாக வரலாற்று சான்றுகள் காட்டுகின்றன. பண்டைய காலத்தைச் சேர்ந்த விஞ்ஞானிகள், பல நாகரிகங்களில், மூளையை அதன் செயல்பாடுகளைப் புரிந்துகொள்ள ஆய்வு செய்து, அந்த அறிவை மருத்துவ நோக்கங்களுக்காகப் பயன்படுத்தினர்.
+*(குறிப்பு: சரகர், சுஷ்ருர், ஹரப்பாவில் ட்ரெபனேஷன் உள்ளிட்ட மூளையைப் படித்த இந்திய வரலாற்று அறிஞ்ஞர்களின் படங்கள் https: // bit. ly / 38tt9L5; பாபிலோனிய, எகிப்திய முயற்சிகள்).*
 
 In the early common era (C.E) times, scientists and researchers who shared this fascination with the workings of the brain, continued efforts and by the first century, a general physical description of the brain was available to the scientific community.  Basic structures such as the soft and hard layers encasing the brain were identified in addition to a basic classification/division of the brain into functional regions (subsequently called ventricles).  
 
