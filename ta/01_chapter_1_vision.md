@@ -332,11 +332,10 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 </table>
 <br/>
 
+*இந்த படத்தில் உள்ளது போல் ஒரு முதன்மை காட்சி கோர்டெக்ஸ் நியூரானானது ஒரு ஸ்லைடின் விளிம்பில் செயல்படுத்தப்படுகிறது (நியூரானின் செயல்பாட்டைக் குறிக்க ஒரு லைட்பல்ப் இங்கே காட்டப்பட்டுள்ளது). ஹூபெல் மற்றும் வீசல் ஒரு ஒளி ப்ரொஜெக்டரைப் பயன்படுத்தி பூனைகளின் முதன்மை காட்சிப் புறணிப் பகுதியில் நியூரான்களின் செயல்பாட்டைப் பதிவுசெய்தனர்.*
 
-*Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).* 
 
-
-*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
+*நரம்பியல் செயல்பாட்டைக் கண்டுபிடிப்பதற்கான டார்ஸ்டன் & ஹூபலின் பயணத்தின் கதை மிகவும் சுவாரசியமானது. யாரோ ஒருவர் தற்செயலாக ஸ்லைடை ப்ரஜக்டரில் இருந்து தூரமாக நகர்த்தியதில் அதிஷ்டவசமாக பூனையின் நரம்புகள் பதிலளிப்பதை அவர்கள் கண்டுபிடித்தனர். இந்த கண்டுபிடிப்பினால் பின்னாலின் சமூகவும் பெறவிருக்கும் அளப்பறிய நன்மைகளைக் கருத்தில் கொண்டு 2015 ஆம் ஆண்டில் கோல்டன் கூஸ் விருதின் இரண்டாவது வெற்றியாளர்களாக வைசலும் ஹூபலும் தேர்ந்தெடுக்கப்பட்டனர்.*
 
 <br/>
 
