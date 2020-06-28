@@ -247,6 +247,7 @@
 பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது.
 
 <br/>
+1738 ஆம் ஆண்டில் ஜான் டெய்லர்   மேம்பட்ட மற்றும் மிகவும் செல்வாக்குமிக்க பாதை வரைபடத்தை உருவாக்கினார். ஆனால் பத்தொன்பதாம் நூற்றாண்டில் மண்டையோடுகள்(phrenology) பற்றிய ஆய்வுகள், பார்வை தொடர்பானான ஆய்வுகளுக்கு நேர்மாறாக இருந்தது. 
 
 In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
 
