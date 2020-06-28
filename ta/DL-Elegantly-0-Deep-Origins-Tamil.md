@@ -33,18 +33,16 @@
 
 கணினிகளின் வரவு மூளை ஆராய்சியில் மிகப்பெரிய தாக்கத்தை ஏற்படுத்தியது. ஒவ்வொரு ஆராய்ச்சியும் பரிசோதனைகளையும் அவற்றின் முடிவுகளையும் கணினியில் சேமித்தனர். ஒவ்வொரு முறையும் மூளையை ஆய்வதற்கான மாதிரிகளைப் பெருவது, பரி சோதனைகள் மேற்கொள்வதில் இருந்த சிக்கல்களை கையாளவும் ஏற்கனவே செய்யப்பட்ட சோதனைகளின் முடிவுகளோடு ஒப்பிட்டுப்பார்க்க கணினிகள்  பெருமளவில் உதவின. 
 
-20 ஆம் நூற்றாண்டின் நடுப்பகுதியில், ஆர்வத்தால் தூண்டப்பட்டு, மூளையைப் புரிந்துகொள்வதில் ஏற்பட்ட முன்னேற்றங்களால் ஈர்க்கப்பட்டு, ​​கணினி விஞ்ஞானிகள் (புதிதாகத் தயாரிக்கப்பட்ட சொல்) . மூளையின் அறிவாற்றலை கண்முன் கொண்டுவரும் மாதிரிகளை உருவாக்கினர். அவர்கள் செயற்கை நியூரான்களை செயற்கை நரம்பு அமைப்புகளோடு இணைத்து நிஜத்தில் மூளை செயல்படும் விதத்தை கணினியில் காட்டினர். அவர்கள் மூளையில் ஒரு சிறிய பகுதியை எடுத்துக்கொண்டு அதன் செயல்பாடுகள் அனைத்தையும் கணினி மூலம் காட்டினார்கள். 
+20 ஆம் நூற்றாண்டின் நடுப்பகுதியில், ஆர்வத்தால் தூண்டப்பட்டு, மூளையைப் புரிந்துகொள்வதில் ஏற்பட்ட முன்னேற்றங்களால் ஈர்க்கப்பட்டு, ​​கணினி விஞ்ஞானிகள் மூளையின் அறிவாற்றலை கண்முன் கொண்டுவரும் மாதிரிகளை உருவாக்கினர். அவர்கள் செயற்கை நியூரான்களை செயற்கை நரம்பு அமைப்புகளோடு இணைத்து, நிஜத்தில் மூளை சிறிய பகுதியை மாதிரியாகக் கொண்டு அது செயல்படும் விதத்தை கணினியில் காட்டினர். 
 
-Thus, in the mid 20th century, spurred by curiosity, inspired by the progresses made in the understanding of the brain and sensing the opportunity presented by their access to computing resources, Computer Scientists (a newly minted term) began experimenting with computerized simulations of the cognitive process of the brain. A subset of them chose to simulate cognitive processes by creating “artificial neurons” and then connecting them in “artificial neural networks” thus aiming to loosely mimic the physical organization and functioning of brain cells as seen in experiments involving small, localized sections of the brain.  
-
-Warren McCulloch and Walter Pitts created a computer model using a combination of mathematics and algorithms to mimic the thought process. In their model small layers of artificial neurons passed input information to other neuronal layers until the final layer output values.  Then in his paper “The Perceptron: A Perceiving and Recognizing Automaton”, Rosenblatt shows the new avatar of McCulloch-Pitts neuron – ‘Perceptron’ that had true learning capabilities to do binary classification on it’s own. This inspires the revolution in research of shallow neural network for years to come. The Forward Propagation Artificial Neural Network had arrived!
+வாரன் மெக்கல்லோக் மற்றும் வால்டர் பிட்ஸ் ஆகியோர் கணிதம் மற்றும் அக்காரிதம்களைப் பயன்படுத்தி மூளை எப்படி சிந்திக்கிறது என்பதற்கான மாதியை உருவாக்கினார்கள். அவர்களின் மாதிரியில் ஒரு சிறிய செயற்கை நியூரான்களின் அடுக்கை உள்ளீடாக பயன்படுத்தி தகவலை அடுத்தடுத்த  நியூரான் அடுக்குகளுக்கு அனுப்பினர். ெக்கல்லோச்-பிட்ஸ்சின் நியூரானின் புதிய அவதாரத்தை **பெர்செப்டிரான்: உணர்தல் மற்றும் அங்கீகரித்தல்** என்ற கட்டூரையை ரோசன்ப்ளாட் வெளியிட்டார்.  இதில் பெர்செப்டிரான்கள் தானாகவே binary classification(இரும வகைப்படுத்தல்) செய்யும் தன்மையை கொண்டவைக உள்ளது என்பதைக் கண்டறிந்தார்.  இது நரம்பியல் வலையமைப்பின் ஆராய்ச்சியில் புரட்சியை ஏற்ப்பட்டது. செயற்கை நுண்ணறிவின் முக்கிய நுட்பமான முன்னோக்கி பரப்புதல்(Forward Propagation) அறிமுகப்படுத்தப்பட்டது.
 
     
-Frank Rosenblatt
+
+ஃபிராங்க் ரோசன்ப்ளாட்
 
   
-Henry J Kelley
-
+ஹென்றி ஜே கெல்லி
 
 
 Following this, in 1960, Henry J. Kelley improved this model by developing the basics of Continuous Back Propagation. This approach introduced the notion of feedback control into the “learning” process. Although this key concept of back propagation existed in the early 1960s, it came of practical use only around 1985. 
