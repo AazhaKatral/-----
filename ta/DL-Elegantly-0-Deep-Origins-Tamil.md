@@ -1,11 +1,16 @@
-Deep Learning Simply
+**எளிய முறையில் ஆழக்கற்றல் **
 
-Deep Origins
-The story of deep learning, as viewed by the general public, is a recent phenomenon. In reality it is actually a long and old story rooted in humankind’s fascination with understanding reasoning: where it occurred, the processes¬¬-¬ associated with it, their interconnections, if and how it could be recreated.  
-Though it is now common knowledge that 
-a.	Thinking occurs in the brain
-b.	Our brains have billions of interconnected neurons or brain cells 
-c.	These brain cells or neurons work collectively as a connected “intelligence” network to enable us to think, to feel, and, to act
+**ஆழக்கற்றல் தோற்றம்**
+
+ஆழக்கற்றல் தற்போது புதிய துறை போல எல்லாருக்கும் தோன்றுகிறது. ஆனால் உண்மையில் இது ஒரு பழங்கதை. மனித குலம் தோன்றிய்து போதே, மனிதன் பகுத்தறிய ஆரம்பித்தபோதே இந்த துறை தோன்றிவிட்டது எனலாம். 
+
+மூளை எப்படி சிந்திக்கிறது என்று பார்ப்போம்:
+
+1. மூளை யோசிக்கிறது
+2. மூளையில் கோடிக்கணக்கான நீயூரான்கள் எனப்படும் செல்கள் உள்ளன.
+3. இந்து நியூரான்கள் ஒரு ஒருங்கிணைந்த “நுண்ணறிவு” வலையமைப்பாக இணைந்து செயல்படுகின்றன, இது சிந்திக்கவும், உணரவும், செயல்படவும் உதவுகிறது
+
+
 
 this common knowledge is actually the result of millennia of “not so common” research and investigation; research that has been punctuated by short, intense bursts of progress and long, debilitating periods of regress. 
 
