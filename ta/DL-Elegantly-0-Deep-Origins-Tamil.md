@@ -4,15 +4,14 @@
 
 ஆழக்கற்றல் தற்போது புதிய துறை போல எல்லாருக்கும் தோன்றுகிறது. ஆனால் உண்மையில் இது ஒரு பழங்கதை. மனித குலம் தோன்றிய்து போதே, மனிதன் பகுத்தறிய ஆரம்பித்தபோதே இந்த துறை தோன்றிவிட்டது எனலாம். 
 
-மூளை எப்படி சிந்திக்கிறது என்று பார்ப்போம்:
+ஆழக்கற்றலை பிரிந்துகொள்ள  மூளை எப்படி சிந்திக்கிறது என்பதைப் புரிந்துகொள்வது அவசியம்
 
-1. மூளை யோசிக்கிறது
+1. சிந்தனை மூளையில் உதயமாகிறது
 2. மூளையில் கோடிக்கணக்கான நீயூரான்கள் எனப்படும் செல்கள் உள்ளன.
 3. இந்து நியூரான்கள் ஒரு ஒருங்கிணைந்த “நுண்ணறிவு” வலையமைப்பாக இணைந்து செயல்படுகின்றன, இது சிந்திக்கவும், உணரவும், செயல்படவும் உதவுகிறது
 
+பல ஆண்டுகாளாக பல விஞ்ஞானிகள் அல்லும் பகலும் ஆராச்சிகள் செய்து மூளை எவ்வாறு செயல்படுகிறது என்பதைக் கண்டறிந்தனர்.
 
-
-this common knowledge is actually the result of millennia of “not so common” research and investigation; research that has been punctuated by short, intense bursts of progress and long, debilitating periods of regress. 
 
 Historical evidence shows that the brain has been a constant object of study from antiquity (B.C.E). Scientists from ancient times, across several civilizations, studied the brain to comprehend its functions and used that knowledge for medical purposes  (reference: images of Indian historical figures who studied the brain including Charaka, Sushruta, trepanation in Harappa: https://bit.ly/38tt9L5; Babylonian, Egyptian efforts). 
 
