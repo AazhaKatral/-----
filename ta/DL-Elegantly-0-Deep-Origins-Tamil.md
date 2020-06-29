@@ -74,6 +74,7 @@
     <td valign="center"><img src="../img/en_US/chapter_0/16th_and_17th_century_Brain_images_2.gif"></td>
   </tr>
 </table>
+
 <br/>
 
 
