@@ -9,7 +9,7 @@
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/chapter_1/Trilobyte_Sunlight_vision.jpg"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Trilobyte_LightSwitchTheory.jpg"></img>
 </div>
 
 <br/>
@@ -27,9 +27,9 @@
     <td align="center">Meme</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Trilobyte.png"></td>
-    <td valign="center"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td valign="center"><img src="../img/en_US/Vivek_meme.png"></td>    
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Vivek_meme.png"></td>    
   </tr>
 </table>
 <br/>
@@ -44,8 +44,8 @@
     <td align="center">Number of species (Time vs Genera)</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/Picture1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Picture1.png"></td>
   </tr>
 </table>
 <br/>
@@ -54,7 +54,7 @@
 **சார்லஸ் டார்வின்** (**Charles Darwin**) தனது **பரிணாமக் கொள்கையில்** (**Theory of Evolution**), விலங்குகளின் ஒளி உணர் திறனால் ஏற்பட்ட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை.  அவர் தனது **இயற்கை தேர்வுக் கோட்பாடில்** (**Theory of Natural selection**) உயிர்களின் பரிணாம வளர்ச்சியில் இயற்கையின் பங்கு முக்கியம் என்கிறார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/CharlesDarwin.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CharlesDarwin.png"></img>
 </div>
 
 <br/>
@@ -66,7 +66,7 @@
 அந்த சமயத்தில் தான் **ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை** (**Oxford University**) சார்ந்த உயிரியல் விஞ்ஞானி **ஆண்ரூ பார்கர்** தனது **பார்வை மாற்றுக் கொள்கை** மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/AndrewParker.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/AndrewParker.png"></img>
 </div>
 
 <br/>
@@ -93,8 +93,8 @@
     <td align="center">தலைமைச்செயலகமான மூளை</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/HumanBrain_2.jpg"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/HumanBrain_2.jpg"></td>
   </tr>
 </table>
 <br/>
@@ -111,7 +111,7 @@
 **கேலன்** (சி .130-200) ரோமானியப் பேரரசில் மிகவும் பிரபலமான மருத்துவர், உடற்கூறியல் நிபுணர், எழுத்தாளர் மற்றும் தத்துவஞானி, பேரரசர் மார்கஸ் ஆரேலியஸின் தனிப்பட்ட மருத்துவராக பணியாற்றியவர். 
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/AeliusGalenus.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/AeliusGalenus.png"></img>
 </div>
 
 <br/>
@@ -124,7 +124,7 @@
 **அவிசென்னா** (**இப்னு சினா**) (980-1037), என்ற பல்துறை வல்லுநர் பொருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Avicenna.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Avicenna.png"></img>
 </div>
 
 <br/>
@@ -132,7 +132,7 @@
 1503 ஆம் ஆண்டில் மனித நேயவாதியான **கிரிகோர் ரீச்** (**Gregor Reisch**) _மார்கரிட்டா ஃபிலசாபிகா_ என்ற  நூலை வெளியிட்டார்.  பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகம், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது என்கிறது. 
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/GregorReisch.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/GregorReisch.png"></img>
 </div>
 
 <br/>
@@ -143,7 +143,7 @@
 லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர்.  ஓவியம், உடற்கூறு, வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர்.  அவர் கண்களே அறிவின் திறவுகோள் என்றார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Leonardo_da_Vinci.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Leonardo_da_Vinci.png"></img>
 </div>
 
 <br/>
@@ -164,9 +164,9 @@
     <td align="center">da Vinci’s Inverted Retinal Image</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1490.png"></td>
-    <td valign="center"><img src="../img/en_US/Drawing_by_da_Vinci_in_1506.png"></td>
-    <td valign="center"><img src="../img/en_US/DaVinci_InvertedRetinalImage.png"></td>    
+    <td valign="center"><img src="../img/en_US/chapter_1/Drawing_by_da_Vinci_in_1490.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Drawing_by_da_Vinci_in_1506.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/DaVinci_InvertedRetinalImage.png"></td>    
   </tr>
 </table>
 <br/>
@@ -178,7 +178,7 @@
 **ரீனே டிகார்ட்ஸ்** (**Rene Descartes**) என்ற நவீன தத்துவ விஞ்ஞானி **இயற்கணித** (**algebra**), **சமன்பாடுகளின்** (**equations**) மூலம் **வடிவியல்** (**geometry**) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/ReneDescartes.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/ReneDescartes.png"></img>
 </div>
 
 <br/>
@@ -186,7 +186,7 @@
 அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  **மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா** (**Meditationes de Prima Philosophia**) என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Descartes_Drawing_MechanicsOfBiologicalVision.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Descartes_Drawing_MechanicsOfBiologicalVision.png"></img>
 </div>
 
 <br/>
@@ -194,7 +194,7 @@
 அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில் ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார்.  மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Descartes_Drawing_RetinalImage.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Descartes_Drawing_RetinalImage.png"></img>
 </div>
 
 <br/>
@@ -202,14 +202,14 @@
 டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதி முடித்த புத்தகத்தில்.  மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார்.  இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார்.  மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.  அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம்.  ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/ThomasWillis.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/ThomasWillis.png"></img>
 </div>
 
 <br/>
 1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/CerebriAnatome_drawings.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CerebriAnatome_drawings.png"></img>
 </div>
 
 <br/>
@@ -225,7 +225,7 @@
 வில்லிஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் **வில்லியம் பிரிக்ஸ்** (**William Briggs**) இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/WilliamBriggs_OpticTractFusion.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/WilliamBriggs_OpticTractFusion.png"></img>
 </div>
 
 <br/>
@@ -233,7 +233,7 @@
 1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/WilliamBriggs_1682_visual_pathway_drawing.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/WilliamBriggs_1682_visual_pathway_drawing.png"></img>
 </div>
 
 <br/>
@@ -241,7 +241,7 @@
 1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/IsaacNewton_1682_visual_pathway_drawing.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/IsaacNewton_1682_visual_pathway_drawing.png"></img>
 </div>
 
 <br/>
@@ -266,8 +266,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">19th century visual region of Brain</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/FranzGall_head.png"></td>
-    <td valign="center"><img src="../img/en_US/19th_century_visual_region_of_Brain.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/FranzGall_head.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/19th_century_visual_region_of_Brain.png"></td>
   </tr>
 </table>
 <br/>
@@ -279,7 +279,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 **லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/LordEdgarAdrian.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/LordEdgarAdrian.png"></img>
 </div>
 
 <br/>
@@ -287,7 +287,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/CatToeSensoryNerve_recordings.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CatToeSensoryNerve_recordings.png"></img>
 </div>
 
 <br/>
@@ -314,8 +314,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">Nobel Prize-winning neurophysiologists டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Superman_and_Batman.png"></td>
-    <td valign="center"><img src="../img/en_US/Hubel_and_Wiesel.png"></td>    
+    <td valign="center"><img src="../img/en_US/chapter_1/Superman_and_Batman.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Hubel_and_Wiesel.png"></td>    
   </tr>
 </table>
 
@@ -332,8 +332,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">Orientation selectivity experiment with cat</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/OrientationSelectivityExperiment_with_Cat.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/OrientationSelectivityExperiment_with_Cat.png"></td>
   </tr>
 </table>
 <br/>
@@ -346,7 +346,7 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
 <br/>
 
 <div style='float: center'>
-  <img style='width: 600px' src="../img/en_US/Minions_meme.png"></img>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Minions_meme.png"></img>
 </div>
 
 <br/>
@@ -365,8 +365,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">Meme</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/CatVisualCortex_LineOrientation_vs_ElectricalActivity.png"></td>
-    <td valign="center"><img src="../img/en_US/Vadivelu_meme.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/CatVisualCortex_LineOrientation_vs_ElectricalActivity.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Vadivelu_meme.png"></td>
   </tr>
 </table>
 <br/>
@@ -386,8 +386,8 @@ In 1738 John Taylor produced an improved and very influential pathway diagram. T
     <td align="center">Neuron layers of eyes</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Sujatha_icon_1.png"></td>
-    <td valign="center"><img src="../img/en_US/NeuronLayersOfEyes.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/NeuronLayersOfEyes.png"></td>
   </tr>
 </table>
 <br/>
@@ -481,8 +481,8 @@ The figure on the left above, shows how visual input travels from the eye to our
     <td align="center">Kolb and Whishaw: Brain Visual Cortex</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/BrainVisualCortex.png"></td>
-    <td valign="center"><img src="../img/en_US/Kolb_and_Whishaw_BrainVisualCortex.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/BrainVisualCortex.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Kolb_and_Whishaw_BrainVisualCortex.png"></td>
   </tr>
 </table>
 <br/>
