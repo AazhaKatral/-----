@@ -162,8 +162,6 @@
 
 இந்த நிகழ்வு ஆழக்கற்றல் துறையில் ஒரு முக்கிய மைல் கல்லாக பார்க்கப்பட்டது. இது உலகெங்கிலும் உள்ள மாணவர்கள், ஆராய்ச்சியாளர்கள் மற்றும் பெரு நிறுவனங்களை ஆழக்கற்றல் துறைக்குள் இழுத்துவந்தது. பெருநிறுவன முதலீட்டின் ஆதரவுடன் விஞ்ஞான முயற்சிகள் மற்றும் முன்னேற்றங்களைத் தூண்டியது. இதன் விளைவாக, இன்று, ஆழக்கற்றல் அமேசானின் அலெக்சா, டெஸ்லாவின் ஆட்டோ பைலட், கூகிளின் மொழிபெயர்ப்பு இயந்திரம் மற்றும் பயன்பாடுகளுக்கு அடித்தளமாக உள்ளது.
  
-This event is considered the tipping point for Deep Learning. It made students, researchers and corporations around the world sit up, take notice and triggered a wave of scientific efforts and breakthroughs backed by corporate investment in DL. Consequently, today, DL powers several marquee apps like Amazon’s Alexa, Tesla’s Autopilot, Google’s Translation engine and many more. 
-
 The true appeal of Deep Learning is that it has improved the accuracy of a great number of computational tasks from 95 percent to 99 percent or better— that tricky few percent that can make an automated service feel as though it works by magic. Although the concrete, interactive code examples throughout this book will dispel this apparent wizardry, deep learning has indeed imbued machines with superhuman capability on complex tasks as diverse as face recognition, text summarization, and elaborate board games. Given all these prominent advances, it is unsurprising that “deep learning” has become synonymous with “artificial intelligence” in the popular press, the workplace, and the home.
 
 2. See bit.ly/ aiindex18 for a review of machine performance relative to humans.
