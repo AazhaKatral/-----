@@ -201,16 +201,14 @@ A Summary Deep Learning Timeline
 ஸ்டூவர்ட் ட்ரேஃபஸ் தனது ஆய்வறிக்கையில், “The numerical solution of variational problems” என்பது முந்தைய பரவல் மாதிரிகள் பயன்படுத்தும் டைனமிக் புரோகிராமிங்கிற்கு பதிலாக எளிய  சங்கிலி விதியைப் பயன்படுத்தும் ஒரு பரவல் மாதிரியைக் காட்டுகிறது. ஆழ்ந்த கற்றலின் எதிர்காலத்தை பலப்படுத்தும் மற்றொரு சிறிய படி இது.
 
 
-1962
-1962
-Backpropagation With Chain Rule
- 
-Stuart Dreyfus in his paper, “The numerical solution of variational problems” shows a backpropagation model that uses simple derivative chain rule, instead of dynamic programming which earlier backpropagation models were using. This is yet another small step that strengthens the future of deep learning.
 1965
 1965
-Birth Of Multilayer Neural Network
+
+மல்டிலேயர் நியூரல் நெட்வொர்க்கின் பிறப்பு
  
-Alexey Grigoryevich Ivakhnenko along with Valentin Grigorʹevich Lapa, creates hierarchical representation of neural network that uses polynomial activation function and are trained using Group Method of Data Handling (GMDH). It is now considered as the first ever multi-layer perceptron and Ivakhnenko is often considered as father of deep learning.
+அலெக்ஸி கிரிகோரிவிச் இவாக்னென்கோ, வாலண்டைன் கிரிகோரெவிச் லாபாவுடன் இணைந்து, நரம்பியல் வலையமைப்பின் படிநிலை பிரதிநிதித்துவத்தை உருவாக்குகிறார், இது பல்லுறுப்புறுப்பு செயல்படுத்தும் செயல்பாட்டைப் பயன்படுத்துகிறது மற்றும் குழு முறை தரவு கையாளுதலைப் பயன்படுத்தி பயிற்சி பெறுகிறது (GMDH).இவாக்னென்கோ ஆழ்ந்த கற்றலின் தந்தையாக அறியப்படுகிறார்.
+
+
 1969
 1969
 The Fall Of Perceptron
