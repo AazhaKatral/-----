@@ -211,6 +211,11 @@ A Summary Deep Learning Timeline
 
 1969
 1969
+
+பெர்செப்டிரானின் வீழ்ச்சி
+ 
+மார்வின் மின்ஸ்கி மற்றும் சீமோர் பேப்பர் ஆகியோர் “பெர்செப்டிரான்ஸ்” புத்தகத்தை வெளியிடுகிறார்கள், அதில் ரோசன்ப்ளாட்டின் பெர்செப்டிரானால் XOR போன்ற சிக்கலான செயல்பாடுகளை தீர்க்க முடியாது என்பதைக் விளக்குகிறார். இத்தகைய செயல்பாட்டிற்கு பெர்செப்டிரான்கள் பல மறைக்கப்பட்ட அடுக்குகளில் வைக்கப்பட வேண்டும், இது பெர்செப்டிரான் கற்றல் வழிமுறையை சமரசம் செய்கிறது. இந்த பின்னடைவு நரம்பியல் நெட்வொர்க் ஆராய்ச்சியில் தோய்வை ஏற்படுத்துகிறது.
+
 The Fall Of Perceptron
  
 Marvin Minsky and Seymour Papert publishes the book “Perceptrons” in which they show that Rosenblatt’s perceptron cannot solve complicated functions like XOR. For such function perceptrons should be placed in multiple hidden layers which compromises perceptron learning algorithm. This setback triggers the winter of neural network research.
