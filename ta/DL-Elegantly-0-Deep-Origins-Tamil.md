@@ -294,4 +294,6 @@ Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their 
  
 | Year(s) | Name | Image | Description
 | --- | --- | --- | ---
-| 1943 | | "../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.jpg" | 
+| 1943 | | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /> | 
