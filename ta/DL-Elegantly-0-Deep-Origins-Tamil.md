@@ -146,61 +146,78 @@
 
 இருந்தபோதிலும், ஆர்வமுள்ள ஆராய்ச்சியாளர்கள் நிதியுதவி இல்லாமல் தங்கள் பணியை மேற்கொண்டனர்! குனிஹிகோ புகுஷிமா 1979 ஆம் ஆண்டில் நியோகாக்னிட்ரான் எனப்படும் ஒரு செயற்கை நரம்பியல் வலையமைப்பை உருவாக்கினார். இது பல அடுக்கு மற்றும் படிநிலை வலைப்பின்னல்களைக் கொண்டிருந்தது. இந்த பல அடுக்கு, படிநிலை வடிவமைப்பு கணினிகள் காட்சி வடிவங்களை அங்கீகரிக்க கற்றுக்கொள்ள உதவியது. மாடல்களை உருவாக்கும் போது பின் பரவல் முறை மூலம் மேம்படுத்தப்பட்டு பிழைகள் தனியாக வெளியேற்றப்பட்டதன் மூலம் பற்றுவிக்கும் முறையில் கட்டுப்படுதுவதில் ஆதிக்கம் செலுத்த முடிந்தது. செப்போ லின்னெய்ன்மா தனது மேற்படிப்புக்கான ஆய்வறிக்கையை எழுதியபோது, தனது அறிக்கையில் FORTRAN நிரலியை இணைத்து பின்நோக்கி  பரவல் முறையை விளக்கினார். ஆனால் பின்நோக்கி பரவல் நியூரல் நெட்வொர்க்கில் மிக குறைவாகவே பயன்படுத்தப்பட்டது.  AI work then was primarily focused on top-down, rule based expert systems. Bottom up AI was still languishing. 
 
-The first signs of revival were displayed when in 1985 Hinton and Williams demonstrated back propagation in a neural network which could provide interesting distribution representations. Yann LeCun followed this up by providing the first practical demonstration of backpropagation at Bell Labs in 1989 by combining convolutional neural networks with back propagation to read handwritten digits. The combination of convolutional neural networks with a backpropagation system was then used to read the numbers of handwritten checks spurring business interest. 
+1985 ஆம் ஆண்டில் ஹிண்டன் மற்றும் வில்லியம்ஸ் நியூரல் நெட்வொர்க்கின் back propagation எனப்படும் பின் பவரலை செயல் விளக்கம்(demonstrated) மூலம் காட்டினர். 1989 ஆம் ஆண்டு  பெல் ஆராச்சிமையத்தில் யான் லீகூன் எண்களை கையால் எழுதி மாற்றத்தக்க நரம்பியல் வலைப்பின்னல்(convolutional neural network) முறைமூலம் எப்படி எண்களைக் கண்டறிவது என்று விளக்கினார். அன்றிலிருந்து  காசோலையில் உள்ள கையெழுத்துக்களை கண்டறிய மாற்றத்தக்க நரம்பியல் வலைப்பின்னல் முறை பயன்படுத்தப்படுகிறது.  
 
-Interestingly, though this was a period of renewed interest, the 1985-90s actually are considered by the scientific AI community as the second lull in artificial intelligence. Hardware and software issues plagued the progress of research in neural networks and deep learning. Deep Learning algorithms while producing good results in lab conditions, struggled to scale well to industrial proportions, were quite unstable and seemed unable to generate consistent results. 
-Despite these adverse conditions, passionate individuals continued to move the needle. Vladimir Vapnik and Dana Cortes developed the support vector machine which was a data driven system for mapping and recognizing similar data in 1995. Long short-term memory or LSTM was developed in 1997 by Juergen Schmidhuber and Sepp Hochreiter developed Recurrent Neural Networks (RNN).
+1985-90களில் நிரூபிக்க முடிந்த சில ஆய்வுகள் இருந்த போதிலும் ஆர்சிஃபிஷியல் இண்டலிஜெண்ட் என்று அழைக்கப்படும் செயற்கை நுண்ணறிவுத்துறையின் வளர்சி மந்தமாகவே இருந்தது.  வன்பொருள் மற்றும் மென்பொருள் துறையில் ஏற்பட்ட வளர்சி செயற்கை நுண்ணறிவுத்துறையை சற்று பின்னுக்குத் தள்ளியது.  ஆழக்கற்றல் அல்காரிதம்களின் முடிவுகள் ஆய்வகத்தில் துள்ளியமாக வேலை செய்தாலும், தொழிற்சாலைகளில் பெரிய அளவில் பயன்படுத்தும் போது முடிகள் வேறுபட்டும், நிலையற்றும், சீரற்றும் இருந்தது. இப்படிப்பட்ட மோசமான சூழலிலும், தன்னார்வலர்கள் சிலர் தொடர்சியாக முயன்றார்கள். 1995 ஆம் ஆண்டு 
+விளாடிமிர் வாப்னிக் மற்றும் டானா கோர்டெஸ் ஒத்த தரவுகளை வகைப்படுத்த வெட்டர் இயந்திரம் ஒன்றை உருவாக்கினார்கள். நீண்ட குறுகிய கால நினைவகம்(Long short-term memory) அல்லது LSTM 1997 இல் ஜூர்கன் ஷ்மிதூபரால் உருவாக்கப்பட்டது. அதைத் தொடர்ந்து செப் ஹோக்ரைட்டர் தொடர்ச்சியான நரம்பியல் வலையமைப்ப்ய்(ecurrent Neural Networks) எனப்படும் RNN ஐ உருவாக்கினார்.
 
-Then the next significant deep learning advancement happened due to progress help from unexpected quarters! 
-Around 1999 computers began to take advantage of GPU processing which were introduced to accelerate the massive amounts of mathematical operations needed for fast image processing and display. Faster processing meant increased computational speeds of 1000 times over a 10-year span. Deep Learning researchers were quick to note that this was exactly what deep neural networks needed and pounced upon GPUs! This quickly led to neural networks competing with support vector machines. Neural networks began to offer better results using the same data, though a tad slower when compared to a support vector machine.
+ஆழக்கற்றல் துறையின் அடுத்த மிக முக்கியமான முன்னேற்றம் 1999 இல் நிகழ்ந்தது. அந்த சமயத்தில் GPU எனப்படும் அதிக செயல் திறந் கொண்ட நினைவகங்கள் கொண்ட கணிகள் செயல்பாட்டுக்கு வந்தன. 10 ஆண்டுகால இடைவெளியில் 1000 மடங்கு அதிவேக செயலாக்கத் திறனுடன் கணினிகள் இயங்கின. இதன் விளைவாக நியூரல் நெட்வொர்க்குகள் வெக்டார் இயந்திரங்களை பயன்படுத்தி ஒரு சீரான, நிலையான முடிவுகளை வெளியிட்டன.
 
-Then in 2001, a research report compiled by the META Group (now called Gartner) was published outlining the challenges and opportunities of massive, three-dimensional, data growth (Volume, Velocity and Variety). This report marked the onslaught of the Big Data and Data Driven Science phenomenon. It described the increasing volume and speed of data as increasing the range of data sources and types. 
+பின்னர் 2001 ஆம் ஆண்டில், மெட்டா குழுமத்தால் (இப்போது கார்ட்னர் என்று அழைக்கப்படுகிறது) தொகுக்கப்பட்ட ஒரு ஆய்வு அறிக்கை பிரமாண்டமான, முப்பரிமாண, தரவு வளர்ச்சியின் (Volume, Velocity and Variety) சவால்கள் மற்றும் வாய்ப்புகளை கோடிட்டுக் காட்டியது. இந்த அறிக்கை பிக் டேட்டா மற்றும் டேட்டா டிரைவன் சயின்ஸ் நிகழ்வின் வளர்சியை விளக்கியது. தரவுகளின் அளவு மற்றும் வேகத்தை தரவு மூலங்கள் மற்றும் வகைகளின் வரம்பை அதிகரிப்பதாக இது விவரித்தது.
 
-Simultaneously, on another front, the cloud phenomenon occurred giving many organizations and individuals democratized access to large compute resource. Deep Learning, which was all data driven and needed massive compute power, suddenly was back in black in a democratized fashion. Fei-Fei Li, an AI professor at Stanford (who launched ImageNet in 2009) began assembling a free, open database of more than 14 million labeled images to the community at large. These images were the inputs needed to train deep neural nets. The speed of GPUs had increased significantly by 2011, making it possible to train deep convolutional neural networks without the need for layer by layer pre-training. Deep learning now held advantages in efficiency, efficacy and speed.
 
- Then in 2012, Google Brain released the results of an unusual, free-spirited project called the Cat Experiment which explored the difficulties of unsupervised learning. Deep learning deployed supervised learning, which means the convolutional neural net is trained using labeled data like the images from ImageNet. This experiment used a neural net which was spread over 1,000s of computers where ten million unlabeled images were taken randomly from YouTube, as inputs to the training software.  
+அதே சமயம் கிளவுட் கம்ப்யூட்டிங் துறையில் வளர்சியால் தேவைக்கேற்ற அளவு கணினி திறன்களை இணையம் மூலம் பெற முடிந்தது.  அதிக அளவிலான தரவுகளை கையாளும் முறை எளிமையானது.  ஸ்டான் ஃபர்ட் பல்கலைக்கழக பேராசியர் ஃபீ-ஃபை லி, 14 மில்லியனுக்கும் அதிகமான பெயரிடப்பட்ட படங்களின் இலவச, திறந்த தரவுத்தளத்தை சமூகத்திற்கு அற்பனித்தார். இந்த படங்கள் ஆழமான நரம்பியல் வலைகளைப் பயிற்றுவிக்க உதவின. 2011 ஆம் ஆண்டளவில் ஜி.பீ.யுகளின் வேகம் கணிசமாக அதிகரித்துள்ளது. இதனால்  ஆழமான மாற்றதகு நரம்பியல் வலைப்பின்னல்(convolutional neural net) மூலம் அடுக்கடுக்காக பயிற்றுவிப்பதில்,  நேரடியான பயிற்சி அளிக்க முடிந்தது. 
+
+2012 இல் கூகிள் பூனை பரிசோதனை என்ற பெயரில் மேற்பார்வை செய்யப்படாத தரவுகளை கையாள்வதில் உள்ள சிக்கல்களை பற்றிய ஆய்வை வெளியிட்டது.  இதற்கு முன் இமேஜ் நெடட்டில் கிடைத்த தரவுகளைக்கொண்டு மேற்பார்வை செய்யப்பட்டு, லேபில் செய்யப்பட்ட தரவுகளைக் கொண்டு மாற்றதகு நரம்பியல் வலைப்பின்னல்(convolutional neural net) மூலம் பயிற்றுவிக்கப்பட்டது. ஆனால் இந்த சோதனை யூ-ட்யூப் காணொலியில் இருந்து ஆயிரக்கணக்கான கணினிகளைப் பயன்படுத்தில் பல மில்லியன் படங்களை தோராயமாக பிரித்தெடுத்து பயிற்றுவிக்க தேவையான தரவுகள் உருவாக்கப்பட்டது. 
+
+
+இந்த நிகழ்வு ஆழக்கற்றல் துறையில் ஒரு முக்கிய மைல் கல்லாக பார்க்கப்பட்டது. இது உலகெங்கிலும் உள்ள மாணவர்கள், ஆராய்ச்சியாளர்கள் மற்றும் பெரு நிறுவனங்களை ஆழக்கற்றல் துறைக்குள் இழுத்துவந்தது. பெருநிறுவன முதலீட்டின் ஆதரவுடன் விஞ்ஞான முயற்சிகள் மற்றும் முன்னேற்றங்களைத் தூண்டியது. இதன் விளைவாக, இன்று, ஆழக்கற்றல் அமேசானின் அலெக்சா, டெஸ்லாவின் ஆட்டோ பைலட், கூகிளின் மொழிபெயர்ப்பு இயந்திரம் மற்றும் பயன்பாடுகளுக்கு அடித்தளமாக உள்ளது.
  
-This event is considered the tipping point for Deep Learning. It made students, researchers and corporations around the world sit up, take notice and triggered a wave of scientific efforts and breakthroughs backed by corporate investment in DL. Consequently, today, DL powers several marquee apps like Amazon’s Alexa, Tesla’s Autopilot, Google’s Translation engine and many more. 
-
-The true appeal of Deep Learning is that it has improved the accuracy of a great number of computational tasks from 95 percent to 99 percent or better— that tricky few percent that can make an automated service feel as though it works by magic. Although the concrete, interactive code examples throughout this book will dispel this apparent wizardry, deep learning has indeed imbued machines with superhuman capability on complex tasks as diverse as face recognition, text summarization, and elaborate board games. Given all these prominent advances, it is unsurprising that “deep learning” has become synonymous with “artificial intelligence” in the popular press, the workplace, and the home.
+ஆழக்கற்றல் மூலம் 95 முதல் 99 சதவிகித துள்ளியமான முடிவுகளை பெறுவதன் மூலம் மிகப்பெரிய அளவில் பயனடைய முடியும். இந்த புத்தகத்தில் உள்ள நிரல்கள் மூலம் அதிக திறன்வாய்ந்த கணினிகளைக்கொண்டு மிகவும் சிக்கலான முகம் கண்டறிதல், உரை சுருக்குதல் மற்றும் விரிவான பலகை விளையாட்டுகள் போன்ற சிக்கலான பணிகள் எவ்வாறு சாத்தியப்படுகிறது என்பதை எளிய முறையில் விளக்குகிறோம். இத்துணை பெரிய முன்னேற்றத்தின் விளையாவாக ஆழக்கற்றலை என்ற துறை செயற்கை நுண்ணறிவு துறையோடு ஒத்த துறையாக பணியிடங்களிளும், பத்திரிகைகளிலும் கையாளப்படுகிறது.
 
 2. See bit.ly/ aiindex18 for a review of machine performance relative to humans.
 
-In summary, these are exciting times, because, as you’ll discover over the course of this book, perhaps only once in a lifetime has a single concept has cause disruption so widely in such a short period of time. We are delighted that you too have developed an interest in deep learning and we can’t wait to share our enthusiasm for this unprecedented, transformative technique with you.
-
+சுருக்கமாக சொல்லப்போனால்  உலகையே புரட்டிப்போட்டும் சக்தி  ஆழக்கற்றல் துறைக்கு உண்டு என்பதை நீங்கள் அதிவிரைவில் உணர்வீர்கள். ஆழக்கற்றல் நீங்கள் கொண்டுள்ள ஆர்வத்தினை எங்களால் உணர முடிகிறது.  வரலாறுகாணாத மாற்றங்களை உருவாக்கும் வல்லமை கொண்ட இந்த துறைக்குள் உங்களை அழைத்துச்செல்வதில் பெரு மகிழ்சி அடைகிறோம்.
 
 A Summary Deep Learning Timeline
 
 1943
 1943
-McCulloch Pitts Neuron – Beginning
+
+மெக்கல்லோச் பிட்ஸ் நியூரான் - ஆரம்பம்
  
-Walter Pitts and Warren McCulloch in their paper, “A Logical Calculus of the Ideas Immanent in Nervous Activity” shows the mathematical model of biological neuron. This McCulloch Pitts Neuron has very limited capability and has no learning mechanism. Yet it will lay the foundation for artificial neural network & deep learning.
+வால்டர் பிட்ஸ் மற்றும் வாரன் மெக்குல்லோக் ஆகியோர் தங்கள் தாளில், “நரம்பியல் செயல்பாட்டில் உள்ள சிந்தனைகளின் தர்க்கரீதியான கால்குலஸ்” உயிரியல் நியூரானின் கணித மாதிரியைக் காட்டுகிறது. இந்த மெக்கல்லோச் பிட்ஸ் நியூரானுக்கு மிகக் குறைந்த திறன் உள்ளது மற்றும் கற்றல் வழிமுறை இல்லை. ஆயினும்கூட இது செயற்கை நரம்பியல் வலையமைப்பு மற்றும் ஆழமான கற்றலுக்கான அடித்தளத்தை அமைக்கும்
 1957
 1957
-Frank Rosenblatt Creates Perceptron
+
+
+ஃபிராங்க் ரோசன்ப்ளாட் பெர்செப்டிரானை உருவாக்குகிறார்
  
-In his paper “The Perceptron: A Perceiving and Recognizing Automaton”, Rosenblatt shows the new avatar of McCulloch-Pitts neuron – ‘Perceptron’ that had true learning capabilities to do binary classification on it’s own. This inspires the revolution in research of shallow neural network for years to come, till first AI winter.
+ரோசன்ப்ளாட் தனது “தி பெர்செப்டிரான்: எ பெர்சிவிங் அண்ட் ரெக்னூசிங் ஆட்டோமேட்டன்” என்ற கட்டுரையில், மெக்கல்லோச்-பிட்ஸ் நியூரானின் புதிய அவதாரத்தைக் காட்டுகிறார் - ‘பெர்செப்டிரான்’, பைனரி வகைப்பாட்டைச் செய்ய உண்மையான கற்றல் திறன்களைக் கொண்டிருந்தது. இது நரம்பியல் வலையமைப்பின் ஆராய்ச்சியில் புரட்சியை ஊக்குவிக்கிறது.
+
+
 1960
 1960
-The First Backpropagation Model
+
+முதல்  பின் நோக்கு பரவலின் மாதிரி 
  
-Henry J. Kelley in his paper, “Gradient Theory of Optimal Flight Paths” shows the first ever version of continuous backpropagation model. His model is in context to Control Theory, yet it lays the foundation for further refinement in the model and would be used in ANN in future years.
+ஹென்றி ஜே. கெல்லி தனது ஆய்வறிக்கையில், “Gradient Theory of Optimal Flight Paths” தொடர்ச்சியான பின் நோக்கு பரவலின் மாதிரியின் முதல் பதிப்பைக் காட்டுகிறது. அவரது மாதிரி கட்டுப்பாட்டு கோட்பாட்டின் சூழலில் உள்ளது, மேலும் மேன்மை படுத்துவதற்கான அடித்தளத்தை அமைக்கிறது மற்றும் எதிர்காலத்தில் ANN இல் பயன்படுத்தப்பட்டது.
+
+
 1962
 1962
-Backpropagation With Chain Rule
+
+சங்கிலி விதியுடன்  பின் நோக்கு பரவல்
  
-Stuart Dreyfus in his paper, “The numerical solution of variational problems” shows a backpropagation model that uses simple derivative chain rule, instead of dynamic programming which earlier backpropagation models were using. This is yet another small step that strengthens the future of deep learning.
+ஸ்டூவர்ட் ட்ரேஃபஸ் தனது ஆய்வறிக்கையில், “The numerical solution of variational problems” என்பது முந்தைய பரவல் மாதிரிகள் பயன்படுத்தும் டைனமிக் புரோகிராமிங்கிற்கு பதிலாக எளிய  சங்கிலி விதியைப் பயன்படுத்தும் ஒரு பரவல் மாதிரியைக் காட்டுகிறது. ஆழ்ந்த கற்றலின் எதிர்காலத்தை பலப்படுத்தும் மற்றொரு சிறிய படி இது.
+
+
 1965
 1965
-Birth Of Multilayer Neural Network
+
+மல்டிலேயர் நியூரல் நெட்வொர்க்கின் பிறப்பு
  
-Alexey Grigoryevich Ivakhnenko along with Valentin Grigorʹevich Lapa, creates hierarchical representation of neural network that uses polynomial activation function and are trained using Group Method of Data Handling (GMDH). It is now considered as the first ever multi-layer perceptron and Ivakhnenko is often considered as father of deep learning.
+அலெக்ஸி கிரிகோரிவிச் இவாக்னென்கோ, வாலண்டைன் கிரிகோரெவிச் லாபாவுடன் இணைந்து, நரம்பியல் வலையமைப்பின் படிநிலை பிரதிநிதித்துவத்தை உருவாக்குகிறார், இது பல்லுறுப்புறுப்பு செயல்படுத்தும் செயல்பாட்டைப் பயன்படுத்துகிறது மற்றும் குழு முறை தரவு கையாளுதலைப் பயன்படுத்தி பயிற்சி பெறுகிறது (GMDH).இவாக்னென்கோ ஆழ்ந்த கற்றலின் தந்தையாக அறியப்படுகிறார்.
+
+
 1969
 1969
-The Fall Of Perceptron
+
+பெர்செப்டிரானின் வீழ்ச்சி
  
-Marvin Minsky and Seymour Papert publishes the book “Perceptrons” in which they show that Rosenblatt’s perceptron cannot solve complicated functions like XOR. For such function perceptrons should be placed in multiple hidden layers which compromises perceptron learning algorithm. This setback triggers the winter of neural network research.
+மார்வின் மின்ஸ்கி மற்றும் சீமோர் பேப்பர் ஆகியோர் “பெர்செப்டிரான்ஸ்” புத்தகத்தை வெளியிடுகிறார்கள், அதில் ரோசன்ப்ளாட்டின் பெர்செப்டிரானால் XOR போன்ற சிக்கலான செயல்பாடுகளை தீர்க்க முடியாது என்பதைக் விளக்குகிறார். இத்தகைய செயல்பாட்டிற்கு பெர்செப்டிரான்கள் பல மறைக்கப்பட்ட அடுக்குகளில் வைக்கப்பட வேண்டும், இது பெர்செப்டிரான் கற்றல் வழிமுறையை சமரசம் செய்கிறது. இந்த பின்னடைவு நரம்பியல் நெட்வொர்க் ஆராய்ச்சியில் தோய்வை ஏற்படுத்துகிறது.
+
+
 1970
 1970
 Backpropagation Is Computer Coded
@@ -291,5 +308,7 @@ Godfathers Win Turing Award
  
 Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their immense contribution in advancements in area of deep learning and artificial intelligence. This is a defining moment for those who had worked relentlessly on neural networks when entire machine learning community had moved away from it in 1970s.
  
-
-
+ 
+| Year(s) | Name | Image | Description
+| --- | --- | --- | ---
+| 1943 | | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.jpg" /> |
