@@ -311,7 +311,8 @@ Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their 
  
 | Year(s) | Name | Image | Description
 | --- | --- | --- | ---
-| 1943 | | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> |
-| 1957 | | <img src="../img/en_US/chapter_0/FrankRosenblattCreatesPerceptron.png" /> |
-| 1960 | | <img src="../img/en_US/chapter_0/HenryKelley_GradientTheoryOfOptimalFlightPaths.png" /> |
+| 1943 | WalterPitts & WarrenMcCulloch | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> |
+| 1957 | Frank Rosenblatt | <img src="../img/en_US/chapter_0/FrankRosenblattCreatesPerceptron.png" /> | Frank Rosenblatt creates Perceptron
+| 1960 | Henry Keller | <img src="../img/en_US/chapter_0/HenryKelley_GradientTheoryOfOptimalFlightPaths.png" /> |
+| 1962 | Stuart Dreyfus | <img src="../img/en_US/chapter_0/StuartDreyfus.png" /> | Back Propagation with Chain Rule
 
