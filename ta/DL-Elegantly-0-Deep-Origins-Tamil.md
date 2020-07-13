@@ -313,3 +313,5 @@ Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their 
 | --- | --- | --- | ---
 | 1943 | | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> |
 | 1957 | | <img src="../img/en_US/chapter_0/FrankRosenblattCreatesPerceptron.png" /> |
+| 1960 | | <img src="../img/en_US/chapter_0/HenryKelley_GradientTheoryOfOptimalFlightPaths.png" /> |
+
