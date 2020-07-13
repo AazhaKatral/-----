@@ -162,7 +162,7 @@
 
 இந்த நிகழ்வு ஆழக்கற்றல் துறையில் ஒரு முக்கிய மைல் கல்லாக பார்க்கப்பட்டது. இது உலகெங்கிலும் உள்ள மாணவர்கள், ஆராய்ச்சியாளர்கள் மற்றும் பெரு நிறுவனங்களை ஆழக்கற்றல் துறைக்குள் இழுத்துவந்தது. பெருநிறுவன முதலீட்டின் ஆதரவுடன் விஞ்ஞான முயற்சிகள் மற்றும் முன்னேற்றங்களைத் தூண்டியது. இதன் விளைவாக, இன்று, ஆழக்கற்றல் அமேசானின் அலெக்சா, டெஸ்லாவின் ஆட்டோ பைலட், கூகிளின் மொழிபெயர்ப்பு இயந்திரம் மற்றும் பயன்பாடுகளுக்கு அடித்தளமாக உள்ளது.
  
-The true appeal of Deep Learning is that it has improved the accuracy of a great number of computational tasks from 95 percent to 99 percent or better— that tricky few percent that can make an automated service feel as though it works by magic. Although the concrete, interactive code examples throughout this book will dispel this apparent wizardry, deep learning has indeed imbued machines with superhuman capability on complex tasks as diverse as face recognition, text summarization, and elaborate board games. Given all these prominent advances, it is unsurprising that “deep learning” has become synonymous with “artificial intelligence” in the popular press, the workplace, and the home.
+ஆழக்கற்றல் மூலம் 95 முதல் 99 சதவிகித துள்ளியமான முடிவுகளை பெறுவதன் மூலம் மிகப்பெரிய அளவில் பயனடைய முடியும். இந்த புத்தகத்தில் உள்ள நிரல்கள் மூலம் அதிக திறன்வாய்ந்த கணினிகளைக்கொண்டு மிகவும் சிக்கலான முகம் கண்டறிதல், உரை சுருக்குதல் மற்றும் விரிவான பலகை விளையாட்டுகள் போன்ற சிக்கலான பணிகள் எவ்வாறு சாத்தியப்படுகிறது என்பதை எளிய முறையில் விளக்குகிறோம். இத்துணை பெரிய முன்னேற்றத்தின் விளையாவாக ஆழக்கற்றலை என்ற துறை செயற்கை நுண்ணறிவு துறையோடு ஒத்த துறையாக பணியிடங்களிளும், பத்திரிகைகளிலும் கையாளப்படுகிறது.
 
 2. See bit.ly/ aiindex18 for a review of machine performance relative to humans.
 
