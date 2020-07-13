@@ -166,26 +166,41 @@
 
 2. See bit.ly/ aiindex18 for a review of machine performance relative to humans.
 
-In summary, these are exciting times, because, as you’ll discover over the course of this book, perhaps only once in a lifetime has a single concept has cause disruption so widely in such a short period of time. We are delighted that you too have developed an interest in deep learning and we can’t wait to share our enthusiasm for this unprecedented, transformative technique with you.
-
+சுருக்கமாக சொல்லப்போனால்  உலகையே புரட்டிப்போட்டும் சக்தி  ஆழக்கற்றல் துறைக்கு உண்டு என்பதை நீங்கள் அதிவிரைவில் உணர்வீர்கள். ஆழக்கற்றல் நீங்கள் கொண்டுள்ள ஆர்வத்தினை எங்களால் உணர முடிகிறது.  வரலாறுகாணாத மாற்றங்களை உருவாக்கும் வல்லமை கொண்ட இந்த துறைக்குள் உங்களை அழைத்துச்செல்வதில் பெரு மகிழ்சி அடைகிறோம்.
 
 A Summary Deep Learning Timeline
 
 1943
 1943
-McCulloch Pitts Neuron – Beginning
+
+மெக்கல்லோச் பிட்ஸ் நியூரான் - ஆரம்பம்
  
-Walter Pitts and Warren McCulloch in their paper, “A Logical Calculus of the Ideas Immanent in Nervous Activity” shows the mathematical model of biological neuron. This McCulloch Pitts Neuron has very limited capability and has no learning mechanism. Yet it will lay the foundation for artificial neural network & deep learning.
+வால்டர் பிட்ஸ் மற்றும் வாரன் மெக்குல்லோக் ஆகியோர் தங்கள் தாளில், “நரம்பியல் செயல்பாட்டில் உள்ள சிந்தனைகளின் தர்க்கரீதியான கால்குலஸ்” உயிரியல் நியூரானின் கணித மாதிரியைக் காட்டுகிறது. இந்த மெக்கல்லோச் பிட்ஸ் நியூரானுக்கு மிகக் குறைந்த திறன் உள்ளது மற்றும் கற்றல் வழிமுறை இல்லை. ஆயினும்கூட இது செயற்கை நரம்பியல் வலையமைப்பு மற்றும் ஆழமான கற்றலுக்கான அடித்தளத்தை அமைக்கும்
 1957
 1957
-Frank Rosenblatt Creates Perceptron
+
+
+ஃபிராங்க் ரோசன்ப்ளாட் பெர்செப்டிரானை உருவாக்குகிறார்
  
-In his paper “The Perceptron: A Perceiving and Recognizing Automaton”, Rosenblatt shows the new avatar of McCulloch-Pitts neuron – ‘Perceptron’ that had true learning capabilities to do binary classification on it’s own. This inspires the revolution in research of shallow neural network for years to come, till first AI winter.
+ரோசன்ப்ளாட் தனது “தி பெர்செப்டிரான்: எ பெர்சிவிங் அண்ட் ரெக்னூசிங் ஆட்டோமேட்டன்” என்ற கட்டுரையில், மெக்கல்லோச்-பிட்ஸ் நியூரானின் புதிய அவதாரத்தைக் காட்டுகிறார் - ‘பெர்செப்டிரான்’, பைனரி வகைப்பாட்டைச் செய்ய உண்மையான கற்றல் திறன்களைக் கொண்டிருந்தது. இது நரம்பியல் வலையமைப்பின் ஆராய்ச்சியில் புரட்சியை ஊக்குவிக்கிறது.
+
+
 1960
 1960
-The First Backpropagation Model
+
+முதல்  பின் நோக்கு பரவலின் மாதிரி 
  
-Henry J. Kelley in his paper, “Gradient Theory of Optimal Flight Paths” shows the first ever version of continuous backpropagation model. His model is in context to Control Theory, yet it lays the foundation for further refinement in the model and would be used in ANN in future years.
+ஹென்றி ஜே. கெல்லி தனது ஆய்வறிக்கையில், “Gradient Theory of Optimal Flight Paths” தொடர்ச்சியான பின் நோக்கு பரவலின் மாதிரியின் முதல் பதிப்பைக் காட்டுகிறது. அவரது மாதிரி கட்டுப்பாட்டு கோட்பாட்டின் சூழலில் உள்ளது, மேலும் மேன்மை படுத்துவதற்கான அடித்தளத்தை அமைக்கிறது மற்றும் எதிர்காலத்தில் ANN இல் பயன்படுத்தப்பட்டது.
+
+
+1962
+1962
+
+சங்கிலி விதியுடன்  பின் நோக்கு பரவல்
+ 
+ஸ்டூவர்ட் ட்ரேஃபஸ் தனது ஆய்வறிக்கையில், “The numerical solution of variational problems” என்பது முந்தைய பரவல் மாதிரிகள் பயன்படுத்தும் டைனமிக் புரோகிராமிங்கிற்கு பதிலாக எளிய  சங்கிலி விதியைப் பயன்படுத்தும் ஒரு பரவல் மாதிரியைக் காட்டுகிறது. ஆழ்ந்த கற்றலின் எதிர்காலத்தை பலப்படுத்தும் மற்றொரு சிறிய படி இது.
+
+
 1962
 1962
 Backpropagation With Chain Rule
