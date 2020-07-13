@@ -291,5 +291,7 @@ Godfathers Win Turing Award
  
 Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their immense contribution in advancements in area of deep learning and artificial intelligence. This is a defining moment for those who had worked relentlessly on neural networks when entire machine learning community had moved away from it in 1970s.
  
-
-
+ 
+| Year(s) | Name | Image | Description
+| --- | --- | --- | ---
+| 1943 | | | 
