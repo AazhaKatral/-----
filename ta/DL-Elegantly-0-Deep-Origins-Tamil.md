@@ -220,23 +220,31 @@ A Summary Deep Learning Timeline
 
 1970
 1970
-Backpropagation Is Computer Coded
+பின்னோக்கு பரவல் (Backpropagation) நிரல் எழுதப்பட்டது.
+
+செப்போ லின்னெய்ன்மா, பின்னோக்கு பரவல் மற்றும் தானே இயங்கும் வகைப்படுத்தல் முறையை வெளியிடுகிறது. மேலும் கணினியில்  ின்னோக்கு பரவல் (Backpropagation) நிரல் எழுதப்பட்டது  ப பின்னோக்கு பரவல் ஆராய்ச்சி இப்போது வெகுதூரம் வந்துவிட்டது. இருப்பினும் வரை நரம்பியல் வலையமைப்பில் இவைகளைப் பயன்படுத்த இன்னும் ஒரு சதாப்தம் ஆகலாம்.
  
-Seppo Linnainmaa publishes general method for automatic differentiation for backpropagation and also implements backpropagation in computer code. The research in backpropagation has now come very far, yet it would not be implemented in neural network till next decade.
 1971
 1971
+நரம்பியல் வலையமைப்பு இன்னும் ஆழமானது
 Neural Network Goes Deep
  
-Alexey Grigoryevich Ivakhnenko continues his research in Neural Network. He creates 8-layer Deep neural network using Group Method of Data Handling (GMDH).
+அலெக்ஸி கிரிகோரிவிச் இவாக்னென்கோ நியூரல் நெட்வொர்க்கில் தனது ஆராய்ச்சியைத் தொடர்ந்தார். குழுவாக தரவுகளைக் கையாண்டு எட்டு அடுக்கு ஆழமான ஒரு நரம்பியல் வலையமைப்பை உருவாக்கினார்.
+
 1980
 1980
 Neocognitron – First CNN Architecture
 Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural network architecture which could recognize visual patterns such as handwritten characters.
+
+நியோகாக்னிட்ரான் - முதல் சி.என்.என் வடிவமைப்பு
+கையால் எழுதப்பட்ட எழுத்துக்கள் போன்ற காட்சி வடிவங்களை அடையாளம் காணக்கூடிய முதல் மாற்றக்கூடிய நரம்பியல் நெட்வொர்க் கட்டமைப்பாகும்.
+
 1982
 1982
-Hopfield Network – Early RNN
+ஹாப்ஃபீல்ட் நெட்வொர்க் - ஆரம்பகால ஆர்.என்.என்
  
-John Hopfield creates Hopfield Network, which is nothing but a recurrent neural network. It serves as a content-addressable memory system, and would be instrumental for further RNN models of modern deep learning era.
+ஜான் ஹாப்ஃபீல்ட் ஹாப்ஃபீல்ட் இது தொடர்ச்சியான நரம்பியல் நெட்வொர்க்கைத்(recurrent neural network) உருவாக்கினார். இது முகவரியிடத்தக்க நினைவக அமைப்பாக செயல்படுவதோடு மட்டுமல்லாமல் மேலும் ஆர்.என்.என் மாதிரிகளுக்கு இது மிகவும் பயனுள்ளதாக இருக்கும்.
+
 1985
 1985
 Boltzmann Machine
