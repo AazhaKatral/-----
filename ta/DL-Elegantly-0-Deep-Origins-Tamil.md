@@ -247,13 +247,17 @@ Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural ne
 
 1985
 1985
-Boltzmann Machine
+போல்ட்ஜ்மன் இயந்திரம்
  
-Geoffrey Hinton and Terrence Sejnowski create Boltzmann Machine that is a stochastic recurrent neural network. This neural network has only input layer and hidden layer but no output layer.
+ஜெஃப்ரி ஹிண்டன் மற்றும் டெரன்ஸ் செஜ்னோவ்ஸ்கி போல்ட்ஜ்மேன் இயந்திரத்தை உருவாக்குகிறார்கள், இது ஒரு தொடர்ச்சியான நரம்பியல் வலையமைப்பாகும். இந்த நரம்பியல் வலைப்பின்னல் உள்ளீட்டு அடுக்கு மற்றும் மறைக்கப்பட்ட அடுக்கு மட்டுமே உள்ளது, ஆனால் வெளியீட்டு அடுக்கு இல்லை.
+
 1986
 1986
-NetTalk – ANN Learns Speech
-Terry Sejnowski creates NeTalk, a neural network which learns to pronounce written English text by being shown text as input and matching phonetic transcriptions for comparison.
+
+நெட்டாக் - ஏ.என்.என் பேச்சைக் கற்றுக்கொள்கிறது
+
+டெர்ரி செஜ்னோவ்ஸ்கி நெட்டாக் என்ற ஒரு நரம்பியல் வலையமைப்பை உருவாக்குகிறார். நெட்டாக் ஒலியை உள்வாங்கி ஆங்க்கில வார்த்தைகளை உச்சரிக்க்க கற்றுக்கொள்வதற்கான நரம்பியல் வலைப்பின்னலாகும்.
+
 1986
 Backpropagation In Neural Network
  
