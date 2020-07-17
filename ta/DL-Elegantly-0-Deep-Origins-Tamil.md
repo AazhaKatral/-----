@@ -259,13 +259,13 @@ Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural ne
 டெர்ரி செஜ்னோவ்ஸ்கி நெட்டாக் என்ற ஒரு நரம்பியல் வலையமைப்பை உருவாக்குகிறார். நெட்டாக் ஒலியை உள்வாங்கி ஆங்க்கில வார்த்தைகளை உச்சரிக்க்க கற்றுக்கொள்வதற்கான நரம்பியல் வலைப்பின்னலாகும்.
 
 1986
-Backpropagation In Neural Network
- 
-Geoffrey Hinton, Rumelhart and Williams in their paper “Learning Representations by back-propagating errors” show a new and better learning procedure for neural network by using backpropagation. It opened gates for training complex deep neural network easily which was the main obstruction in earlier days of research in this area.
+நரம்பியல் வலைப்பின்னலில் பின்னோக்குப் பரவல்
+
+ஜெஃப்ரி ஹிண்டன், ருமேல்ஹார்ட் மற்றும் வில்லியம்ஸ் அவர்களின் “Learning Representations by back-propagating errors” என்ற ஆய்வுக் கட்டுரை மூலம் பின்னோக்குப் பரவலைப் பயன்படுத்தி நரம்பியல் வலைப்பின்னலுக்கான புதிய மற்றும் சிறந்த கற்றல் நடைமுறையைக் விளக்கினர். சிக்கலான ஆழமான நரம்பியல் வலையமைப்பை எளிதில் பயிற்றுவிப்பதற்கான வாயில்களை இது திறந்தது, இது இந்த பகுதியில் முந்தைய நாட்களில் மேற்கொள்ளப்பட்ட ஆராய்ச்சிகளில் முக்கிய தடையாக இருந்தது.
+
 1986
-Restricted Boltzmann Machine
- 
-Paul Smolensky comes up with a variation of Boltzmann Machine where there is not intra layer connection in input and hidden layer. It is known as Restricted Boltzmann Machine (RBM). It would become popular in years to come especially for building recommender systems.
+கட்டுப்படுத்தப்பட்ட போல்ட்ஜ்மேன் இயந்திரம்
+பால் ஸ்மோலென்ஸ்கி  போல்ட்ஜ்மேன் இயந்திரத்தின் மற்றுமொரு மாதிரியை உருவாக்கினார்.  இதை கட்டுப்படுத்த போல்ட்ஜ்மேன் இயந்திரம் என்று அவர் அழைத்ஜ்தார். வரும் ஆண்டுகளில் பரிந்துரைக்கும் அமைப்பை உருவாக்குவதில் இந்த இயந்திரம் முக்கிய பங்கு வகிக்கும் என்று நம்பப்பட்டது.
 1989
 1989
 CNN Using Backpropagation
