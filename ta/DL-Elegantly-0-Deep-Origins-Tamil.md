@@ -264,15 +264,17 @@ Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural ne
 ஜெஃப்ரி ஹிண்டன், ருமேல்ஹார்ட் மற்றும் வில்லியம்ஸ் அவர்களின் “Learning Representations by back-propagating errors” என்ற ஆய்வுக் கட்டுரை மூலம் பின்னோக்குப் பரவலைப் பயன்படுத்தி நரம்பியல் வலைப்பின்னலுக்கான புதிய மற்றும் சிறந்த கற்றல் நடைமுறையைக் விளக்கினர். சிக்கலான ஆழமான நரம்பியல் வலையமைப்பை எளிதில் பயிற்றுவிப்பதற்கான வாயில்களை இது திறந்தது, இது இந்த பகுதியில் முந்தைய நாட்களில் மேற்கொள்ளப்பட்ட ஆராய்ச்சிகளில் முக்கிய தடையாக இருந்தது.
 
 1986
-கட்டுப்படுத்தப்பட்ட போல்ட்ஜ்மேன் இயந்திரம்
+**கட்டுப்படுத்தப்பட்ட போல்ட்ஜ்மேன் இயந்திரம்**
 பால் ஸ்மோலென்ஸ்கி  போல்ட்ஜ்மேன் இயந்திரத்தின் மற்றுமொரு மாதிரியை உருவாக்கினார்.  இதை கட்டுப்படுத்த போல்ட்ஜ்மேன் இயந்திரம் என்று அவர் அழைத்ஜ்தார். வரும் ஆண்டுகளில் பரிந்துரைக்கும் அமைப்பை உருவாக்குவதில் இந்த இயந்திரம் முக்கிய பங்கு வகிக்கும் என்று நம்பப்பட்டது.
 1989
 1989
-CNN Using Backpropagation
-Yann LeCun uses backpropagation to train convolutional neural network to recognize handwritten digits. This is a breakthrough moment as it lays the foundation of modern computer vision using deep learning.
+**சி.என்.என் உபயோக்க்கும் பின்னோக்கு பரவல் முறை**
+
+யான் லீகன் கையால் எழுதப்பட்ட எண்களை கண்டறிய பின்னோக்கு பரவல் முறையை பயன்படுத்து convolutional neural network மூலம் பற்றுவித்தார். இது ஆழக்கற்றலுக்கு ஒரு அடித்தளமாக அமைந்தது.
+
 1989
-Universal Approximators Theorem
- 
+**பொது தோராய தேற்றம்.**
+
 George Cybenko publishes earliest version of the Universal Approximation Theorem in his paper “Approximation by superpositions of a sigmoidal function“. He proves that feed forward neural network with single hidden layer containing finite number of neurons can approximate any continuous function. It further adds credibility to Deep Learning.
 1991
 1991
