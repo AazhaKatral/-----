@@ -317,21 +317,26 @@ AlexNet Starts Deep Learning Boom
 
 2014
 2014
-The Birth Of GANs
+**GAN களின் பிறப்பு**
  
-Generative Adversarial Neural Network also known as GAN is created by Ian Goodfellow. GANs open a whole new doors of application of deep learning in fashion, art, science due it’s ability to synthesize real like data.
+GAN என்றும் அழைக்கப்படும் ஜெனரேடிவ் அட்வர்சரியல் நியூரல் நெட்வொர்க் இயன் குட்ஃபெலோவால் உருவாக்கப்பட்டது. ஃபேஷன், கலை, விஞ்ஞானம் ஆகியவற்றில் ஆழக்கற்றலை பயன்படுத்துவதற்கான புதிய கதவுகளை GAN கள் திறக்கின்றன.
+
 2016
 2016
 AlphaGo Beats Human
- 
-Deepmind’s deep reinforcement learning model beats human champion in the complex game of Go. The game is much more complex than chess, so this feat captures the imagination of everyone and takes the promise of deep learning to whole new level.
+
+**மனிதனை வென்ற ஆல்ஃபாகோ**
+டீப் மைண்டின் ஆழ்ந்த வலுவூட்டப்பட்ட கற்றல் முறை மூலம் "கோ" போன்ற சிக்கலான விளையாட்டுகளை கணினி வென்றது.  கோ விளையாட்டு சதுரங்க விளையாட்டை விட மிக கடினமான விளையாட்டாகும்.  
+
+
 2019
 2019
-Godfathers Win Turing Award
+
+**காட்பாதர்ஸ் டூரிங் விருதை வென்றார்கள்**
  
-Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their immense contribution in advancements in area of deep learning and artificial intelligence. This is a defining moment for those who had worked relentlessly on neural networks when entire machine learning community had moved away from it in 1970s.
- 
- 
+ஆழக்கற்றல் மற்றும் செயற்கை நுண்ணறிவு ஆகியவற்றில் முன்னேற்றங்களில் மகத்தான பங்களிப்பு செய்ததற்காக யோஷுவா பெங்கியோ, ஜெஃப்ரி ஹிண்டன் மற்றும் யான் லீகன் டூரிங் விருது 2018 ஐ வென்றனர். 1970 களில் முழு இயந்திர கற்றல் சமூகமும் அதிலிருந்து விலகிச் சென்றபோதும் நரம்பியல் நெட்வொர்க்குகளில் இடைவிடாமல் உழைத்த அனைவருக்கும் இது மிக முக்கியமான தருணமாகும்.
+
+
 | Year(s) | Name | Image | Description
 | --- | --- | --- | ---
 | 1943 | WalterPitts & WarrenMcCulloch | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> | "A Logical Calculus of the Ideas Immanent in Nervous Activity"
