@@ -312,8 +312,9 @@ Combat For Vanishing Gradient
 2012
 2012
 AlexNet Starts Deep Learning Boom
- 
-AlexNet, a GPU implemented CNN model designed by Alex Krizhevsky, wins Imagenet’s image classification contest with accuracy of 84%.  It is a huge jump over 75% accuracy that earlier models had achieved. This win triggers a new deep learning boom globally.
+**அலெக்ஸ்நெட் - ஆழக்கற்றல் துறையில் ஏற்றம் துவங்கியது**
+அலெக்ஸ்நெட் என்பது அலெக்ஸ் கிரிஷெவ்ஸ்கி என்பவரால் ஜிபியூவைப் பயன்படுத்தி வடிவமைக்கப்பட்ட ஒரு மாடல் ஆகும். இந்த மாடலைப் பயன்படுத்தி 84% துள்ளியமான முடிவுகளை பெற முடிந்ததால் இமேஜ்நெட் போட்டியில் முதல் பரிசை வென்றது. இதனால் இந்த துறையில் மாபெரும் முனேற்றம் ஏற்பட்டது.
+
 2014
 2014
 The Birth Of GANs
