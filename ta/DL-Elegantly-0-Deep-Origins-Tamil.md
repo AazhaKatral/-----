@@ -293,19 +293,22 @@ Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural ne
 
 2006
 2006
-Deep Belief Network
- 
-Geoffrey Hinton, Ruslan Salakhutdinov, Osindero and Teh publishes the paper “A fast learning algorithm for deep belief nets” in which they stacked multiple RBMs together in layers and called them Deep Belief Networks. The training process is much more efficient for large amount of data.
+**ஆழமான நம்பிக்கை நெட்வொர்க்(Deep Belief Network)**
+
+ஜெஃப்ரி ஹிண்டன், ருஸ்லான் சலகுடினோவ், ஒசிண்டெரோ மற்றும் டெஹ் ஆகியோர் “ஆழ்ந்த நம்பிக்கை வலைகளுக்கான விரைவான கற்றல் வழிமுறை” என்ற ஆய்வறிக்கையை வெளியிடுகின்றனர், அதில் அவர்கள் பல ஆர்.பி.எம்-களை அடுக்குகளில் ஒன்றாக அடுக்கி அவற்றை டீப் பிலிஃப் நெட்வொர்க்குகள் என்று அழைத்தனர். மிகப்பெரிய அளவிலான தரவுகளை பயிற்றுவிக்க இந்த முறையைப் பயன்படுத்தலாம்.
+
 2008
 2008
-GPU Revolution Begins
- 
-Andrew NG’s group in Stanford starts advocating for the use of GPUs for training Deep Neural Networks to speed up the training time by many folds. This could bring practicality in the field of Deep Learning for training on huge volume of data efficiently.
-2011
+**ஜி.பீ.யூ புரட்சி தொடங்குகிறது**
+ஸ்டான்போர்டில் பல்கலைக் கழகத்தைச் சேர்ந்த ஆன்ட்ரூ இங் மற்றும் குழுவினர், ஜி.பீ.யூ வைப் பயன்படுத்து ஆழமான நியூரல் நெட்வொர்க்குகளை வேகமாக பயிற்றுவித்தனர். இது பெரிய அளவிலான தரவுகளை திறம்பட பயிற்றுவிக்கும் முறையை அறிமுகப்படுத்தியது.
+
 2011
 Combat For Vanishing Gradient
+வானிஷிங் க்ரேடியண்ட் க்கான போர்
+
+யோஷுவா பெங்கியோ, அன்டோயின் போர்டெஸ், சேவியர் குளோரோட் அவர்களின் “Deep Sparse Rectifier Neural Network” என்ற ஆய்வுக்கட்டுரையில், நீலு ஆக்டிவேஷன் ஃபங்க்சன் மூலம்  வானிஷிங் க்ரேடியண்ட்  சிக்கலை தவிர்க்க முடியும் என்பதை விவரித்தனர். இது ஆழக்கற்றல் துறையில் மிக அதிக பயிற்சி நேரத்தைக் குறைக்க ஜி.பி.யூ மட்டுமில்லாமல் இன்னொரு மாற்று வழியும் உண்டு என்று விளக்கினர்.
  
-Yoshua Bengio, Antoine Bordes, Xavier Glorot in their paper “Deep Sparse Rectifier Neural Networks” shows that ReLU activation function can avoid vanishing gradient problem. This means that now, apart from GPU, deep learning community has another tool to avoid issues of longer and impractical training times of deep neural network.
+
 2012
 2012
 AlexNet Starts Deep Learning Boom
