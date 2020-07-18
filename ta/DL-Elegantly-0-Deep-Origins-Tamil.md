@@ -275,17 +275,22 @@ Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural ne
 1989
 **பொது தோராய தேற்றம்.**
 
-George Cybenko publishes earliest version of the Universal Approximation Theorem in his paper “Approximation by superpositions of a sigmoidal function“. He proves that feed forward neural network with single hidden layer containing finite number of neurons can approximate any continuous function. It further adds credibility to Deep Learning.
+ஜார்ஜ் சைபென்கோ பொது தோராய தேற்றத்தின் ஆரம்ப பதிப்பை தனது “Approximation by superpositions of a sigmoidal function” என்ற தனது கட்டுரையில் வெளியிடுகிறார்.   வரையறுக்கப்பட்ட எண்ணிக்கையிலான நியூரான்களைக் கொண்ட ஒரு மறைக்கப்பட்ட அடுக்குடன்(hidden layer) முன்னோக்கி நரம்பியல் வலையமைப்பைக் கொண்டு எந்தவொரு தொடர்கோவைகளையும் தோராயமாக மதிப்பிட முடியும் என்பதை அவர் நிரூபிக்கிறார். இது ஆழக்கற்றலின் நம்பகத்தன்மையை மேலும் அதிகரித்தது.
+
 1991
 1991
-Vanishing Gradient Problem Appears
- 
-Sepp Hochreiter identifies the problem of vanishing gradient which can make the learning of deep neural network extremely slow and almost impractical. This problem will continue to annoy deep learning community for many more years to come.
+
+**மறைந்துபோகும் க்ரேடியண்ட் சிக்கல்**
+ vanishing gradien முறையில் ஆழக்க்றறல் சிக்கல்கள் 
+ஆழமான நரம்பியல் வலையமைப்பின் கற்றல் மிகவும் மெதுவானதாகவும், கிட்டத்தட்ட நடைமுறைக்கு மாறானதாகவும் இருக்கக்கூடிய சாய்வு மறைந்துபோகும் சிக்கலை செப் ஹோக்ரைட்டர் அடையாளம் காண்கிறார். இந்த சிக்கல் இன்னும் பல ஆண்டுகளாக ஆழ்ந்த கற்றல் சமூகத்தை தொடர்ந்து தொந்தரவு செய்யும்.
+
 1997
 1997
-The Milestone Of LSTM
+
+எல்.எஸ்.டி.எம் மைல்கள்
  
-Sepp Hochreiter and Jürgen Schmidhuber publishes a milestone paper on “Long Short-Term Memory” (LSTM). It is a type of recurrent neural network architecture which will go on to revolutionize deep learning in decades to come.
+செப் ஹோக்ரைட்டர் மற்றும் ஜூர்கன் ஷ்மிதூபர் ஆகியோர் “நீண்ட குறுகிய கால நினைவகம்” (எல்எஸ்டிஎம்) குறித்த முக்கிய ஆராய்சி கட்டுரையை வெளியிட்டார். இது ஒரு வகையான தொடர்ச்சியான நரம்பியல் நெட்வொர்க் கட்டமைப்பாகும், இது வரவிருக்கும் தசாப்தங்களில் ஆழக்கற்றலில் புரட்சியை ஏற்படுத்தும்.
+
 2006
 2006
 Deep Belief Network
