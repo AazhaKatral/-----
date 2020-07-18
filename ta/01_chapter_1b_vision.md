@@ -1,8 +1,10 @@
-Chapter I: Deep Origins (continued)
 
-Biological Vision
+**பாடம் I: ஆழக்கற்றல் தோற்றம் (தொடர்கிறது)**
 
-Machine Vision
+**உயிரியல் பார்வை**
+
+**இயந்திர பார்வை**
+
 
 So, you might have guessed by now, that we haven’t been discussing the biological visual system solely because it’s interesting (though the area is certainly fascinating!). We covered the biological visual system primarily because it serves as the inspiration for the modern deep learning approaches to machine vision.
 
