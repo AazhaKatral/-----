@@ -1,10 +1,10 @@
-
 **பாடம் I: ஆழக்கற்றல் தோற்றம் (தொடர்கிறது)**
 
 **உயிரியல் பார்வை**
 
-**இயந்திர பார்வை**
+**இயந்திரப் பார்வை**
 
+உயிர்களின் ஒளி உணர் திறன் பற்றி நாம் விரிவாக விவாதித்ததற்கு காரணம் என்ன என்பது இப்போது தெளிவாகி இருக்கும் என்று எண்ணுகிறேன். இன்றைய ஆழக்கற்றலுக்கும் உயிர்களின் ஒளி உணர் திறனுக்கும் உள்ள தொடர்பை நான் இப்போது நான் நன்றாத தெரிந்து கொண்டோம்.
 
 So, you might have guessed by now, that we haven’t been discussing the biological visual system solely because it’s interesting (though the area is certainly fascinating!). We covered the biological visual system primarily because it serves as the inspiration for the modern deep learning approaches to machine vision.
 
