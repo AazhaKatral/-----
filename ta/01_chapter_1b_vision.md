@@ -44,9 +44,9 @@
 
 மேலே உள்ள படத்தில் லெனெட்-5 எவ்வாறு செயல்படுகிறது என்று பார்க்கலாம். அது எண் இரண்டை (2) உள்வாங்கி அடுத்த அடுக்குக்கு அனுப்புகிறது. இந்த அடுக்கில் உள்ளிடப்பட்ட தகவலின் அம்சங்கள்(features) பெரிய அம்சங்களாக பிரிகிறது. அடுத்த அடுக்கில் சிறு சிறு அம்சங்களாக பிரிகிறது. அடுத்த அடுக்கில் சிறு கன சதுரங்களாக காட்டப்பட்டுள்ளது. அடுத்தடுத்த அடுக்குகளில் இந்த கன சதுரங்கள் தடிமன் குறைந்து நீளம் அதிகரித்து காணப்படும். இறுதியாக கோடுகள் போல காட்சியளிக்கும்.  இறுதி அடுக்கு சரியான எண்ணை விடையாக வெளியிடும்.
 
-*Fukushima, K., & Wake, N. (1991). Handwritten alphanumeric character recognition by the neocognitron. IEEE Transactions on Neural Networks, 2, 355– 65.
+*Fukushima, K., & Wake, N. (1991). Handwritten alphanumeric character recognition by the neocognitron. IEEE Transactions on Neural Networks, 2, 355– 65.*
 
-LeCun, Y., et al. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 2, 355– 65. 11.*
+*LeCun, Y., et al. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 2, 355– 65. 11.*
 
 LeNet-5 was the first convolutional neural network, a deep learning variant that dominates modern machine vision and that we will study later. Their classic dataset, the handwritten MNIST digits, is used extensively in Part II, “Essential Theory Illustrated.” Backpropagation, often abbreviated to backprop, facilitates efficient learning throughout the layers of artificial neurons within a deep learning model. Don’t worry! we’ll be studying Backpropogation in detail later in this book.
 
