@@ -24,26 +24,16 @@
 *படிநிலை முறையில் செயற்கை நியூரான்களை ஒழுங்குபடுத்துவதன் மூலம், செயற்கை நியூரான்கள் - உயிர்ப்புள்ள உண்மை நியூரான்கள் போலவே, - *
 *By arranging artificial neurons in this hierarchical manner, these artificial neurons— like their biological inspiration earlier — generally represent line orientations in the cells of the layers closest to the raw visual image, while successively deeper layers represent successively complex, successively abstract objects.*
 
-LeNet-5
 
-So, you might have guessed by now, that we haven’t been discussing the biological visual system solely because it’s interesting (though the area is certainly fascinating!). We covered the biological visual system primarily because it serves as the inspiration for the modern deep learning approaches to machine vision.
 
-This figure provides a historical timeline of vision in biological organisms as well as machines. The top timeline, in blue, highlights the development of vision in trilobites as well as Hubel and Wiesel’s 1959 publication on the hierarchical nature of the primary visual cortex, as covered in the preceding section. The machine vision timeline is split into two parallel streams to call attention to two alternative approaches. The middle timeline, in pink, represents the deep learning (DL) path that is the focus of this book. The bottom timeline, in purple, meanwhile represents the traditional machine learning (ML) path to vision, which— through contrast— will clarify why deep learning is distinctively powerful and revolutionary.
+**LeNet-5**
+நியோ காக்நெட்ரானை கையெழுத்த
 
-Enter the Neocognitron
 
-Inspired by Hubel and Wiesel’s discovery of the simple and complex cells that form the primary visual cortex hierarchy, in the late 1970s the Japanese electrical engineer Kunihiko Fukushima proposed an analogous architecture for machine vision, which he named the neocognitron. In fact, Fukushima referred to Hubel and Wiesel’s work explicitly in his writing. His paper refers to three of their landmark articles on the organization of the primary visual cortex, including borrowing their “simple” and “complex” cell language to describe the first and second layers, respectively, of his neocognitron.
+நியோகாக்னிட்ரான் கையால் எழுதப்பட்ட எழுத்துக்களை அடையாளம் காணும் திறன் கொண்டதாக இருந்தாலும்,யான் லீகூன் மற்றும் யோஷுவா பென்ஜியோ இருவரும் இணைந்து இன்னும் துள்ளியமான மற்றும் அதிக செயல் திறன் கொண்ட LeNet-5 ஐ உருவாக்கினார்கள். புகுஷிமாவின் தலைமையில்  ஹூபல் மற்றும் வைசலின் ஆராய்சியை மையமாகக் கொண்டு, லெனெட் -5 உருவாக்கப்பட்டது.  யான் லீகூன் மற்றும் யோஷுவா பென்ஜியோ தரமான தரவுகள், அதிக திறன் கொண்ட கணினிகள் மற்றும் பின்னோக்கு பரவல் அல்காரிதம்களைக் கொண்டு அவர்கள் லெனெட் -5 ஐ உருவாக்கினார்கள்.
 
-Kunihiko Fukushima
 
-Fukushima, K. (1980). Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. Biological Cynbernetics, 36, 193– 202.
-By arranging artificial neurons in this hierarchical manner, these artificial neurons— like their biological inspiration earlier — generally represent line orientations in the cells of the layers closest to the raw visual image, while successively deeper layers represent successively complex, successively abstract objects.
-
-LeNet-5
-
-While the neocognitron was capable of, for example, identifying handwritten characters, the accuracy and efficiency of Yann LeCun and Yoshua Bengio’s “LeNet-5” model made it a significant development. LeNet-5’ s hierarchical architecture (Figure 1.11) built on Fukushima’s lead and the biological inspiration uncovered by Hubel and Wiesel. A key point to note here is that LeCun and his colleagues benefited from superior data for training their model, faster processing power, and, most critically, the back-propagation algorithm.
-
-Paris-born Yann LeCun is one of the preeminent figures in artificial neural network and deep learning research. LeCun is the founding director of the New York University Center for Data Science as well as the director of AI research at the social network Facebook.
+செயற்கை நரம்பியல் வலையமைப்பு மற்றும் ஆழக்கற்றல் ஆராய்ச்சியில்  பாரிஸில் பான் - யான் மற்றும் லீகன் இருவரும் மிக முக்கியமானவர்கள். லீகன் நியூயார்க் பல்கலைக்கழக அறிவியல் மையத்தின் நிறுவன இயக்குநராகவும், பேஸ்புக் நிறுவனத்தில் AI ஆராய்ச்சியின் இயக்குநராகவும் உள்ளார்.
 
 Yoshua Bengio is another of the leading characters in artificial neural networks and deep learning. Born in France, he is a computer science professor at the University of Montreal and codirects the renowned Machines and Brains program at the Canadian Institute for Advanced Research.
 
