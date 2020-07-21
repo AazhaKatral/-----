@@ -1,3 +1,4 @@
+
 **பாடம் I: ஆழக்கற்றல் தோற்றம் (தொடர்கிறது)**
 
 **உயிரியல் பார்வை**
@@ -5,6 +6,25 @@
 **இயந்திரப் பார்வை**
 
 உயிர்களின் ஒளி உணர் திறன் பற்றி நாம் விரிவாக விவாதித்ததற்கு காரணம் என்ன என்பது இப்போது தெளிவாகி இருக்கும் என்று எண்ணுகிறேன். இன்றைய ஆழக்கற்றலுக்கும் உயிர்களின் ஒளி உணர் திறனுக்கும் உள்ள தொடர்பை நான் இப்போது நான் நன்றாத தெரிந்து கொண்டோம்.
+
+
+*இந்த படத்தில் உயிர்களின் ஒளி உணரும் திறனில் ஏற்பட்ட மாற்றங்களையும் இயந்திரக்கற்றல் வளர்சியையும் காட்டுகிறது.  நீல நிறக்கோடு ட்ரைலோபைட்டுகளில் பார்வை வளர்ச்சியையும், ஹூபல் மற்றும் வீசலின் 1959 இல் முதன்மைக் கார்ட்டெக்ஸ் ஆய்வையும் காட்டுகிறது. இயந்திரப் பார்வை(machine vision) கால வரிசை பிங்க், மற்றும் ஊதா நிற கோடுகளாகப் பிரிக்கப்பட்டுள்ளது. பிங்க் நிற கோடு ஆழக்கற்றல் வளர்சியையும் ஊதா நிற கோடு இயந்திரக்கற்றல் வளர்சியையும் காட்டுகிறது.*
+
+
+**நியோகாக்னிட்ரானை அறிவோம்**
+
+முதன்மை காட்சி புறணி படிநிலையை(hierarchy) உருவாக்கும் எளிய மற்றும் சிக்கலான செல்களை ஹூபல் மற்றும் வைசல் கண்டுபிடித்தனர்.   ஹூபல் மற்றும் வைசல் கண்டுபிடிப்பால்   ஈர்க்கப்பட்டு, 1970 களின் பிற்பகுதியில், ஜப்பானிய மின் பொறியாளர் குனிஹிகோ புகுஷிமா இயந்திர பார்வைக்கு ஒரு ஒத்த கட்டமைப்பை முன்மொழிந்தார். அதற்கு அவர் நியோகாக்னிட்ரான் என்று பெயரிட்டார்.  புகுஷிமா தனது எழுத்தில் ஹூபல் மற்றும் வீசலின்  முதன்மைக் காட்சிப் புறணி அமைப்பைப் பற்றிய அவர்களின் மூன்று முக்கிய கட்டுரைகளை மேற்கோள்காட்டி விளக்கினார்.
+
+
+
+*குனிஹிகோ புகுஷிமா(Kunihiko Fukushima)*
+
+*Fukushima, K. (1980). Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. Biological Cynbernetics, 36, 193– 202.* 
+
+*படிநிலை முறையில் செயற்கை நியூரான்களை ஒழுங்குபடுத்துவதன் மூலம், செயற்கை நியூரான்கள் - உயிர்ப்புள்ள உண்மை நியூரான்கள் போலவே, - *
+*By arranging artificial neurons in this hierarchical manner, these artificial neurons— like their biological inspiration earlier — generally represent line orientations in the cells of the layers closest to the raw visual image, while successively deeper layers represent successively complex, successively abstract objects.*
+
+LeNet-5
 
 So, you might have guessed by now, that we haven’t been discussing the biological visual system solely because it’s interesting (though the area is certainly fascinating!). We covered the biological visual system primarily because it serves as the inspiration for the modern deep learning approaches to machine vision.
 
