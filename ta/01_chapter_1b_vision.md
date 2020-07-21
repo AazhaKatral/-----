@@ -35,7 +35,9 @@
 
 செயற்கை நரம்பியல் வலையமைப்பு மற்றும் ஆழக்கற்றல் ஆராய்ச்சியில்  பாரிஸில் பான் - யான் மற்றும் லீகன் இருவரும் மிக முக்கியமானவர்கள். லீகன் நியூயார்க் பல்கலைக்கழக அறிவியல் மையத்தின் நிறுவன இயக்குநராகவும், பேஸ்புக் நிறுவனத்தில் AI ஆராய்ச்சியின் இயக்குநராகவும் உள்ளார்.
 
-Yoshua Bengio is another of the leading characters in artificial neural networks and deep learning. Born in France, he is a computer science professor at the University of Montreal and codirects the renowned Machines and Brains program at the Canadian Institute for Advanced Research.
+
+யோஷுவா பெங்கியோ செயற்கை நரம்பியல் நெட்வொர்க்குகள் மற்றும் ஆழ்ந்த கற்றல் துறையில் மிகவும் முக்கியம் வாந்த விஞ்ஞானி. பிரான்சில் பிறந்த இவர், மாண்ட்ரீல் பல்கலைக்கழகத்தில் கணினி அறிவியல் பேராசிரியராக உள்ளார், மேலும் கனடிய இன்ஸ்டிடியூட் ஃபார் அட்வான்ஸ்ட் ரிசர்ச்சில் புகழ்பெற்ற இயந்திரங்கள் மற்றும் மூளை திட்டத்தின் இணை இயக்குனராக உள்ளார்.
+
 
 The two diagrams above show two views of the same LeNet-5 architecture, the first one is a logical view and the second one is a bit more of a “technical” view. You can see how it retains the hierarchical architecture of the primary visual cortex discovered by Hubel and Wiesel and leveraged by Fukushima in his neocognitron. Similar to those systems, the leftmost layer represents simple edges, while successive layers represent increasingly complex features. By processing information in this way, a handwritten “2” should, for example, be correctly recognized as the number two (highlighted by the green output shown on the right).
 
