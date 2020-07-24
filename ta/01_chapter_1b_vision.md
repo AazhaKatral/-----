@@ -48,9 +48,9 @@
 
 *LeCun, Y., et al. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 2, 355– 65. 11.*
 
-LeNet-5 was the first convolutional neural network, a deep learning variant that dominates modern machine vision and that we will study later. Their classic dataset, the handwritten MNIST digits, is used extensively in Part II, “Essential Theory Illustrated.” Backpropagation, often abbreviated to backprop, facilitates efficient learning throughout the layers of artificial neurons within a deep learning model. Don’t worry! we’ll be studying Backpropogation in detail later in this book.
+லெனெட்-5 என்ற மாற்றத்த நரம்பியல் வலைப்பின்னல் ஒரு ஆழக்கற்றல் வகையைச் சேர்ந்த அல்காரிதம் ஆகும். இந்த வலையமைப்பு பிற்காலத்தில் இயந்திரப்பார்வை எனப்படும் மிஷன் விஷன் திட்டத்தில் முக்கிய பங்கு வகிக்க்கவிருக்கிறது. ெனெட்-5இல் பயன்படுத்திய  MNIST எனப்படும் கையாள் எழுதப்பட்ட எண்களின் மாதிரி தரவுகளை  புத்தகத்தின் பகுதி -2 இல் "அத்தியாவசிய கோட்பாடுகள் மற்ற்றும் விளக்கங்கள்" என்ற பகுதியில் அதிகம் பயன்படுத்தவிருக்கிறோம். ஆழக்கற்றல் மாதிரிகளில் அதிகம் பயன்படுத்தப்படும் பின்னோக்கு பரவல் முறையை பின் வரும் பகுதிகளில் தெரிந்து கொள்ளலாம்.
 
-Together with the researchers’ data, processing power and the backprop algorithm rendered LeNet-5 sufficiently reliable to become an early commercial application of deep learning: It was used by the United States Postal Service to automate the reading of ZIP codes (US postal service term for postal code) written on mail envelopes. Later in this book, we will use the same LeNet-5 architecture to recognize handwritten digits.
+இதனைத் தொடர்ந்து அமெரிக்க தபால் சேவை நிறுவனம் பின்கோடுகளைக் கண்டுபிடிக்க லெனெட்-5ஐ வணிகரீதியாக பயன்படுத்தத் தொடங்கியது.
 
 In LeNet-5, Yann LeCun and his colleagues had an algorithm that could correctly predict the handwritten digits that had been drawn without needing to include any expertise about handwritten digits in their code. As such, LeNet-5 provides an opportunity to introduce a fundamental difference between deep learning and the traditional machine learning ideology.
 
