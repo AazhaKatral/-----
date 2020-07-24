@@ -50,9 +50,8 @@
 
 லெனெட்-5 என்ற மாற்றத்த நரம்பியல் வலைப்பின்னல் ஒரு ஆழக்கற்றல் வகையைச் சேர்ந்த அல்காரிதம் ஆகும். இந்த வலையமைப்பு பிற்காலத்தில் இயந்திரப்பார்வை எனப்படும் மிஷன் விஷன் திட்டத்தில் முக்கிய பங்கு வகிக்க்கவிருக்கிறது. ெனெட்-5இல் பயன்படுத்திய  MNIST எனப்படும் கையாள் எழுதப்பட்ட எண்களின் மாதிரி தரவுகளை  புத்தகத்தின் பகுதி -2 இல் "அத்தியாவசிய கோட்பாடுகள் மற்ற்றும் விளக்கங்கள்" என்ற பகுதியில் அதிகம் பயன்படுத்தவிருக்கிறோம். ஆழக்கற்றல் மாதிரிகளில் அதிகம் பயன்படுத்தப்படும் பின்னோக்கு பரவல் முறையை பின் வரும் பகுதிகளில் தெரிந்து கொள்ளலாம்.
 
-இதனைத் தொடர்ந்து அமெரிக்க தபால் சேவை நிறுவனம் பின்கோடுகளைக் கண்டுபிடிக்க லெனெட்-5ஐ வணிகரீதியாக பயன்படுத்தத் தொடங்கியது.
+இதனைத் தொடர்ந்து அமெரிக்க தபால் சேவை நிறுவனம் பின்கோடுகளைக் கண்டுபிடிக்க லெனெட்-5ஐ வணிகரீதியாக பயன்படுத்தத் தொடங்கியது. எனவே லெனெட் 5 மூலம் சாதாரண இயந்திரக் கற்றலுக்கும் ஆழக்கற்றலுக்கும் உள்ள வேறுபாட்டை தெளிவாக தெரிந்துகொள்ளலாம்.
 
-In LeNet-5, Yann LeCun and his colleagues had an algorithm that could correctly predict the handwritten digits that had been drawn without needing to include any expertise about handwritten digits in their code. As such, LeNet-5 provides an opportunity to introduce a fundamental difference between deep learning and the traditional machine learning ideology.
 
 As conveyed by Figure 1.12, the traditional machine learning approach is characterized by practitioners investing the bulk of their efforts into engineering features. This feature engineering is the application of clever, and often elaborate, algorithms to raw data in order to preprocess the data into input variables that can be readily modeled by traditional statistical techniques. These techniques— such as regression, random forest, and support vector machine— are seldom effective on unprocessed data, and so the engineering of input data has historically been a prime focus of machine learning professionals.
 
