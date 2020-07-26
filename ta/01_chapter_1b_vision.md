@@ -77,14 +77,16 @@
 
 
 **ஃபீ-ஃபை லி**
+ப்ரின்ஸ்டன் பல்கலைக்கழதின் பேராசியராக இருந்த ஃபீ-ஃபை லி மற்றும் அவருடன் பணியாற்றிய சிலருடன் சே இமேஜ்நெட்டை உருவாக்கின்னார். இப்போது அவர் 
+ஸ்டான்போர்ட் பல்கலைக்கழகத்தில் ஆசிரியராகவும் கூகிள் நிறுவனத்தில் A.I./ ML தலைமை விஞ்ஞானியாகவும் பணியாற்றுகிறார். 2010 ஆம் ஆன்இல் அவர் ILSVRC(the ImageNet Large Scale Visual Recognition Challenge) எனப்படும் இமேஜ்நெட் தரவுத்தொகுப்பில் இருந்து ஒருபகுதி(1.4 மில்லியன் படங்கள் மற்றும் 1000 வகைகள்) தரவைக்கொண்டு மாதிரிகளை உருவாக்கும் போட்டிகளை நடத்தினார்கள். இந்ததரவில் நாய்களும் நாய்களின் இனமும் வகைப்படுத்தப்பட்டிருந்தது.  இதனால் நாயைக் கண்டறிவதோடு நிற்காமல் அது என்ன வகை என்பதையும் அறிய முடிந்தது.
 
-The massive ImageNet dataset was the brainchild of a computer science professor Fei-Fei Li and her colleagues at Princeton in 2009. Now a faculty member at Stanford University, Li is also the chief scientist of A.I./ ML for Google’s cloud platform. In 2010, Li began running an open challenge called ILSVRC (the ImageNet Large Scale Visual Recognition Challenge) on a subset of the ImageNet data. This challenge has, over time, become the premier ground for assessing the world’s state-of-the-art machine vision algorithms. The ILSVRC subset consists of 1.4 million images across 1,000 categories. In addition to providing a broad range of categories, many of the selected categories are breeds of dogs, thereby evaluating the algorithms’ ability not only to distinguish widely varying images but also to specialize in distinguishing subtly varying ones.
 
-Aside: Just as a thought experiment, try to distinguish photos of Rampur Greyhound from Mudhol Hound. It’s tough, but dog experts, as well as deep learning machine vision models, can do it!
 
-Rampur Greyhound vs Mudhol Hound
+உதாரணமாக  ஒரு பரிசோதனையாக, ராம்பூர் கிரேஹவுண்டின் புகைப்படங்களை முடோல் ஹவுண்டிலிருந்து வேறுபடுத்த முயற்சிக்கவும். இது கடினமானது, ஆனால் நாய் வல்லுநர்கள் மற்றும் ஆழக் கற்றல் இயந்திர பார்வை மாதிரிகள் இதை எளிதாக செய்யலாம்!
 
-Tangentially, these dog-heavy data are the reason deep learning models trained with ImageNet have a disposition toward “dreaming” about dogs (see, e.g., deepdreamgenerator.com).
+**ராம்பூர் கிரேஹவுண்டின் vs முடோல் ஹவுண்டிலிருந்து**
+
+
 
 The arrival of the gamechanger a.k.a. AlexNet
 
