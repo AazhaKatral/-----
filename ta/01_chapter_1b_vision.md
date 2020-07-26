@@ -69,27 +69,37 @@
 மனித முகத்தின் பண்புகளை பல வருடங்களாக ஆராய்ந்து பிக்ஸெல்களை வடிகட்டி முகத்தை கண்டறிவதற்கான இயந்திரக்கற்றல் மாதிரியை வடிவமைத்தார்கள். இவ்வளவு கடின உழைப்பால் உருவாக்கப்பட்ட மாதிரிகள் மனித முகங்களைக் கண்டுபிடித்தன ஆனால் இன்னாருடைய முகம் என்று அடையாளம் காட்ட முடியவில்லை.  ஒரு குறிப்பிட்ட நபரின் முகத்தை துள்ளியமாக அறியவும், அல்லது முகம் அல்லாத பொருள்களை உதாரணமாக இது வீடு, இது கார், இது பந்து என வகைப்படுத்தி அறியவும் இன்னும் பலகாலம் ஆகலாம். மிஷன் விஷன் சமூகம் இதற்காக உழைத்துக்கொண்டுகிறது.
 
 
-ImageNet and the ILSVRC
+**இமேஜ் நெட் மற்றும் ILSVRC**
 
-The success LeNet-5 had over the neocognitron was catalyzed by the availability of a larger, high-quality set of training data. There was a clear recognition among the scientific community that data driven discoveries were cropping up many research areas. The next breakthrough in neural networks was also catalyzed by a high-quality public dataset, this time much larger. ImageNet, a labeled index of photographs devised by computer science professor Fei-Fei Li armed machine vision researchers with an immense catalog of training data. For reference, the handwritten digit data used to train LeNet-5 contained tens of thousands of images. ImageNet, in contrast, contains tens of millions. The 14 million images in the ImageNet dataset are spread across 22,000 categories. These categories are as diverse as container ships, leopards, starfish, and elderberries.
+லெனெட்-5 இன் வெறிக்க்கு காரணியாய் அமைந்தது தரமான அதிக அளவிலான தரவுகளே.  பல ஆய்வுகளின் முடிவுகள் தரவுகளை அடிப்படையாகக் கொண்டுள்ளதை அறிவியல் சமூகமும் முழுமையாக அங்கீகரித்தது.
+ஃபீ-ஃபை லி 22000 வகைக்கொண்ட 14 மில்லியன் படங்களைக்கொண்ட மிகப்பெரிய இமேஜ்நெட் தரவுத்தொகுப்பை(dataset) வெளியிட்டார். இந்த தரவுதொகுப்பில் கப்பல்கள், சிறுத்தைகள்,
+நட்சத்திர மீன், மற்றும் பழங்கள் என அத்தனை வகையான தரவுகளும் இருந்தது.  இந்த தரவு  நரம்பியல் வலைப்பின்னலின் வளர்சிக்கு ஒரு திருப்புமுனையாக அமைந்தது.
 
-Fei-Fei Li
 
-The massive ImageNet dataset was the brainchild of a computer science professor Fei-Fei Li and her colleagues at Princeton in 2009. Now a faculty member at Stanford University, Li is also the chief scientist of A.I./ ML for Google’s cloud platform. In 2010, Li began running an open challenge called ILSVRC (the ImageNet Large Scale Visual Recognition Challenge) on a subset of the ImageNet data. This challenge has, over time, become the premier ground for assessing the world’s state-of-the-art machine vision algorithms. The ILSVRC subset consists of 1.4 million images across 1,000 categories. In addition to providing a broad range of categories, many of the selected categories are breeds of dogs, thereby evaluating the algorithms’ ability not only to distinguish widely varying images but also to specialize in distinguishing subtly varying ones.
+**ஃபீ-ஃபை லி**
+ப்ரின்ஸ்டன் பல்கலைக்கழதின் பேராசியராக இருந்த ஃபீ-ஃபை லி மற்றும் அவருடன் பணியாற்றிய சிலருடன் சே இமேஜ்நெட்டை உருவாக்கின்னார். இப்போது அவர் 
+ஸ்டான்போர்ட் பல்கலைக்கழகத்தில் ஆசிரியராகவும் கூகிள் நிறுவனத்தில் A.I./ ML தலைமை விஞ்ஞானியாகவும் பணியாற்றுகிறார். 2010 ஆம் ஆன்இல் அவர் ILSVRC(the ImageNet Large Scale Visual Recognition Challenge) எனப்படும் இமேஜ்நெட் தரவுத்தொகுப்பில் இருந்து ஒருபகுதி(1.4 மில்லியன் படங்கள் மற்றும் 1000 வகைகள்) தரவைக்கொண்டு மாதிரிகளை உருவாக்கும் போட்டிகளை நடத்தினார்கள். இந்ததரவில் நாய்களும் நாய்களின் இனமும் வகைப்படுத்தப்பட்டிருந்தது.  இதனால் நாயைக் கண்டறிவதோடு நிற்காமல் அது என்ன வகை என்பதையும் அறிய முடிந்தது.
 
-Aside: Just as a thought experiment, try to distinguish photos of Rampur Greyhound from Mudhol Hound. It’s tough, but dog experts, as well as deep learning machine vision models, can do it!
 
-Rampur Greyhound vs Mudhol Hound
 
-Tangentially, these dog-heavy data are the reason deep learning models trained with ImageNet have a disposition toward “dreaming” about dogs (see, e.g., deepdreamgenerator.com).
+உதாரணமாக  ஒரு பரிசோதனையாக, ராம்பூர் கிரேஹவுண்டின் புகைப்படங்களை முடோல் ஹவுண்டிலிருந்து வேறுபடுத்த முயற்சிக்கவும். இது கடினமானது, ஆனால் நாய் வல்லுநர்கள் மற்றும் ஆழக் கற்றல் இயந்திர பார்வை மாதிரிகள் இதை எளிதாக செய்யலாம்!
+
+**ராம்பூர் கிரேஹவுண்டின் vs முடோல் ஹவுண்டிலிருந்து**
+
+
 
 The arrival of the gamechanger a.k.a. AlexNet
+**அலெக்ஸ்நெட்டின் வருகை**
 
-The graph above shows that in the first two years of the ILSVRC all algorithms entered into the competition hailed from the feature-engineering-driven traditional machine learning ideology. In the third year, all entrants except one were traditional ML algorithms. If that one deep learning model in 2012 had not been developed or if its creators had not competed in ILSVRC, then the year-over-year image classification accuracy would have been negligible. Instead, Alex Krizhevsky and Ilya Sutskever— working out of the University of Toronto lab led by Geoffrey Hinton— crushed all existing benchmarks with their submission, today referred to as AlexNet.
+ஐ.எல்.எஸ்.வி.ஆர்.சியின் முதல் இரண்டு ஆண்டுகளில் போட்டியில் நுழைந்த அனைத்து மாதிரிகளும்  பாரம்பரிய இயந்திர கற்றல் சித்தாந்தத்தில் உருவானவை என்பதை மேலே உள்ள வரைபடம் காட்டுகிறது. 2012 ஆம் ஆண்டு ஜெஃப்ரி ஹிண்டன் தலைமையிலான டொராண்டோ பல்கலைக்கழக ஆய்வகத்தில் பணியாற்றும் அலெக்ஸ் கிரிஷெவ்ஸ்கி மற்றும் இலியா சுட்ஸ்கெவர், தற்போதுள்ள அனைத்து மாதிரிகளையும் விஞ்சக்கூடிய மிகச்சிறந்த மாதிரியை சமர்ப்பித்தனர். அதை அலெக்ஸ்நெட் என்று அழைத்தனர்.
 
-AlexNet was the victor by a head-and-shoulders (40 percent!) margin in the 2012 iteration. This was a watershed moment for Deep Learning! Instantly, deep learning architectures emerged from the fringes of machine learning to its fore. Academics and commercial practitioners scrambled to grasp the fundamentals of artificial neural networks as well as to create software libraries— many of them open-source— to experiment with deep learning models on their own data and use cases, be they machine vision or otherwise. Again, as the ILSRVC results graph illustrates, in the years since 2012 all of the top-performing models in the ILSVRC have been based on deep learning. All of the best algorithms since then have been deep learning models.
+அலெக்ஸ்நெட்டின் இந்த வெற்றி ஆழக்கற்றல் துறையில் மிக முக்கிய மாற்றங்களைக் கொண்டுவந்தது. 2012 க்கு பிறகு சமர்பிக்கப்பாட பெரும்பாலான மாதிரிகள் ஆழக்கற்றலைப் பயன்படுத்தின. பல நிறுவனங்கள் அவரவர் தரவுகளில் ஆழக்கற்றலை பயன்படுத்த ஆரம்பித்தனர்.
 
-Things did not stop there. In 2015, machines surpassed human accuracy. In the graph, the horizontal axis represents years and ranges from 2010 to 2017 in increments of 1. The vertical axis represents the top 5 error rate and ranges from 0 to 0.6 in increments of 0.2. A box plot is shown for the year 2010 in which the minimum error value falls at 0.26 and maximum value at 0.45. In the year 2011, the box plot shows a maximum value of 0.5 and a minimum value of 0.24. In the year 2012, the traditional machine learning shows a value of 0.23 but AlexNet showed a lower error rate of 0.18. The plots shown until 2012 is traditional machine learning but after the introduction of the AlexNet, the successive years shows the performance of deep learning. The error rates have a decreasing trend until the year 2017.
+2015 இல் இயந்திரங்கள் மனிதனைவிட மிகவும் துள்ளியமான முடிவுகளை தர ஆரம்பித்தது. 
+
+வரைபடத்தில், கிடைமட்ட அச்சு 2010 மற்றும் 2017 வரையிலான ஆண்டுகள் மற்றும் வரம்புகளைக் குறிக்கிறது. செங்குத்து அச்சு முதல் 5 பிழை வீதத்தைக் குறிக்கிறது 0 முதல் 0.6 வரை இருக்கும்.
+
+Things did not stop there. In 2015, machines surpassed human accuracy. In the graph, the horizontal axis represents years and ranges from 2010 to 2017 in increments of 1. The vertical axis represents the top 5 error rate and ranges from 0 to 0.6 in increments of 0.2.   A box plot is shown for the year 2010 in which the minimum error value falls at 0.26 and maximum value at 0.45. In the year 2011, the box plot shows a maximum value of 0.5 and a minimum value of 0.24. In the year 2012, the traditional machine learning shows a value of 0.23 but AlexNet showed a lower error rate of 0.18. The plots shown until 2012 is traditional machine learning but after the introduction of the AlexNet, the successive years shows the performance of deep learning. The error rates have a decreasing trend until the year 2017.
 
 Geoffrey Hinton the eminent British-Canadian artificial neural network pioneer, habitually referred to as “the godfather of deep learning” in the popular press. He is an emeritus professor at the University of Toronto and an engineering fellow at Google, responsible for managing the search giant’s Brain Team, a research arm, in Toronto. In 2019, Hinton, Yann LeCun, and Yoshua Bengio were jointly recognized with the Turing Award— the highest honor in computer science— for their work on deep learning.
 
