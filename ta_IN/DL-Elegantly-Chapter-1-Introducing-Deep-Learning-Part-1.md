@@ -140,3 +140,4 @@ Click Let’s Draw! to begin playing the game. You will be prompted to draw an o
 Summary In this chapter, we explored the history of deep learning from its evolutionary origins through to the AlexNet watershed moment in 2012 that brought the technique to the forefront of scientific attention. Through all of this, the point to keep in mind is that it is the hierarchical architecture of deep learning models that enables them to encode increasingly complex representations. We explored this concept with an interactive demonstration of hierarchical representations in action by training an artificial neural network in the TensorFlow Playground. We then looked at a system that recognizes doodles “automagically” using deep learning!
 
 In the next chapter, we will expand on the ideas introduced in this chapter by moving from vision applications to language applications!
+<br/>
