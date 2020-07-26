@@ -338,3 +338,4 @@ AlphaGo Beats Human
 | 1962 | Stuart Dreyfus | <img src="../img/en_US/chapter_0/StuartDreyfus.png" /> | "Back Propagation with Chain Rule"
 
 <br/>
+<br/>
