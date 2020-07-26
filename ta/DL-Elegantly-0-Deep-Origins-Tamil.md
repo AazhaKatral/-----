@@ -220,95 +220,123 @@ A Summary Deep Learning Timeline
 
 1970
 1970
-Backpropagation Is Computer Coded
+பின்னோக்கு பரவல் (Backpropagation) நிரல் எழுதப்பட்டது.
+
+செப்போ லின்னெய்ன்மா, பின்னோக்கு பரவல் மற்றும் தானே இயங்கும் வகைப்படுத்தல் முறையை வெளியிடுகிறது. மேலும் கணினியில்  ின்னோக்கு பரவல் (Backpropagation) நிரல் எழுதப்பட்டது  ப பின்னோக்கு பரவல் ஆராய்ச்சி இப்போது வெகுதூரம் வந்துவிட்டது. இருப்பினும் வரை நரம்பியல் வலையமைப்பில் இவைகளைப் பயன்படுத்த இன்னும் ஒரு சதாப்தம் ஆகலாம்.
  
-Seppo Linnainmaa publishes general method for automatic differentiation for backpropagation and also implements backpropagation in computer code. The research in backpropagation has now come very far, yet it would not be implemented in neural network till next decade.
 1971
 1971
+நரம்பியல் வலையமைப்பு இன்னும் ஆழமானது
 Neural Network Goes Deep
  
-Alexey Grigoryevich Ivakhnenko continues his research in Neural Network. He creates 8-layer Deep neural network using Group Method of Data Handling (GMDH).
+அலெக்ஸி கிரிகோரிவிச் இவாக்னென்கோ நியூரல் நெட்வொர்க்கில் தனது ஆராய்ச்சியைத் தொடர்ந்தார். குழுவாக தரவுகளைக் கையாண்டு எட்டு அடுக்கு ஆழமான ஒரு நரம்பியல் வலையமைப்பை உருவாக்கினார்.
+
 1980
 1980
 Neocognitron – First CNN Architecture
 Kunihiko Fukushima comes up with Neocognitron, the first convolutional neural network architecture which could recognize visual patterns such as handwritten characters.
+
+நியோகாக்னிட்ரான் - முதல் சி.என்.என் வடிவமைப்பு
+கையால் எழுதப்பட்ட எழுத்துக்கள் போன்ற காட்சி வடிவங்களை அடையாளம் காணக்கூடிய முதல் மாற்றக்கூடிய நரம்பியல் நெட்வொர்க் கட்டமைப்பாகும்.
+
 1982
 1982
-Hopfield Network – Early RNN
+ஹாப்ஃபீல்ட் நெட்வொர்க் - ஆரம்பகால ஆர்.என்.என்
  
-John Hopfield creates Hopfield Network, which is nothing but a recurrent neural network. It serves as a content-addressable memory system, and would be instrumental for further RNN models of modern deep learning era.
+ஜான் ஹாப்ஃபீல்ட் ஹாப்ஃபீல்ட் இது தொடர்ச்சியான நரம்பியல் நெட்வொர்க்கைத்(recurrent neural network) உருவாக்கினார். இது முகவரியிடத்தக்க நினைவக அமைப்பாக செயல்படுவதோடு மட்டுமல்லாமல் மேலும் ஆர்.என்.என் மாதிரிகளுக்கு இது மிகவும் பயனுள்ளதாக இருக்கும்.
+
 1985
 1985
-Boltzmann Machine
+போல்ட்ஜ்மன் இயந்திரம்
  
-Geoffrey Hinton and Terrence Sejnowski create Boltzmann Machine that is a stochastic recurrent neural network. This neural network has only input layer and hidden layer but no output layer.
+ஜெஃப்ரி ஹிண்டன் மற்றும் டெரன்ஸ் செஜ்னோவ்ஸ்கி போல்ட்ஜ்மேன் இயந்திரத்தை உருவாக்குகிறார்கள், இது ஒரு தொடர்ச்சியான நரம்பியல் வலையமைப்பாகும். இந்த நரம்பியல் வலைப்பின்னல் உள்ளீட்டு அடுக்கு மற்றும் மறைக்கப்பட்ட அடுக்கு மட்டுமே உள்ளது, ஆனால் வெளியீட்டு அடுக்கு இல்லை.
+
 1986
 1986
-NetTalk – ANN Learns Speech
-Terry Sejnowski creates NeTalk, a neural network which learns to pronounce written English text by being shown text as input and matching phonetic transcriptions for comparison.
+
+நெட்டாக் - ஏ.என்.என் பேச்சைக் கற்றுக்கொள்கிறது
+
+டெர்ரி செஜ்னோவ்ஸ்கி நெட்டாக் என்ற ஒரு நரம்பியல் வலையமைப்பை உருவாக்குகிறார். நெட்டாக் ஒலியை உள்வாங்கி ஆங்க்கில வார்த்தைகளை உச்சரிக்க்க கற்றுக்கொள்வதற்கான நரம்பியல் வலைப்பின்னலாகும்.
+
 1986
-Backpropagation In Neural Network
- 
-Geoffrey Hinton, Rumelhart and Williams in their paper “Learning Representations by back-propagating errors” show a new and better learning procedure for neural network by using backpropagation. It opened gates for training complex deep neural network easily which was the main obstruction in earlier days of research in this area.
+நரம்பியல் வலைப்பின்னலில் பின்னோக்குப் பரவல்
+
+ஜெஃப்ரி ஹிண்டன், ருமேல்ஹார்ட் மற்றும் வில்லியம்ஸ் அவர்களின் “Learning Representations by back-propagating errors” என்ற ஆய்வுக் கட்டுரை மூலம் பின்னோக்குப் பரவலைப் பயன்படுத்தி நரம்பியல் வலைப்பின்னலுக்கான புதிய மற்றும் சிறந்த கற்றல் நடைமுறையைக் விளக்கினர். சிக்கலான ஆழமான நரம்பியல் வலையமைப்பை எளிதில் பயிற்றுவிப்பதற்கான வாயில்களை இது திறந்தது, இது இந்த பகுதியில் முந்தைய நாட்களில் மேற்கொள்ளப்பட்ட ஆராய்ச்சிகளில் முக்கிய தடையாக இருந்தது.
+
 1986
-Restricted Boltzmann Machine
- 
-Paul Smolensky comes up with a variation of Boltzmann Machine where there is not intra layer connection in input and hidden layer. It is known as Restricted Boltzmann Machine (RBM). It would become popular in years to come especially for building recommender systems.
+**கட்டுப்படுத்தப்பட்ட போல்ட்ஜ்மேன் இயந்திரம்**
+பால் ஸ்மோலென்ஸ்கி  போல்ட்ஜ்மேன் இயந்திரத்தின் மற்றுமொரு மாதிரியை உருவாக்கினார்.  இதை கட்டுப்படுத்த போல்ட்ஜ்மேன் இயந்திரம் என்று அவர் அழைத்ஜ்தார். வரும் ஆண்டுகளில் பரிந்துரைக்கும் அமைப்பை உருவாக்குவதில் இந்த இயந்திரம் முக்கிய பங்கு வகிக்கும் என்று நம்பப்பட்டது.
 1989
 1989
-CNN Using Backpropagation
-Yann LeCun uses backpropagation to train convolutional neural network to recognize handwritten digits. This is a breakthrough moment as it lays the foundation of modern computer vision using deep learning.
+**சி.என்.என் உபயோக்க்கும் பின்னோக்கு பரவல் முறை**
+
+யான் லீகன் கையால் எழுதப்பட்ட எண்களை கண்டறிய பின்னோக்கு பரவல் முறையை பயன்படுத்து convolutional neural network மூலம் பற்றுவித்தார். இது ஆழக்கற்றலுக்கு ஒரு அடித்தளமாக அமைந்தது.
+
 1989
-Universal Approximators Theorem
- 
-George Cybenko publishes earliest version of the Universal Approximation Theorem in his paper “Approximation by superpositions of a sigmoidal function“. He proves that feed forward neural network with single hidden layer containing finite number of neurons can approximate any continuous function. It further adds credibility to Deep Learning.
+**பொது தோராய தேற்றம்.**
+
+ஜார்ஜ் சைபென்கோ பொது தோராய தேற்றத்தின் ஆரம்ப பதிப்பை தனது “Approximation by superpositions of a sigmoidal function” என்ற தனது கட்டுரையில் வெளியிடுகிறார்.   வரையறுக்கப்பட்ட எண்ணிக்கையிலான நியூரான்களைக் கொண்ட ஒரு மறைக்கப்பட்ட அடுக்குடன்(hidden layer) முன்னோக்கி நரம்பியல் வலையமைப்பைக் கொண்டு எந்தவொரு தொடர்கோவைகளையும் தோராயமாக மதிப்பிட முடியும் என்பதை அவர் நிரூபிக்கிறார். இது ஆழக்கற்றலின் நம்பகத்தன்மையை மேலும் அதிகரித்தது.
+
 1991
 1991
-Vanishing Gradient Problem Appears
- 
-Sepp Hochreiter identifies the problem of vanishing gradient which can make the learning of deep neural network extremely slow and almost impractical. This problem will continue to annoy deep learning community for many more years to come.
+
+**மறைந்துபோகும் க்ரேடியண்ட் சிக்கல்**
+ vanishing gradien முறையில் ஆழக்க்றறல் சிக்கல்கள் 
+ஆழமான நரம்பியல் வலையமைப்பின் கற்றல் மிகவும் மெதுவானதாகவும், கிட்டத்தட்ட நடைமுறைக்கு மாறானதாகவும் இருக்கக்கூடிய சாய்வு மறைந்துபோகும் சிக்கலை செப் ஹோக்ரைட்டர் அடையாளம் காண்கிறார். இந்த சிக்கல் இன்னும் பல ஆண்டுகளாக ஆழ்ந்த கற்றல் சமூகத்தை தொடர்ந்து தொந்தரவு செய்யும்.
+
 1997
 1997
-The Milestone Of LSTM
+
+எல்.எஸ்.டி.எம் மைல்கள்
  
-Sepp Hochreiter and Jürgen Schmidhuber publishes a milestone paper on “Long Short-Term Memory” (LSTM). It is a type of recurrent neural network architecture which will go on to revolutionize deep learning in decades to come.
+செப் ஹோக்ரைட்டர் மற்றும் ஜூர்கன் ஷ்மிதூபர் ஆகியோர் “நீண்ட குறுகிய கால நினைவகம்” (எல்எஸ்டிஎம்) குறித்த முக்கிய ஆராய்சி கட்டுரையை வெளியிட்டார். இது ஒரு வகையான தொடர்ச்சியான நரம்பியல் நெட்வொர்க் கட்டமைப்பாகும், இது வரவிருக்கும் தசாப்தங்களில் ஆழக்கற்றலில் புரட்சியை ஏற்படுத்தும்.
+
 2006
 2006
-Deep Belief Network
- 
-Geoffrey Hinton, Ruslan Salakhutdinov, Osindero and Teh publishes the paper “A fast learning algorithm for deep belief nets” in which they stacked multiple RBMs together in layers and called them Deep Belief Networks. The training process is much more efficient for large amount of data.
+**ஆழமான நம்பிக்கை நெட்வொர்க்(Deep Belief Network)**
+
+ஜெஃப்ரி ஹிண்டன், ருஸ்லான் சலகுடினோவ், ஒசிண்டெரோ மற்றும் டெஹ் ஆகியோர் “ஆழ்ந்த நம்பிக்கை வலைகளுக்கான விரைவான கற்றல் வழிமுறை” என்ற ஆய்வறிக்கையை வெளியிடுகின்றனர், அதில் அவர்கள் பல ஆர்.பி.எம்-களை அடுக்குகளில் ஒன்றாக அடுக்கி அவற்றை டீப் பிலிஃப் நெட்வொர்க்குகள் என்று அழைத்தனர். மிகப்பெரிய அளவிலான தரவுகளை பயிற்றுவிக்க இந்த முறையைப் பயன்படுத்தலாம்.
+
 2008
 2008
-GPU Revolution Begins
- 
-Andrew NG’s group in Stanford starts advocating for the use of GPUs for training Deep Neural Networks to speed up the training time by many folds. This could bring practicality in the field of Deep Learning for training on huge volume of data efficiently.
-2011
+**ஜி.பீ.யூ புரட்சி தொடங்குகிறது**
+ஸ்டான்போர்டில் பல்கலைக் கழகத்தைச் சேர்ந்த ஆன்ட்ரூ இங் மற்றும் குழுவினர், ஜி.பீ.யூ வைப் பயன்படுத்து ஆழமான நியூரல் நெட்வொர்க்குகளை வேகமாக பயிற்றுவித்தனர். இது பெரிய அளவிலான தரவுகளை திறம்பட பயிற்றுவிக்கும் முறையை அறிமுகப்படுத்தியது.
+
 2011
 Combat For Vanishing Gradient
+வானிஷிங் க்ரேடியண்ட் க்கான போர்
+
+யோஷுவா பெங்கியோ, அன்டோயின் போர்டெஸ், சேவியர் குளோரோட் அவர்களின் “Deep Sparse Rectifier Neural Network” என்ற ஆய்வுக்கட்டுரையில், நீலு ஆக்டிவேஷன் ஃபங்க்சன் மூலம்  வானிஷிங் க்ரேடியண்ட்  சிக்கலை தவிர்க்க முடியும் என்பதை விவரித்தனர். இது ஆழக்கற்றல் துறையில் மிக அதிக பயிற்சி நேரத்தைக் குறைக்க ஜி.பி.யூ மட்டுமில்லாமல் இன்னொரு மாற்று வழியும் உண்டு என்று விளக்கினர்.
  
-Yoshua Bengio, Antoine Bordes, Xavier Glorot in their paper “Deep Sparse Rectifier Neural Networks” shows that ReLU activation function can avoid vanishing gradient problem. This means that now, apart from GPU, deep learning community has another tool to avoid issues of longer and impractical training times of deep neural network.
+
 2012
 2012
 AlexNet Starts Deep Learning Boom
- 
-AlexNet, a GPU implemented CNN model designed by Alex Krizhevsky, wins Imagenet’s image classification contest with accuracy of 84%.  It is a huge jump over 75% accuracy that earlier models had achieved. This win triggers a new deep learning boom globally.
+**அலெக்ஸ்நெட் - ஆழக்கற்றல் துறையில் ஏற்றம் துவங்கியது**
+அலெக்ஸ்நெட் என்பது அலெக்ஸ் கிரிஷெவ்ஸ்கி என்பவரால் ஜிபியூவைப் பயன்படுத்தி வடிவமைக்கப்பட்ட ஒரு மாடல் ஆகும். இந்த மாடலைப் பயன்படுத்தி 84% துள்ளியமான முடிவுகளை பெற முடிந்ததால் இமேஜ்நெட் போட்டியில் முதல் பரிசை வென்றது. இதனால் இந்த துறையில் மாபெரும் முனேற்றம் ஏற்பட்டது.
+
 2014
 2014
-The Birth Of GANs
+**GAN களின் பிறப்பு**
  
-Generative Adversarial Neural Network also known as GAN is created by Ian Goodfellow. GANs open a whole new doors of application of deep learning in fashion, art, science due it’s ability to synthesize real like data.
+GAN என்றும் அழைக்கப்படும் ஜெனரேடிவ் அட்வர்சரியல் நியூரல் நெட்வொர்க் இயன் குட்ஃபெலோவால் உருவாக்கப்பட்டது. ஃபேஷன், கலை, விஞ்ஞானம் ஆகியவற்றில் ஆழக்கற்றலை பயன்படுத்துவதற்கான புதிய கதவுகளை GAN கள் திறக்கின்றன.
+
 2016
 2016
 AlphaGo Beats Human
- 
-Deepmind’s deep reinforcement learning model beats human champion in the complex game of Go. The game is much more complex than chess, so this feat captures the imagination of everyone and takes the promise of deep learning to whole new level.
+
+**மனிதனை வென்ற ஆல்ஃபாகோ**
+டீப் மைண்டின் ஆழ்ந்த வலுவூட்டப்பட்ட கற்றல் முறை மூலம் "கோ" போன்ற சிக்கலான விளையாட்டுகளை கணினி வென்றது.  கோ விளையாட்டு சதுரங்க விளையாட்டை விட மிக கடினமான விளையாட்டாகும்.  
+
+
 2019
 2019
-Godfathers Win Turing Award
+
+**காட்பாதர்ஸ் டூரிங் விருதை வென்றார்கள்**
  
-Yoshua Bengio, Geoffrey Hinton, and Yann LeCun wins Turing Award 2018 for their immense contribution in advancements in area of deep learning and artificial intelligence. This is a defining moment for those who had worked relentlessly on neural networks when entire machine learning community had moved away from it in 1970s.
- 
- 
+ஆழக்கற்றல் மற்றும் செயற்கை நுண்ணறிவு ஆகியவற்றில் முன்னேற்றங்களில் மகத்தான பங்களிப்பு செய்ததற்காக யோஷுவா பெங்கியோ, ஜெஃப்ரி ஹிண்டன் மற்றும் யான் லீகன் டூரிங் விருது 2018 ஐ வென்றனர். 1970 களில் முழு இயந்திர கற்றல் சமூகமும் அதிலிருந்து விலகிச் சென்றபோதும் நரம்பியல் நெட்வொர்க்குகளில் இடைவிடாமல் உழைத்த அனைவருக்கும் இது மிக முக்கியமான தருணமாகும்.
+
+
 | Year(s) | Name | Image | Description
 | --- | --- | --- | ---
 | 1943 | WalterPitts & WarrenMcCulloch | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> | "A Logical Calculus of the Ideas Immanent in Nervous Activity"
