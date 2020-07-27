@@ -339,4 +339,6 @@ AlphaGo Beats Human
 | 1962 | Stuart Dreyfus | <img src="../img/en_US/chapter_0/StuartDreyfus.png" /> | "Back Propagation with Chain Rule"
 | 1965 | Alexey Grigoryevich Ivakhnenko | <img src="../img/en_US/chapter_0/AlexeyGrigoryevichIvakhnenko.png" /> | "Birth of Multilayer Neural Network"
 | 1969 | Marvin Minsky and Seymour Papert | <img src="../img/en_US/chapter_0/MarvinMinsky_and_SeymourPapert.png" /> | "The Fall of Perceptron"
+| 1970 | Seppo Linnainmaa | <img src="../img/en_US/chapter_0/SeppoLinnainmaa.png" /> | Backpropagation is Computer Coded
+
 <br/>
