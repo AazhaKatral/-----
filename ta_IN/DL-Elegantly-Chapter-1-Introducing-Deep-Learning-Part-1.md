@@ -1,144 +1,509 @@
+## பகுதி 1: ஆழக்கற்றல் தோற்றம்
 
-**பாடம் I: ஆழக்கற்றல் தோற்றம் (தொடர்கிறது)**
+## ஒளியும் உயிர்களின் தோற்றமும்
 
-**உயிரியல் பார்வை**
+### பார்வை பரிணாமம்
 
-**இயந்திரப் பார்வை**
+சுமார்  ஐநூற்று ஐம்பது மில்லியன் வருடங்களுக்கு முன் **கேம்பிரியன் யுகத்தில்** (**Cambrian period**) பூமியின் வளி மண்டலத்தில் (atmosphere) சில மாற்றங்கள் ஏற்பட்டது. பூமியில் உள்ள உயிர்கள் ஒளியை உணர ஆரம்பித்தன.  நண்டு இனத்தைச் சேர்ந்த **ட்ரைலோபைட்** (**Trilobyte**) எனப்படும் ஒரு கடல் வாழ் உயிரிக்கு ஒளியை உணர்ந்து கொள்ளும் திறன் வந்தது என்கிறார்கள்.  பல்லுயிர் பெருக்கத்தால் (Biodiversity) பூமியில், உயிர்களின் உருவாக்கத்தில் ஒரு எழுச்சி ஏற்பட்டது.  இதனை **பார்வை எழுச்சிக் கோட்பாடு** (**Light Switch Theory**) என்றார் **ஆண்ரூ பார்கர்** (**Andrew Parker**) என்ற விஞ்ஞானி.
 
-உயிர்களின் ஒளி உணர் திறன் பற்றி நாம் விரிவாக விவாதித்ததற்கு காரணம் என்ன என்பது இப்போது தெளிவாகி இருக்கும் என்று எண்ணுகிறேன். இன்றைய ஆழக்கற்றலுக்கும் உயிர்களின் ஒளி உணர் திறனுக்கும் உள்ள தொடர்பை நான் இப்போது நான் நன்றாத தெரிந்து கொண்டோம்.
-
-
-*இந்த படத்தில் உயிர்களின் ஒளி உணரும் திறனில் ஏற்பட்ட மாற்றங்களையும் இயந்திரக்கற்றல் வளர்சியையும் காட்டுகிறது.  நீல நிறக்கோடு ட்ரைலோபைட்டுகளில் பார்வை வளர்ச்சியையும், ஹூபல் மற்றும் வீசலின் 1959 இல் முதன்மைக் கார்ட்டெக்ஸ் ஆய்வையும் காட்டுகிறது. இயந்திரப் பார்வை(machine vision) கால வரிசை பிங்க், மற்றும் ஊதா நிற கோடுகளாகப் பிரிக்கப்பட்டுள்ளது. பிங்க் நிற கோடு ஆழக்கற்றல் வளர்சியையும் ஊதா நிற கோடு இயந்திரக்கற்றல் வளர்சியையும் காட்டுகிறது.*
-
-
-**நியோகாக்னிட்ரானை அறிவோம்**
-
-முதன்மை காட்சி புறணி படிநிலையை(hierarchy) உருவாக்கும் எளிய மற்றும் சிக்கலான செல்களை ஹூபல் மற்றும் வைசல் கண்டுபிடித்தனர்.   ஹூபல் மற்றும் வைசல் கண்டுபிடிப்பால்   ஈர்க்கப்பட்டு, 1970 களின் பிற்பகுதியில், ஜப்பானிய மின் பொறியாளர் குனிஹிகோ புகுஷிமா இயந்திர பார்வைக்கு ஒரு ஒத்த கட்டமைப்பை முன்மொழிந்தார். அதற்கு அவர் நியோகாக்னிட்ரான் என்று பெயரிட்டார்.  புகுஷிமா தனது எழுத்தில் ஹூபல் மற்றும் வீசலின்  முதன்மைக் காட்சிப் புறணி அமைப்பைப் பற்றிய அவர்களின் மூன்று முக்கிய கட்டுரைகளை மேற்கோள்காட்டி விளக்கினார்.
-
-
-
-*குனிஹிகோ புகுஷிமா(Kunihiko Fukushima)*
-
-*Fukushima, K. (1980). Neocognitron: A self-organizing neural network model for a mechanism of pattern recognition unaffected by shift in position. Biological Cynbernetics, 36, 193– 202.* 
-
-*படிநிலை முறையில் செயற்கை நியூரான்களை ஒழுங்குபடுத்துவதன் மூலம், செயற்கை நியூரான்கள் - உயிர்ப்புள்ள உண்மை நியூரான்கள் போலவே, - *
-*By arranging artificial neurons in this hierarchical manner, these artificial neurons— like their biological inspiration earlier — generally represent line orientations in the cells of the layers closest to the raw visual image, while successively deeper layers represent successively complex, successively abstract objects.*
-
-
-
-**LeNet-5**
-நியோ காக்நெட்ரானை கையெழுத்த
-
-
-நியோகாக்னிட்ரான் கையால் எழுதப்பட்ட எழுத்துக்களை அடையாளம் காணும் திறன் கொண்டதாக இருந்தாலும்,யான் லீகூன் மற்றும் யோஷுவா பென்ஜியோ இருவரும் இணைந்து இன்னும் துள்ளியமான மற்றும் அதிக செயல் திறன் கொண்ட LeNet-5 ஐ உருவாக்கினார்கள். புகுஷிமாவின் தலைமையில்  ஹூபல் மற்றும் வைசலின் ஆராய்சியை மையமாகக் கொண்டு, லெனெட் -5 உருவாக்கப்பட்டது.  யான் லீகூன் மற்றும் யோஷுவா பென்ஜியோ தரமான தரவுகள், அதிக திறன் கொண்ட கணினிகள் மற்றும் பின்னோக்கு பரவல் அல்காரிதம்களைக் கொண்டு அவர்கள் லெனெட் -5 ஐ உருவாக்கினார்கள்.
-
-
-செயற்கை நரம்பியல் வலையமைப்பு மற்றும் ஆழக்கற்றல் ஆராய்ச்சியில்  பாரிஸில் பான் - யான் மற்றும் லீகன் இருவரும் மிக முக்கியமானவர்கள். லீகன் நியூயார்க் பல்கலைக்கழக அறிவியல் மையத்தின் நிறுவன இயக்குநராகவும், பேஸ்புக் நிறுவனத்தில் AI ஆராய்ச்சியின் இயக்குநராகவும் உள்ளார்.
-
-
-யோஷுவா பெங்கியோ செயற்கை நரம்பியல் நெட்வொர்க்குகள் மற்றும் ஆழ்ந்த கற்றல் துறையில் மிகவும் முக்கியம் வாந்த விஞ்ஞானி. பிரான்சில் பிறந்த இவர், மாண்ட்ரீல் பல்கலைக்கழகத்தில் கணினி அறிவியல் பேராசிரியராக உள்ளார், மேலும் கனடிய இன்ஸ்டிடியூட் ஃபார் அட்வான்ஸ்ட் ரிசர்ச்சில் புகழ்பெற்ற இயந்திரங்கள் மற்றும் மூளை திட்டத்தின் இணை இயக்குனராக உள்ளார்.
-
-
-
-மேலே உள்ள இரண்டு வரைபடங்கள் ஒரே லெனெட் -5 கட்டமைப்பின் இரண்டு விதமாக காட்டப்பட்டுள்ளது, முதலாவது ஒரு தர்க்கரீதியான பார்வை மற்றும் இரண்டாவது ஒரு “தொழில்நுட்ப” பார்வை. ஹூபல் மற்றும் வீசல் ஆகியோரால் கண்டுபிடிக்கப்பட்ட முதன்மை காட்சி கோர்டெக்ஸின் படிநிலை கட்டமைப்பை லெனெட் -5 எவ்வாறு தக்க வைத்துக் கொள்கிறது என்பதையும்பு குஷிமா தனது நியோகாக்னிட்ரானில் எவ்வாறு பயன்படுத்தியுள்ளார் என்பதையும் காணலாம். படத்தில் இடதுபுற அடுக்கு எளிய விளிம்புகளையும், அடுத்தடுத்த அடுக்குகள் பெருகிய முறையில் சிக்கலான அம்சங்களையும் குறிக்கின்றன. இந்த வழியில் தகவல்களைச் செயலாக்குவதன் மூலம், கையால் எழுதப்பட்ட “2”, எடுத்துக்காட்டாக, எண் இரண்டாக சரியாக கண்டறியும்.
-
-மேலே உள்ள படத்தில் லெனெட்-5 எவ்வாறு செயல்படுகிறது என்று பார்க்கலாம். அது எண் இரண்டை (2) உள்வாங்கி அடுத்த அடுக்குக்கு அனுப்புகிறது. இந்த அடுக்கில் உள்ளிடப்பட்ட தகவலின் அம்சங்கள்(features) பெரிய அம்சங்களாக பிரிகிறது. அடுத்த அடுக்கில் சிறு சிறு அம்சங்களாக பிரிகிறது. அடுத்த அடுக்கில் சிறு கன சதுரங்களாக காட்டப்பட்டுள்ளது. அடுத்தடுத்த அடுக்குகளில் இந்த கன சதுரங்கள் தடிமன் குறைந்து நீளம் அதிகரித்து காணப்படும். இறுதியாக கோடுகள் போல காட்சியளிக்கும்.  இறுதி அடுக்கு சரியான எண்ணை விடையாக வெளியிடும்.
-
-*Fukushima, K., & Wake, N. (1991). Handwritten alphanumeric character recognition by the neocognitron. IEEE Transactions on Neural Networks, 2, 355– 65.*
-
-*LeCun, Y., et al. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 2, 355– 65. 11.*
-
-லெனெட்-5 என்ற மாற்றத்த நரம்பியல் வலைப்பின்னல் ஒரு ஆழக்கற்றல் வகையைச் சேர்ந்த அல்காரிதம் ஆகும். இந்த வலையமைப்பு பிற்காலத்தில் இயந்திரப்பார்வை எனப்படும் மிஷன் விஷன் திட்டத்தில் முக்கிய பங்கு வகிக்க்கவிருக்கிறது. ெனெட்-5இல் பயன்படுத்திய  MNIST எனப்படும் கையாள் எழுதப்பட்ட எண்களின் மாதிரி தரவுகளை  புத்தகத்தின் பகுதி -2 இல் "அத்தியாவசிய கோட்பாடுகள் மற்ற்றும் விளக்கங்கள்" என்ற பகுதியில் அதிகம் பயன்படுத்தவிருக்கிறோம். ஆழக்கற்றல் மாதிரிகளில் அதிகம் பயன்படுத்தப்படும் பின்னோக்கு பரவல் முறையை பின் வரும் பகுதிகளில் தெரிந்து கொள்ளலாம்.
-
-இதனைத் தொடர்ந்து அமெரிக்க தபால் சேவை நிறுவனம் பின்கோடுகளைக் கண்டுபிடிக்க லெனெட்-5ஐ வணிகரீதியாக பயன்படுத்தத் தொடங்கியது. எனவே லெனெட் 5 மூலம் சாதாரண இயந்திரக் கற்றலுக்கும் ஆழக்கற்றலுக்கும் உள்ள வேறுபாட்டை தெளிவாக தெரிந்துகொள்ளலாம்.
-
-படம் 1.12 இல் உள்ளது போல் இயந்திரக்கற்றல் முறை முக்கிய அம்சங்களைக் கற்றல் முறையைப் பயன்படுத்துகிறது. ஒரு தரவை எடுத்து அதை தூய்மையாக்கி, முக்கிய அம்சங்களைத் தேர்ந்தெடுத்து புள்ளி விவரங்களின் அடிப்படையில் மாதிரிகளை உருவாக்கலாம்.  நிக் ரிக்ரஷன், ரேண்டம் ஃப்பாரஸ்ட் மற்ற்றும் வெக்டார் இய்ந்திரம் போன்ற முறைகள்  பதப்படுத்தப்படாத தரவுகளைக் கொண்டு சிறப்பான முடிவுகளைத் தருகிறது.
-
-
-இயந்திரக் கற்றலில் அம்சங்களை தேர்ந்ந்நதெடுத்தல் என்பது ஒரு அறிவியல் மற்றும் கலை எனலாம். இதற்கு துறையில் நிபுணத்துவமும், உள்ளுணர்வும், கணிதத்திறமையும் மிகவும் முக்கியம். மிகச்சிறந்த தரவு முடிகள் பெரும்பாலும் மிகக் குறைந்த அளவே கணக்கீடுகளை பயன்படுத்தியுள்ளது.  பொதுவாக வளமான தரவுகளும் அந்த தரவுகளை பயன்படுத்தும் அல்காரிதம்கள் மற்றும்  தரவுடன் தொடர்புடைய கட்டமைப்புகள்/பண்புகள் போன்றவைகளே சிறந்த முடிவுகளைத்தரும்.  அம்சங்களை தேர்தெடுக்கும் போது தரவுகளின் பண்புக்கூறுகளை(Attributes)  தரவுகளின் அம்சங்களாக மாற்றவேண்டும்.  தரவுகளின் பண்புக்கூறுகள் என்பது தரவுகளின் பரிணாமம் ஆகும்.  தரவின் அம்சங்களைத் தேர்வு செய்யும் போது, தரவுகளை அலசி ஒழுங்கு படுத்துவதன் மூலம் மாதிரி/கற்றல் அல்காரிதம்களை குறைந்த இரைச்சலுடன் திறம்பட செயல்பட வைக்க முடியும். இரைச்சல் என்பது இங்கே சம்மந்தம் இல்லாத தரவுகள் என எடுத்துக்கொள்ளலாம்.
-
-
-இயந்திரக்கற்றல் முறையில் பதபடுத்தபடாத தரவுகளின்(raw data) அம்சங்களை ஆராய்ந்து தேவைக்கு ஏற்ப தரவுகளை(data) மாற்றவேண்டும். ஆனால் இயந்திரக்கற்றல்(Machine Learning) முறையில் அம்சங்களை ஆராய தேவை இல்லை. ஆனால் இயந்திரக்கற்றல் மாதிரி கட்டமைப்பை உருவாக்குவதற்கு அதிக நேரம் தேவைப்படுகிறது. இயந்திரக்கற்றல் முறையில் மாதிரிகளை உருவாக்குவதும் அதில் சிறந்த மாதிரியை தேர்வு செய்து பயன்படுத்துவதற்கும் அதிக நேரம் செலவாகும்.
-
-
-இருப்பினும்  அம்சங்களை தேர்வெடுப்பதில் இத்தனை சிக்கல் இருந்தாலும் இயந்திரக்கற்றலில் அதிக நம்பகத்தன்மை உண்டு என்று நிறுவனங்கள் நம்பியதால் ஆழக்கற்றக்கான நிதி சரிவர கிடைக்காமல் போனது. மேலும் மோசமான நிறையை(weight) யுடன் துவக்கம், கோவேரியன் நகர்வு, பயனற்ற சிக்மாய்ட் செயல்பாடு. என அனைத்தும் சேர்ந்து ஆழக்கற்றலை சற்று பின்னுக்குத் தள்ளியது.  ஆனால் கனடா அரசு மான்றியல் பல்கலைக் கழகதின் மூலம் செயற்கை நுண்ணறிவுக்கு நிதி ஒதுக்கியது. எனவே மான்றியல் பல்கலைக்கழகம் ஆழக்கற்றல் துறையில் சிறந்து விளங்குகிறது.
-
-*2000 களின் முற்பகுதியில் பால் வயோலா மற்றும் மைக்கேல் ஜோன்ஸ் ஆகியோரிடமிருந்து வெற்றிகரமான அம்சங்களை தேர்வு செய்வதில் புகழ்பெற்ற உதாரணத்தை இங்கே காணலாம். வயோலா மற்றும் ஜோன்ஸ் படத்தில் காட்டப்பட்டுள்ள செங்குத்து அல்லது கிடைமட்ட கருப்பு மற்றும் வெள்ளை பார்கள் போன்ற செவ்வக வடிப்பான்களைப் பயன்படுத்தினர். ஒரு படத்தின் மீது செவ்வக வடிப்பான்களைக் கடந்து செல்வதன் மூலம் உருவாக்கப்படும் இந்த அம்சங்கள் ஒரு முகத்தின் இருப்பை நம்பத்தகுந்த முறையில் கண்டறிய இயந்திர கற்றல் வழிமுறைகளில் வழங்கப்பட்டன. அவற்றின் திறமையான வழிமுறை புஜிஃபில்ம் கேமராக்களில் நுழைந்து, நிகழ்நேர ஆட்டோ-ஃபோகஸை எளிதாக்கியது. படத்தில், செவ்வக வடிப்பான்களின் சேர்க்கைகள்  நம்பகமான முகத்தை அடையாளம் காணும் நோக்கத்திற்காக பயன்படுத்தப்பட்டுள்ளது. முதல் வடிகட்டி கிடைமட்ட கருப்பு செவ்வக பெட்டியின் உள்ளே கிடைமட்ட வெள்ளை பட்டை. இரண்டாவது வடிகட்டி ஒரு கருப்பு செவ்வக பெட்டியின் உள்ளே ஒரு வெள்ளை செங்குத்து பட்டை. அசல் படம் ஒரு நபரின் முகத்தின் சிறு உருவமாகும். இரண்டு வடிப்பான்களும் நபரின் முகத்தின் கண் பகுதியை உள்ளடக்கும். இதுவே உலகில் முதல் முதலாக இயந்திரம் மூலம் மனிதனிம் முகம் அடையாளம் காணப்பட்ட தருணமாகும்*
-
-
-மனித முகத்தின் பண்புகளை பல வருடங்களாக ஆராய்ந்து பிக்ஸெல்களை வடிகட்டி முகத்தை கண்டறிவதற்கான இயந்திரக்கற்றல் மாதிரியை வடிவமைத்தார்கள். இவ்வளவு கடின உழைப்பால் உருவாக்கப்பட்ட மாதிரிகள் மனித முகங்களைக் கண்டுபிடித்தன ஆனால் இன்னாருடைய முகம் என்று அடையாளம் காட்ட முடியவில்லை.  ஒரு குறிப்பிட்ட நபரின் முகத்தை துள்ளியமாக அறியவும், அல்லது முகம் அல்லாத பொருள்களை உதாரணமாக இது வீடு, இது கார், இது பந்து என வகைப்படுத்தி அறியவும் இன்னும் பலகாலம் ஆகலாம். மிஷன் விஷன் சமூகம் இதற்காக உழைத்துக்கொண்டுகிறது.
-
-
-ImageNet and the ILSVRC
-
-The success LeNet-5 had over the neocognitron was catalyzed by the availability of a larger, high-quality set of training data. There was a clear recognition among the scientific community that data driven discoveries were cropping up many research areas. The next breakthrough in neural networks was also catalyzed by a high-quality public dataset, this time much larger. ImageNet, a labeled index of photographs devised by computer science professor Fei-Fei Li armed machine vision researchers with an immense catalog of training data. For reference, the handwritten digit data used to train LeNet-5 contained tens of thousands of images. ImageNet, in contrast, contains tens of millions. The 14 million images in the ImageNet dataset are spread across 22,000 categories. These categories are as diverse as container ships, leopards, starfish, and elderberries.
-
-Fei-Fei Li
-
-The massive ImageNet dataset was the brainchild of a computer science professor Fei-Fei Li and her colleagues at Princeton in 2009. Now a faculty member at Stanford University, Li is also the chief scientist of A.I./ ML for Google’s cloud platform. In 2010, Li began running an open challenge called ILSVRC (the ImageNet Large Scale Visual Recognition Challenge) on a subset of the ImageNet data. This challenge has, over time, become the premier ground for assessing the world’s state-of-the-art machine vision algorithms. The ILSVRC subset consists of 1.4 million images across 1,000 categories. In addition to providing a broad range of categories, many of the selected categories are breeds of dogs, thereby evaluating the algorithms’ ability not only to distinguish widely varying images but also to specialize in distinguishing subtly varying ones.
-
-Aside: Just as a thought experiment, try to distinguish photos of Rampur Greyhound from Mudhol Hound. It’s tough, but dog experts, as well as deep learning machine vision models, can do it!
-
-Rampur Greyhound vs Mudhol Hound
-
-Tangentially, these dog-heavy data are the reason deep learning models trained with ImageNet have a disposition toward “dreaming” about dogs (see, e.g., deepdreamgenerator.com).
-
-The arrival of the gamechanger a.k.a. AlexNet
-
-The graph above shows that in the first two years of the ILSVRC all algorithms entered into the competition hailed from the feature-engineering-driven traditional machine learning ideology. In the third year, all entrants except one were traditional ML algorithms. If that one deep learning model in 2012 had not been developed or if its creators had not competed in ILSVRC, then the year-over-year image classification accuracy would have been negligible. Instead, Alex Krizhevsky and Ilya Sutskever— working out of the University of Toronto lab led by Geoffrey Hinton— crushed all existing benchmarks with their submission, today referred to as AlexNet.
-
-AlexNet was the victor by a head-and-shoulders (40 percent!) margin in the 2012 iteration. This was a watershed moment for Deep Learning! Instantly, deep learning architectures emerged from the fringes of machine learning to its fore. Academics and commercial practitioners scrambled to grasp the fundamentals of artificial neural networks as well as to create software libraries— many of them open-source— to experiment with deep learning models on their own data and use cases, be they machine vision or otherwise. Again, as the ILSRVC results graph illustrates, in the years since 2012 all of the top-performing models in the ILSVRC have been based on deep learning. All of the best algorithms since then have been deep learning models.
-
-Things did not stop there. In 2015, machines surpassed human accuracy. In the graph, the horizontal axis represents years and ranges from 2010 to 2017 in increments of 1. The vertical axis represents the top 5 error rate and ranges from 0 to 0.6 in increments of 0.2. A box plot is shown for the year 2010 in which the minimum error value falls at 0.26 and maximum value at 0.45. In the year 2011, the box plot shows a maximum value of 0.5 and a minimum value of 0.24. In the year 2012, the traditional machine learning shows a value of 0.23 but AlexNet showed a lower error rate of 0.18. The plots shown until 2012 is traditional machine learning but after the introduction of the AlexNet, the successive years shows the performance of deep learning. The error rates have a decreasing trend until the year 2017.
-
-Geoffrey Hinton the eminent British-Canadian artificial neural network pioneer, habitually referred to as “the godfather of deep learning” in the popular press. He is an emeritus professor at the University of Toronto and an engineering fellow at Google, responsible for managing the search giant’s Brain Team, a research arm, in Toronto. In 2019, Hinton, Yann LeCun, and Yoshua Bengio were jointly recognized with the Turing Award— the highest honor in computer science— for their work on deep learning.
-
-You can see in this figure that AlexNet’s hierarchical architecture is reminiscent of LeNet-5, with the first (left-hand) layer representing simple visual features like edges, and deeper layers representing increasingly complex features and abstract concepts. Shown at the bottom are examples of images to which the neurons in that layer maximally respond, recalling the layers of the biological visual system and demonstrating the hierarchical increase in visual feature complexity. In the example shown here, an image of a cat input into LeNet-5 is correctly identified as such (as implied by the green “CAT” output). “CONV” indicates the use of something called a convolutional layer, and “FC” is a fully connected layer (don’t worry we will formally explain these layer types in later chapters).
-
-Though the architecture of AlexNet is reminiscent of LeNet-5, there are three principal factors that enabled AlexNet to be the state-of-the-art machine vision algorithm in 2012:
-
-Training data: Not only did Krizhevsky and his colleagues have access to the massive ImageNet index, they also artificially expanded the data available to them by applying transformations to the training images (you, too, will do this later).
-
-Processing power: Not only had computing power per unit of cost increased dramatically from 1998 to 2012, but Krizhevsky, Hinton, and Sutskever also programmed two GPUs24 to train their large datasets with previously unseen efficiency.
-
-Architectural Advances: AlexNet is deeper (has more layers) than LeNet-5, and it takes advantage of both a new type of artificial neuron and a nifty trick that helps generalize deep learning models beyond the data they’re trained on.
-
-GPU stands for "Graphics Processing Unit." A GPU is a processor designed to handle graphics operations. This includes both 2D and 3D calculations, though GPUs primarily excel at rendering 3D graphics. Early PCs did not include GPUs, which meant the CPU had to handle all standard calculations and graphics operations. As software demands increased and graphics became more important (especially in video games), a need arose for a separate processor to render graphics. On August 31, 1999, NVIDIA introduced the first commercially available GPU for a desktop computer, called the GeForce 256.
-
-It could process 10 million polygons per second, allowing it to offload a significant amount of graphics processing from the CPU. The success of the first graphics processing unit caused both hardware and software developers alike to quickly adopt GPU support. Motherboards were manufactured with faster PCI slots and AGP slots, designed exclusively for graphics cards, became a common option as well. Software APIs like OpenGL and Direct3D were created to help developers make use of GPUs in their programs. Today, dedicated graphics processing is standard – not just in desktop PCs – but also in laptops, smartphones, and video game consoles. These are designed primarily for rendering video games but are well suited to performing the matrix multiplication that abounds in deep learning across hundreds of parallel computing threads.
-
-What really makes the industry practitioners view Deep Learning as “Disruptive”?
-
-The ILSVRC case study underlines why deep learning models like AlexNet are considered widely applicable and disruptive across industries and computational applications. These models dramatically reduce the subject-matter expertise required for building highly accurate predictive models. This trend away from expertise-driven feature engineering and toward surprisingly powerful automatic-feature-generating deep learning models has been prevalently borne out across not only vision applications, but also, for example, the playing of complex games (the topic of Chapter 4) and natural language processing (Chapter 2).
-
-Today, one no longer needs to be a specialist in the visual attributes of faces to create a face-recognition algorithm. One no longer requires a thorough understanding of a game’s strategies to write a program that can master it. One no longer needs to be an authority on the structure and semantics of each of several languages to develop a language-translation tool. For a rapidly growing list of use cases, one’s ability to apply deep learning techniques outweighs the value of domain-specific proficiency. While such proficiency formerly may have necessitated a doctoral degree or perhaps years of postdoctoral research within a given domain, a functional level of deep learning capability can be developed with relative ease— as by working through this book!
-
-TensorFlow Playground
-
-For a fun, interactive way to crystallize the hierarchical, feature-learning nature of deep learning, make your way to the TensorFlow Playground at bit.ly/ TFplayground. When you use this custom link, your network should automatically look similar to the one shown in the figure below.
-
-In Part II we will return to define all of the terms on the screen; for the present exercise, they can be safely ignored. It suffices at this time to know that this is a deep learning model. The model architecture consists of six layers of artificial neurons: an input layer on the left (below the “FEATURES” heading), four “HIDDEN LAYERS” (which bear the responsibility of learning), and an “OUTPUT” layer (the grid on the far right ranging from –6 to + 6 on both axes).
-
-The network’s goal is to learn how to distinguish orange dots (negative cases) from blue dots (positive cases) based solely on their location on the grid. As such, in the input layer, we are only feeding in two pieces of information about each dot: its horizontal position (X1) and its vertical position (X2). The dots that will be used as training data are shown by default on the grid. By clicking the Show test data toggle, you can also see the location of dots that will be used to assess the performance of the network as it learns. Critically, these test data are not available to the network while it’s learning, so they help us ensure that the network generalizes well to new, unseen data.
-
-This deep neural network is ready to learn how to distinguish a spiral of orange dots (negative cases) from blue dots (positive cases) based on their position on the X1 and X2 axes of the grid on the right. "A screenshot shows the Tensorflow interface. The interface is divided into four parts, vertically: data, features, hidden layers, and output. Data: four types of dataset are given, of which the spiral type is selected. The ratio of training to test data is set to 50 percent, the noise is set to 0 and the batch size is set to 10. The section has "Regenerate" command button. The next one is "Features" which includes options to select several input layers. Here, two inputs X1 and X2 are selected. To the right of the 'features' is the hidden layers section, with 4 layers placed one next to another. There are add and delete buttons to increase or reduce the number of neurons in each layer. The 4 layers are interconnected. Here, the first layer has 8 neurons, the second layer has 8 neurons, the third layer has 4 neurons and the fourth layer has 2 neurons. There are add and delete buttons to modify the number of hidden layers too. The final hidden layer is connected to the output.
-
-The output here shows a spiral-shaped graph constituted of orange and blue dots lying alternatively in the graph. In the output, test loss is 0.501 and training loss is 0.509. Below the output is a scale where "colors shows data, neurons and weight values." For pure orange it starts from -1, for white, it is 0, and for blue it is 1. Below this are two checkboxes titled "Show test data" and "Discretize output," both not selected. Click the prominent Play arrow in the top-left corner. Enable the network to train until the “Training loss” and “Test loss” in the top-right corner have both approached zero— say, less than 0.05. How long this takes will depend on the hardware you’re using but hopefully will not be more than a few minutes.
-
-As captured in the figure below, you should now see the network’s artificial neurons representing the input data, with increasing complexity and abstraction the deeper (further to the right) they are positioned— as in the neocognitron, LeNet-5, and AlexNet. Every time the network is run, the neuron-level details of how the network solves the spiral classification problem are unique, but the general approach remains the same (to see this for yourself, you can refresh the page and retrain the network).
-
-The artificial neurons in the leftmost hidden layer are specialized in distinguishing edges (straight lines), each at a particular orientation. Neurons from the first hidden layer pass information to neurons in the second hidden layer, each of which recombines the edges into slightly more complex features like curves. The neurons in each successive layer recombine information from the neurons of the preceding layer, gradually increasing the complexity and abstraction of the features the neurons can represent. By the final (rightmost) layer, the neurons are adept at representing the intricacies of the spiral shape, enabling the network to accurately predict whether a dot is orange (a negative case) or blue (a positive case) based on its position (its X1 and X2 coordinates) in the grid. Hover over a neuron to project it onto the far-right “OUTPUT” grid and examine its individual specialization in detail.
-
-Figure 1.19 The network after training The TensorFlow screen shows the output of the trained network. The spiral dataset is selected. The input layer has values X1 and X2 fed into it. There are 4 hidden layers, that have 8 neurons, 8 neurons, 4 neurons, and 2 neurons respectively. The number of hidden layers and the number of neurons in a layer are editable. The output shows a test loss of 0.010 and a training loss of 0.004. The final output shows the blue and orange spiral surrounded by blue or orange region. The blue spiral lies within the blue region and the orange spiral lies within the orange region. This shows that the trained network correctly detected the blue and orange dots with the X1 and X2 coordinates.
-
-Realtime doodling and machine vision
-
-To interactively experience a deep learning network carrying out a machine vision task in real time, navigate to quickdraw.withgoogle.com to play the Quick, Draw! game.
-
-Click Let’s Draw! to begin playing the game. You will be prompted to draw an object, and a deep learning algorithm will guess what you sketch. By the end of Chapter 10, we will have covered all of the theory and practical code examples needed to devise a machine vision algorithm similar to this one! To boot, the drawings you create will be added to the dataset that you’ll leverage in Chapter 12 when you create a deep learning model that can convincingly mimic human-drawn doodles. So, come with us on this fantastic journey!
-
-Summary In this chapter, we explored the history of deep learning from its evolutionary origins through to the AlexNet watershed moment in 2012 that brought the technique to the forefront of scientific attention. Through all of this, the point to keep in mind is that it is the hierarchical architecture of deep learning models that enables them to encode increasingly complex representations. We explored this concept with an interactive demonstration of hierarchical representations in action by training an artificial neural network in the TensorFlow Playground. We then looked at a system that recognizes doodles “automagically” using deep learning!
-
-In the next chapter, we will expand on the ideas introduced in this chapter by moving from vision applications to language applications!
 <br/>
+
+பார்வைத்திறன், நுகரும் திறனை விட வலிமையானது.  உணவைத்தேடவும், தொலை தூரத்திலிருந்து வருபவன் நண்பனா, எதிரியா என்பதைத் தெரிந்துகொள்ளவும் விலங்குகள் பார்வைத்திறனைக் கையாள ஆரம்பித்தன.  ஒளியை உயிர்கள் உணர ஆரம்பித்த பின் இரையும், இரையை வேட்டையாடும் உயிரினங்களும் போட்டி போட்டுக்கொண்டு அதிக எண்ணிக்கையில் உருவாகின.  இதையே **கேம்பிரியன் வெடிப்பு** (**Cambrian explosion**) என்றார்கள் விஞ்ஞானிகள்.
+
+<br/>
+
+
+<br/>
+<table>
+  <tr>
+    <td align="center">ட்ரைலோபைட்</td>
+    <td align="center">இமாச்சல பிரதேசத்தில் கண்டெடுத்த ட்ரைலோபைட் படிமம்</td>
+    <td align="center">Meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Vivek_meme.png"></td>    
+  </tr>
+</table>
+<br/>
+
+*"550 மில்லியன் ஆண்டுகளுக்கு முன்பு நமது கிரகத்தில் உள்ள உயிரினங்களின் எண்ணிக்கை வேகமாக அதிகரிக்கத் தொடங்கியது என்பதை வரைபடத்தில் கவனியுங்கள்.   கிடைமட்ட அச்சு (horizontal axis) காலத்தை குறிக்கிறது.  அதாவது, 550 மில்லியன் ஆண்டுகள் முதல் தற்போதைய காலம் வரை உள்ளது.  செங்குத்து அச்சு (vertical axis) உயிரினங்களின் எண்ணிக்கையைக் குறிக்கிறது"*
+ 
+
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Number of species (Time vs Genera)</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Picture1.png"></td>
+  </tr>
+</table>
+<br/>
+
+
+**சார்லஸ் டார்வின்** (**Charles Darwin**) தனது **பரிணாமக் கொள்கையில்** (**Theory of Evolution**), விலங்குகளின் ஒளி உணர் திறனால் ஏற்பட்ட பல்லுயிர் பெருக்கத்தைப் பற்றிய ஆய்வுகளை கணக்கில் கொள்ளவில்லை.  அவர் தனது **இயற்கை தேர்வுக் கோட்பாடில்** (**Theory of Natural selection**) உயிர்களின் பரிணாம வளர்ச்சியில் இயற்கையின் பங்கு முக்கியம் என்கிறார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CharlesDarwin.png"></img>
+</div>
+
+<br/>
+
+இயற்கை தரும் சவால்களை எதிர்கொண்டு, இயற்கைக்கு ஏற்றார் போல் தன்னை தகவமைத்துக்கொள்ளும் உயிரினங்கள் மட்டுமே இந்த பூமியில் வாழ்கின்றன. மற்ற இனங்கள் உருதெரியாமல் அழிந்துவிடுகின்றன என்கிறார் அவர். கேப்ரியன் வெடிப்பைப் புரிந்து கொள்வதில் அவருக்கு சிக்கல் இருந்தது. அவரால் பல்லுயிர் பெருக்கத்துக்கான காரணத்தை பரிணாமக் கொண்கையோடு தொடர்பு படுத்த முடியவில்லை.  ட்ரைலோபைட் மற்றும் கேம்பிரியன் யுகத்தில் வாழ்ந்த பல செல் உயிர்களின் பவடிவங்கள், பூலோகத்தில் ஏற்பட்ட கேம்பிரியன் வெடிப்புக்கு சாட்சிகளாக இருந்தாலும். இந்த வெடிப்புக்கான காரணத்தை யாரும் தெளிவாக விளக்கவில்லை.
+
+<br/>
+
+அந்த சமயத்தில் தான் **ஆக்ஸ்பர்ட் பல்கலைக் கழகத்தை** (**Oxford University**) சார்ந்த உயிரியல் விஞ்ஞானி **ஆண்ரூ பார்கர்** தனது **பார்வை மாற்றுக் கொள்கை** மூலம், ஒளியே இதற்கு காரணம் என நிரூபித்தார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/AndrewParker.png"></img>
+</div>
+
+<br/>
+
+*"டார்வின் காலத்திலிருந்து பரிணாமக் கோட்பாட்டில் புரட்சிகள் நிகழ்ந்தன. பூமியின் உள்ள உயிர்களின் வாழ்க்கை வரலாறு நீண்ட கால படிப்படியான பரிணாம வளர்ச்சியால் உருவானதை ‘மைக்ரோ பரிணாமம்’ என்கிறார்கள். அதே போல் குறுகிய காலத்தில் உயிர்களின் உருவாக்கத்தில் ஏற்பட்ட வெடிப்பை ‘மேக்ரோ- பரிணாமம் எனலாம். டார்வின் மற்றும் அவர் சமகால விஞ்ஞானிள் இந்த மேக்ரோ பரிணாமத்தை கவனிக்கவில்லை என்று சொல்ல முடியாது. டார்வின் இருபதாம் நூற்றாண்டில்  அவருக்கு கிடைத்த படிமங்கள், தரவுகள் மற்றும் அப்போதைய உயிர்வேதியல் நுட்பங்களின் அடிப்படையில் அவரது பரிணாமக்கோட்பாட்டை  நிறுவினார்"*
+
+<br/>
+
+கேம்பிரியன் காலகட்டத்தில் அதிவேகமாக நிகழ்ந்த பரிணாம வளர்சியால் உலகில் உள்ள பல உயிர்களின் நிறம், வடிவம், வெளிப்புற அடுக்களில் மாற்றங்கள் நிகழ்ந்தன.  உள் அமைப்பை விட சுற்றுப்புற சூழலுடன் தொடர்புள்ள முதுகெலும்பு, நீச்சல் துடுப்புகள், கண்கள், வண்ணங்களை புரிந்துகொள்ளுதல் போன்றவற்றில் அதிக மாற்றங்கள் நிகழ்தது.
+
+<br/>
+
+கேம்ப்ரியன் காலத்தில் ஏற்பட்ட வளிமண்டல மாற்றத்தால் பூமி அதிக ஒளியைப் பெற்றது. இதனால் உயிர்களின் கண்கள் மற்றும் பார்வையைத் தூண்டும் நரம்பபுகள், நரம்பு மண்டலங்கள், மற்றும் நரம்பு மண்டலங்களைத் தூண்டும் மூளை என அனைத்து உறுப்புகளிலும் மாற்றங்கள் நிகழ்தது. இதன் விளைவாக வேட்டையாடும் விலங்குகளால் தங்கள் இரையை துள்ளியமாக காணவும், பிடிக்கவும் முடிந்தது. பின்னர் வேட்டைக்கு ஏற்றார் போல் பற்கள் மற்றும் தாடைகள் போன்ற கடினமான பாகங்கள் தோன்றின. அதே போல் பெரிய விலங்குகளுக்கு இரையாகும் சிறிய விலங்குகள் தங்களை பாதுகாத்துக்கொள்ள அவைகளின் மேல் கவசங்கள் உருவாகின. சில உயிரிகள் தங்கள் நிறங்களை தாங்களே மாற்றிக்கொள்ளும் தன்மையைப் பெற்றன. கண்களை, விழித்திரையை மாற்றி அமைத்துக் கொள்ள முடியாத உயிரங்கள் எல்லாம் மாண்டு போயின.
+
+<br/>
+
+ஆண்ட்ரூ பார்க்கரின் **பார்வை மாற்றுக் கோட்பாடு** ஒரு சர்சைக்குரிய விவாதப் பொருளாக இருந்தது.  கண்களையும் பார்வையையும் இயற்கை தேர்வுக்கு (Theory of Natural selection)  ஒரு உந்து சக்தியாக இருந்ததால். ஆண்ட்ரூ பார்கரின் ஆய்வுகளை பல விஞ்ஞானிகள் மேற்கோள் காட்டினர். மனிதனின் பரிணாம வளர்ச்சியில் பார்வை மிகவும் முக்கியத்துவம் வாய்ந்தது. நமது மூளையின் பெரும்பகுதி காட்சிகளை நிர்வகிப்பதில் ஈடுபட்டுள்ளது.  **செயற்கை நுண்ணறிவு** (**Artificial Intellegence**) துறை மூளையின் இந்த செயல்பாட்டை இயந்திரம் மூலம் அனுகுகிறது.
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">தலைமைச்செயலகமான மூளை</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/HumanBrain_1.png"></td>
+  </tr>
+</table>
+<br/>
+
+
+*"தலைமைச்செயலகமான மூளையில் மூன்றில் இரண்டு பகுதி (60% +) பார்வை மற்றும் அதனோடு தொடர்புடைய பணிகளைச் நிர்வகிக்கிறது அதில் இருபது சதவிகிதம் பார்வை தொடர்புடைய செயல்பாடுகளை மற்றும் நிர்வகிக்கிறது. மற்ற நாற்பது சதவிகிரம் பார்வையோடு தொடர்புடைய தொடுதல், கவனித்தல், நகர்தல், நுகர்தல் போன்ற பணிகளை நிர்வகிக்கிறது."*
+
+<br/>
+
+நவீன பாலூட்டிகளில்  முன்மூளையில்  கோள வடிவிலான, சாம்பல் நிற பொருளாலான, இரண்டு பெரிய அறைகள் உள்ளன. இவை  புலன்களில் இருந்து வரும் சமிக்கைகளை பெருமூளைப் புறணிக்கு அனுப்புகின்றன. அரை பில்லியன் ஆண்டுகளுக்கு முன் ட்ரைலோபைட்களுக்கு கிடைத்த ஒளி உணர்திறன்,இன்று சிக்கலான பல மாற்றங்களைப் பெற்றுள்ளது என்பதை காணமுடிகிறது. 
+
+## பண்டைய மற்றும் இடைக்கால பார்வை பற்றிய சிந்தனைகள்
+
+**கேலன்** (சி .130-200) ரோமானியப் பேரரசில் மிகவும் பிரபலமான மருத்துவர், உடற்கூறியல் நிபுணர், எழுத்தாளர் மற்றும் தத்துவஞானி, பேரரசர் மார்கஸ் ஆரேலியஸின் தனிப்பட்ட மருத்துவராக பணியாற்றியவர். 
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/AeliusGalenus.png"></img>
+</div>
+
+<br/>
+
+ஐரோப்பிய மருத்துவத்தில் அவரது கோட்பாடுகள் இன்றும் ஆதிக்கம் செலுத்துகிறது.  அவர் மனிதனின் இரு கண்களும் ஒரே பொருளை வித்தியாசமாக பார்க்கின்றன என்றார்.  இன்று நாம் பயன்படுத்தும் **ரெட்டினா** (**விழித்திரை**), **லென்ஸ்** போன்ற வார்த்தைகள் கேலன் உலகுக்கு அளித்த கொடை எனலாம்.
+
+<br/>
+
+ஒரு காலத்தில் கண்ணில் இருந்து வெளியேறும் ஒளிக்கற்றைகள் பொருட்களின் மீது படுவதால் நம்மால் பொருட்களைப்பார்க்க முடிகிறது என்று மக்கள் நம்பினார்கள்.
+**அவிசென்னா** (**இப்னு சினா**) (980-1037), என்ற பல்துறை வல்லுநர் பொருள்களிலிருந்து வரும் ஒளிக் கதிர்கள் கண் பாவை வழியே சென்று விழி லென்ஸின் மீது படுவதன் மூலமே காட்சிகளை நம்மால் காணமுடிகிறது என்றார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Avicenna.png"></img>
+</div>
+
+<br/>
+
+1503 ஆம் ஆண்டில் மனித நேயவாதியான **கிரிகோர் ரீச்** (**Gregor Reisch**) _மார்கரிட்டா ஃபிலசாபிகா_ என்ற  நூலை வெளியிட்டார்.  பள்ளி மாணவர்களின் கையேடாக விளங்கிய அந்த புத்தகம், கண்கள் பிம்பங்களை ஒரு சங்கிலி போல மூளைக்கு அனுப்புகிறது என்கிறது. 
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/GregorReisch.png"></img>
+</div>
+
+<br/>
+மேலும் அவர் மூலை தனக்கு கிடைத்த தகவலை வைத்து காட்சிகளை உணர்கிறது என்றார். அந்த காலகட்டத்தில் இது பார்வை மற்றும் அறிவாற்றல் செயல்முறை பற்றி மிகவும் அதிநவீன சிந்தனையாக இருந்தது.
+
+## டா வின்சியும் நவீன கால துவக்கமும் ##
+
+லியோனார்டோ டாவின்சி ஒரு இத்தாலிய மறுமலர்ச்சி பல்கலை வல்லுநர்.  ஓவியம், உடற்கூறு, வரைபடங்கள் என்று பலதுறைகளிலும் அற்புதத் திறமைகளை கொண்டவர்.  அவர் கண்களே அறிவின் திறவுகோள் என்றார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Leonardo_da_Vinci.png"></img>
+</div>
+
+<br/>
+
+லியோனார்டோவைப் பொறுத்தவரை, பார்வை என்பது மனிதனின் மிக உயர்ந்த உணர்வாக இருந்தது. பார்வை மட்டுமே உண்மைகளை உடனடியாகவும், சரியாகவும், உறுதியாகவும் தெரிவிக்கிறது என்றார்.  ஒரு பொருளை **எப்படிப் பார்ப்பது என்று தெரிந்துகொள்வது** (saper vedere) அவரது ஆய்வுகளின் முக்கிய கருப்பொருளாக இருந்தது.
+
+<br/> 
+
+1508 ஆம் ஆண்டு டாவின்சி, நீர் நிரம்பிய ஒரு கண்ணாடி அரை உருண்டையை கண்ணின் மேல்புறத்தில் அணிந்து கொண்டால் விழிவெண்படலத்தின் ஒளிவிலகல் (Refraction) தன்மையை நேரடியாக மாற்றியமைக்க முடியும் என்று தனது ஓவியத்தில் காட்டியிருக்கிறார்.
+ 
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">1490 Drawing by da Vinci</td>
+    <td align="center">1506 Drawing by da Vinci</td>
+    <td align="center">da Vinci’s Inverted Retinal Image</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Drawing_by_da_Vinci_in_1490.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Drawing_by_da_Vinci_in_1506.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/DaVinci_InvertedRetinalImage.png"></td>    
+  </tr>
+</table>
+<br/>
+ 
+<br/>
+
+## பதினேழாம் நூற்றாண்டு ##
+
+**ரீனே டிகார்ட்ஸ்** (**Rene Descartes**) என்ற நவீன தத்துவ விஞ்ஞானி **இயற்கணித** (**algebra**), **சமன்பாடுகளின்** (**equations**) மூலம் **வடிவியல்** (**geometry**) சிக்கல்களை தீர்க்க முடியும் என்று நிரூபித்தார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/ReneDescartes.png"></img>
+</div>
+
+<br/>
+
+அவர் மனித உடலில் நிகழும் நிகழ்வுகளை இயந்திரம் மூலம் விளக்க முடியும் என்பதை 1641 ஆம் ஆண்டு வெளிவந்த  **மீடியேஷன் டி ப்ரிமா ஃபிளாசபிகா** (**Meditationes de Prima Philosophia**) என்ற புத்தகத்தில் விளக்கி மிகவும் பிரபலமானார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Descartes_Drawing_MechanicsOfBiologicalVision.png"></img>
+</div>
+
+<br/>
+
+அவர் எருதின் கண்ணில் இருந்த ஸ்க்லெரா மற்றும் கோரொய்டை அகற்றி தன் சோதனை மூலம் விழித்திரை ஆரம்பத்தில் ஒரு தலைகீழ் பிம்பத்தைத்தான் காண்கிறது என்பதை நிரூபித்தார்.  மேலும் அவர் இந்த தலைகீழ் பிம்பத்தை இன்னும் ஒரு முறை தலைகீழாக்கும் வேலையை மூளை செய்கிறது என்றார்.  இடதுபுறத்தில் உள்ள வரைபடம் அவரின் சோதனையை விவரிக்கிறது.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Descartes_Drawing_RetinalImage.png"></img>
+</div>
+
+<br/>
+
+டிகார்ட்ஸ் **ட்ரெயிட்டே டி எல் ஹோம்** 1648 இல் எழுதி முடித்த புத்தகத்தில்.  மூளை, கண்களில் இருந்து வரும் ஆப்டிகல் கேபிள் போன்ற இழைகளால் இணைக்கப்பட்ட இயந்திரம் என நினைத்தார்.  இந்த இழைகள் ஒரு காட்சிப்பாதையை உருவாக்குவதாக அவர் கருதினார்.  மேலும். மூளை அதிர்வு சத்திகளைக்கொண்டு பாதையில் பயணிக்கும் பிம்பங்களைக்களை காண்கிறது என்றார்.  அவரது ஓவியத்தில் கண்ணுக்கும் ஆப்பிளுக்கும் இடையில் இரண்டு பாதைகளைக் காணலாம்.  ஒரு பாதை ஆப்பிளைப் பார்க்கும் கண்களையும் இன்னொன்று பிம்பத்தைக் கடத்தும் பாதையாகவும் இருப்பதைக் காணலாம்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/ThomasWillis.png"></img>
+</div>
+
+<br/>
+1664 ஆம் ஆண்டில், 'நரம்பியலின் தந்தை', உடற்கூறியல் நிபுணர், தாமஸ் வில்லிஸ் (1621-1675), வெவ்வேறு விலங்குகளின் மூளைகளை ஆராய்ந்தார்.  அவரது கண்டுபிடிப்புகளை, **செரிப்ரி அனாடோம்** என்ற புத்தகத்தில் வெளியிட்டார்.  
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CerebriAnatome_drawings.png"></img>
+</div>
+
+<br/>
+
+அவர் தனது புத்தகத்தில் மூளையின் செயல் பாடுகளில் உள்ள திரவம் தான் மூளையின் செயல்பாடுகளுக்கு காரணம் என்பதை நிராகரித்தார்.  நாம் படிப்பது, பார்பது போன்ற மொத்த செயல்பாடுகளுக்கும், **செரிபரல் கார்டக்ஸ்** (**Cerebral Cortex**) தான் காரணம் என்றார். 
+
+<br/>
+மூளையின் அடித்தளத்திலிருந்து வரும் சமிக்ஞைகளை புரிந்து கொள்ள உதவுவது செரிபரல் கார்டக்ஸ் தான் என்றார். எனவே தான் விலங்குகளைவிட மனிதனின் நினைவகம் சிறந்து விளங்குகிறது என்றார் அவர். மூளையில் உள்ள ஐந்தாவது நரம்பின் பார்வை சம்மந்தப்பட்ட கிளை **வில்லிஸ் நரம்பு** என்று அழைக்கப்படுகிறது.
+
+<br/>
+<br/>
+
+வில்லிஸின் ஆராய்ச்சியைத் தொடர்ந்து 1682 இல் **வில்லியம் பிரிக்ஸ்** (**William Briggs**) இரண்டு கண்களிலிருந்து விழித்திரை நரம்பு இழைகள் கண்ணின் பின்னால் ஒரு கட்டத்தில் கடக்கக்கூடும் என்றார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/WilliamBriggs_OpticTractFusion.png"></img>
+</div>
+
+<br/>
+
+1682 வில்லியம் பிரிக்ஸ் குறிப்பிட்ட காட்சிப்பாதையின் வரைபடம்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/WilliamBriggs_1682_visual_pathway_drawing.png"></img>
+</div>
+
+<br/>
+
+1682 ஆம் ஆண்டில் ஐசக் நீயூட்டன் குறிப்பட்ட காட்சிப்பாதை.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/IsaacNewton_1682_visual_pathway_drawing.png"></img>
+</div>
+
+<br/>
+
+
+## பதினெட்டு மற்றும் பத்தொன்பதாம் நூற்றாண்டு ##
+
+1738 இல் **ஜான் டைலர்** (**John Taylor**) வெளியிட்ட வெட்டிச்செல்லும் இழைகளைக்கொண்ட காட்சி நரம்புகளைக்கொண்ட படம் அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது.
+பத்தொன்பதான் நூற்றாண்டில், ப்ரனாலஜி எனப்படும் மண்டை ஓட்டின் அமைப்பு ஒருவரின் மன வலிமையை முடிவு செய்கிறது என்ற கொள்கை வலுப்பெற்றது.
+
+<br/>
+
+In 1738 John Taylor produced an improved and very influential pathway diagram. The crossover of the fibers was now accepted. But the nineteenth century fascination with phrenology proved a false dawn for vision scientists. Amidst the largely discredited pseudo-science of men such as Franz Gall (1757-1828) there was a recognition that specific functions related to localized parts of the brain's cortex (neural localization).  Unfortunately, this important point was thrown out with the bath water...a setback for our subject that lasted well into the next century. Here is a comparison between a standard phrenological head and the head of Gall himself. Beside that we have superimposed a nineteenth century image of the brain showing the visual region marked towards the back of the head.
+
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Standard phrenological head vs Franz Gall's head</td>
+    <td align="center">19th century visual region of Brain</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/FranzGall_head.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/19th_century_visual_region_of_Brain.png"></td>
+  </tr>
+</table>
+<br/>
+ 
+<br/>
+  
+## இருபதாம் நூற்றாண்டு ##
+
+**லார்ட் எட்கர் அட்ரியன்** (**Lord Edgar Adrian**) (1889-1977) 1920 களின் இறுதியில் இருந்து உணர்ச்சி நரம்பின் வழியாக மூளைக்குச் செல்லும் தூண்டுதல்க அதிர்வெண்களை பதிவுசெய்தார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/LordEdgarAdrian.png"></img>
+</div>
+
+<br/>
+
+பூனையின் கால்விரலின் உணர்ச்சி நரம்புகளின் பதிவு.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/CatToeSensoryNerve_recordings.png"></img>
+</div>
+
+<br/>
+
+**சர் சார்லஸ் வீட்ஸ்டோன்** (**Sir Charles Wheatstone**) (1802-75) ஸ்டீரியோஸ்கோபிக் பார்வை பற்றி ஆராய்ச்சி செய்தார். 
+
+<br/>
+
+இருபதாம் நூற்றாண்டின் மத்தியில் கண் எவ்வாறு தூரத்தில் இருக்கும் பொருள்களைப் பார்க்கிறது என்பதை **ஹோரேஸ் பார்லோ** (**Horace Barlow**) (b.1921) என்பவர் ஸ்டீரியோஸ்கோபிக் பார்வை ஆராய்ச்சி மூலம் விளக்கினார்.
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/HoraceBarlow.png"></img>
+</div>
+
+<br/>
+
+
+Horace Barlow:  In the second half of the 20th century Horace Barlow FRS (b.1921) proved a key figure in interpreting how the eye detects distance in objects. This was research into stereoscopic vision, a phenomenon first described by Sir Charles Wheatstone (1802-75). In the 1950s Barlow also studied light and dark 'adaptation'. He described how certain animals learn from experience how to react to 'trigger factors' such a movement, light and outlines.
+
+<br/>
+
+## ஹூபெல் மற்றும் வீசல் ##
+
+பின்னர், 1950 களின் பிற்பகுதியில், உடலியல் வல்லுநர்கள் **டேவிட் ஹூபெல்** (**David Hubel**) மற்றும் **டார்ஸ்டன் வீசல்** (**Torsten Wiesel**) (படம் 1.3) பாலூட்டிகளின் பெருமூளைப் புறணி (குறிப்பு 3) இல் காட்சித் தகவல் எவ்வாறு செயலாக்கப்படுகிறது என்பது குறித்த ஆராய்ச்சியை மேற்கொள்ளத் தொடங்கினர்.  அவர்கள் பார்வையுணர்வின் மூலமாகப் பெறும் தகவல்களை மனிதன் எப்படிச் சிந்தித்துப் புரிந்துகொள்கிறான் என்பதை ஆராய்ந்து 1981 ஆம் ஆண்டு நோபல் பரிசு பெற்றவர். அவர்களின் ஆராய்ச்சியின் பலனாக கண் புரை அறுவை சிகிச்சை மனித மூளையின் செயல்பாடுகளை கணினி புரிந்து கொள்வதில் முன்னேற்றம் ஏற்பட்டது.
+
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Superman & Batman</td>
+    <td align="center">Nobel Prize-winning neurophysiologists டேவிட் ஹூபெல் & டார்ஸ்டன் வீசல்</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Superman_and_Batman.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Hubel_and_Wiesel.png"></td>    
+  </tr>
+</table>
+
+<br/> 
+
+ஹூபல் மற்றும் வீசல் பூனைக்கு மயக்க மருந்தைக் கொடுத்து, படங்களைக் காட்டி  பெருமூளைப் புறணிப் பகுதியின் முதல் பகுதியான முதன்மை காட்சிப் புறணிப் பகுதியிலிருந்து தனிப்பட்ட நியூரான்களின் செயல்பாட்டை பதிவு செய்தனர்.
+
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Orientation selectivity experiment with cat</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/OrientationSelectivityExperiment_with_Cat.png"></td>
+  </tr>
+</table>
+<br/>
+
+
+*Depicted in this figure is a primary visual cortex neuron being serendipitously activated by the straight edge of a slide (shown here as a lightbulb turned on to represent neuron activation). Hubel and Wiesel used a light projector to present slides to cats under anesthesia while they recorded the activity of neurons in the cats’ primary visual cortex. In the experiments, electrical recording equipment was implanted (yes, I know! Things are quite different now thanks to technology!) within the cat’s skull. (reference 2).* 
+
+
+*In fact, the story of Torsten & Hubel’s journey to discovery of neuronal activation is so unique that Wiesel and Hubel were actually selected as the second winners of the Golden Goose Award in 2015 which honors researchers whose (federally funded) work may have seemed odd or obscure when it was first conducted but has resulted in significant benefits to society! The story goes that their extraordinary, research really took off with a simple, fortuitous accident with the kittens in their lab: somebody pushed a glass slide too far on an overhead projector!*
+
+<br/>
+கண்ணின் விழித்திரையில் ஒளி உணர் திறனை ஏற்கும் உயிரணுக்கள் உள்ளது. ஒளி அந்த உயிரணுக்களை தூண்டுகிறது. விழிதிரையில் வேறு பகுதியில் உள்ள மற்றுமொரு உயிரணு அந்த தூண்டலுக்கு பதிலக்கிறது.
+
+<br/>
+
+ஹூபல் மற்றும் வீசல் மூளையின் அதிகமாக வேலை செய்யும் நரம்பு செல்கள் அல்லது நியூரான்களைப் பற்றி ஆராய்சி செந்து கொண்டிருந்தார்கள். ஆராய்ச்சியின் போது அந்த செல்கள் ஒரு சாதாரணமான தூண்டுதலுக்கு கூட பதிலளிக்கவில்லை.  சிறிய கரும்புள்ளியைக் கொண்ட ஒரு கண்ணாடி வில்லையை ஒரு பூனையைப் பார்க்கச் செய்தனர்.  தற்செயலாக கண்ணாடி வில்லையை நகர்த்திய போது பூனை வில்லையின் மங்கலான முனையைப் பார்க்க நேர்ந்தது.  அப்போது அந்த நரம்பு செல்கள் வெறித்தனமாக செயல்பட ஆரம்பித்தன.
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Cat Visual Cortex LineOrientation vs Electrical Activity</td>
+    <td align="center">Meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/CatVisualCortex_LineOrientation_vs_ElectricalActivity.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Vadivelu_meme.png"></td>
+  </tr>
+</table>
+<br/>
+
+<br/>
+
+
+வேரொரு கோணத்தில் வில்லையை நகர்த்தி சரி செய்த போது ஒரு ஒற்றை கோடு ஒரு குறிப்பிட்ட கோணத்தில் திரையின் குறுக்கே நகர்ந்தது. உடனே பூனையின் மூளையில் உள்ள ஒரு நியீரான் அதிவேகமாக செயல்பட்டது.  விஞ்ஞானிகள் அந்த ஒற்றை நியூரானை தொடர்ந்து ஒன்பது மணி நேரம் ஆய்வு செய்தனர். சிலமாதங்கள் இந்த ஆய்வை தொடர்ந்தனர். பின்னர் மூளையின் காட்சிகளை எவ்வாறு புரிந்துகொள்கிறது என்பது பற்றிய ஆய்வின் முக்கியமான கட்டத்தை நெருங்கினர்.  பூனைகள் மற்றும் குரங்குகளின் காட்சி புறணிப் பகுதிகளில் உள்ள குறிப்பிட்ட நியூரான்கள்-காட்சித் தகவல்களைச் செயலாக்குவதற்குப் பொறுப்பான அவர்களின் மூளையில் உள்ள பகுதிகள்-ஒளியின் எளிய புள்ளிகளுக்கு பதிலளிக்கவில்லை.  ஆனால் குறுக்கு, நெடுக்கு கோடுகளுக்கு அவைகள் பதிலளித்தன.  அந்த நியூரான்கள் இரு கண்களிலிருந்தும் வரும் சமிக்ஞைகளுக்கு பதிலளிக்கின்றன என்பதைக் கண்டறிந்தனர். 
+
+
+<br/>
+
+<br/>
+<table>
+  <tr>
+    <td align="center">வாத்தியார்</td>
+    <td align="center">Neuron layers of eyes</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_1/Sujatha_icon_1.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/NeuronLayersOfEyes.png"></td>
+  </tr>
+</table>
+<br/>
+
+<br/>
+
+பூனையின் மூளையில், புறணியில் (cortex) உள்ள எளிய செல்லானது அதற்கு காட்டப்படும் கோடுகளுக்கு ஏற்ப எதிர் வினையாற்றுவதை நாம் பார்க்கிறோம். கீழே உள்ள படத்தில் இடது புறம் கோடுகளும் வலது புறம் கோடுகளுக்கு ஏற்ற செல்களின் எதிர் வினையும் காட்டப்பட்டுள்ளது. செங்குத்து கோடுகளை பூனை பார்க்கும் போது
+குறிப்பிட்ட நரம்பு செல்லின் அதிக செயல்பாடுகள் இருப்பதையும், சாய்ந்த கோடுகளைப் பார்ர்கும் போது குறைந்த செயல்பாடுகளையும் கிடைமட்டக் கோட்டைப் பார்க்கும் போது செயல்பாடுகள் எதுவும் இல்லாமல் இருப்பதைக் காண முடிகிறது.
+
+<br/>
+<br/>
+இந்த எண்ணிக்கை நியூரான்களின் பல படிநிலை ஒழுங்கமைக்கப்பட்ட அடுக்குகள் வழியாக தகவல்களை அதிக அளவில் ஒழுங்குபடுத்தும் நியூரான்களுக்கு எவ்வாறு அளிக்கிறது, படிப்படியாக மிகவும் சிக்கலான காட்சி தூண்டுதல்கள் மூளையால் எவ்வாறு குறிப்பிடப்படுகின்றன என்பதைக் காட்டுகிறது! இங்கே, நீங்கள் காணலாம்:
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Picture34.png"></img>
+</div>
+
+<br/>
+
+கீழே உள்ள படத்தில் வரிசையாக ஒழுங்காக அடுக்கப்பட்ட நீயூரான்கள் தகவலை அதிக படிநிலை கொண்ட நீயூரான்களோடு தகவல்களை பகிர்ந்து கொள்வதைக் காணலாம்.
+
+கண்கள் சுட்டியின் தலையின் படத்தை மையமாகக் கொண்டுள்ளன.
+
+1. கண்கள் பூனையில் தலையில் மேல் உள்ள பிம்பத்தை பார்க்கிறது.
+
+2 ஃபோட்டான்கள் கண்ணின் விழித்திரையில் அமைந்துள்ள நியூரான்களைத் தூண்டுகிறது. இந்த காட்சி தகவல்கள் கண்களிலிருந்து மூளையின் முதன்மை காட்சி புறணிக்கு அனுப்பப்படுகிறது.
+
+3. மூளையின் புறணியின் முதல் அடுக்கில் உள்ள நீயூரான்கள் தகவலைப் பெறுகிறது.  ஹூபல் மற்றும் வீசல் குறிப்பிட்ட **எளிய செல்கள்** கோடுகளை கண்டறிகின்றன. உண்மையில் இது போல பல்ஆயிரம் நியூரான்கள் இருக்கும்; எளிமைக்காக, படத்தில் நான்கு மட்டுமே காட்டுகிறோம்
+
+4. இந்த எளிய நியூரான்கள் செங்குத்து, கிடைமட்ட மற்றும் சாய்த கோடுகளை இருப்பைப் பற்றிய தகவலை சிக்கலான (complex) நீயூரான்களுக்கு அனுப்புகிறது.
+சிக்கலான கலங்களின் அடுத்தடுத்த அடுக்குக்கு குறிப்பிட்ட நோக்குநிலைகளில் கோடுகள் இருப்பது அல்லது இல்லாதிருப்பது பற்றிய தகவல்களை வெளியிடுகின்றன
+
+5. சிக்கலான செல்கள் தகவல்களை ஒருங்கிணைத்து மீண்டும் ஒருங்கிணைக்கின்றன, இது சுட்டியின் தலையின் வளைவு போன்ற மிகவும் சிக்கலான காட்சி தூண்டுதல்களை பிரதிநிதித்துவப்படுத்துகிறது.
+
+5. சிக்கலான செல்கள் ஒருங்கிணைக்கப்படும் போது. நேர்கோடு மட்டுமில்லாமல் வளைவுகளையும், மிகச் சிக்கலான காட்சிகளைத் தூண்டுகிறது.
+
+6. அடுத்தடுத்த அடுக்குகள் வழியாக தகவல் அனுப்பப்படும் போது, காட்சி தூண்டுதல்கள் அதிகளவில் சிக்கலானதாகவும், மேலும் சுருக்கமாகவும் மாறும்.
+
+7. படத்தில் உள்ள கடைசி நியூரானுக்கு முன்னால் பல நீயூரான்கள் அடுக்கப்பட்டுள்ளது புள்ளிக்கோடுகள் மூலம் விளக்கப்பட்டுள்ளது. 
+
+8.	As depicted by the far-right layer of neurons, following many layers of such hierarchical processing (we use the arrow with dashed lines to imply that many more layers of processing are not being shown), the brain is ultimately able to represent visual concepts as abstract as a mouse, a cat, a bird, or a dog.  
+
+ 
+
+1. ஹூபெல், டி. எச்., & வைசல், டி.என். (1959). பூனையின் புறனியின் அடுக்களில் உள்ள நியூரான்களின் ஸ்ட்ரைட் கார்டெக்ஸில் ஒற்றை நியூரான்களின் வரவேற்பு புலங்கள். தி ஜர்னல் ஆஃப் பிசியாலஜி, 148, 574– 91. 4. 1981 ஆம் ஆண்டு உடலியல் அல்லது மருத்துவத்துக்கான நோபல் பரிசு, அமெரிக்க நரம்பியல் ஆய்வாளர் ரோஜர் ஸ்பெரியுடன் பகிர்ந்து கொள்ளப்பட்டது.
+<br/>
+
+அடுத்தடுத்த ஆண்டுகளில், ஹூபெல் மற்றும் வீசல் ஆகியோர் தங்கள் புரிதலைச் செம்மைப்படுத்தினர், மேலும் அவர்களின் பூனை மற்றும் உயர் விலங்கினங்களின் பார்ர்கும் திறம் குறித்த வரைபடங்களை துல்லியமாக வரைந்தனர். மூளையின் புறணி கண்களின் விருப்பத்துக்கு ஏற்ப செயல்படுவதற்காக குறுகிய அடுக்குகளை கொண்டிருப்பதைக் கண்டறிந்தனர்.  இந்த அடுக்கை **விழியின் ஆதிக்க அடுக்கு** (**ocular dominance columns**) மற்றும் **அறியும் திறன் அடுக்கு** (**orientation columns**) அழைத்தனர்.  இந்த அடுக்குகளை இணைத்து விலங்குகளின் இரு கண்களிலிருந்தும் வரும் சிக்கலான உள்ளீட்டை செயலாக்கக்கூடிய நியூரான்களின் நேர்த்தியாக ஒழுங்கமைக்கப்பட்ட செயல்பாட்டு வரைபடத்தை உருவாக்குகிறது என்று கண்டறிந்தனர்.
+
+
+<br/>
+
+பூனையின் புறணியைக் கொண்டு அவர்கள் செய்த ஆராய்சிக்காக அவர்களுக்கு 1981 இல் உடற்கூறியல் மற்றும் மருத்துவத்துக்கான நோபல் பரிசு பெற்றனர். . நோபல் கமிட்டி **மூளையின் மிகவும் பாதுகாக்கப்பட்ட இரகசியங்களில் ஒன்று: மூளை கண்ணிலிருந்து பெறும் செய்தியை அதன் செல்கள் டிகோட் செய்யும் முறை** என்ற ஆராய்சியை மையமாகக் கொண்டு அவர்களுக்கு பரிசு வழங்கப்பட்டது.
+
+<br/>
+
+
+ஹூபல் மற்றும் வைசல்ஜா ன்ஸ் ஹாப்கின்ஸிலிருந்து ஹார்வர்டுக்குச் இடம் பெயர்ந்தனர். மூளையின் நிறுவன கட்டமைப்பைப் பற்றிய புதிய புரிதலுடன்,  உயிரியலில் ஒரு வற்றாத கேள்வியைத் தீர்க்க முயன்றனர், அதாவது **இயற்கை அல்லது வளர்ப்பு**? அந்த கேள்விக்கு பதிலளிக்க. காட்சி அனுபவம் இல்லாத புதிதாகப் பிறந்த பூனை மற்றும் உயர்வகை விலங்குகளின் மூளைகளைப் ஹூபல் மற்றும் வீசல் ஆராயத் தொடங்கினர். இந்த விலங்குகள் பிறக்கும் போதே சரியான செயல்பாட்டுத்திறனுடன் பிறந்திருப்பதைக் கண்டனர்.  சுவாரஸ்யமாக, அவர்களின் பூனை மற்றும் உயர்வகை விலங்குகளின் பாடங்கள் அவற்றின் நேர்த்தியான செயல்பாட்டு வரைபடத்துடன் ஏற்கனவே பிறந்திருப்பதைக் கண்டறிந்தனர். அவைகளின் நியூரான்கள் நோக்குநிலை தூண்டுதல்கள் மற்றும் இரு கண்களின் தூண்டுதலுக்கு மட்டுமே பதிலளித்தன. இந்த இரண்டு அடிப்படை பதில்களுக்கும் தேவையான நரம்பியல் இணைப்புகளை இயற்கை வழங்குகிறது என்று அவர்கள் முடிவு செய்தனர்
+
+
+<br/>
+மூளையின் இயல்பான வளர்சியை கூடுதல் கவனத்துடன் பேணிவளர்க்க முடியுமா? பிறக்கும் போதே பார்வைத்திறன் உறுதி செய்யப்பட்டு தான் பிறக்கிறோமா? என்ற கேள்வி மேலெழுந்தது. கண்புரை நோயால் பிறந்த குழந்தைகள் பிறந்து சில ஆண்டுகளுக்குப் பிறகு ஒளிபுகா லென்ஸ் அகற்றப்பட்ட பின்னரும் கடுமையான பார்வைக் குறைபாடுகளால் பாதிக்கப்படுகிறார்கள் என்பது அனைவரும் அறிந்ததே.பிறக்கும் போதே பார்வைத்திறன் இருந்திருந்தால், லென்ஸ் அகற்றப்பட்ட உடன்  ஏன் குறைபாடுகள் நீங்குவதில்லை போன்ற கேள்விகள் எழுந்தன. இவை எல்லாவற்றிக்கும் மேலாக ஹூபல் மற்றும் வைசல் குழந்தைகள் பிறக்கும் போது அவர்களுக்கு இருக்க வேண்டிய பார்வைத்திறனுக்கான நரம்பு இணைப்புகளை கண்டறிந்தனர்.
+<br/>
+
+பிறந்த பூனை மற்றும் குரங்கின் ஒரு கண்ணை மூடி மற்றொரு கண்ணைத் திறந்து ஆராய்ச்சி செய்தனர். சில நாட்கள் கழித்து மூடிய கண்ணை திறந்த பிறகும், கண் புரை அகற்றிய குழந்தை போல மூடப்பட்ட கண் குருட்டுகண் போலவே விலங்குகள் நடந்து கொண்டது. இதற்கு காரணம் புறணியில் உள்ள காட்சி நரம்புகள் மூடப்பட்ட கண்களிலில் இருந்து வரும் சமிஞ்ஞை களுக்கு பதிலளிக்காமல் மூடாத கண்களுக்கு மட்டுமே பதிலளித்தன.  ஆரோக்கியமான விலங்குகளின் **விழியின் ஆதிக்க அடுக்கு** (**ocular dominance columns**) செயல்படுவதைப்போல இல்லாமல் ஒரு கண் ஊணமான விலங்காகவே அவைகள் செயல்பட்டன.
+
+<br/>
+<br/>
+தொடர்ச்சியான பல சோதனைகளுக்கு பின் மூளை வெளியில் இருந்து வரும் தகவல்களுக்கு ஏற்ப நீயூரோப்ளாஸ்டி முறையில் நரம்புகளை இணைக்கவும், மறு இணைப்பு செய்யவும் முடியும். ஆனால் அதற்கு சிலகாலம் ஆகும் என்று கண்டு பிடித்தனர். எனவே கண்புரை குறைபாடு உள்ள குழந்தைகளுக்கு உடனே சிகிச்சை செய்வதின் மூலம் பார்வைத் திறனைச் சீக்கிரம் பெற முடியும் என்று கண்டறிந்தனர். 
+
+<br/>
+
+இன்றைய கணினித் தொழில் நுட்பம் எண்களைக் மிக துள்ளியமாகவும் நேர்தியாகவும் கையாள்வதில் மனிதனை மிஞ்ஞிவிட்டது. ஆனால் பிம்பங்களைக் கையாள்வதில் அவைகளால் மனித மூளையை மிஞ்ச முடியவில்லை. மனித மூளையின் செயலாக்கத்தை கணினிக்கு சொல்லிக் கொடுப்பது மிகப்பெரிய பில்லியன் டாலர் வியாபாரமாக இன்று இருக்கிறது. ஹூபல் மற்றும் வைசல் இருவரும் பூனையை வைத்து செய்த சோதனை எப்படி குழந்தைகளின் பார்வைக் குறைபாட்டை தீர்ததோ அதே போல, கணினிக்கு பிம்பங்களை புரிந்து கொள்ளும் வழி தெரிந்து விட்டால், நம் சமூகத்தில் மிகப்பெரிய வளர்சியை ஏற்படுத்தும்.
+
+<br/>
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
+
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
+
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
+
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+நமது பெருமூளைப் புறணி பற்றிய சில சுவாரஸ்யமான விஷயங்கள் இங்கே:
+
+- நீர்நில வாழ் ஆம்ஃபிபுயன்கள் மற்றும் ஊர்வன விலங்குகளின் மூளையில் இருந்து பாலூட்டிகளின் மூளையில் ஏற்பட்ட சமீபத்திய பரிணாம வளர்சியின் வெளிப்பாடு.
+
+- பெருமூளைப் புறணியின் வெளிப்புற மேல் அடுக்கு சம்பல் நிறத்தில் இருப்பதால் இது க்ரே மேட்டர் என்று அழைக்கப்பட்டாலும் மூளையின் பெரும்பகுதி வெள்ளை நிறத்தில் தான் உள்ளது.
+
+- தகவல் பரிமாற்றத்தில் இந்த் க்ரே மேட்டரை விட வெள்ளை நிறப் பகுதிக்கே அதிக பொறுப்பு இருக்கிது. வெள்ளை நிற கொழுப்பால் பூசப்பட்ட நியூரான்கள் அதிவேக நெடுஞ்சாலைகள் போல சமிஞ்சைகளை கடத்தும் திறன் பெற்றவை. 
+
+- மூளையின் வெண்மை பாகம் நெடுஞ்சாலகள் போன்ற குறைந்த எண்ணிக்கையிலான வளைவுகளைக் கொண்டவை. எனவே தான் இவைகள்  சமிக்ஞைகளை வேகமாக கடத்துகின்றன.  அதே சமத்தில் சாம்பல் நிறம் உள்ளூர் சாலைகள் போல் அதிக இணைப்புகளைக் கொண்டிருப்பதால் அவைகளின் வேகம் குறைவாகவும் ஆனால் ஆங்காக்கே நியூரான்களுக்கு இணைப்பை உருவாக்குவதில் எண்ணிலங்கா வாய்புகளைப் பெற்றுள்ளன.
+
+- மூளையின் புறணியில் தான் மிக சிக்கலான கணக்கீடுகள் நடைபெறுகின்றன.   பாலூட்டிகள், குறிப்பாக ஹோமோ போன்ற பெரிய குரங்குகளின் சிக்கலான நடத்தைகளுக்கு இந்த சாம்பல் நிறப் புறணியே காரணம்.
+
+MRI தொழில் நுட்பத்தைப் பயன்படுத்தி மூளையின் பாதிக்க பட்ட பகுதியை தெளிவாக 2D மற்றும் 3D படமாக பார்க்க முடியும். மூளை அறுவை சிகிச்சை செய்துகொள்வர்களின் எண்ணற்ற படங்களில் இருந்து காட்சி, நிறம், நகர்வு மற்றும் முகங்களை தெரிந்து கொள்ள உதவும் மூளையின் முக்கிய பிராந்தியங்களைக் கொண்ட படங்களைப் ஒன்றாக இணைத்தனர்.
+
+
+<br/>
+
+The figure on the left above, shows how visual input travels from the eye to our visual cortex. The figure on the right above, shows the various regions of our visual cortex. The V1 region receives the input from the eyes and contains the simple cells that detect edge orientations. Through the recombination of information via myriad subsequent layers of neurons (including within the V2, V3, and V3a regions), increasingly abstract visual stimuli are represented. In the human brain (shown here), there are regions containing neurons with concentrations of specializations in, for example, the detection of color (V4), motion (V5), and people’s faces (fusiform face area).
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Picture34.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/BrainVisualCortex.png"></img>
+</div>
+
+<br/>
+
+<div style='float: center'>
+  <img style='width: 600px' src="../img/en_US/chapter_1/Kolb_and_Whishaw_BrainVisualCortex.png"></img>
+</div>
+
 <br/>

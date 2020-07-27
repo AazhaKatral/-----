@@ -101,18 +101,17 @@ The arrival of the gamechanger a.k.a. AlexNet
 
 பிரபலமான பத்திரிகைகளில் "ஆழக் கற்றலின் பிதா" ிரிட்டிஷ்-கனடிய செயற்கை நரம்பியல் வலையமைப்பு முன்னோடி எஃப்ஃப்ரே ஹிண்டன் ஆவார். அவர் டொராண்டோ பல்கலைக்கழகத்தில் ஓய்வுபெற்ற பேராசிரியராகவும், கூகிளில் நிறுவனத்தில் கூளில் ப்ரெயி அணியை நிர்வகிக்கும் பொறுப்பில் உள்ளார். ஆழ்ந்த கற்றல் தொடர்பான பணிகளுக்காக, 2019 ஆம் ஆண்டில், ஹிண்டன், யான் லீகன் மற்றும் யோஷுவா பெங்கியோ ஆகியீர் டூரிங் விருது-கணினி அறிவியலில் மிக உயர்ந்த  கரவ விருதைப் பெற்றனர்.
 
-அலெக்ஸ்நெட்டின் படிநிலை கட்டமைப்பு லெனெட் -5 ஐ நினைவூட்டுகிறது என்பதை இந்த படத்தில் நீங்கள் காணலாம், முதல் (இடது கை) அடுக்கு விளிம்புகள் எளிய காட்சி அம்சங்களையும், மேலும் ஆழமான அடுக்குகள்  சிக்கலான அம்சங்களையும்குறிக்கும். அந்த அடுக்கில் உள்ள நியூரான்கள் அதிகபட்சமாக பதிலளிக்கும் படங்களின் எடுத்துக்காட்டுகள் கீழே காட்டப்பட்டுள்ளன.
+அலெக்ஸ்நெட்டின் படிநிலை கட்டமைப்பு லெனெட் -5 ஐ நினைவூட்டுகிறது என்பதை இந்த படத்தில் நீங்கள் காணலாம், முதல் (இடது கை) அடுக்கு விளிம்புகள் எளிய காட்சி அம்சங்களையும், மேலும் ஆழமான அடுக்குகள் சிக்கலான அம்சங்களையும்குறிக்கும். அந்த அடுக்கில் உள்ள நியூரான்கள் அதிகபட்சமாக பதிலளிக்கும் படங்களின் எடுத்துக்காட்டுகள் கீழே காட்டப்பட்டுள்ளன.
+இங்கே காட்டப்பட்டுள்ள எடுத்துக்காட்டில், லெனெட் -5 இல் பூனை உள்ளீட்டின் படம் சரியாக அடையாளம் காணப்பட்டுள்ளது (பச்சை “CAT” வெளியீட்டால் குறிக்கப்படுகிறது). “CONV” என்பது ஒரு மாற்றீட்டு அடுக்கு எனப்படும் ஒன்றைப் பயன்படுத்துவதைக் குறிக்கிறது, மேலும் “FC” என்பது முழுமையாக இணைக்கப்பட்ட அடுக்கு (கவலைப்பட வேண்டாம், இந்த அடுக்கு வகைகளை பின்வரும் அத்தியாயங்களில் முறையாக விளக்குவோம்).
+
+அலெக்ஸ்நெட்டின் கட்டமைப்பு லெனெட் -5 ஐ நினைவூட்டுவதாக இருந்தாலும், அலெக்ஸ்நெட் 2012 இல் அதிநவீன இயந்திர பார்வை அல்காரிதம் ஆக இருக்க மூன்று முக்கிய காரணிகள் உள்ளன:
 
 
-You can see in this figure that AlexNet’s hierarchical architecture is reminiscent of LeNet-5, with the first (left-hand) layer representing simple visual features like edges, and deeper layers representing increasingly complex features and abstract concepts. Shown at the bottom are examples of images to which the neurons in that layer maximally respond, recalling the layers of the biological visual system and demonstrating the hierarchical increase in visual feature complexity. In the example shown here, an image of a cat input into LeNet-5 is correctly identified as such (as implied by the green “CAT” output). “CONV” indicates the use of something called a convolutional layer, and “FC” is a fully connected layer (don’t worry we will formally explain these layer types in later chapters).
+**பயிற்சித் தரவு:** கிரிஷெவ்ஸ்கியும் அவரது சகாக்களும் இமேஜ்நெட் தரவுகள் தரவுகள மட்டுமல்லாமல், மாதிகள் பயன் படுத்த ஏதுவாக மாற்றப்பட்ட தரவுகளையும் வெளியிட்டனர் (நீங்களும் இதை பின்னர் செய்வீர்கள்).
 
-Though the architecture of AlexNet is reminiscent of LeNet-5, there are three principal factors that enabled AlexNet to be the state-of-the-art machine vision algorithm in 2012:
+**செயலாக்க சக்தி:**  கிரிஷெவ்ஸ்கி, ஹிண்டன் மற்றும் சுட்கெவர் GPUs24 ஜிபியூக்களைப் பயன்படுத்தி மிகப்பெரிய தரவுத்தொகுப்புகளை பயிற்றுவித்தனர்.
 
-Training data: Not only did Krizhevsky and his colleagues have access to the massive ImageNet index, they also artificially expanded the data available to them by applying transformations to the training images (you, too, will do this later).
-
-Processing power: Not only had computing power per unit of cost increased dramatically from 1998 to 2012, but Krizhevsky, Hinton, and Sutskever also programmed two GPUs24 to train their large datasets with previously unseen efficiency.
-
-Architectural Advances: AlexNet is deeper (has more layers) than LeNet-5, and it takes advantage of both a new type of artificial neuron and a nifty trick that helps generalize deep learning models beyond the data they’re trained on.
+**கட்டமைப்பு முன்னேற்றங்கள்:** அலெக்ஸ்நெட் லீநெட் -5 ஐ விட ஆழமானது (அதிக அடுக்குகளைக் கொண்டுள்ளது), மேலும் இது ஒரு புதிய வகை செயற்கை நியூரானையும்,  பயிற்றுவித்த தரவுகளுக்கு அப்பால் ஆழ்க் கற்றல் மாதிரிகளை பொதுமைப்படுத்த உதவும் ஒரு தந்திரத்தையும் பயன்படுத்துகிறது.
 
 GPU stands for "Graphics Processing Unit." A GPU is a processor designed to handle graphics operations. This includes both 2D and 3D calculations, though GPUs primarily excel at rendering 3D graphics. Early PCs did not include GPUs, which meant the CPU had to handle all standard calculations and graphics operations. As software demands increased and graphics became more important (especially in video games), a need arose for a separate processor to render graphics. On August 31, 1999, NVIDIA introduced the first commercially available GPU for a desktop computer, called the GeForce 256.
 
@@ -151,6 +150,7 @@ Click Let’s Draw! to begin playing the game. You will be prompted to draw an o
 Summary In this chapter, we explored the history of deep learning from its evolutionary origins through to the AlexNet watershed moment in 2012 that brought the technique to the forefront of scientific attention. Through all of this, the point to keep in mind is that it is the hierarchical architecture of deep learning models that enables them to encode increasingly complex representations. We explored this concept with an interactive demonstration of hierarchical representations in action by training an artificial neural network in the TensorFlow Playground. We then looked at a system that recognizes doodles “automagically” using deep learning!
 
 In the next chapter, we will expand on the ideas introduced in this chapter by moving from vision applications to language applications!
+<br/>
 <br/>
 <br/>
 <br/>
