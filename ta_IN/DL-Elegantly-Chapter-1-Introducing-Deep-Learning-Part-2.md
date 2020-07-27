@@ -113,18 +113,6 @@ The arrival of the gamechanger a.k.a. AlexNet
 
 **கட்டமைப்பு முன்னேற்றங்கள்:** அலெக்ஸ்நெட் லீநெட் -5 ஐ விட ஆழமானது (அதிக அடுக்குகளைக் கொண்டுள்ளது), மேலும் இது ஒரு புதிய வகை செயற்கை நியூரானையும்,  பயிற்றுவித்த தரவுகளுக்கு அப்பால் ஆழ்க் கற்றல் மாதிரிகளை பொதுமைப்படுத்த உதவும் ஒரு தந்திரத்தையும் பயன்படுத்துகிறது.
 
-
-
-You can see in this figure that AlexNet’s hierarchical architecture is reminiscent of LeNet-5, with the first (left-hand) layer representing simple visual features like edges, and deeper layers representing increasingly complex features and abstract concepts. Shown at the bottom are examples of images to which the neurons in that layer maximally respond, recalling the layers of the biological visual system and demonstrating the hierarchical increase in visual feature complexity. In the example shown here, an image of a cat input into LeNet-5 is correctly identified as such (as implied by the green “CAT” output). “CONV” indicates the use of something called a convolutional layer, and “FC” is a fully connected layer (don’t worry we will formally explain these layer types in later chapters).
-
-Though the architecture of AlexNet is reminiscent of LeNet-5, there are three principal factors that enabled AlexNet to be the state-of-the-art machine vision algorithm in 2012:
-
-Training data: Not only did Krizhevsky and his colleagues have access to the massive ImageNet index, they also artificially expanded the data available to them by applying transformations to the training images (you, too, will do this later).
-
-Processing power: Not only had computing power per unit of cost increased dramatically from 1998 to 2012, but Krizhevsky, Hinton, and Sutskever also programmed two GPUs24 to train their large datasets with previously unseen efficiency.
-
-Architectural Advances: AlexNet is deeper (has more layers) than LeNet-5, and it takes advantage of both a new type of artificial neuron and a nifty trick that helps generalize deep learning models beyond the data they’re trained on.
-
 GPU stands for "Graphics Processing Unit." A GPU is a processor designed to handle graphics operations. This includes both 2D and 3D calculations, though GPUs primarily excel at rendering 3D graphics. Early PCs did not include GPUs, which meant the CPU had to handle all standard calculations and graphics operations. As software demands increased and graphics became more important (especially in video games), a need arose for a separate processor to render graphics. On August 31, 1999, NVIDIA introduced the first commercially available GPU for a desktop computer, called the GeForce 256.
 
 It could process 10 million polygons per second, allowing it to offload a significant amount of graphics processing from the CPU. The success of the first graphics processing unit caused both hardware and software developers alike to quickly adopt GPU support. Motherboards were manufactured with faster PCI slots and AGP slots, designed exclusively for graphics cards, became a common option as well. Software APIs like OpenGL and Direct3D were created to help developers make use of GPUs in their programs. Today, dedicated graphics processing is standard – not just in desktop PCs – but also in laptops, smartphones, and video game consoles. These are designed primarily for rendering video games but are well suited to performing the matrix multiplication that abounds in deep learning across hundreds of parallel computing threads.
