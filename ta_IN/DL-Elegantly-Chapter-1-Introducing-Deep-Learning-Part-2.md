@@ -151,3 +151,4 @@ Summary In this chapter, we explored the history of deep learning from its evolu
 
 In the next chapter, we will expand on the ideas introduced in this chapter by moving from vision applications to language applications!
 <br/>
+<br/>
