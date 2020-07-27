@@ -21,9 +21,9 @@
     <td align="center">Meme</td>
   </tr>
   <tr>
-    <td valign="center"><img src="../img/en_US/Trilobyte.png"></td>
-    <td valign="center"><img src="../img/en_US/Trilobyte_fossil_from_HimachalPradesh.png"></td>
-    <td valign="center"><img src="../img/en_US/Vivek_meme.png"></td>    
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Trilobyte_fossil_from_HimachalPradesh.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_1/Vivek_meme.png"></td>    
   </tr>
 </table>
 <br/>
