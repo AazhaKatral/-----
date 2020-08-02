@@ -330,12 +330,15 @@ AlphaGo Beats Human
 ஆழக்கற்றல் மற்றும் செயற்கை நுண்ணறிவு ஆகியவற்றில் முன்னேற்றங்களில் மகத்தான பங்களிப்பு செய்ததற்காக யோஷுவா பெங்கியோ, ஜெஃப்ரி ஹிண்டன் மற்றும் யான் லீகன் டூரிங் விருது 2018 ஐ வென்றனர். 1970 களில் முழு இயந்திர கற்றல் சமூகமும் அதிலிருந்து விலகிச் சென்றபோதும் நரம்பியல் நெட்வொர்க்குகளில் இடைவிடாமல் உழைத்த அனைவருக்கும் இது மிக முக்கியமான தருணமாகும்.
 
 
-| Year(s) | Name | Image | Description
+|
+ Year(s) | Name | Image | Description
 | --- | --- | --- | ---
 | 1943 | WalterPitts & WarrenMcCulloch | <img src="../img/en_US/chapter_0/WalterPitts_and_WarrenMcCulloch_2.png" /> | "A Logical Calculus of the Ideas Immanent in Nervous Activity"
 | 1957 | Frank Rosenblatt | <img src="../img/en_US/chapter_0/FrankRosenblattCreatesPerceptron.png" /> | Frank Rosenblatt creates "Perceptron"
 | 1960 | Henry Keller | <img src="../img/en_US/chapter_0/HenryKelley_GradientTheoryOfOptimalFlightPaths.png" /> | "Gradient Theory of Optimal Flight Paths"
 | 1962 | Stuart Dreyfus | <img src="../img/en_US/chapter_0/StuartDreyfus.png" /> | "Back Propagation with Chain Rule"
+| 1965 | Alexey Grigoryevich Ivakhnenko | <img src="../img/en_US/chapter_0/AlexeyGrigoryevichIvakhnenko.png" /> | "Birth of Multilayer Neural Network"
+| 1969 | Marvin Minsky and Seymour Papert | <img src="../img/en_US/chapter_0/MarvinMinsky_and_SeymourPapert.png" /> | "The Fall of Perceptron"
+| 1970 | Seppo Linnainmaa | <img src="../img/en_US/chapter_0/SeppoLinnainmaa.png" /> | Backpropagation is Computer Coded
 
-<br/>
 <br/>
