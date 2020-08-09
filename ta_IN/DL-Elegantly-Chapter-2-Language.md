@@ -34,8 +34,14 @@
 
 
 டேட்டா மைனிங் செய்வதற்கு கணிதம், 
-Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.   
-With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).  
+Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.
+
+<img src="../img/en_US/chapter_2/Picture5.png">
+
+With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).
+
+<img src="../img/en_US/chapter_2/Picture6.png">
+
 
 So, while Data Mining is a set of tools and techniques used to make data better for use, Data Analytics typically helps in developing and working on models for taking business decisions. Which is why data mining is focused more on computational, mathematical and scientific concepts while data analytics uses extensive business insight and expert knowledge to assist data driven business decision making.
  
