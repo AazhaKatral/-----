@@ -59,7 +59,7 @@ A more obvious difference is the lack of emphasis on data visualization in data 
   <tr>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture8.png"></td>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture9.png"></td>
-    <td valign="center"><img src="../img/en_US/chapter_2/Picture710.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture10.png"></td>
   </tr>
 </table>
 <br/>
