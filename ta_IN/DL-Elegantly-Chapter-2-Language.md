@@ -91,9 +91,10 @@ Data Science is now referred to as the fourth paradigm of Science (the other thr
  <img src="../img/en_US/chapter_2/Picture14.png">
 
 
-# What is Text Mining and how is it different from Text Analytics and Data Mining?
+# What is Text Mining?  How is it different from Text Analytics and Data Mining?
 
-In data mining, you typically have databases, and know what everything is.  In “text mining,” or “text data mining,” as some people call it (boo!), you have texts, and you don’t know what anything is ( you = computer program). 
+In data mining, you typically have databases, and know what everything is.  In **text mining**, or **text data mining**, as some people call it (boo!), you have texts, and you don’t know what anything is (you = computer program).
+
 This is usually talked about as a difference between “structured” data (i.e., the database)–you know what everything “is”–what it “means”–in some sense, its semantics and “unstructured” data: that’s typically how we would describe text.   
 With text, you don’t know what anything means i.e. you don’t know its semantics. To put it another way, there is nothing in the data itself that tells you what each word means or is about. There is very little or no meta-data. Thus, Text Mining could be thought of as turning unstructured data into structured data.   
 If you’ve got a bunch of text and you want to structure it to populate an Oracle database?  Well, Text Mining could be the answer. Maybe you have 23 bejillion (made up number!) journal articles in the National Library of Medicine, and you want to find every statement that those 23 bejillion articles make about which genes are affected by which drugs; Again, Text Mining can come to your rescue! Or, maybe you have a huge collection of folk tales, and you want (the computer) to find every time that a stepmother is mentioned and whether the portrayal of the stepmother is positive or negative. Text Mining save me!
