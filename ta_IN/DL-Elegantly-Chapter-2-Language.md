@@ -9,20 +9,22 @@
 குழப்பத்தைக் குறைக்க, என்.எல்.பி மற்றும் ஆழக் கற்றலில் நாம் மிகவும் ஆழமாகச் செல்வதற்கு முன் சில கருத்துக்களை தெளிவுபடுத்த சில அடிப்படை கேள்விகளுக்கு பதிலளிப்போம்.
 நீங்கள் கேட்க தயங்கியிருக்கக்கூடிய கேள்விகளை தெளிவுபடுத்துதல்!
 
-Data Mining என்றால் என்ன? 
-Data Analytics இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
+Data Mining(தரவு சுரங்கம்) என்றால் என்ன? 
+<br>Data Analytics இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
 
-Data mining is, in essence, a set of mathematical and computational techniques that are applied on data stored in databases.  It can help you discover things like “middle-aged working men with careers more than 25 years and hold cricket channel subscriptions are more likely to vote for an independent candidate in an election than those who don’t have cricket channel subscriptions”.  Aside: Don’t take this for a fact, people! I just made this up.
+தரவு சுரங்கம் என்பது தரவுத்தளங்களில் சேமிக்கப்பட்ட தரவுகளில் பயன்படுத்தப்படும் கணித மற்றும் கணக்கீட்டு நுட்பங்களின் தொகுப்பாகும். உதாரணமாக நடுத்தர வயதுக்கு உட்ப்பட்ட இருபத்து வருட பணி அனுபவம் உள்ளவர், கிரிக்கெட் சந்தா மாதா மாதம் செலுத்துபவர்கள் தேர்தலின் போது சுயேச்சை வேள்பாளர்களுக்கு வாக்களிக்கும் வாய்பு அதிகம் என்று எடுத்துக்கொள்வோம். 
+
+தரவுச்சுரங்கத்தில் "structured" தரவுகள் இருப்பதாக எடுத்துக்கொள்ளுங்கள். மேலே குறிப்பிட்ட கிரிக்கெட் சந்தா கட்டுபவர்கள் தரவுகள் எவ்வாறு சேமிக்கப்பட்டுள்ளது என்பதைப் பார்ப்போம்.
+
+ஒரு டேபிளில் கீழுள்ள காலம்கள் இருக்கலாம்.
+o       யார் வேலை செய்கிறார்
+o       எவ்வளவு காலம் வேலை செய்தார்கள்
+o       பாலினம்
+o	
+
+மற்றொரு டேபிளில் யார் யார் கிரிக்கெட் அலைவரிசைக்கு சந்தா செலுத்துகிறார்கள் ?
+மூன்றாவது டேபிளில் தோராயமாக தேர்வுசெய்யப்பட்ட  உறுப்பினர்கள் சர்வேயரிடம்  உள்ளூர் தேர்தலில் பழமைவாத வேட்பாளருக்கு வாக்களிப்பதை கருத்தில் கொள்ள மாட்டார்கள் என்று கூறினர் என்ற விவரம் இருக்கும்.
   
-
-Data mining is primarily focused on “structured” data. This means for the “cricket subscriber” example quoted earlier, you need to have:
-•	One table (think spreadsheet with rows and columns) in a database (think workbook with a bunch of spreadsheets in it) with columns that identify 
-o	who’s working 
-o	for how long 
-o	their gender 
-o	their salary ranges 
-•	Another table that tells who has cricket channel subscriptions
-•	A third table that tells you which members of a (random) sample population told the surveyor that they would/wouldn’t consider voting for conservative candidate in a local election.   
 So, in essence, Data mining is the science of figuring out what things are related e.g., Cricket Channel subscription informing willingness to vote for a Conservative Candidate, and what things aren’t related e.g., buying a Harley informing willingness/unwillingness to vote for a particular candidate in an election–among thousands of such variables.  
  
 Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.   
