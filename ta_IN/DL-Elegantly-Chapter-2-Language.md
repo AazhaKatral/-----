@@ -65,16 +65,28 @@ A more obvious difference is the lack of emphasis on data visualization in data 
 <br/>
     
  
-So, how is Data Mining different from Data Science?
+# So, how is Data Mining different from Data Science?
+
 We have now established that Data Mining is about finding patterns in a data set (historical data) using a set of mathematical or statistical techniques and using these patterns to assist knowledge discovery. 
 
 Data Science is much broader in scope. It is an entire field of study which includes Big Data, Data Analytics, Data Mining, Predictive Modeling, Data Visualization, Mathematics, Statistics and AI. Data Science is now considered a paradigm shift in the way we do Science itself. 
 
-   
-
+<br/>
+<table>
+  <tr>
+    <td align="center">Change is upon us</td>
+    <td align="center">Data Science</td>
+    <td align="center">Data Science buzzword</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture11.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture12.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture13.png"></td>
+  </tr>
+</table>
+<br/>
 
 Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
-
  
 
 What is Text Mining and how is it different from Text Analytics and Data Mining?
