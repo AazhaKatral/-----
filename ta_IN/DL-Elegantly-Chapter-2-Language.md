@@ -47,7 +47,22 @@ So, while Data Mining is a set of tools and techniques used to make data better 
 
 <img src="../img/en_US/chapter_2/Picture7.png">
 
-A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of “seeing things in context” in all information we encounter. 
+A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of **seeing things in context** in all information we encounter. 
+    
+<br/>
+<table>
+  <tr>
+    <td align="center">What is Edward Tufte?</td>
+    <td align="center">Envisioning Information</td>
+    <td align="center">Data Visualization specialists</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture8.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture9.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture710.png"></td>
+  </tr>
+</table>
+<br/>
     
  
 So, how is Data Mining different from Data Science?
