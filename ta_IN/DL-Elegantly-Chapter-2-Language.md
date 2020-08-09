@@ -76,7 +76,7 @@ Data Science is much broader in scope. It is an entire field of study which incl
   <tr>
     <td align="center">Change is upon us</td>
     <td align="center">Data Science</td>
-    <td align="center">Data Science buzzword</td>
+    <td align="center">Buzzword</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture11.png"></td>
@@ -88,8 +88,11 @@ Data Science is much broader in scope. It is an entire field of study which incl
 
 Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
  
+ <img src="../img/en_US/chapter_2/Picture14.png">
 
-What is Text Mining and how is it different from Text Analytics and Data Mining?
+
+# What is Text Mining and how is it different from Text Analytics and Data Mining?
+
 In data mining, you typically have databases, and know what everything is.  In “text mining,” or “text data mining,” as some people call it (boo!), you have texts, and you don’t know what anything is ( you = computer program). 
 This is usually talked about as a difference between “structured” data (i.e., the database)–you know what everything “is”–what it “means”–in some sense, its semantics and “unstructured” data: that’s typically how we would describe text.   
 With text, you don’t know what anything means i.e. you don’t know its semantics. To put it another way, there is nothing in the data itself that tells you what each word means or is about. There is very little or no meta-data. Thus, Text Mining could be thought of as turning unstructured data into structured data.   
