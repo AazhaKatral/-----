@@ -24,7 +24,9 @@ o
 
 மற்றொரு டேபிளில் யார் யார் கிரிக்கெட் அலைவரிசைக்கு சந்தா செலுத்துகிறார்கள் ?
 மூன்றாவது டேபிளில் தோராயமாக தேர்வுசெய்யப்பட்ட  உறுப்பினர்கள் சர்வேயரிடம்  உள்ளூர் தேர்தலில் பழமைவாத வேட்பாளருக்கு வாக்களிப்பதை கருத்தில் கொள்ள மாட்டார்கள் என்று கூறினர் என்ற விவரம் இருக்கும்.
-  
+ 
+ 
+டேட்டா மைனிங் என்புது தரவுச் சுரங்கத்தில்  தொடர்புடைய தரவுகளை கண்டறியும் அறிவியல் எனலாம். கிரிக்கெட் சானலுக்கு சந்தா செலுத்துபவர் பழைமை வாதக் கட்சிக்கு வாக்களிப்பார் என்பது தொடர்புடைய தகவல். உதாரணம் ஹார்லி பைக்கை ஒருவர் வாங்குவாரே ஆனால் அந்த குபிப்பிட்ட மாறியைக்கொண்டு அவர் யாருக்கு வாக்களிப்பார் என்று கணிக்க முடியாது.
 So, in essence, Data mining is the science of figuring out what things are related e.g., Cricket Channel subscription informing willingness to vote for a Conservative Candidate, and what things aren’t related e.g., buying a Harley informing willingness/unwillingness to vote for a particular candidate in an election–among thousands of such variables.  
  
 Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.   
