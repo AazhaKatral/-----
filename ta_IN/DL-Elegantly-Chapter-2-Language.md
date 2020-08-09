@@ -1,8 +1,10 @@
 **மொழி**
 
-Whenever words that have some ambiguity in their basic definitions and overlap with other words in terms of their meaning, enter public discourse, things get terribly confusing very quickly! Natural Language Processing (NLP) is one such term. Deep Learning is another.
+பல பொருள் குறித்த சொல்லை ஒரு தொடரில் பயன்படுத்தும் பொழுது குழப்பங்கள் ஏற்படுவது உண்டு.  Natural Language Processing (NLP) எனப்படும் இயற்கை மொழி கணினியியல் துறையிலும் ஆழக்கற்றல் துறையிலும் இதனால் அதிக குழப்பம் ஏற்படுகிறது.
 
 <img src="../img/en_US/chapter_2/01_confused_panda.jpg">
+
+தமிழ் இலக்கியத்தில் வினை, சார்பு, இனம், இடம் என்பனவற்றைக் குறிக்கும் சொற்களைச் சேர்த்துச் சொல்லி அதன் பொருளைத் தெளிவு படுத்துவார். 
 
 So, to reduce confusion, let’s start with answering a few basic questions to clarify some concepts before we go in too deep into NLP and Deep Learning. 
 Clarifying Questions that you may have been reluctant to ask!
