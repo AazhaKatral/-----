@@ -1,24 +1,32 @@
 **மொழி**
 
-Whenever words that have some ambiguity in their basic definitions and overlap with other words in terms of their meaning, enter public discourse, things get terribly confusing very quickly! Natural Language Processing (NLP) is one such term. Deep Learning is another.
-  
-So, to reduce confusion, let’s start with answering a few basic questions to clarify some concepts before we go in too deep into NLP and Deep Learning. 
-Clarifying Questions that you may have been reluctant to ask!
+பல பொருள் குறித்த சொல்லை ஒரு தொடரில் பயன்படுத்தும் பொழுது குழப்பங்கள் ஏற்படுவது உண்டு.  Natural Language Processing (NLP) எனப்படும் இயற்கை மொழி கணினியியல் துறையிலும் ஆழக்கற்றல் துறையிலும் இதனால் அதிக குழப்பம் ஏற்படுகிறது.
+
+<img src="../img/en_US/chapter_2/01_confused_panda.jpg">
+
+தமிழ் இலக்கியத்தில் வினை, சார்பு, இனம், இடம் என்பனவற்றைக் குறிக்கும் சொற்களைச் சேர்த்துச் சொல்லி அதன் பொருளைத் தெளிவு படுத்துவார்கள். 
+
+குழப்பத்தைக் குறைக்க, என்.எல்.பி மற்றும் ஆழக் கற்றலில் நாம் மிகவும் ஆழமாகச் செல்வதற்கு முன் சில கருத்துக்களை தெளிவுபடுத்த சில அடிப்படை கேள்விகளுக்கு பதிலளிப்போம்.
+நீங்கள் கேட்க தயங்கியிருக்கக்கூடிய கேள்விகளை தெளிவுபடுத்துதல்!
+
+Data Mining(தரவு சுரங்கம்) என்றால் என்ன? 
+<br>Data Analytics(தரவு பகுப்பாய்வு) இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
+
+தரவு சுரங்கம் என்பது தரவுத்தளங்களில் சேமிக்கப்பட்ட தரவுகளில் பயன்படுத்தப்படும் கணித மற்றும் கணக்கீட்டு நுட்பங்களின் தொகுப்பாகும். உதாரணமாக நடுத்தர வயதுக்கு உட்ப்பட்ட இருபத்து வருட பணி அனுபவம் உள்ளவர், கிரிக்கெட் சந்தா மாதா மாதம் செலுத்துபவர்கள் தேர்தலின் போது சுயேச்சை வேள்பாளர்களுக்கு வாக்களிக்கும் வாய்பு அதிகம் என்று எடுத்துக்கொள்வோம். 
+
+தரவுச்சுரங்கத்தில் "structured" தரவுகள் இருப்பதாக எடுத்துக்கொள்ளுங்கள். மேலே குறிப்பிட்ட கிரிக்கெட் சந்தா கட்டுபவர்கள் தரவுகள் எவ்வாறு சேமிக்கப்பட்டுள்ளது என்பதைப் பார்ப்போம்.
+
+ஒரு டேபிளில் கீழுள்ள காலம்கள் இருக்கலாம்.
+o       யார் வேலை செய்கிறார்
+o       எவ்வளவு காலம் வேலை செய்தார்கள்
+o       பாலினம்
+o	
+
+மற்றொரு டேபிளில் யார் யார் கிரிக்கெட் அலைவரிசைக்கு சந்தா செலுத்துகிறார்கள் ?
+மூன்றாவது டேபிளில் தோராயமாக தேர்வுசெய்யப்பட்ட  உறுப்பினர்கள் சர்வேயரிடம்  உள்ளூர் தேர்தலில் பழமைவாத வேட்பாளருக்கு வாக்களிப்பதை கருத்தில் கொள்ள மாட்டார்கள் என்று கூறினர் என்ற விவரம் இருக்கும்.
  
-
-First, what is Data Mining? 
-How is it different from Data Analytics?
-Data mining is, in essence, a set of mathematical and computational techniques that are applied on data stored in databases.  It can help you discover things like “middle-aged working men with careers more than 25 years and hold cricket channel subscriptions are more likely to vote for an independent candidate in an election than those who don’t have cricket channel subscriptions”.  Aside: Don’t take this for a fact, people! I just made this up.
-  
-
-Data mining is primarily focused on “structured” data. This means for the “cricket subscriber” example quoted earlier, you need to have:
-•	One table (think spreadsheet with rows and columns) in a database (think workbook with a bunch of spreadsheets in it) with columns that identify 
-o	who’s working 
-o	for how long 
-o	their gender 
-o	their salary ranges 
-•	Another table that tells who has cricket channel subscriptions
-•	A third table that tells you which members of a (random) sample population told the surveyor that they would/wouldn’t consider voting for conservative candidate in a local election.   
+ 
+டேட்டா மைனிங் என்புது தரவுச் சுரங்கத்தில்  தொடர்புடைய தரவுகளை கண்டறியும் அறிவியல் எனலாம். கிரிக்கெட் சானலுக்கு சந்தா செலுத்துபவர் பழைமை வாதக் கட்சிக்கு வாக்களிப்பார் என்பது தொடர்புடைய தகவல். உதாரணம் ஹார்லி பைக்கை ஒருவர் வாங்குவாரே ஆனால் அந்த குபிப்பிட்ட மாறியைக்கொண்டு அவர் யாருக்கு வாக்களிப்பார் என்று கணிக்க முடியாது.
 So, in essence, Data mining is the science of figuring out what things are related e.g., Cricket Channel subscription informing willingness to vote for a Conservative Candidate, and what things aren’t related e.g., buying a Harley informing willingness/unwillingness to vote for a particular candidate in an election–among thousands of such variables.  
  
 Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.   
