@@ -104,10 +104,36 @@ With text, you don’t know what anything means i.e. you don’t know its semant
  <img src="../img/en_US/chapter_2/Picture16.png">
 
 If you’ve got a bunch of text and you want to structure it to populate an Oracle database?  Well, Text Mining could be the answer. Maybe you have 23 bejillion (made up number!) journal articles in the National Library of Medicine, and you want to find every statement that those 23 bejillion articles make about which genes are affected by which drugs; Again, Text Mining can come to your rescue! Or, maybe you have a huge collection of folk tales, and you want (the computer) to find every time that a stepmother is mentioned and whether the portrayal of the stepmother is positive or negative. Text Mining save me!
-You can see that all these scenarios are actually, examples of transforming unstructured data into structured data–you’re taking that unstructured data and using it to build a database about drugs and proteins, or a database about stepmothers.  So, you can see the term “text mining” is more appropriate than “text data mining” as “data mining” is about structured data and it does not make much sense to talk about “data mining” with respect to language.  In fact, Text mining most times, feeds data mining algorithms.  
-Now, while data mining people need to know math, text mining folks need to know math and something about what and the language in which people write about an area of interest (say, neuroscience or cricket).  They don’t need to be linguistics professionals, but they need to know enough about the language in general to write programs that answer practical questions, deliver value, pay the bills, and possibly, make the world a better place!  
+<br/>
 
-Let's bring all this together with a SMS ( ) example. Suppose you have a log file that contains your outgoing phone calls and SMS data in the following format:
+You can see that all these scenarios are actually, examples of transforming unstructured data into structured data–you’re taking that unstructured data and using it to build a database about drugs and proteins, or a database about stepmothers.  So, you can see the term **text mining** is more appropriate than **text data mining** as **data mining** is about structured data and it does not make much sense to talk about **data mining** with respect to language.  In fact, Text mining most times, feeds data mining algorithms.
+
+ <img src="../img/en_US/chapter_2/Picture17.png">
+
+Now, while data mining people need to know math, text mining folks need to know math and something about what and the language in which people write about an area of interest (say, neuroscience or cricket).  They don’t need to be linguistics professionals, but they need to know enough about the language in general to write programs that answer practical questions, deliver value, 
+
+ <img src="../img/en_US/chapter_2/Picture18.png">
+
+pay the bills, and possibly, make the world a better place!  
+
+Let's bring all this together with a SMS ( ) example. 
+<img src="../img/en_US/chapter_2/Picture19.png">
+
+Suppose you have a log file that contains your outgoing phone calls and SMS data in the following format:
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Logs</td>
+    <td align="center">Table Definition</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture20.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture21.png"></td>
+  </tr>
+</table>
+<br/>
+
    
 In the log table shown above, 
 1.	The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
