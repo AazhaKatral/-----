@@ -4,14 +4,14 @@
 
 <img src="../img/en_US/chapter_2/01_confused_panda.jpg">
 
-தமிழ் இலக்கியத்தில் வினை, சார்பு, இனம், இடம் என்பனவற்றைக் குறிக்கும் சொற்களைச் சேர்த்துச் சொல்லி அதன் பொருளைத் தெளிவு படுத்துவார். 
+தமிழ் இலக்கியத்தில் வினை, சார்பு, இனம், இடம் என்பனவற்றைக் குறிக்கும் சொற்களைச் சேர்த்துச் சொல்லி அதன் பொருளைத் தெளிவு படுத்துவார்கள். 
 
-So, to reduce confusion, let’s start with answering a few basic questions to clarify some concepts before we go in too deep into NLP and Deep Learning. 
-Clarifying Questions that you may have been reluctant to ask!
- 
+குழப்பத்தைக் குறைக்க, என்.எல்.பி மற்றும் ஆழக் கற்றலில் நாம் மிகவும் ஆழமாகச் செல்வதற்கு முன் சில கருத்துக்களை தெளிவுபடுத்த சில அடிப்படை கேள்விகளுக்கு பதிலளிப்போம்.
+நீங்கள் கேட்க தயங்கியிருக்கக்கூடிய கேள்விகளை தெளிவுபடுத்துதல்!
 
-First, what is Data Mining? 
-How is it different from Data Analytics?
+Data Mining என்றால் என்ன? 
+Data Analytics இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
+
 Data mining is, in essence, a set of mathematical and computational techniques that are applied on data stored in databases.  It can help you discover things like “middle-aged working men with careers more than 25 years and hold cricket channel subscriptions are more likely to vote for an independent candidate in an election than those who don’t have cricket channel subscriptions”.  Aside: Don’t take this for a fact, people! I just made this up.
   
 
