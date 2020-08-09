@@ -1,4 +1,5 @@
-Language
+**மொழி**
+
 Whenever words that have some ambiguity in their basic definitions and overlap with other words in terms of their meaning, enter public discourse, things get terribly confusing very quickly! Natural Language Processing (NLP) is one such term. Deep Learning is another.
   
 So, to reduce confusion, let’s start with answering a few basic questions to clarify some concepts before we go in too deep into NLP and Deep Learning. 
