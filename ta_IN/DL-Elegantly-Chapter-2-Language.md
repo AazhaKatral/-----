@@ -44,12 +44,13 @@
 <img src="../img/en_US/chapter_2/Picture6.png">
 
 
-So, while Data Mining is a set of tools and techniques used to make data better for use, Data Analytics typically helps in developing and working on models for taking business decisions. Which is why data mining is focused more on computational, mathematical and scientific concepts while data analytics uses extensive business insight and expert knowledge to assist data driven business decision making.
+தரவுச் செயலாக்கம்(Data Mining) என்பது தரவில் இருந்து குறிப்பிட்ட வடிவங்களைப் பிரித்தெடுக்கும் செயல்முறை ஆகும்.(Data Analytics) எனப்படும் தரவு பகுப்பாய்வு வணிக முடிவுகளை எடுக்க தேவையான மாதிரிகளை உருவாக்குவதில் உதவும் முறை எனலாம். எனவே தரவு செயலாக்கம் என்பது கணக்கீட்டு, கணித மற்றும் அறிவியல் கருத்துக்களை மையமாகக் கொண்டது ஆனால் தரவு பகுப்பாய்வு என்பது வணிக நுண்ணறிவும் தரவைக்கொண்டு வணிக முடிவுகளை எடுக்கும் ஞானத்தையும் மையமாகக் கொண்டது.
 
 <img src="../img/en_US/chapter_2/Picture7.png">
 
-A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of **seeing things in context** in all information we encounter. 
-    
+தரவு செயலாக்கதில் பெரிய அளவில் காட்சிப்படுத்தல் இருக்காது. ஆனால், தரவு பகுப்பாய்வில் நிறைய வரைபடங்கள் இருக்கும்.  கிடைக்கப்பெற்ற தகவலை வரைபடமாக்கி பார்க்கும் கலை, அறிவியல் துறையி 
+எட்வர்ட் டஃப்டே என்பவர் முன்னோடியாக விளங்கினார். அவர் தான் **சூழலில் விஷயங்களைப் பார்ப்பது** என்பதை அறிமுகப்படுத்தினார்.
+
 <br/>
 <table>
   <tr>
