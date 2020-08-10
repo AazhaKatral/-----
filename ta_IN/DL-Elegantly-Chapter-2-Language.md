@@ -137,10 +137,10 @@ Suppose you have a log file that contains your outgoing phone calls and SMS data
 
    
 In the log table shown above, 
-1.	The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
-2.	The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
-3.	The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
-4.	The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
+1.  The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
+2.  The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
+3.  The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
+4.  The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
 
 <br/>
 If the type of data is SMS, then the value in this field will be the text message.  For e.g., the following figure shows records of call data stored in a text file:
@@ -158,8 +158,7 @@ If the type of data is SMS, then the value in this field will be the text messag
 </table>
 <br/>
 
-   
- Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
+Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
  
 * How many New Year greetings were sent by SMS on the 1st January? 
 * How many people were contacted whose name was not in the contact list? 
@@ -251,11 +250,26 @@ NLU then looks for the true meaning behind the words by comparing them to simila
 <img src="../img/en_US/chapter_2/Picture35.png">
 
 Unlike structured data, human language is structurally messy and ambiguous. We are rarely precise or straightforward our communication. Grammar and the meaning of words are highly contextual. 
- 
-When you ask your phone something like “What’s I-93 like right now?”, if you were being literal, you might get an answer like, “It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42.” But in reality, you want to know what the traffic conditions are on I-93. That’s where NLU comes in. It takes the slangy, figurative, highly contextual way we talk every day and understanding what we “really” mean by it. 
-   
 
-What is Natural Language Generation (NLG)?
+<img src="../img/en_US/chapter_2/Picture36.png">
+
+When you ask your phone something like **What’s I-93 like right now?**, if you were being literal, you might get an answer like, **It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42**.  But in reality, you want to know what the traffic conditions are on I-93.  That’s where NLU comes in.  It takes the slangy, figurative, highly contextual way we talk every day and understanding what we **really** mean by it. 
+   
+<br/>
+<table>
+  <tr>
+    <td align="center">Linguistic variety</td>
+    <td align="center">Sarcasm meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture37.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture38.png"></td>
+  </tr>
+</table>
+<br/>   
+
+# What is Natural Language Generation (NLG)?
+
 Now, once a chatbot, a smart device, or search engine understands the language it’s “hearing,” it has to talk back in a way that you, in turn, will understand. That’s where NLG comes in. NLG takes results from, say, a search result, and turns it into understandable language. 
 So, whenever you ask your smart device, “What’s it like on I-93 right now?” it can answer almost exactly as another human would. It may say something like, “There is an accident at exit 36 that has created a 15-minute delay,” or “The road is clear.” NLG is used in chatbot technology. In fact, chatbots have become so advanced that you may not even know you’re talking to a machine. 
  
@@ -620,16 +634,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 <br/>
 
-<img src="../img/en_US/chapter_2/Picture29.png">
-<img src="../img/en_US/chapter_2/Picture30.png">
-<img src="../img/en_US/chapter_2/Picture31.png">
-<img src="../img/en_US/chapter_2/Picture32.png">
-<img src="../img/en_US/chapter_2/Picture33.png">
-<img src="../img/en_US/chapter_2/Picture34.png">
-
-<img src="../img/en_US/chapter_2/Picture35.png">
-<img src="../img/en_US/chapter_2/Picture36.png">
-<img src="../img/en_US/chapter_2/Picture37.png">
 <img src="../img/en_US/chapter_2/Picture38.png">
 <img src="../img/en_US/chapter_2/Picture39.png">
 <img src="../img/en_US/chapter_2/Picture40.png">
