@@ -558,4 +558,114 @@ In this chapter, we have covered a lot of material related to language and langu
 Going forward, we’ll construct an NLP application by making use of artificial neural networks that handle the input of natural language data all the way through to the output of an inference about those data. In such “end-to-end” deep learning models, the initial layers create word vectors that flow seamlessly into deeper, specialized layers of artificial neurons, including layers that incorporate “memory.” These model architectures highlight both the strength and the ease of use of deep learning with word vectors.
 
 
+<img src="../img/en_US/chapter_2/Picture24.png">
 
+<img src="../img/en_US/chapter_2/Picture25.png">
+<img src="../img/en_US/chapter_2/Picture26.png">
+<img src="../img/en_US/chapter_2/Picture27.png">
+<img src="../img/en_US/chapter_2/Picture28.png">
+<img src="../img/en_US/chapter_2/Picture29.png">
+<img src="../img/en_US/chapter_2/Picture30.png">
+<img src="../img/en_US/chapter_2/Picture31.png">
+<img src="../img/en_US/chapter_2/Picture32.png">
+<img src="../img/en_US/chapter_2/Picture33.png">
+<img src="../img/en_US/chapter_2/Picture34.png">
+
+<img src="../img/en_US/chapter_2/Picture35.png">
+<img src="../img/en_US/chapter_2/Picture36.png">
+<img src="../img/en_US/chapter_2/Picture37.png">
+<img src="../img/en_US/chapter_2/Picture38.png">
+<img src="../img/en_US/chapter_2/Picture39.png">
+<img src="../img/en_US/chapter_2/Picture40.png">
+<img src="../img/en_US/chapter_2/Picture41.png">
+<img src="../img/en_US/chapter_2/Picture42.png">
+<img src="../img/en_US/chapter_2/Picture43.png">
+<img src="../img/en_US/chapter_2/Picture44.png">
+
+<img src="../img/en_US/chapter_2/Picture45.png">
+<img src="../img/en_US/chapter_2/Picture46.png">
+<img src="../img/en_US/chapter_2/Picture47.png">
+<img src="../img/en_US/chapter_2/Picture48.png">
+<img src="../img/en_US/chapter_2/Picture49.png">
+<img src="../img/en_US/chapter_2/Picture50.png">
+<img src="../img/en_US/chapter_2/Picture51.png">
+<img src="../img/en_US/chapter_2/Picture52.png">
+<img src="../img/en_US/chapter_2/Picture53.png">
+<img src="../img/en_US/chapter_2/Picture54.png">
+
+<img src="../img/en_US/chapter_2/Picture55.png">
+<img src="../img/en_US/chapter_2/Picture56.png">
+<img src="../img/en_US/chapter_2/Picture57.png">
+<img src="../img/en_US/chapter_2/Picture58.png">
+<img src="../img/en_US/chapter_2/Picture59.png">
+<img src="../img/en_US/chapter_2/Picture60.png">
+<img src="../img/en_US/chapter_2/Picture61.png">
+<img src="../img/en_US/chapter_2/Picture62.png">
+<img src="../img/en_US/chapter_2/Picture63.png">
+<img src="../img/en_US/chapter_2/Picture64.png">
+
+<img src="../img/en_US/chapter_2/Picture65.png">
+<img src="../img/en_US/chapter_2/Picture66.png">
+<img src="../img/en_US/chapter_2/Picture67.png">
+<img src="../img/en_US/chapter_2/Picture68.png">
+<img src="../img/en_US/chapter_2/Picture69.png">
+<img src="../img/en_US/chapter_2/Picture70.png">
+<img src="../img/en_US/chapter_2/Picture71.png">
+<img src="../img/en_US/chapter_2/Picture72.png">
+<img src="../img/en_US/chapter_2/Picture73.png">
+<img src="../img/en_US/chapter_2/Picture74.png">
+
+<img src="../img/en_US/chapter_2/Picture75.png">
+<img src="../img/en_US/chapter_2/Picture76.png">
+<img src="../img/en_US/chapter_2/Picture77.png">
+<img src="../img/en_US/chapter_2/Picture78.png">
+<img src="../img/en_US/chapter_2/Picture79.png">
+<img src="../img/en_US/chapter_2/Picture80.png">
+<img src="../img/en_US/chapter_2/Picture81.png">
+<img src="../img/en_US/chapter_2/Picture82.png">
+<img src="../img/en_US/chapter_2/Picture83.png">
+<img src="../img/en_US/chapter_2/Picture84.png">
+
+<img src="../img/en_US/chapter_2/Picture85.png">
+<img src="../img/en_US/chapter_2/Picture86.png">
+<img src="../img/en_US/chapter_2/Picture87.png">
+<img src="../img/en_US/chapter_2/Picture88.png">
+<img src="../img/en_US/chapter_2/Picture89.png">
+<img src="../img/en_US/chapter_2/Picture90.png">
+<img src="../img/en_US/chapter_2/Picture91.png">
+<img src="../img/en_US/chapter_2/Picture92.png">
+<img src="../img/en_US/chapter_2/Picture93.png">
+<img src="../img/en_US/chapter_2/Picture94.png">
+
+<img src="../img/en_US/chapter_2/Picture95.png">
+<img src="../img/en_US/chapter_2/Picture96.png">
+<img src="../img/en_US/chapter_2/Picture97.png">
+<img src="../img/en_US/chapter_2/Picture98.png">
+<img src="../img/en_US/chapter_2/Picture99.png">
+<img src="../img/en_US/chapter_2/Picture100.png">
+<img src="../img/en_US/chapter_2/Picture101.png">
+<img src="../img/en_US/chapter_2/Picture102.png">
+<img src="../img/en_US/chapter_2/Picture103.png">
+<img src="../img/en_US/chapter_2/Picture104.png">
+
+<img src="../img/en_US/chapter_2/Picture105.png">
+<img src="../img/en_US/chapter_2/Picture106.png">
+<img src="../img/en_US/chapter_2/Picture107.png">
+<img src="../img/en_US/chapter_2/Picture108.png">
+<img src="../img/en_US/chapter_2/Picture109.png">
+<img src="../img/en_US/chapter_2/Picture110.png">
+<img src="../img/en_US/chapter_2/Picture111.png">
+<img src="../img/en_US/chapter_2/Picture112.png">
+<img src="../img/en_US/chapter_2/Picture113.png">
+<img src="../img/en_US/chapter_2/Picture114.png">
+
+<img src="../img/en_US/chapter_2/Picture115.png">
+<img src="../img/en_US/chapter_2/Picture116.png">
+<img src="../img/en_US/chapter_2/Picture117.png">
+<img src="../img/en_US/chapter_2/Picture118.png">
+<img src="../img/en_US/chapter_2/Picture119.png">
+<img src="../img/en_US/chapter_2/Picture120.png">
+<img src="../img/en_US/chapter_2/Picture121.png">
+<img src="../img/en_US/chapter_2/Picture122.png">
+<img src="../img/en_US/chapter_2/Picture123.png">
+<img src="../img/en_US/chapter_2/Picture124.png">
