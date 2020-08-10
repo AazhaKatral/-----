@@ -585,6 +585,8 @@ In this chapter, we have covered a lot of material related to language and langu
 Going forward, we’ll construct an NLP application by making use of artificial neural networks that handle the input of natural language data all the way through to the output of an inference about those data. In such “end-to-end” deep learning models, the initial layers create word vectors that flow seamlessly into deeper, specialized layers of artificial neurons, including layers that incorporate “memory.” These model architectures highlight both the strength and the ease of use of deep learning with word vectors.
 
 
+<br/>
+
 <img src="../img/en_US/chapter_2/Picture29.png">
 <img src="../img/en_US/chapter_2/Picture30.png">
 <img src="../img/en_US/chapter_2/Picture31.png">
