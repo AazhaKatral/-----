@@ -209,15 +209,47 @@ Consider this simple yet tricky example: How do you get a software program to re
 
 This is just a Nader meme; not a reference to coreference resolution! (or is it?)
 
-Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
-  
+Recognizing that those **things** or entities in the world are _people_, as opposed to, say, _locations_, or _companies_, is a whole different activity (called **Named Entity Recognition**).
+
+<br/>
+<table>
+  <tr>
+    <td align="center">NER application</td>
+    <td align="center">NLP</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture30.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture31.png"></td>
+  </tr>
+</table>
+<br/>
 
 So, NLP is that branch of artificial intelligence that deals with the interaction between computers and humans using natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of human languages in a manner that is valuable. As expected, classic NLP techniques rely on Machine Learning. More recently Deep Learning is being employed extensively to derive meaning.
 
-  
+<br/>
+<table>
+  <tr>
+    <td align="center">Deep Learning</td>
+    <td align="center">Deep Learning Architecture</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture32.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture33.png"></td>
+  </tr>
+</table>
+<br/>
 
-What Is Natural Language Understanding (NLU)?
-Natural Language Understanding is a part of Natural Language Processing. Once a body of text has been broken down structurally (syntactically) into digestible bits, it’s possible for a program to find meaning by analyzing it (say, for sentiment). So syntactically, it breaks down text into parts of speech, sentence structure, and morphemes (the smallest understandable part of a word).   NLU then looks for the true meaning behind the words by comparing them to similar examples i.e. semantic analysis.  
+
+# What Is Natural Language Understanding (NLU)?
+
+Natural Language Understanding is a part of Natural Language Processing.  Once a body of text has been broken down structurally (syntactically) into digestible bits, it’s possible for a program to find meaning by analyzing it (say, for sentiment). So syntactically, it breaks down text into parts of speech, sentence structure, and _morphemes_ (the smallest _understandable_ part of a word).   
+
+<img src="../img/en_US/chapter_2/Picture34.png">
+
+NLU then looks for the true meaning behind the words by comparing them to similar examples i.e. semantic analysis.
+
+<img src="../img/en_US/chapter_2/Picture35.png">
+
 Unlike structured data, human language is structurally messy and ambiguous. We are rarely precise or straightforward our communication. Grammar and the meaning of words are highly contextual. 
  
 When you ask your phone something like “What’s I-93 like right now?”, if you were being literal, you might get an answer like, “It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42.” But in reality, you want to know what the traffic conditions are on I-93. That’s where NLU comes in. It takes the slangy, figurative, highly contextual way we talk every day and understanding what we “really” mean by it. 
