@@ -116,7 +116,7 @@ Now, while data mining people need to know math, text mining folks need to know 
 
 pay the bills, and possibly, make the world a better place!  
 
-Let's bring all this together with a SMS ( ) example. 
+Let's bring all this together with a SMS example. 
 <img src="../img/en_US/chapter_2/Picture19.png">
 
 Suppose you have a log file that contains your outgoing phone calls and SMS data in the following format:
@@ -140,11 +140,29 @@ In the log table shown above,
 2.	The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
 3.	The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
 4.	The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
-If the type of data is sms, then the value in this field will be the text message. For e.g., the following figure shows records of call data stored in a text file: 
+
+<br/>
+If the type of data is SMS, then the value in this field will be the text message.  For e.g., the following figure shows records of call data stored in a text file:
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Communication</td>
+    <td align="center">SMS image</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture22.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture23.png"></td>
+  </tr>
+</table>
+<br/>
+
    
  Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
-•	How many New Year greetings were sent by SMS on the 1st January? 
-•	How many people were contacted whose name was not in the contact list? 
+ 
+* How many New Year greetings were sent by SMS on the 1st January? 
+* How many people were contacted whose name was not in the contact list? 
+
 At this point, before we move on to Text Analytics, let’s define the term “Analysis”. Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
 Thus, Analytics in general can be defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information, whether in the form of indicators, tables, or visualizations. 
 Text Analytics is then defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information on text data.  
