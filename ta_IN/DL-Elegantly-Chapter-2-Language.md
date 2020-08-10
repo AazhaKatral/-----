@@ -33,12 +33,13 @@
 <img src="../img/en_US/chapter_2/Picture4.png">
 
 
-டேட்டா மைனிங் செய்வதற்கு கணிதம், 
-Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.
+டேட்டா மைனிங் செய்வதற்கு கணிதம், மற்றும் சாம்பிளிங் எனப்படும் மாதிரி எடுப்பை கணக்கிடக்கூடிய மென்பொருள் பற்றிய அறிவு அவசியமாகிறது.
 
 <img src="../img/en_US/chapter_2/Picture5.png">
 
-With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).
+டேட்டா மைனிங் உடன் தரவுத்தளம் மற்றும் டேபிள்கள், மீத்தரவு எனப்படும் தரவைப்பற்றிய தரவுகள்(meta-data) இருக்கும். கட்டமைக்கப்பட்ட தரவு("structured data") களில் இவை அனைத்தும் இருக்கும்.
+
+
 
 <img src="../img/en_US/chapter_2/Picture6.png">
 
