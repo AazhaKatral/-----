@@ -280,10 +280,15 @@ NLG presents a great business opportunity to industry.  Using NLP, NLG, and mach
 <img src="../img/en_US/chapter_2/Picture40.png">
 
 NLG can also be used to create data-based content at scale. If you produce templated content regularly, say for example, a story based on the Labor Department’s jobs report, you can use NLP to analyze the data, NLU to comprehend the content and NLG to write a basic narrative based on the numbers.
- So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI problem. 
- 
 
-What Is the Difference Between NLP, NLU, and NLG?
+<img src="../img/en_US/chapter_2/Picture41.png">
+
+So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI problem. 
+
+<img src="../img/en_US/chapter_2/Picture42.png">
+
+# What Is the Difference Between NLP, NLU, and NLG?
+
 NLP, NLU, and NLG all play a part in teaching machines to think more like humans. They simply tackle different parts of the conversational AI problem. How do you get machines to recognize, understand, and generate natural language? How do you use it to answer search queries and create content at scale?
   
 
@@ -639,8 +644,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 <br/>
 
-<img src="../img/en_US/chapter_2/Picture41.png">
-<img src="../img/en_US/chapter_2/Picture42.png">
 <img src="../img/en_US/chapter_2/Picture43.png">
 <img src="../img/en_US/chapter_2/Picture44.png">
 
