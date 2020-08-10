@@ -1,6 +1,6 @@
-**மொழி**
+# மொழி
 
-பல பொருள் குறித்த சொல்லை ஒரு தொடரில் பயன்படுத்தும் பொழுது குழப்பங்கள் ஏற்படுவது உண்டு.  Natural Language Processing (NLP) எனப்படும் இயற்கை மொழி கணினியியல் துறையிலும் ஆழக்கற்றல் துறையிலும் இதனால் அதிக குழப்பம் ஏற்படுகிறது.
+பல பொருள் குறித்த சொல்லை ஒரு தொடரில் பயன்படுத்தும் பொழுது குழப்பங்கள் ஏற்படுவது உண்டு.  **Natural Language Processing (NLP)** எனப்படும் **இயற்கை மொழி கணினியியல்** துறையிலும் **ஆழக்கற்றல்** துறையிலும் இதனால் அதிக குழப்பம் ஏற்படுகிறது.
 
 <img src="../img/en_US/chapter_2/01_confused_panda.jpg">
 
@@ -9,85 +9,206 @@
 குழப்பத்தைக் குறைக்க, என்.எல்.பி மற்றும் ஆழக் கற்றலில் நாம் மிகவும் ஆழமாகச் செல்வதற்கு முன் சில கருத்துக்களை தெளிவுபடுத்த சில அடிப்படை கேள்விகளுக்கு பதிலளிப்போம்.
 நீங்கள் கேட்க தயங்கியிருக்கக்கூடிய கேள்விகளை தெளிவுபடுத்துதல்!
 
-Data Mining(தரவு சுரங்கம்) என்றால் என்ன? 
-<br>Data Analytics(தரவு பகுப்பாய்வு) இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
+<img src="../img/en_US/chapter_2/Picture2.png">
+
+## Data Mining (தரவு சுரங்கம்) என்றால் என்ன?  Data Analytics (தரவு பகுப்பாய்வு) இல் இருந்து இது எவ்வாறு வேறுபடுகிறது?
 
 தரவு சுரங்கம் என்பது தரவுத்தளங்களில் சேமிக்கப்பட்ட தரவுகளில் பயன்படுத்தப்படும் கணித மற்றும் கணக்கீட்டு நுட்பங்களின் தொகுப்பாகும். உதாரணமாக நடுத்தர வயதுக்கு உட்ப்பட்ட இருபத்து வருட பணி அனுபவம் உள்ளவர், கிரிக்கெட் சந்தா மாதா மாதம் செலுத்துபவர்கள் தேர்தலின் போது சுயேச்சை வேள்பாளர்களுக்கு வாக்களிக்கும் வாய்பு அதிகம் என்று எடுத்துக்கொள்வோம். 
 
-தரவுச்சுரங்கத்தில் "structured" தரவுகள் இருப்பதாக எடுத்துக்கொள்ளுங்கள். மேலே குறிப்பிட்ட கிரிக்கெட் சந்தா கட்டுபவர்கள் தரவுகள் எவ்வாறு சேமிக்கப்பட்டுள்ளது என்பதைப் பார்ப்போம்.
+<img src="../img/en_US/chapter_2/Picture3.png">
 
-ஒரு டேபிளில் கீழுள்ள காலம்கள் இருக்கலாம்.
-o       யார் வேலை செய்கிறார்
-o       எவ்வளவு காலம் வேலை செய்தார்கள்
-o       பாலினம்
-o	
+தரவுச்சுரங்கத்தில் **structured** தரவுகள் இருப்பதாக எடுத்துக்கொள்ளுங்கள். மேலே குறிப்பிட்ட கிரிக்கெட் சந்தா கட்டுபவர்கள் தரவுகள் எவ்வாறு சேமிக்கப்பட்டுள்ளது என்பதைப் பார்ப்போம்.
 
-மற்றொரு டேபிளில் யார் யார் கிரிக்கெட் அலைவரிசைக்கு சந்தா செலுத்துகிறார்கள் ?
-மூன்றாவது டேபிளில் தோராயமாக தேர்வுசெய்யப்பட்ட  உறுப்பினர்கள் சர்வேயரிடம்  உள்ளூர் தேர்தலில் பழமைவாத வேட்பாளருக்கு வாக்களிப்பதை கருத்தில் கொள்ள மாட்டார்கள் என்று கூறினர் என்ற விவரம் இருக்கும்.
+* ஒரு டேபிளில் கீழுள்ள காலம்கள் இருக்கலாம்.
+  * யார் வேலை செய்கிறார்
+  * எவ்வளவு காலம் வேலை செய்தார்கள்
+  * பாலினம்
+  * their salary ranges
+ * மற்றொரு டேபிளில் யார் யார் கிரிக்கெட் அலைவரிசைக்கு சந்தா செலுத்துகிறார்கள்?
+ * மூன்றாவது டேபிளில் தோராயமாக தேர்வுசெய்யப்பட்ட  உறுப்பினர்கள் சர்வேயரிடம்  உள்ளூர் தேர்தலில் பழமைவாத வேட்பாளருக்கு வாக்களிப்பதை கருத்தில் கொள்ள மாட்டார்கள் என்று கூறினர் என்ற விவரம் இருக்கும்.
  
  
 டேட்டா மைனிங் என்புது தரவுச் சுரங்கத்தில்  தொடர்புடைய மற்றும் தொடர்பற்ற தரவுகளை கண்டறியும் அறிவியல் எனலாம். கிரிக்கெட் சானலுக்கு சந்தா செலுத்துபவர் பழைமை வாதக் கட்சிக்கு வாக்களிப்பார் என்பது தொடர்புடைய தகவல். உதாரணம் ஹார்லி பைக்கை ஒருவர் வாங்குவாரே ஆனால் அந்த குபிப்பிட்ட மாறியைக்கொண்டு அவர் யாருக்கு வாக்களிப்பார் என்று கணிக்க முடியாது.
 
+<img src="../img/en_US/chapter_2/Picture4.png">
+
+
 டேட்டா மைனிங் செய்வதற்கு கணிதம், 
-Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.   
-With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).  
+Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.
+
+<img src="../img/en_US/chapter_2/Picture5.png">
+
+With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).
+
+<img src="../img/en_US/chapter_2/Picture6.png">
+
 
 So, while Data Mining is a set of tools and techniques used to make data better for use, Data Analytics typically helps in developing and working on models for taking business decisions. Which is why data mining is focused more on computational, mathematical and scientific concepts while data analytics uses extensive business insight and expert knowledge to assist data driven business decision making.
- 
-A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of “seeing things in context” in all information we encounter. 
+
+<img src="../img/en_US/chapter_2/Picture7.png">
+
+A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of **seeing things in context** in all information we encounter. 
+    
+<br/>
+<table>
+  <tr>
+    <td align="center">What is Edward Tufte?</td>
+    <td align="center">Envisioning Information</td>
+    <td align="center">Data Visualization specialists</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture8.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture9.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture10.png"></td>
+  </tr>
+</table>
+<br/>
     
  
-So, how is Data Mining different from Data Science?
+# So, how is Data Mining different from Data Science?
+
 We have now established that Data Mining is about finding patterns in a data set (historical data) using a set of mathematical or statistical techniques and using these patterns to assist knowledge discovery. 
 
 Data Science is much broader in scope. It is an entire field of study which includes Big Data, Data Analytics, Data Mining, Predictive Modeling, Data Visualization, Mathematics, Statistics and AI. Data Science is now considered a paradigm shift in the way we do Science itself. 
 
-   
-
+<br/>
+<table>
+  <tr>
+    <td align="center">Change is upon us</td>
+    <td align="center">Data Science</td>
+    <td align="center">Buzzword</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture11.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture12.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture13.png"></td>
+  </tr>
+</table>
+<br/>
 
 Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
-
  
+ <img src="../img/en_US/chapter_2/Picture14.png">
 
-What is Text Mining and how is it different from Text Analytics and Data Mining?
-In data mining, you typically have databases, and know what everything is.  In “text mining,” or “text data mining,” as some people call it (boo!), you have texts, and you don’t know what anything is ( you = computer program). 
-This is usually talked about as a difference between “structured” data (i.e., the database)–you know what everything “is”–what it “means”–in some sense, its semantics and “unstructured” data: that’s typically how we would describe text.   
+
+# What is Text Mining?  How is it different from Text Analytics and Data Mining?
+
+In data mining, you typically have databases, and know what everything is.  In **text mining**, or **text data mining**, as some people call it (boo!), you have texts, and you don’t know what anything is (you = computer program).
+
+This is usually talked about as a difference between **structured** data (i.e., the database)–you know what everything **is**–what it **means**–in some sense, its semantics and **unstructured** data: that’s typically how we would describe text.
+
+ <img src="../img/en_US/chapter_2/Picture15.png">
+
 With text, you don’t know what anything means i.e. you don’t know its semantics. To put it another way, there is nothing in the data itself that tells you what each word means or is about. There is very little or no meta-data. Thus, Text Mining could be thought of as turning unstructured data into structured data.   
-If you’ve got a bunch of text and you want to structure it to populate an Oracle database?  Well, Text Mining could be the answer. Maybe you have 23 bejillion (made up number!) journal articles in the National Library of Medicine, and you want to find every statement that those 23 bejillion articles make about which genes are affected by which drugs; Again, Text Mining can come to your rescue! Or, maybe you have a huge collection of folk tales, and you want (the computer) to find every time that a stepmother is mentioned and whether the portrayal of the stepmother is positive or negative. Text Mining save me!
-You can see that all these scenarios are actually, examples of transforming unstructured data into structured data–you’re taking that unstructured data and using it to build a database about drugs and proteins, or a database about stepmothers.  So, you can see the term “text mining” is more appropriate than “text data mining” as “data mining” is about structured data and it does not make much sense to talk about “data mining” with respect to language.  In fact, Text mining most times, feeds data mining algorithms.  
-Now, while data mining people need to know math, text mining folks need to know math and something about what and the language in which people write about an area of interest (say, neuroscience or cricket).  They don’t need to be linguistics professionals, but they need to know enough about the language in general to write programs that answer practical questions, deliver value, pay the bills, and possibly, make the world a better place!  
 
-Let's bring all this together with a SMS ( ) example. Suppose you have a log file that contains your outgoing phone calls and SMS data in the following format:
+ <img src="../img/en_US/chapter_2/Picture16.png">
+
+If you’ve got a bunch of text and you want to structure it to populate an Oracle database?  Well, Text Mining could be the answer. Maybe you have 23 bejillion (made up number!) journal articles in the National Library of Medicine, and you want to find every statement that those 23 bejillion articles make about which genes are affected by which drugs; Again, Text Mining can come to your rescue! Or, maybe you have a huge collection of folk tales, and you want (the computer) to find every time that a stepmother is mentioned and whether the portrayal of the stepmother is positive or negative. Text Mining save me!
+<br/>
+
+You can see that all these scenarios are actually, examples of transforming unstructured data into structured data–you’re taking that unstructured data and using it to build a database about drugs and proteins, or a database about stepmothers.  So, you can see the term **text mining** is more appropriate than **text data mining** as **data mining** is about structured data and it does not make much sense to talk about **data mining** with respect to language.  In fact, Text mining most times, feeds data mining algorithms.
+
+ <img src="../img/en_US/chapter_2/Picture17.png">
+
+Now, while data mining people need to know math, text mining folks need to know math and something about what and the language in which people write about an area of interest (say, neuroscience or cricket).  They don’t need to be linguistics professionals, but they need to know enough about the language in general to write programs that answer practical questions, deliver value, 
+
+ <img src="../img/en_US/chapter_2/Picture18.png">
+
+pay the bills, and possibly, make the world a better place!  
+
+Let's bring all this together with a SMS example. 
+<img src="../img/en_US/chapter_2/Picture19.png">
+
+Suppose you have a log file that contains your outgoing phone calls and SMS data in the following format:
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Logs</td>
+    <td align="center">Table Definition</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture20.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture21.png"></td>
+  </tr>
+</table>
+<br/>
+
    
 In the log table shown above, 
 1.	The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
 2.	The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
 3.	The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
 4.	The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
-If the type of data is sms, then the value in this field will be the text message. For e.g., the following figure shows records of call data stored in a text file: 
+
+<br/>
+If the type of data is SMS, then the value in this field will be the text message.  For e.g., the following figure shows records of call data stored in a text file:
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Communication</td>
+    <td align="center">SMS image</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture22.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture23.png"></td>
+  </tr>
+</table>
+<br/>
+
    
  Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
-•	How many New Year greetings were sent by SMS on the 1st January? 
-•	How many people were contacted whose name was not in the contact list? 
-At this point, before we move on to Text Analytics, let’s define the term “Analysis”. Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
+ 
+* How many New Year greetings were sent by SMS on the 1st January? 
+* How many people were contacted whose name was not in the contact list? 
+
+At this point, before we move on to Text Analytics, let’s define the term **Analysis**.  Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  
+
+<img src="../img/en_US/chapter_2/Picture24.png">
+
+Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
 Thus, Analytics in general can be defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information, whether in the form of indicators, tables, or visualizations. 
 Text Analytics is then defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information on text data.  
 
-In popular usage, the terms “text analytics” and “text mining” are used interchangeably. They both refer to the same set of methods, software tools, and applications. Distinctions in usage stems primarily from the background of the person using each — “text mining” seems most used by data miners, and “text analytics” by individuals and organizations in domains where the road to insight is paved by business intelligence tools and methods — so that the difference is largely a matter of “dialect”. 
+<img src="../img/en_US/chapter_2/Picture25.png">
 
-What is Natural Language Processing and how is it different from Text Analytics or Text Mining?
-It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).  
+In popular usage, the terms **text analytics** and **text mining** are used interchangeably. They both refer to the same set of methods, software tools, and applications. Distinctions in usage stems primarily from the background of the person using each — **text mining** seems most used by data miners, and **text analytics** by individuals and organizations in domains where the road to insight is paved by business intelligence tools and methods — so that the difference is largely a matter of **dialect**. 
+
+
+# What is Natural Language Processing?  How is it different from Text Analytics or Text Mining?
+
+It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).
+
+<img src="../img/en_US/chapter_2/Picture26.png">
+
 NLP on the other hand deals with language too but is all about semantics, is robust, adaptable and is not restricted to text data. Voice (speech) recognition and analysis also come under the domain of NLP.
-Natural language means human language (as opposed to computer languages).  Natural language processing is all about building tools to handle specific linguistic tasks–parse a sentence, figure out parts of speech, stuff like that.  You might use a combination of different language processing programs to do a text mining task.  The questions are less about some set of facts. They are about the language itself!   
+Natural language means human language (as opposed to computer languages).  Natural language processing is all about building tools to handle specific linguistic tasks–parse a sentence, figure out parts of speech, stuff like that.  You might use a combination of different language processing programs to do a text mining task.  The questions are less about some set of facts. They are about the language itself!
 
-While the data mining person needs to know math, the text mining person needs to know math and how people write about genes and drugs, or stepmothers, or whatever the topic of interest is. 
+<img src="../img/en_US/chapter_2/Picture27.png">
+
+While the data mining person needs to know math, the text mining person needs to know math and how people write about genes and drugs, or stepmothers, or whatever the topic of interest is.
+
+<br/>
 The natural language processing person needs to know something about language–what kinds of structures sentences can have, how word frequencies are distributed, how to build linguistic resources for letting a computer, process things that can’t be directly observed (viz. semantics).  
-Consider this simple yet tricky example: How do you get a software program to recognize that Mr. Rangarajan, K. Rangarajan and Keshava Rangarajan are all referring to the one thing in the real world, whereas Mrs. Rangarajan and Kei Rangarajan are referring to something else in the real world even though all of them have Rangarajan in them? Aside: this is called coreference resolution. This figure illustrates the example:
+Consider this simple yet tricky example: How do you get a software program to recognize that Mr. Rangarajan, K. Rangarajan and Keshava Rangarajan are all referring to the one thing in the real world, whereas Mrs. Rangarajan and Kei Rangarajan are referring to something else in the real world even though all of them have Rangarajan in them?  Aside: this is called coreference resolution. This figure illustrates the example:
   
+<br/>
+<table>
+  <tr>
+    <td align="center">Nader text</td>
+    <td align="center">Nader meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture28.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture29.png"></td>
+  </tr>
+</table>
+<br/>
 
 This is just a Nader meme; not a reference to coreference resolution! (or is it?)
 
- Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
+Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
   
 
 So, NLP is that branch of artificial intelligence that deals with the interaction between computers and humans using natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of human languages in a manner that is valuable. As expected, classic NLP techniques rely on Machine Learning. More recently Deep Learning is being employed extensively to derive meaning.
@@ -464,4 +585,108 @@ In this chapter, we have covered a lot of material related to language and langu
 Going forward, we’ll construct an NLP application by making use of artificial neural networks that handle the input of natural language data all the way through to the output of an inference about those data. In such “end-to-end” deep learning models, the initial layers create word vectors that flow seamlessly into deeper, specialized layers of artificial neurons, including layers that incorporate “memory.” These model architectures highlight both the strength and the ease of use of deep learning with word vectors.
 
 
+<img src="../img/en_US/chapter_2/Picture29.png">
+<img src="../img/en_US/chapter_2/Picture30.png">
+<img src="../img/en_US/chapter_2/Picture31.png">
+<img src="../img/en_US/chapter_2/Picture32.png">
+<img src="../img/en_US/chapter_2/Picture33.png">
+<img src="../img/en_US/chapter_2/Picture34.png">
 
+<img src="../img/en_US/chapter_2/Picture35.png">
+<img src="../img/en_US/chapter_2/Picture36.png">
+<img src="../img/en_US/chapter_2/Picture37.png">
+<img src="../img/en_US/chapter_2/Picture38.png">
+<img src="../img/en_US/chapter_2/Picture39.png">
+<img src="../img/en_US/chapter_2/Picture40.png">
+<img src="../img/en_US/chapter_2/Picture41.png">
+<img src="../img/en_US/chapter_2/Picture42.png">
+<img src="../img/en_US/chapter_2/Picture43.png">
+<img src="../img/en_US/chapter_2/Picture44.png">
+
+<img src="../img/en_US/chapter_2/Picture45.png">
+<img src="../img/en_US/chapter_2/Picture46.png">
+<img src="../img/en_US/chapter_2/Picture47.png">
+<img src="../img/en_US/chapter_2/Picture48.png">
+<img src="../img/en_US/chapter_2/Picture49.png">
+<img src="../img/en_US/chapter_2/Picture50.png">
+<img src="../img/en_US/chapter_2/Picture51.png">
+<img src="../img/en_US/chapter_2/Picture52.png">
+<img src="../img/en_US/chapter_2/Picture53.png">
+<img src="../img/en_US/chapter_2/Picture54.png">
+
+<img src="../img/en_US/chapter_2/Picture55.png">
+<img src="../img/en_US/chapter_2/Picture56.png">
+<img src="../img/en_US/chapter_2/Picture57.png">
+<img src="../img/en_US/chapter_2/Picture58.png">
+<img src="../img/en_US/chapter_2/Picture59.png">
+<img src="../img/en_US/chapter_2/Picture60.png">
+<img src="../img/en_US/chapter_2/Picture61.png">
+<img src="../img/en_US/chapter_2/Picture62.png">
+<img src="../img/en_US/chapter_2/Picture63.png">
+<img src="../img/en_US/chapter_2/Picture64.png">
+
+<img src="../img/en_US/chapter_2/Picture65.png">
+<img src="../img/en_US/chapter_2/Picture66.png">
+<img src="../img/en_US/chapter_2/Picture67.png">
+<img src="../img/en_US/chapter_2/Picture68.png">
+<img src="../img/en_US/chapter_2/Picture69.png">
+<img src="../img/en_US/chapter_2/Picture70.png">
+<img src="../img/en_US/chapter_2/Picture71.png">
+<img src="../img/en_US/chapter_2/Picture72.png">
+<img src="../img/en_US/chapter_2/Picture73.png">
+<img src="../img/en_US/chapter_2/Picture74.png">
+
+<img src="../img/en_US/chapter_2/Picture75.png">
+<img src="../img/en_US/chapter_2/Picture76.png">
+<img src="../img/en_US/chapter_2/Picture77.png">
+<img src="../img/en_US/chapter_2/Picture78.png">
+<img src="../img/en_US/chapter_2/Picture79.png">
+<img src="../img/en_US/chapter_2/Picture80.png">
+<img src="../img/en_US/chapter_2/Picture81.png">
+<img src="../img/en_US/chapter_2/Picture82.png">
+<img src="../img/en_US/chapter_2/Picture83.png">
+<img src="../img/en_US/chapter_2/Picture84.png">
+
+<img src="../img/en_US/chapter_2/Picture85.png">
+<img src="../img/en_US/chapter_2/Picture86.png">
+<img src="../img/en_US/chapter_2/Picture87.png">
+<img src="../img/en_US/chapter_2/Picture88.png">
+<img src="../img/en_US/chapter_2/Picture89.png">
+<img src="../img/en_US/chapter_2/Picture90.png">
+<img src="../img/en_US/chapter_2/Picture91.png">
+<img src="../img/en_US/chapter_2/Picture92.png">
+<img src="../img/en_US/chapter_2/Picture93.png">
+<img src="../img/en_US/chapter_2/Picture94.png">
+
+<img src="../img/en_US/chapter_2/Picture95.png">
+<img src="../img/en_US/chapter_2/Picture96.png">
+<img src="../img/en_US/chapter_2/Picture97.png">
+<img src="../img/en_US/chapter_2/Picture98.png">
+<img src="../img/en_US/chapter_2/Picture99.png">
+<img src="../img/en_US/chapter_2/Picture100.png">
+<img src="../img/en_US/chapter_2/Picture101.png">
+<img src="../img/en_US/chapter_2/Picture102.png">
+<img src="../img/en_US/chapter_2/Picture103.png">
+<img src="../img/en_US/chapter_2/Picture104.png">
+
+<img src="../img/en_US/chapter_2/Picture105.png">
+<img src="../img/en_US/chapter_2/Picture106.png">
+<img src="../img/en_US/chapter_2/Picture107.png">
+<img src="../img/en_US/chapter_2/Picture108.png">
+<img src="../img/en_US/chapter_2/Picture109.png">
+<img src="../img/en_US/chapter_2/Picture110.png">
+<img src="../img/en_US/chapter_2/Picture111.png">
+<img src="../img/en_US/chapter_2/Picture112.png">
+<img src="../img/en_US/chapter_2/Picture113.png">
+<img src="../img/en_US/chapter_2/Picture114.png">
+
+<img src="../img/en_US/chapter_2/Picture115.png">
+<img src="../img/en_US/chapter_2/Picture116.png">
+<img src="../img/en_US/chapter_2/Picture117.png">
+<img src="../img/en_US/chapter_2/Picture118.png">
+<img src="../img/en_US/chapter_2/Picture119.png">
+<img src="../img/en_US/chapter_2/Picture120.png">
+<img src="../img/en_US/chapter_2/Picture121.png">
+<img src="../img/en_US/chapter_2/Picture122.png">
+<img src="../img/en_US/chapter_2/Picture123.png">
+<img src="../img/en_US/chapter_2/Picture124.png">
