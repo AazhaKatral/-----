@@ -163,25 +163,52 @@ If the type of data is SMS, then the value in this field will be the text messag
 * How many New Year greetings were sent by SMS on the 1st January? 
 * How many people were contacted whose name was not in the contact list? 
 
-At this point, before we move on to Text Analytics, let’s define the term “Analysis”. Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
+At this point, before we move on to Text Analytics, let’s define the term **Analysis**.  Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  
+
+<img src="../img/en_US/chapter_2/Picture24.png">
+
+Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
 Thus, Analytics in general can be defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information, whether in the form of indicators, tables, or visualizations. 
 Text Analytics is then defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information on text data.  
 
-In popular usage, the terms “text analytics” and “text mining” are used interchangeably. They both refer to the same set of methods, software tools, and applications. Distinctions in usage stems primarily from the background of the person using each — “text mining” seems most used by data miners, and “text analytics” by individuals and organizations in domains where the road to insight is paved by business intelligence tools and methods — so that the difference is largely a matter of “dialect”. 
+<img src="../img/en_US/chapter_2/Picture25.png">
 
-What is Natural Language Processing and how is it different from Text Analytics or Text Mining?
-It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).  
+In popular usage, the terms **text analytics** and **text mining** are used interchangeably. They both refer to the same set of methods, software tools, and applications. Distinctions in usage stems primarily from the background of the person using each — **text mining** seems most used by data miners, and **text analytics** by individuals and organizations in domains where the road to insight is paved by business intelligence tools and methods — so that the difference is largely a matter of **dialect**. 
+
+
+# What is Natural Language Processing?  How is it different from Text Analytics or Text Mining?
+
+It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).
+
+<img src="../img/en_US/chapter_2/Picture26.png">
+
 NLP on the other hand deals with language too but is all about semantics, is robust, adaptable and is not restricted to text data. Voice (speech) recognition and analysis also come under the domain of NLP.
-Natural language means human language (as opposed to computer languages).  Natural language processing is all about building tools to handle specific linguistic tasks–parse a sentence, figure out parts of speech, stuff like that.  You might use a combination of different language processing programs to do a text mining task.  The questions are less about some set of facts. They are about the language itself!   
+Natural language means human language (as opposed to computer languages).  Natural language processing is all about building tools to handle specific linguistic tasks–parse a sentence, figure out parts of speech, stuff like that.  You might use a combination of different language processing programs to do a text mining task.  The questions are less about some set of facts. They are about the language itself!
 
-While the data mining person needs to know math, the text mining person needs to know math and how people write about genes and drugs, or stepmothers, or whatever the topic of interest is. 
+<img src="../img/en_US/chapter_2/Picture27.png">
+
+While the data mining person needs to know math, the text mining person needs to know math and how people write about genes and drugs, or stepmothers, or whatever the topic of interest is.
+
+<br/>
 The natural language processing person needs to know something about language–what kinds of structures sentences can have, how word frequencies are distributed, how to build linguistic resources for letting a computer, process things that can’t be directly observed (viz. semantics).  
-Consider this simple yet tricky example: How do you get a software program to recognize that Mr. Rangarajan, K. Rangarajan and Keshava Rangarajan are all referring to the one thing in the real world, whereas Mrs. Rangarajan and Kei Rangarajan are referring to something else in the real world even though all of them have Rangarajan in them? Aside: this is called coreference resolution. This figure illustrates the example:
+Consider this simple yet tricky example: How do you get a software program to recognize that Mr. Rangarajan, K. Rangarajan and Keshava Rangarajan are all referring to the one thing in the real world, whereas Mrs. Rangarajan and Kei Rangarajan are referring to something else in the real world even though all of them have Rangarajan in them?  Aside: this is called coreference resolution. This figure illustrates the example:
   
+<br/>
+<table>
+  <tr>
+    <td align="center">Nader text</td>
+    <td align="center">Nader meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture28.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture29.png"></td>
+  </tr>
+</table>
+<br/>
 
 This is just a Nader meme; not a reference to coreference resolution! (or is it?)
 
- Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
+Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
   
 
 So, NLP is that branch of artificial intelligence that deals with the interaction between computers and humans using natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of human languages in a manner that is valuable. As expected, classic NLP techniques rely on Machine Learning. More recently Deep Learning is being employed extensively to derive meaning.
@@ -558,12 +585,6 @@ In this chapter, we have covered a lot of material related to language and langu
 Going forward, we’ll construct an NLP application by making use of artificial neural networks that handle the input of natural language data all the way through to the output of an inference about those data. In such “end-to-end” deep learning models, the initial layers create word vectors that flow seamlessly into deeper, specialized layers of artificial neurons, including layers that incorporate “memory.” These model architectures highlight both the strength and the ease of use of deep learning with word vectors.
 
 
-<img src="../img/en_US/chapter_2/Picture24.png">
-
-<img src="../img/en_US/chapter_2/Picture25.png">
-<img src="../img/en_US/chapter_2/Picture26.png">
-<img src="../img/en_US/chapter_2/Picture27.png">
-<img src="../img/en_US/chapter_2/Picture28.png">
 <img src="../img/en_US/chapter_2/Picture29.png">
 <img src="../img/en_US/chapter_2/Picture30.png">
 <img src="../img/en_US/chapter_2/Picture31.png">
