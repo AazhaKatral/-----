@@ -253,7 +253,7 @@ Unlike structured data, human language is structurally messy and ambiguous. We a
 
 <img src="../img/en_US/chapter_2/Picture36.png">
 
-When you ask your phone something like **What’s I-93 like right now?**, if you were being literal, you might get an answer like, **It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42**.  But in reality, you want to know what the traffic conditions are on I-93.  That’s where NLU comes in.  It takes the slangy, figurative, highly contextual way we talk every day and understanding what we **really** mean by it. 
+When you ask your phone something like _What’s I-93 like right now?_, if you were being literal, you might get an answer like, _It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42_.  But in reality, you want to know what the traffic conditions are on I-93.  That’s where NLU comes in.  It takes the slangy, figurative, highly contextual way we talk every day and understanding what we _really_ mean by it. 
    
 <br/>
 <table>
@@ -270,11 +270,16 @@ When you ask your phone something like **What’s I-93 like right now?**, if you
 
 # What is Natural Language Generation (NLG)?
 
-Now, once a chatbot, a smart device, or search engine understands the language it’s “hearing,” it has to talk back in a way that you, in turn, will understand. That’s where NLG comes in. NLG takes results from, say, a search result, and turns it into understandable language. 
-So, whenever you ask your smart device, “What’s it like on I-93 right now?” it can answer almost exactly as another human would. It may say something like, “There is an accident at exit 36 that has created a 15-minute delay,” or “The road is clear.” NLG is used in chatbot technology. In fact, chatbots have become so advanced that you may not even know you’re talking to a machine. 
+Now, once a chatbot, a smart device, or search engine _understands_ the language it’s _hearing_, it has to talk back in a way that you, in turn, will understand. That’s where NLG comes in. NLG takes results from, say, a search result, and turns it into understandable language. 
+So, whenever you ask your smart device, _What’s it like on I-93 right now?_ it can answer almost exactly as another human would. It may say something like, _There is an accident at exit 36 that has created a 15-minute delay_, or _The road is clear_.  NLG is used in chatbot technology.  In fact, chatbots have become so advanced that you may not even know you’re talking to a machine.
+
+<img src="../img/en_US/chapter_2/Picture39.png">
  
-NLG presents a great business opportunity to industry. Using NLP, NLG, and machine learning in chatbots frees up resources and allows companies to offer 24/7 customer service without having to staff a large department. 
-  NLG can also be used to create data-based content at scale. If you produce templated content regularly, say for example, a story based on the Labor Department’s jobs report, you can use NLP to analyze the data, NLU to comprehend the content and NLG to write a basic narrative based on the numbers.
+NLG presents a great business opportunity to industry.  Using NLP, NLG, and machine learning in chatbots frees up resources and allows companies to offer 24/7 customer service without having to staff a large department.
+
+<img src="../img/en_US/chapter_2/Picture40.png">
+
+NLG can also be used to create data-based content at scale. If you produce templated content regularly, say for example, a story based on the Labor Department’s jobs report, you can use NLP to analyze the data, NLU to comprehend the content and NLG to write a basic narrative based on the numbers.
  So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI problem. 
  
 
@@ -634,9 +639,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 <br/>
 
-<img src="../img/en_US/chapter_2/Picture38.png">
-<img src="../img/en_US/chapter_2/Picture39.png">
-<img src="../img/en_US/chapter_2/Picture40.png">
 <img src="../img/en_US/chapter_2/Picture41.png">
 <img src="../img/en_US/chapter_2/Picture42.png">
 <img src="../img/en_US/chapter_2/Picture43.png">
