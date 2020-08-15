@@ -67,13 +67,11 @@
 <br/>
     
  
-# So, how is Data Mining different from Data Science?
 # தரவு செயலாக்கம் எவ்வாறு தரவு அறிவியலில் இருந்து வேறுபடுகிறது?
 
+தரவு செயலாக்கம் என்பது கணித அல்லது புள்ளிவிவர நுட்பங்களின் தொகுப்பைப் பயன்படுத்தி குறிப்பிட்ட தரவுத் தொகுப்பில் (வரலாற்றுத் தரவு) ஒத்த மாதிரிகளைலக கண்டுபிடிப்பதும், அந்த மாதிர்களைக்கொண்டு , முடிவுகளை நிறுவுவதும் ஆகும்.
 
-We have now established that Data Mining is about finding patterns in a data set (historical data) using a set of mathematical or statistical techniques and using these patterns to assist knowledge discovery. 
-
-Data Science is much broader in scope. It is an entire field of study which includes Big Data, Data Analytics, Data Mining, Predictive Modeling, Data Visualization, Mathematics, Statistics and AI. Data Science is now considered a paradigm shift in the way we do Science itself. 
+தரவு அறிவியல் என்பது ஒரு துறை. அதன் நேக்கம் மிகவும் பர்ந்து பட்டது.  மிகப்பெரிய தரவுகள், தரவு பகுப்பாய்வு, தரவு செயலாக்கம், கணிக்கப்ப்பட்ட மாதிரிகள், தரவுகளை காட்சிப்படுத்தல், கணிதம், புள்ள்ளியியல் மற்றும் செயற்கை நுண்ணறிவு என அத்தனை துறையும் இதில் அடங்க்கும்.
 
 <br/>
 <table>
