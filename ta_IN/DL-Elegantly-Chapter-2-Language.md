@@ -49,7 +49,7 @@
 <img src="../img/en_US/chapter_2/Picture7.png">
 
 தரவு செயலாக்கதில் பெரிய அளவில் காட்சிப்படுத்தல் இருக்காது. ஆனால், தரவு பகுப்பாய்வில் நிறைய வரைபடங்கள் இருக்கும்.  கிடைக்கப்பெற்ற தகவலை வரைபடமாக்கி பார்க்கும் கலை, அறிவியல் துறையி 
-எட்வர்ட் டஃப்டே என்பவர் முன்னோடியாக விளங்கினார். அவர் தான் **சூழலில் விஷயங்களைப் பார்ப்பது** என்பதை அறிமுகப்படுத்தினார்.
+எட்வர்ட் டஃப்டே என்பவர் முன்னோடியாக விளங்கினார். அவர் தான் **சூழலுக்கு தகுந்த விஷயங்களைப் உற்றுநோக்குவது** என்பதை அறிமுகப்படுத்தினார்.
 
 <br/>
 <table>
@@ -68,6 +68,8 @@
     
  
 # So, how is Data Mining different from Data Science?
+# தரவு செயலாக்கம் எவ்வாறு தரவு அறிவியலில் இருந்து வேறுபடுகிறது?
+
 
 We have now established that Data Mining is about finding patterns in a data set (historical data) using a set of mathematical or statistical techniques and using these patterns to assist knowledge discovery. 
 
