@@ -291,6 +291,19 @@ So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI 
 # What Is the Difference Between NLP, NLU, and NLG?
 
 NLP, NLU, and NLG all play a part in teaching machines to think more like humans. They simply tackle different parts of the conversational AI problem. How do you get machines to recognize, understand, and generate natural language? How do you use it to answer search queries and create content at scale?
+
+<br/>
+<table>
+  <tr>
+    <td align="center">NLP</td>
+    <td align="center">NLU vs NLP vs ASR</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture43.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture44.png"></td>
+  </tr>
+</table>
+<br/>
   
 
 Let’s take a specific example to illustrate just how these functions work together. You get home from work wonder about the stock market. 
