@@ -87,9 +87,8 @@
   </tr>
 </table>
 <br/>
-
-தரவு அறிவியல் என்பது 
-Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
+கோட்பாட்டியலான, அனுபவத்தால் அறியப்படுகிற, கணக்க்கீட்டுக்கு உட்பட்ட அறிவியனின் நான்காவது முன்னுதாரணமாக திகழ்வது தரவு அறிவியல். கல்வி மற்றும் தொழில் உலகத்தில் தரவு அறிவியல் என்பது விரிவான 
+நீண்ட நெடிய ஆராய்ச்சி மற்றும் வளர்சியாகும்.  கீழே உள்ள படங்கள் தரவு செயலாக்கத்திற்கும் தரவு அறிவியலுக்கும் இடையே உள்ள வித்தியாசத்தை விளக்குகிறது.
  
  <img src="../img/en_US/chapter_2/Picture14.png">
 
