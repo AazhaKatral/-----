@@ -88,6 +88,7 @@
 </table>
 <br/>
 
+தரவு அறிவியல் என்பது 
 Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
  
  <img src="../img/en_US/chapter_2/Picture14.png">
