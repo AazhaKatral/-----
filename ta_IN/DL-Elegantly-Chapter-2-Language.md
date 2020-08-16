@@ -325,12 +325,30 @@ This one’s easy. Industry examples of NLP use are all around us.  Some example
 ## Document Classification: 
 Using the language within a document (e.g., an email, a Tweet, or a review of a film) to classify it into a particular category (e.g., high urgency, positive sentiment) or predicted direction of the price of a company’s stock based on an analyst’s report. 
 Machine translation: assisting language-translation firms with machine-generated suggestions from a source language (e.g., English) to a target language (e.g., Thamizh, German or Mandarin); increasingly, fully automatic— though not always perfect— translations between languages.
- 
+
+<img src="../img/en_US/chapter_2/Picture48.png">
+
 ## Search engine: 
 Autocompleting users’ searches and predicting what information or website they’re seeking.  
 
+<img src="../img/en_US/chapter_2/Picture49.png">
+
 ## Speech recognition: 
 Interpreting voice commands, converting it to text to provide information or take action, as with virtual assistants like Amazon’s Alexa, Apple’s Siri, or Microsoft’s Cortana.
+
+<br/>
+<table>
+  <tr>
+    <td align="center">NLP</td>
+    <td align="center">NLU vs NLP vs ASR</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture50.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture51.png"></td>
+  </tr>
+</table>
+<br/>
+
 
 ## Chatbot: 
 Carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
