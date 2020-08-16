@@ -315,17 +315,25 @@ So, you ask your smart device, "Hey Google, how did the stock market do today?" 
 <img src="../img/en_US/chapter_2/Picture46.png">
 
 The great thing about machine learning is that, if you ask these questions regularly, your smart device will catch on to the pattern and start anticipating your questions, giving you your stock numbers along with the overall market numbers at the same time without you having to specifically ask for it! Cool!
-What Is the value of NLP (therefore for NLU, and NLG)?
- 
-This one’s easy. Industry examples of NLP use are all around us. For e.g., 
-Document Classification: using the language within a document (e.g., an email, a Tweet, or a review of a film) to classify it into a particular category (e.g., high urgency, positive sentiment) or predicted direction of the price of a company’s stock based on an analyst’s report. 
+
+# What Is the value of NLP (therefore for NLU, and NLG)?
+
+<img src="../img/en_US/chapter_2/Picture47.png">
+
+This one’s easy. Industry examples of NLP use are all around us.  Some examples are covered here.
+
+## Document Classification: 
+Using the language within a document (e.g., an email, a Tweet, or a review of a film) to classify it into a particular category (e.g., high urgency, positive sentiment) or predicted direction of the price of a company’s stock based on an analyst’s report. 
 Machine translation: assisting language-translation firms with machine-generated suggestions from a source language (e.g., English) to a target language (e.g., Thamizh, German or Mandarin); increasingly, fully automatic— though not always perfect— translations between languages.
  
- Search engines: autocompleting users’ searches and predicting what information or website they’re seeking.  
+## Search engines: 
+Autocompleting users’ searches and predicting what information or website they’re seeking.  
 
-Speech recognition: interpreting voice commands, converting it to text to provide information or take action, as with virtual assistants like Amazon’s Alexa, Apple’s Siri, or Microsoft’s Cortana.   
+## Speech recognition: 
+Interpreting voice commands, converting it to text to provide information or take action, as with virtual assistants like Amazon’s Alexa, Apple’s Siri, or Microsoft’s Cortana.
 
-Chatbots: carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
+# Chatbots: 
+Carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
   
 
 Are real world NLP Applications complex to build?
