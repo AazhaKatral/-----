@@ -76,9 +76,9 @@
 <br/>
 <table>
   <tr>
-    <td align="center">Change is upon us</td>
-    <td align="center">Data Science</td>
-    <td align="center">Buzzword</td>
+    <td align="center">மாற்றம் நம்மிடம் உள்ளத்உ</td>
+    <td align="center">தரவு அறிவியல்</td>
+    <td align="center">புதிர்ச்சொல்</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture11.png"></td>
