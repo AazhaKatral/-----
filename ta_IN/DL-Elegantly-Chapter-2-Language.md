@@ -306,8 +306,14 @@ NLP, NLU, and NLG all play a part in teaching machines to think more like humans
 <br/>
   
 
-Let’s take a specific example to illustrate just how these functions work together. You get home from work wonder about the stock market. 
-  So, you ask your smart device, “Hey Google, how did the stock market do today?” Your Google Home device listens to your query and invokes an NLP program. That program takes your question text and breaks it down into understandable pieces – “stock market” and “today” being keywords on which it focuses. It then invokes another program that compares your query to similar queries made to Google by others and tries to understand what you’re asking. The bot then uses an NLU program to understand that what you are asking for is today’s closing numbers for NASDAQ, Dow Jones and the S&P 500. It then invokes a program that searches the web for content that best answers your question. That is semantic search in action. Once it has results from a reliable source (say Bloomberg), it pulls out the results and invokes an NLG program to deliver a response to you in natural language. The answer could be something like, “According to Bloomberg, the NASDAQ was down 1.5 points, but the Dow was up 77, and the S&P was up 5 points”. You probably will follow up and ask questions about specific stocks you own, and the process starts all over again!  
+Let’s take a specific example to illustrate just how these functions work together. You get home from work wonder about the stock market.
+
+<img src="../img/en_US/chapter_2/Picture45.png">
+
+So, you ask your smart device, "Hey Google, how did the stock market do today?"  Your Google Home device listens to your query and invokes an NLP program. That program takes your question text and breaks it down into understandable pieces – _stock market_ and _today_ being keywords on which it focuses. It then invokes another program that compares your query to similar queries made to Google by others and tries to understand what you’re asking. The bot then uses an NLU program to understand that what you are asking for is today’s closing numbers for NASDAQ, Dow Jones and the S&P 500. It then invokes a program that searches the web for content that best answers your question. That is semantic search in action. Once it has results from a reliable source (say Bloomberg), it pulls out the results and invokes an NLG program to deliver a response to you in natural language. The answer could be something like, "According to Bloomberg, the NASDAQ was down 1.5 points, but the Dow was up 77, and the S&P was up 5 points".  You probably will follow up and ask questions about specific stocks you own, and the process starts all over again!
+
+<img src="../img/en_US/chapter_2/Picture46.png">
+
 The great thing about machine learning is that, if you ask these questions regularly, your smart device will catch on to the pattern and start anticipating your questions, giving you your stock numbers along with the overall market numbers at the same time without you having to specifically ask for it! Cool!
 What Is the value of NLP (therefore for NLU, and NLG)?
  
