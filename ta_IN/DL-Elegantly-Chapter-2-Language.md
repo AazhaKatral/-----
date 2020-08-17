@@ -339,8 +339,8 @@ Interpreting voice commands, converting it to text to provide information or tak
 <br/>
 <table>
   <tr>
-    <td align="center">NLP</td>
-    <td align="center">NLU vs NLP vs ASR</td>
+    <td align="center">Speech recognition</td>
+    <td align="center">Voice commands</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture50.png"></td>
@@ -353,8 +353,22 @@ Interpreting voice commands, converting it to text to provide information or tak
 ## Chatbot: 
 Carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
   
+<br/>
+<table>
+  <tr>
+    <td align="center">Chatbot</td>
+    <td align="center">Chatbots everywhere</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture52.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture53.png"></td>
+  </tr>
+</table>
+<br/>  
+  
 
-Are real world NLP Applications complex to build?
+**Are real world NLP Applications complex to build?**
+
 Truly, it depends. 
 •	The easiest NLP applications to build are spell checkers, synonym suggestion engines, and keyword-search based query tools. These tasks can be solved in a fairly straightforward fashion with deterministic, rules-based code using, say, reference dictionaries or thesauruses.  Deep learning models are unnecessarily sophisticated for these applications. 
 •	Intermediate-complexity NLP applications include assigning a school-grade reading level to a document, predicting the most likely next words while making a query in a search engine aka autocomplete, classifying documents, and extracting information like prices or named entities from documents or websites. These intermediate NLP applications are well suited to solving with deep learning models.  Later we will leverage a variety of deep learning architectures to predict the sentiment of film reviews. Named entities include places, well-known individuals, company names, and products.  
