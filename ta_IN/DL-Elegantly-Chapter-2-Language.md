@@ -369,15 +369,35 @@ Carrying out a natural conversation for an extended period of time; though this 
 
 **Are real world NLP Applications complex to build?**
 
-Truly, it depends. 
-•	The easiest NLP applications to build are spell checkers, synonym suggestion engines, and keyword-search based query tools. These tasks can be solved in a fairly straightforward fashion with deterministic, rules-based code using, say, reference dictionaries or thesauruses.  Deep learning models are unnecessarily sophisticated for these applications. 
-•	Intermediate-complexity NLP applications include assigning a school-grade reading level to a document, predicting the most likely next words while making a query in a search engine aka autocomplete, classifying documents, and extracting information like prices or named entities from documents or websites. These intermediate NLP applications are well suited to solving with deep learning models.  Later we will leverage a variety of deep learning architectures to predict the sentiment of film reviews. Named entities include places, well-known individuals, company names, and products.  
-•	The most sophisticated NLP applications are found in machine translation, automated question-answering, and chatbots.   These are complex because they need to handle application-critical nuances (as an example, humor is particularly transient), a response to a question can depend on the intermediate responses to previous questions and meaning can be conveyed over the course of a lengthy passage of text consisting of many sentences.  
+Truly, it depends.
 
-But then, what is Computational Linguistics?
-Okay, so this a bit complex. Computational Linguistics uses computational models to test theories about language.   
-Though it seems abstract, this is an area of enormous promise. It’s also the hardest to master (even harder to pay bills with if you are not really “up there” in terms of knowing the techniques, the technology and how to drive applications of it for business benefit)!  A lot of effort is being invested these days to model the semantics of specific areas or domains (medicine being a big one, law being another).  
-Consider, for example, the language used by experts in the biomedical domain.  Clearly, we know that there are differences in the semantic primitives of a biomedical language i.e. the language used by experts in the biomedical domain versus “general” English (or any other language used for general communication).  
+- _The easiest NLP applications_ to build are spell checkers, synonym suggestion engines, and keyword-search based query tools. These tasks can be solved in a fairly straightforward fashion with deterministic, rules-based code using, say, reference dictionaries or thesauruses.  Deep learning models are unnecessarily sophisticated for these applications.
+- _Intermediate-complexity NLP applications_ include assigning a school-grade reading level to a document, predicting the most likely next words while making a query in a search engine aka autocomplete, classifying documents, and extracting information like prices or named entities from documents or websites. These intermediate NLP applications are well suited to solving with deep learning models.  Later we will leverage a variety of deep learning architectures to predict the sentiment of film reviews. Named entities include places, well-known individuals, company names, and products.
+
+<img src="../img/en_US/chapter_2/Picture54.png">
+
+- _The most sophisticated NLP applications_ are found in machine translation, automated question-answering, and chatbots.   
+
+<img src="../img/en_US/chapter_2/Picture55.png">
+
+These are complex because they need to handle application-critical nuances (as an example, humor is particularly transient), a response to a question can depend on the intermediate responses to previous questions and meaning can be conveyed over the course of a lengthy passage of text consisting of many sentences.
+
+<img src="../img/en_US/chapter_2/Picture56.png">
+
+**But then, what is Computational Linguistics?**
+
+Okay, so this a bit complex. Computational Linguistics uses computational models to test _theories about language_.
+
+<img src="../img/en_US/chapter_2/Picture57.png">
+
+Though it seems abstract, this is an area of enormous promise. It’s also the hardest to master (even harder to pay bills with if you are not really "up there" in terms of _knowing the techniques, the technology and how to drive applications of it for business benefit_)!  A lot of effort is being invested these days to model the semantics of specific areas or domains (medicine being a big one, law being another).
+
+<img src="../img/en_US/chapter_2/Picture58.png">
+
+Consider, for example, the language used by experts in the biomedical domain.  Clearly, we know that there are _differences in the semantic primitives_ of a biomedical language i.e. the language used by experts in the biomedical domain versus "general" English (or any other language used for general communication).
+
+<img src="../img/en_US/chapter_2/Picture59.png">
+
 By building a large set of data-driven semantic representations of predicates (the part of a sentence containing a verb stating something about the subject viz. went home in John went home) found in journal articles related to the biomedical domain, we can compare that resource to a similar resource built for general English and look for things like, whether or not the semantic primitives seem to come from the same set, whether or not given verbs have different representations in the two types of language, etc.  Essentially, information about the use of language in a particular domain. The hope here is to get a sense of the range of types of semantic variability.  
 The insights from this (computational linguistics) work could then be used to design and build NLP tools that could then be used to carry out domain specific, practical text mining tasks like, say, in the biomedical domain “for fun and profit”!  
 And now, a brief foray into the history of NLP  
