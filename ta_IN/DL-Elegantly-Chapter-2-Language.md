@@ -398,14 +398,28 @@ Consider, for example, the language used by experts in the biomedical domain.  C
 
 <img src="../img/en_US/chapter_2/Picture59.png">
 
-By building a large set of data-driven semantic representations of predicates (the part of a sentence containing a verb stating something about the subject viz. went home in John went home) found in journal articles related to the biomedical domain, we can compare that resource to a similar resource built for general English and look for things like, whether or not the semantic primitives seem to come from the same set, whether or not given verbs have different representations in the two types of language, etc.  Essentially, information about the use of language in a particular domain. The hope here is to get a sense of the range of types of semantic variability.  
-The insights from this (computational linguistics) work could then be used to design and build NLP tools that could then be used to carry out domain specific, practical text mining tasks like, say, in the biomedical domain “for fun and profit”!  
-And now, a brief foray into the history of NLP  
-Okay, by now you and I are settled with the fact that we’re in the middle of an NLP revolution! Voice and text interactions between humans and machines are commonplace today. Huge advances in machine learning over the past decade have made vast improvements in speech recognition and machine translation software in the recent past. Language generators today are now good enough to write coherent news articles! Virtual agents like Siri, Alexa and Google are now an indispensable part of our daily lives.
-In an earlier chapter, we introduced the high-level theory of deep learning via analogies to the biological visual system. We highlighted the fact that one of the deep learning technique’s core strengths lies in its ability to learn features automatically from data. In this chapter, we build atop those deep learning foundations by examining how deep learning is incorporated into human language applications, with a particular emphasis on how deep learning can automatically learn features that represent the meaning of words. But before all that it is critical to understand how we got here!
-A meaningful look into the history of natural language processing
-  In 1953, the Austro-British philosopher Ludwig Wittgenstein famously argued, in his posthumous, seminal work Philosophical Investigations, “The meaning of a word is its use in the language.” that, “One cannot guess how a word functions; One has to look at its use and learn from that.” Wittgenstein was suggesting (radically, at that time) that words on their own have no real meaning! It was by their use within the larger context of that language that we’re able to ascertain their meaning i.e. meaning is created or generated from use!  
- 
+By building a large set of data-driven semantic representations of predicates (the part of a sentence containing a verb stating something about the subject viz. _went home_ in John _went home_) found in journal articles related to the biomedical domain, we can compare that resource to a similar resource built for general English and look for things like, whether or not the semantic primitives seem to come from the same set, whether or not given verbs have different representations in the two types of language, etc.  Essentially, information about the use of language in a particular domain. The hope here is to get a sense of the range of types of _semantic variability_.  
+The insights from this (**computational linguistics**) work could then be used to design and build NLP tools that could then be used to carry out domain specific, practical text mining tasks like, say, in the biomedical domain "for fun and profit"!
+
+<img src="../img/en_US/chapter_2/Picture60.png">
+
+# A brief foray into the history of NLP
+
+Okay, by now you and I are settled with the fact that we’re in the middle of an NLP revolution! Voice and text interactions between humans and machines are commonplace today. 
+
+<img src="../img/en_US/chapter_2/Picture61.png">
+
+Huge advances in machine learning over the past decade have made vast improvements in speech recognition and machine translation software in the recent past. Language generators today are now good enough to write coherent news articles! Virtual agents like Siri, Alexa and Google are now an indispensable part of our daily lives.
+
+In an earlier chapter, we introduced the high-level theory of deep learning via analogies to the biological _visual_ system. We highlighted the fact that one of the deep learning technique’s _core strengths_ lies in its ability to _learn features automatically_ from data. In this chapter, we build atop those deep learning foundations by examining how deep learning is incorporated into human language applications, with a particular emphasis on how deep learning can automatically learn features that represent the meaning of words. But before all that it is _critical_ to understand how we got here!
+
+## A meaningful look into the history of natural language processing
+
+<img src="../img/en_US/chapter_2/Picture62.png">
+
+In 1953, the Austro-British philosopher Ludwig Wittgenstein famously argued, in his posthumous, seminal work _Philosophical Investigations_, "The _meaning_ of a word is its _use_ in the language" that, "One cannot _guess_ how a word functions; One has to look at its _use_ and learn from that".  Wittgenstein was suggesting (radically, at that time) that words on their own have _no real meaning_!  It was by their use within the larger context of that language that we’re able to ascertain their meaning i.e. meaning is created or generated from use!  
+
+<img src="../img/en_US/chapter_2/Picture63.png">
 
 Alan Turing, the father of modern computer science, engaged with Wittgenstein on the connections between language, mathematics, computers and artificial intelligence. They influenced one another; Wittgenstein with his mathematical philosophies, Turing with his computational science practicality and his desire to create machines that could converse with humans.
 
