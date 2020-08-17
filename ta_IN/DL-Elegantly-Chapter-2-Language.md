@@ -440,16 +440,27 @@ This achievement was termed by the famous linguist Leonard Bloomfield as "one of
 
 <img src="../img/en_US/chapter_2/Picture67.png">
 
-The late Dr. Frits Staal department founder and Emeritus Professor of Philosophy and South/Southeast Asian Studies at the University of California, Berkeley argued that ancient Indian grammarians, especially Pāṇini, had mastered methods of linguistic theory not rediscovered again until the 1950s and the applications of modern mathematical logic to linguistics by Noam Chomsky (Chomsky too agrees that the first generative grammar in the modern sense was Panini's grammar). 
-  These early methods allowed the construction of discrete, potentially infinite generative systems.  Remarkably, these early linguistic systems were codified orally, though writing was then used to develop them in some way. The formal basis for Panini's methods involved the use of "auxiliary" markers, rediscovered in the 1930s by the logician Emil Post whose rewrite system form the basis for the description of computer languages.  
+The late Dr. Frits Staal department founder and Emeritus Professor of Philosophy and South/Southeast Asian Studies at the University of California, Berkeley argued that ancient Indian grammarians, especially Pāṇini, had mastered methods of linguistic theory not rediscovered again until the 1950s and the applications of modern mathematical logic to linguistics by Noam Chomsky (Chomsky too agrees that the first generative grammar in the modern sense was Panini's grammar).
+
+<img src="../img/en_US/chapter_2/Picture68.png">
+
+These early methods allowed the _construction of discrete, potentially infinite generative systems_.  Remarkably, these early linguistic systems were codified _orally_, though writing was then used to develop them in some way. The formal basis for Panini's methods involved the use of "auxiliary" markers, rediscovered in the 1930s by the logician Emil Post whose rewrite system form the basis for the description of _computer languages_.  
+
+<img src="../img/en_US/chapter_2/Picture69.png">
 
 The ancient discoveries were motivated by the need to preserve exact Sanskrit pronunciation and expression given the primacy of language in ancient Indian thought. So we would expect that the insights of Panini, described by Staal as "the greatest linguist of antiquity, if not of all time" could be exploited to help answer questions regarding limits to computers as well as to define an approach that could yield powerful text and speech processing systems. 
 
 The knowledge representation methodology in the grammar of Panini and his successors is in many ways equivalent to the more powerful, currently researched artificial intelligence (AI) schemes. Furthermore, it includes rules about rules, analogs of which are not known for any other language (or for a flexible enough subset of, say, the English language), which would help in the writing of efficient AI software.
 
- In the late 1200s, Abraham Abulafia, a Jewish mystic began combining the letters of the Hebrew alphabet in seemingly random ways (Aleph with Bet, Bet with Gimmel, Gimmel with Aleph and Bet, and so on) calling it “the science of the combination of letters.” He wasn’t combining letters at random but was following a (secret) set of rules that he had devised while studying an ancient Kabbalistic text called the Sefer Yetsirah. 
-The book described how God created “all that is formed and all that is spoken” by combining Hebrew letters according to sacred formulas. In one section, God exhausts all possible two-letter combinations of the 22 Hebrew letters.
-After studying the Sefer Yetsirah, Abulafia concluded that linguistic symbols could, in theory, be manipulated with formal rules. These could then create new, interesting & possibly insightful sentences. He spent months generating thousands of combinations of the 22 letters of the Hebrew alphabet and eventually emerged with a series of books that he claimed were endowed with prophetic wisdom.  
+<img src="../img/en_US/chapter_2/Picture70.png">
+
+In the late 1200s, **Abraham Abulafia**, a Jewish mystic began combining the letters of the Hebrew alphabet in seemingly random ways (Aleph with Bet, Bet with Gimmel, Gimmel with Aleph and Bet, and so on) calling it "the science of the combination of letters".  He wasn’t combining letters at random but was following a (secret) set of rules that he had devised while studying an ancient Kabbalistic text called the _Sefer Yetsirah_. 
+
+The book described how God created "all that is formed and all that is spoken" by combining Hebrew letters according to sacred formulas.  In one section, God exhausts all possible two-letter combinations of the 22 Hebrew letters.
+
+After studying the _Sefer Yetsirah_, Abulafia concluded that _linguistic symbols could, in theory, be manipulated with formal rules.  These could then create new, interesting & possibly insightful sentences._  He spent months generating thousands of combinations of the 22 letters of the Hebrew alphabet and eventually emerged with a series of books that he claimed were endowed with prophetic wisdom.
+
+<img src="../img/en_US/chapter_2/Picture71.png">
 
 For Abulafia, generating language according to these rules offered insight into the sacred and the unknown, or as he put it, allowed him to “grasp things which by human tradition or by thyself thou would not be able to know.” But other Jewish scholars considered this rudimentary language generation effort a dangerous act that bordered on the profane! The Talmud is rife with stories of rabbis who, by the magical act of permuting language according to the formulas set out in the Sefer Yetsirah, created artificial creatures called golems. In these tales, rabbis manipulated the letters of the Hebrew alphabet to replicate God’s act of creation, using the sacred formulas to imbue inanimate objects with life.
 In some of these myths, the rabbis used this skill for practical reasons, to make animals to eat when hungry or servants to help them with domestic duties. But many of these golem stories end badly. 
@@ -748,10 +759,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 
 <br/>
-<img src="../img/en_US/chapter_2/Picture68.png">
-<img src="../img/en_US/chapter_2/Picture69.png">
-<img src="../img/en_US/chapter_2/Picture70.png">
-<img src="../img/en_US/chapter_2/Picture71.png">
 <img src="../img/en_US/chapter_2/Picture72.png">
 <img src="../img/en_US/chapter_2/Picture73.png">
 <img src="../img/en_US/chapter_2/Picture74.png">
