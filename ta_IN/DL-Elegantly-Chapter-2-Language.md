@@ -794,3 +794,5 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 <img src="../img/en_US/chapter_2/Picture122.png">
 <img src="../img/en_US/chapter_2/Picture123.png">
 <img src="../img/en_US/chapter_2/Picture124.png">
+
+<br/>
