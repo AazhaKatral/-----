@@ -33,22 +33,24 @@
 <img src="../img/en_US/chapter_2/Picture4.png">
 
 
-டேட்டா மைனிங் செய்வதற்கு கணிதம், 
-Doing data mining work requires skills like knowing particular kinds of math, understanding how to sample a population, using specialized software to do complicated calculations in a way that is time-efficient—stuff like that.
+டேட்டா மைனிங் செய்வதற்கு கணிதம், மற்றும் சாம்பிளிங் எனப்படும் மாதிரி எடுப்பை கணக்கிடக்கூடிய மென்பொருள் பற்றிய அறிவு அவசியமாகிறது.
 
 <img src="../img/en_US/chapter_2/Picture5.png">
 
-With data mining, you have databases and tables with well-defined data and descriptions of data (called meta-data). So, you clearly know what everything is. Hence you are dealing with “structured data” (by “you,” I mean a computer program).
+டேட்டா மைனிங் உடன் தரவுத்தளம் மற்றும் டேபிள்கள், மீத்தரவு எனப்படும் தரவைப்பற்றிய தரவுகள்(meta-data) இருக்கும். கட்டமைக்கப்பட்ட தரவு("structured data") களில் இவை அனைத்தும் இருக்கும்.
+
+
 
 <img src="../img/en_US/chapter_2/Picture6.png">
 
 
-So, while Data Mining is a set of tools and techniques used to make data better for use, Data Analytics typically helps in developing and working on models for taking business decisions. Which is why data mining is focused more on computational, mathematical and scientific concepts while data analytics uses extensive business insight and expert knowledge to assist data driven business decision making.
+தரவுச் செயலாக்கம்(Data Mining) என்பது தரவில் இருந்து குறிப்பிட்ட வடிவங்களைப் பிரித்தெடுக்கும் செயல்முறை ஆகும்.(Data Analytics) எனப்படும் தரவு பகுப்பாய்வு வணிக முடிவுகளை எடுக்க தேவையான மாதிரிகளை உருவாக்குவதில் உதவும் முறை எனலாம். எனவே தரவு செயலாக்கம் என்பது கணக்கீட்டு, கணித மற்றும் அறிவியல் கருத்துக்களை மையமாகக் கொண்டது ஆனால் தரவு பகுப்பாய்வு என்பது வணிக நுண்ணறிவும் தரவைக்கொண்டு வணிக முடிவுகளை எடுக்கும் ஞானத்தையும் மையமாகக் கொண்டது.
 
 <img src="../img/en_US/chapter_2/Picture7.png">
 
-A more obvious difference is the lack of emphasis on data visualization in data mining whereas, in data analytics. Information visualization is a field of study in and of itself filled with pioneers like Edward Tufte who have dedicated their lives to marrying art, science, data and design to truly bring out the power of **seeing things in context** in all information we encounter. 
-    
+தரவு செயலாக்கதில் பெரிய அளவில் காட்சிப்படுத்தல் இருக்காது. ஆனால், தரவு பகுப்பாய்வில் நிறைய வரைபடங்கள் இருக்கும்.  கிடைக்கப்பெற்ற தகவலை வரைபடமாக்கி பார்க்கும் கலை, அறிவியல் துறையி 
+எட்வர்ட் டஃப்டே என்பவர் முன்னோடியாக விளங்கினார். அவர் தான் **சூழலுக்கு தகுந்த விஷயங்களைப் உற்றுநோக்குவது** என்பதை அறிமுகப்படுத்தினார்.
+
 <br/>
 <table>
   <tr>
@@ -65,18 +67,18 @@ A more obvious difference is the lack of emphasis on data visualization in data 
 <br/>
     
  
-# So, how is Data Mining different from Data Science?
+# தரவு செயலாக்கம் எவ்வாறு தரவு அறிவியலில் இருந்து வேறுபடுகிறது?
 
-We have now established that Data Mining is about finding patterns in a data set (historical data) using a set of mathematical or statistical techniques and using these patterns to assist knowledge discovery. 
+தரவு செயலாக்கம் என்பது கணித அல்லது புள்ளிவிவர நுட்பங்களின் தொகுப்பைப் பயன்படுத்தி குறிப்பிட்ட தரவுத் தொகுப்பில் (வரலாற்றுத் தரவு) ஒத்த மாதிரிகளைலக கண்டுபிடிப்பதும், அந்த மாதிர்களைக்கொண்டு , முடிவுகளை நிறுவுவதும் ஆகும்.
 
-Data Science is much broader in scope. It is an entire field of study which includes Big Data, Data Analytics, Data Mining, Predictive Modeling, Data Visualization, Mathematics, Statistics and AI. Data Science is now considered a paradigm shift in the way we do Science itself. 
+தரவு அறிவியல் என்பது ஒரு துறை. அதன் நேக்கம் மிகவும் பர்ந்து பட்டது.  மிகப்பெரிய தரவுகள், தரவு பகுப்பாய்வு, தரவு செயலாக்கம், கணிக்கப்ப்பட்ட மாதிரிகள், தரவுகளை காட்சிப்படுத்தல், கணிதம், புள்ள்ளியியல் மற்றும் செயற்கை நுண்ணறிவு என அத்தனை துறையும் இதில் அடங்க்கும்.
 
 <br/>
 <table>
   <tr>
-    <td align="center">Change is upon us</td>
-    <td align="center">Data Science</td>
-    <td align="center">Buzzword</td>
+    <td align="center">மாற்றம் நம்மிடம் உள்ளத்உ</td>
+    <td align="center">தரவு அறிவியல்</td>
+    <td align="center">புதிர்ச்சொல்</td>
   </tr>
   <tr>
     <td valign="center"><img src="../img/en_US/chapter_2/Picture11.png"></td>
@@ -85,8 +87,8 @@ Data Science is much broader in scope. It is an entire field of study which incl
   </tr>
 </table>
 <br/>
-
-Data Science is now referred to as the fourth paradigm of Science (the other three being Theoretical, Empirical and Computational). Data Science is an area of extensive, active research and development both in Academia and in Industry. The following figure illustrates the differences between Data Science and Data mining.
+கோட்பாட்டியலான, அனுபவத்தால் அறியப்படுகிற, கணக்க்கீட்டுக்கு உட்பட்ட அறிவியனின் நான்காவது முன்னுதாரணமாக திகழ்வது தரவு அறிவியல். கல்வி மற்றும் தொழில் உலகத்தில் தரவு அறிவியல் என்பது விரிவான 
+நீண்ட நெடிய ஆராய்ச்சி மற்றும் வளர்சியாகும்.  கீழே உள்ள படங்கள் தரவு செயலாக்கத்திற்கும் தரவு அறிவியலுக்கும் இடையே உள்ள வித்தியாசத்தை விளக்குகிறது.
  
  <img src="../img/en_US/chapter_2/Picture14.png">
 
@@ -136,10 +138,10 @@ Suppose you have a log file that contains your outgoing phone calls and SMS data
 
    
 In the log table shown above, 
-1.	The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
-2.	The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
-3.	The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
-4.	The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
+1.  The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
+2.  The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
+3.  The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
+4.  The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
 
 <br/>
 If the type of data is SMS, then the value in this field will be the text message.  For e.g., the following figure shows records of call data stored in a text file:
@@ -157,8 +159,7 @@ If the type of data is SMS, then the value in this field will be the text messag
 </table>
 <br/>
 
-   
- Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
+Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
  
 * How many New Year greetings were sent by SMS on the 1st January? 
 * How many people were contacted whose name was not in the contact list? 
@@ -208,59 +209,195 @@ Consider this simple yet tricky example: How do you get a software program to re
 
 This is just a Nader meme; not a reference to coreference resolution! (or is it?)
 
-Recognizing that those “things” or entities in the world are people, as opposed to, say, locations, or companies, is a whole different activity (called Named Entity Recognition). 
-  
+Recognizing that those **things** or entities in the world are _people_, as opposed to, say, _locations_, or _companies_, is a whole different activity (called **Named Entity Recognition**).
+
+<br/>
+<table>
+  <tr>
+    <td align="center">NER application</td>
+    <td align="center">NLP</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture30.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture31.png"></td>
+  </tr>
+</table>
+<br/>
 
 So, NLP is that branch of artificial intelligence that deals with the interaction between computers and humans using natural language. The ultimate objective of NLP is to read, decipher, understand, and make sense of human languages in a manner that is valuable. As expected, classic NLP techniques rely on Machine Learning. More recently Deep Learning is being employed extensively to derive meaning.
 
-  
+<br/>
+<table>
+  <tr>
+    <td align="center">Deep Learning</td>
+    <td align="center">Deep Learning Architecture</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture32.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture33.png"></td>
+  </tr>
+</table>
+<br/>
 
-What Is Natural Language Understanding (NLU)?
-Natural Language Understanding is a part of Natural Language Processing. Once a body of text has been broken down structurally (syntactically) into digestible bits, it’s possible for a program to find meaning by analyzing it (say, for sentiment). So syntactically, it breaks down text into parts of speech, sentence structure, and morphemes (the smallest understandable part of a word).   NLU then looks for the true meaning behind the words by comparing them to similar examples i.e. semantic analysis.  
+
+# What Is Natural Language Understanding (NLU)?
+
+Natural Language Understanding is a part of Natural Language Processing.  Once a body of text has been broken down structurally (syntactically) into digestible bits, it’s possible for a program to find meaning by analyzing it (say, for sentiment). So syntactically, it breaks down text into parts of speech, sentence structure, and _morphemes_ (the smallest _understandable_ part of a word).   
+
+<img src="../img/en_US/chapter_2/Picture34.png">
+
+NLU then looks for the true meaning behind the words by comparing them to similar examples i.e. semantic analysis.
+
+<img src="../img/en_US/chapter_2/Picture35.png">
+
 Unlike structured data, human language is structurally messy and ambiguous. We are rarely precise or straightforward our communication. Grammar and the meaning of words are highly contextual. 
- 
-When you ask your phone something like “What’s I-93 like right now?”, if you were being literal, you might get an answer like, “It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42.” But in reality, you want to know what the traffic conditions are on I-93. That’s where NLU comes in. It takes the slangy, figurative, highly contextual way we talk every day and understanding what we “really” mean by it. 
+
+<img src="../img/en_US/chapter_2/Picture36.png">
+
+When you ask your phone something like _What’s I-93 like right now?_, if you were being literal, you might get an answer like, _It’s long, gray, and has cars driving on it. It was recently paved between exits 36 and 42_.  But in reality, you want to know what the traffic conditions are on I-93.  That’s where NLU comes in.  It takes the slangy, figurative, highly contextual way we talk every day and understanding what we _really_ mean by it. 
    
+<br/>
+<table>
+  <tr>
+    <td align="center">Linguistic variety</td>
+    <td align="center">Sarcasm meme</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture37.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture38.png"></td>
+  </tr>
+</table>
+<br/>   
 
-What is Natural Language Generation (NLG)?
-Now, once a chatbot, a smart device, or search engine understands the language it’s “hearing,” it has to talk back in a way that you, in turn, will understand. That’s where NLG comes in. NLG takes results from, say, a search result, and turns it into understandable language. 
-So, whenever you ask your smart device, “What’s it like on I-93 right now?” it can answer almost exactly as another human would. It may say something like, “There is an accident at exit 36 that has created a 15-minute delay,” or “The road is clear.” NLG is used in chatbot technology. In fact, chatbots have become so advanced that you may not even know you’re talking to a machine. 
- 
-NLG presents a great business opportunity to industry. Using NLP, NLG, and machine learning in chatbots frees up resources and allows companies to offer 24/7 customer service without having to staff a large department. 
-  NLG can also be used to create data-based content at scale. If you produce templated content regularly, say for example, a story based on the Labor Department’s jobs report, you can use NLP to analyze the data, NLU to comprehend the content and NLG to write a basic narrative based on the numbers.
- So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI problem. 
- 
+# What is Natural Language Generation (NLG)?
 
-What Is the Difference Between NLP, NLU, and NLG?
+Now, once a chatbot, a smart device, or search engine _understands_ the language it’s _hearing_, it has to talk back in a way that you, in turn, will understand. That’s where NLG comes in. NLG takes results from, say, a search result, and turns it into understandable language. 
+So, whenever you ask your smart device, _What’s it like on I-93 right now?_ it can answer almost exactly as another human would. It may say something like, _There is an accident at exit 36 that has created a 15-minute delay_, or _The road is clear_.  NLG is used in chatbot technology.  In fact, chatbots have become so advanced that you may not even know you’re talking to a machine.
+
+<img src="../img/en_US/chapter_2/Picture39.png">
+ 
+NLG presents a great business opportunity to industry.  Using NLP, NLG, and machine learning in chatbots frees up resources and allows companies to offer 24/7 customer service without having to staff a large department.
+
+<img src="../img/en_US/chapter_2/Picture40.png">
+
+NLG can also be used to create data-based content at scale. If you produce templated content regularly, say for example, a story based on the Labor Department’s jobs report, you can use NLP to analyze the data, NLU to comprehend the content and NLG to write a basic narrative based on the numbers.
+
+<img src="../img/en_US/chapter_2/Picture41.png">
+
+So, summarily, NLP, NLU and NLG tackle different parts of the conversational AI problem. 
+
+<img src="../img/en_US/chapter_2/Picture42.png">
+
+# What Is the Difference Between NLP, NLU, and NLG?
+
 NLP, NLU, and NLG all play a part in teaching machines to think more like humans. They simply tackle different parts of the conversational AI problem. How do you get machines to recognize, understand, and generate natural language? How do you use it to answer search queries and create content at scale?
+
+<br/>
+<table>
+  <tr>
+    <td align="center">NLP</td>
+    <td align="center">NLU vs NLP vs ASR</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture43.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture44.png"></td>
+  </tr>
+</table>
+<br/>
   
 
-Let’s take a specific example to illustrate just how these functions work together. You get home from work wonder about the stock market. 
-  So, you ask your smart device, “Hey Google, how did the stock market do today?” Your Google Home device listens to your query and invokes an NLP program. That program takes your question text and breaks it down into understandable pieces – “stock market” and “today” being keywords on which it focuses. It then invokes another program that compares your query to similar queries made to Google by others and tries to understand what you’re asking. The bot then uses an NLU program to understand that what you are asking for is today’s closing numbers for NASDAQ, Dow Jones and the S&P 500. It then invokes a program that searches the web for content that best answers your question. That is semantic search in action. Once it has results from a reliable source (say Bloomberg), it pulls out the results and invokes an NLG program to deliver a response to you in natural language. The answer could be something like, “According to Bloomberg, the NASDAQ was down 1.5 points, but the Dow was up 77, and the S&P was up 5 points”. You probably will follow up and ask questions about specific stocks you own, and the process starts all over again!  
+Let’s take a specific example to illustrate just how these functions work together. You get home from work wonder about the stock market.
+
+<img src="../img/en_US/chapter_2/Picture45.png">
+
+So, you ask your smart device, "Hey Google, how did the stock market do today?"  Your Google Home device listens to your query and invokes an NLP program. That program takes your question text and breaks it down into understandable pieces – _stock market_ and _today_ being keywords on which it focuses. It then invokes another program that compares your query to similar queries made to Google by others and tries to understand what you’re asking. The bot then uses an NLU program to understand that what you are asking for is today’s closing numbers for NASDAQ, Dow Jones and the S&P 500. It then invokes a program that searches the web for content that best answers your question. That is semantic search in action. Once it has results from a reliable source (say Bloomberg), it pulls out the results and invokes an NLG program to deliver a response to you in natural language. The answer could be something like, "According to Bloomberg, the NASDAQ was down 1.5 points, but the Dow was up 77, and the S&P was up 5 points".  You probably will follow up and ask questions about specific stocks you own, and the process starts all over again!
+
+<img src="../img/en_US/chapter_2/Picture46.png">
+
 The great thing about machine learning is that, if you ask these questions regularly, your smart device will catch on to the pattern and start anticipating your questions, giving you your stock numbers along with the overall market numbers at the same time without you having to specifically ask for it! Cool!
-What Is the value of NLP (therefore for NLU, and NLG)?
- 
-This one’s easy. Industry examples of NLP use are all around us. For e.g., 
-Document Classification: using the language within a document (e.g., an email, a Tweet, or a review of a film) to classify it into a particular category (e.g., high urgency, positive sentiment) or predicted direction of the price of a company’s stock based on an analyst’s report. 
+
+# What Is the value of NLP (therefore for NLU, and NLG)?
+
+<img src="../img/en_US/chapter_2/Picture47.png">
+
+This one’s easy. Industry examples of NLP use are all around us.  Some examples are covered here.
+
+## Document Classification: 
+Using the language within a document (e.g., an email, a Tweet, or a review of a film) to classify it into a particular category (e.g., high urgency, positive sentiment) or predicted direction of the price of a company’s stock based on an analyst’s report. 
 Machine translation: assisting language-translation firms with machine-generated suggestions from a source language (e.g., English) to a target language (e.g., Thamizh, German or Mandarin); increasingly, fully automatic— though not always perfect— translations between languages.
- 
- Search engines: autocompleting users’ searches and predicting what information or website they’re seeking.  
 
-Speech recognition: interpreting voice commands, converting it to text to provide information or take action, as with virtual assistants like Amazon’s Alexa, Apple’s Siri, or Microsoft’s Cortana.   
+<img src="../img/en_US/chapter_2/Picture48.png">
 
-Chatbots: carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
+## Search engine: 
+Autocompleting users’ searches and predicting what information or website they’re seeking.  
+
+<img src="../img/en_US/chapter_2/Picture49.png">
+
+## Speech recognition: 
+Interpreting voice commands, converting it to text to provide information or take action, as with virtual assistants like Amazon’s Alexa, Apple’s Siri, or Microsoft’s Cortana.
+
+<br/>
+<table>
+  <tr>
+    <td align="center">Speech recognition</td>
+    <td align="center">Voice commands</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture50.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture51.png"></td>
+  </tr>
+</table>
+<br/>
+
+
+## Chatbot: 
+Carrying out a natural conversation for an extended period of time; though this is seldom done convincingly today, they are nevertheless helpful for relatively linear conversations on narrow topics such as the routine components of a firm’s customer-service phone calls. 
+  
+<br/>
+<table>
+  <tr>
+    <td align="center">Chatbot</td>
+    <td align="center">Chatbots everywhere</td>
+  </tr>
+  <tr>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture52.png"></td>
+    <td valign="center"><img src="../img/en_US/chapter_2/Picture53.png"></td>
+  </tr>
+</table>
+<br/>  
   
 
-Are real world NLP Applications complex to build?
-Truly, it depends. 
-•	The easiest NLP applications to build are spell checkers, synonym suggestion engines, and keyword-search based query tools. These tasks can be solved in a fairly straightforward fashion with deterministic, rules-based code using, say, reference dictionaries or thesauruses.  Deep learning models are unnecessarily sophisticated for these applications. 
-•	Intermediate-complexity NLP applications include assigning a school-grade reading level to a document, predicting the most likely next words while making a query in a search engine aka autocomplete, classifying documents, and extracting information like prices or named entities from documents or websites. These intermediate NLP applications are well suited to solving with deep learning models.  Later we will leverage a variety of deep learning architectures to predict the sentiment of film reviews. Named entities include places, well-known individuals, company names, and products.  
-•	The most sophisticated NLP applications are found in machine translation, automated question-answering, and chatbots.   These are complex because they need to handle application-critical nuances (as an example, humor is particularly transient), a response to a question can depend on the intermediate responses to previous questions and meaning can be conveyed over the course of a lengthy passage of text consisting of many sentences.  
+**Are real world NLP Applications complex to build?**
 
-But then, what is Computational Linguistics?
-Okay, so this a bit complex. Computational Linguistics uses computational models to test theories about language.   
-Though it seems abstract, this is an area of enormous promise. It’s also the hardest to master (even harder to pay bills with if you are not really “up there” in terms of knowing the techniques, the technology and how to drive applications of it for business benefit)!  A lot of effort is being invested these days to model the semantics of specific areas or domains (medicine being a big one, law being another).  
-Consider, for example, the language used by experts in the biomedical domain.  Clearly, we know that there are differences in the semantic primitives of a biomedical language i.e. the language used by experts in the biomedical domain versus “general” English (or any other language used for general communication).  
+Truly, it depends.
+
+- _The easiest NLP applications_ to build are spell checkers, synonym suggestion engines, and keyword-search based query tools. These tasks can be solved in a fairly straightforward fashion with deterministic, rules-based code using, say, reference dictionaries or thesauruses.  Deep learning models are unnecessarily sophisticated for these applications.
+- _Intermediate-complexity NLP applications_ include assigning a school-grade reading level to a document, predicting the most likely next words while making a query in a search engine aka autocomplete, classifying documents, and extracting information like prices or named entities from documents or websites. These intermediate NLP applications are well suited to solving with deep learning models.  Later we will leverage a variety of deep learning architectures to predict the sentiment of film reviews. Named entities include places, well-known individuals, company names, and products.
+
+<img src="../img/en_US/chapter_2/Picture54.png">
+
+- _The most sophisticated NLP applications_ are found in machine translation, automated question-answering, and chatbots.   
+
+<img src="../img/en_US/chapter_2/Picture55.png">
+
+These are complex because they need to handle application-critical nuances (as an example, humor is particularly transient), a response to a question can depend on the intermediate responses to previous questions and meaning can be conveyed over the course of a lengthy passage of text consisting of many sentences.
+
+<img src="../img/en_US/chapter_2/Picture56.png">
+
+**But then, what is Computational Linguistics?**
+
+Okay, so this a bit complex. Computational Linguistics uses computational models to test _theories about language_.
+
+<img src="../img/en_US/chapter_2/Picture57.png">
+
+Though it seems abstract, this is an area of enormous promise. It’s also the hardest to master (even harder to pay bills with if you are not really "up there" in terms of _knowing the techniques, the technology and how to drive applications of it for business benefit_)!  A lot of effort is being invested these days to model the semantics of specific areas or domains (medicine being a big one, law being another).
+
+<img src="../img/en_US/chapter_2/Picture58.png">
+
+Consider, for example, the language used by experts in the biomedical domain.  Clearly, we know that there are _differences in the semantic primitives_ of a biomedical language i.e. the language used by experts in the biomedical domain versus "general" English (or any other language used for general communication).
+
+<img src="../img/en_US/chapter_2/Picture59.png">
+
 By building a large set of data-driven semantic representations of predicates (the part of a sentence containing a verb stating something about the subject viz. went home in John went home) found in journal articles related to the biomedical domain, we can compare that resource to a similar resource built for general English and look for things like, whether or not the semantic primitives seem to come from the same set, whether or not given verbs have different representations in the two types of language, etc.  Essentially, information about the use of language in a particular domain. The hope here is to get a sense of the range of types of semantic variability.  
 The insights from this (computational linguistics) work could then be used to design and build NLP tools that could then be used to carry out domain specific, practical text mining tasks like, say, in the biomedical domain “for fun and profit”!  
 And now, a brief foray into the history of NLP  
@@ -585,40 +722,7 @@ In this chapter, we have covered a lot of material related to language and langu
 Going forward, we’ll construct an NLP application by making use of artificial neural networks that handle the input of natural language data all the way through to the output of an inference about those data. In such “end-to-end” deep learning models, the initial layers create word vectors that flow seamlessly into deeper, specialized layers of artificial neurons, including layers that incorporate “memory.” These model architectures highlight both the strength and the ease of use of deep learning with word vectors.
 
 
-<img src="../img/en_US/chapter_2/Picture29.png">
-<img src="../img/en_US/chapter_2/Picture30.png">
-<img src="../img/en_US/chapter_2/Picture31.png">
-<img src="../img/en_US/chapter_2/Picture32.png">
-<img src="../img/en_US/chapter_2/Picture33.png">
-<img src="../img/en_US/chapter_2/Picture34.png">
-
-<img src="../img/en_US/chapter_2/Picture35.png">
-<img src="../img/en_US/chapter_2/Picture36.png">
-<img src="../img/en_US/chapter_2/Picture37.png">
-<img src="../img/en_US/chapter_2/Picture38.png">
-<img src="../img/en_US/chapter_2/Picture39.png">
-<img src="../img/en_US/chapter_2/Picture40.png">
-<img src="../img/en_US/chapter_2/Picture41.png">
-<img src="../img/en_US/chapter_2/Picture42.png">
-<img src="../img/en_US/chapter_2/Picture43.png">
-<img src="../img/en_US/chapter_2/Picture44.png">
-
-<img src="../img/en_US/chapter_2/Picture45.png">
-<img src="../img/en_US/chapter_2/Picture46.png">
-<img src="../img/en_US/chapter_2/Picture47.png">
-<img src="../img/en_US/chapter_2/Picture48.png">
-<img src="../img/en_US/chapter_2/Picture49.png">
-<img src="../img/en_US/chapter_2/Picture50.png">
-<img src="../img/en_US/chapter_2/Picture51.png">
-<img src="../img/en_US/chapter_2/Picture52.png">
-<img src="../img/en_US/chapter_2/Picture53.png">
-<img src="../img/en_US/chapter_2/Picture54.png">
-
-<img src="../img/en_US/chapter_2/Picture55.png">
-<img src="../img/en_US/chapter_2/Picture56.png">
-<img src="../img/en_US/chapter_2/Picture57.png">
-<img src="../img/en_US/chapter_2/Picture58.png">
-<img src="../img/en_US/chapter_2/Picture59.png">
+<br/>
 <img src="../img/en_US/chapter_2/Picture60.png">
 <img src="../img/en_US/chapter_2/Picture61.png">
 <img src="../img/en_US/chapter_2/Picture62.png">
