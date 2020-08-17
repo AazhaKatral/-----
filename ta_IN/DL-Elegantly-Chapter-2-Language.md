@@ -462,20 +462,32 @@ After studying the _Sefer Yetsirah_, Abulafia concluded that _linguistic symbols
 
 <img src="../img/en_US/chapter_2/Picture71.png">
 
-For Abulafia, generating language according to these rules offered insight into the sacred and the unknown, or as he put it, allowed him to “grasp things which by human tradition or by thyself thou would not be able to know.” But other Jewish scholars considered this rudimentary language generation effort a dangerous act that bordered on the profane! The Talmud is rife with stories of rabbis who, by the magical act of permuting language according to the formulas set out in the Sefer Yetsirah, created artificial creatures called golems. In these tales, rabbis manipulated the letters of the Hebrew alphabet to replicate God’s act of creation, using the sacred formulas to imbue inanimate objects with life.
+For Abulafia, generating language according to these rules offered insight into the sacred and the unknown, or as he put it, allowed him to _"grasp things which by human tradition or by thyself thou would not be able to know"_.  But other Jewish scholars considered this rudimentary language generation effort a dangerous act that bordered on the profane! The Talmud is rife with stories of rabbis who, by the magical act of permuting language according to the formulas set out in the _Sefer Yetsirah_, created artificial creatures called golems. In these tales, rabbis manipulated the letters of the Hebrew alphabet to replicate God’s act of creation, using the sacred formulas to imbue inanimate objects with life.
+
 In some of these myths, the rabbis used this skill for practical reasons, to make animals to eat when hungry or servants to help them with domestic duties. But many of these golem stories end badly. 
- 
 
-This “science of the combination of letters” clearly was a rudimentary form of natural language processing, as it involved combining letters of an alphabet according to specific rules. It was viewed as a double-edged sword: a way to access new forms of knowledge and wisdom, but also an inherently dangerous practice that could bring about unintended consequences. 
+<img src="../img/en_US/chapter_2/Picture72.png">
+
+This _"science of the combination of letters" clearly was a rudimentary form of natural language processing, as it involved combining letters of an alphabet according to specific rules_.  It was viewed as a double-edged sword: a way to access new forms of knowledge and wisdom, but also an inherently dangerous practice that could bring about unintended consequences.
+
 This tension has been a constant factor throughout the long history of language processing. It still figures in discussions about the most cutting-edge NLP technology of our era.
-In 1666, the German polymath Gottfried Wilhelm Leibniz published an enigmatic dissertation entitled On the Combinatorial Art. Though only 20 years old, Leibniz outlined a theory for automating knowledge production via the rule-based combination of symbols.
-   
-Gottfried Wilhelm Leibniz and his dissertation “On the Combinatorial Art”
 
+In 1666, the German polymath **Gottfried Wilhelm Leibniz** published an enigmatic dissertation entitled _On the Combinatorial Art_.  Though only 20 years old, Leibniz outlined a theory for automating knowledge production via the rule-based combination of symbols.
+
+<img src="../img/en_US/chapter_2/Picture73.png">
+   
+Gottfried Wilhelm Leibniz and his dissertation "On the Combinatorial Art"
+
+<img src="../img/en_US/chapter_2/Picture74.png">
  
-Leibniz’s central thesis was that all human thought was (no matter how complex), a combination of basic and fundamental concepts in much the same way that sentences are combinations of words, and words combinations of letters. 
+Leibniz’s central thesis was that _all human thought_ was (no matter how complex), a combination of basic and fundamental concepts in much the same way that sentences are combinations of words, and words combinations of letters.
+
 Furthermore, Leibniz believed that if he could find a way to symbolically represent these fundamental concepts and develop a method by which to combine them logically, then he would be able to generate new thoughts on demand (sounds familiar?).
-Ostensibly, the idea came to Leibniz through his study of Ramon Llull, a 13th century Majorcan mystic who devoted himself to devising a system of theological reasoning that would prove the “universal truth" of Christianity to non-believers.  
+
+Ostensibly, the idea came to Leibniz through his study of Ramon Llull, a 13th century Majorcan mystic who devoted himself to devising a system of theological reasoning that would prove the "universal truth" of Christianity to non-believers.
+
+<img src="../img/en_US/chapter_2/Picture75.png">
+
 Llull himself was inspired by Jewish Kabbalists’ letter combinatorics which they used to produce generative texts that ostensibly revealed prophetic wisdom. Llull subsequently invented (what he called) a volvelle, a circular paper mechanism with increasingly small concentric circles on which were written symbols representing the attributes of God. Llull believed that by spinning the volvelle in various ways, bringing the symbols into novel combinations with one another, he could reveal all the aspects of his deity.
 
   Leibniz, impressed by Llull’s machine embarked on a project to create his own method of idea generation through symbolic combination! But his machine was not for theological debate. It was for philosophical reasoning! According to him, such a system would require: 
@@ -759,11 +771,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 
 <br/>
-<img src="../img/en_US/chapter_2/Picture72.png">
-<img src="../img/en_US/chapter_2/Picture73.png">
-<img src="../img/en_US/chapter_2/Picture74.png">
-
-<img src="../img/en_US/chapter_2/Picture75.png">
 <img src="../img/en_US/chapter_2/Picture76.png">
 <img src="../img/en_US/chapter_2/Picture77.png">
 <img src="../img/en_US/chapter_2/Picture78.png">
