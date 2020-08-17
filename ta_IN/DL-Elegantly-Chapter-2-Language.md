@@ -423,11 +423,22 @@ In 1953, the Austro-British philosopher Ludwig Wittgenstein famously argued, in 
 
 Alan Turing, the father of modern computer science, engaged with Wittgenstein on the connections between language, mathematics, computers and artificial intelligence. They influenced one another; Wittgenstein with his mathematical philosophies, Turing with his computational science practicality and his desire to create machines that could converse with humans.
 
-  Machine-generated language today is regarded by most as a digital phenomenon and a central goal of artificial intelligence (AI) research at the same level as Machine Vision. People today tend to trace the origins of NLP back to the beginning of the modern computer age, when Alan Turing, writing in 1950, imagined a smart machine that could comprehend (NLU), respond (NLG) and thus interact fluently with a human via typed text (NL) on a screen leading to the notion of a “Turing Test”.
-  But the fact is that attempts to articulate, design formal rules and machines that could analyze, process, and generate language go back thousands of years! While specific technologies have changed over time, the basic idea of treating language as a material that can be structured and hence (artificially) manipulated by rule-based systems has been pursued by many people in many cultures and for many different reasons at many points in time.  These historical experiments reveal the promise and perils of attempting to simulate human language in non-human ways—and some even hold lessons for today’s practitioners of cutting-edge NLP techniques. 
+<img src="../img/en_US/chapter_2/Picture64.png">
+
+Machine-generated language today is regarded by most as a digital phenomenon and a central goal of artificial intelligence (AI) research at the same level as Machine Vision.  People today tend to trace the origins of NLP back to the beginning of the modern computer age, when Alan Turing, writing in 1950, imagined a smart machine that could comprehend (NLU), respond (NLG) and thus interact fluently with a human via typed text (NL) on a screen leading to the notion of a **Turing Test**.
+
+<img src="../img/en_US/chapter_2/Picture65.png">
+
+But the fact is that _attempts_ to articulate, design formal rules and machines that could analyze, process, and generate language go back _thousands of years_!  While specific technologies have changed over time, the basic idea of treating language as a _material that can be structured and hence (artificially) manipulated by rule-based systems_ has been pursued by many people in many cultures and for many different reasons at many points in time.  These historical experiments reveal the promise and perils of attempting to simulate human language in non-human ways—and some even hold lessons for today’s practitioners of cutting-edge NLP techniques. 
 
 
-  The earliest and probably one of the greatest successes a constructive approach to the description of a natural language has ever had was when Dakshiputra Panini (400 – 350 BCE) devised his grammar for the Sanskrit language. This achievement was termed by the famous linguist Leonard Bloomfield as "one of the greatest monuments of human intelligence" (unlike this meme).  
+The earliest and probably one of the greatest successes _a constructive approach to the description of a natural language_ has ever had was when **Dakshiputra Panini (400 – 350 BCE)** devised his grammar for the Sanskrit language. 
+
+<img src="../img/en_US/chapter_2/Picture66.png">
+
+This achievement was termed by the famous linguist Leonard Bloomfield as "one of the greatest monuments of human intelligence" (unlike this meme).  
+
+<img src="../img/en_US/chapter_2/Picture67.png">
 
 The late Dr. Frits Staal department founder and Emeritus Professor of Philosophy and South/Southeast Asian Studies at the University of California, Berkeley argued that ancient Indian grammarians, especially Pāṇini, had mastered methods of linguistic theory not rediscovered again until the 1950s and the applications of modern mathematical logic to linguistics by Noam Chomsky (Chomsky too agrees that the first generative grammar in the modern sense was Panini's grammar). 
   These early methods allowed the construction of discrete, potentially infinite generative systems.  Remarkably, these early linguistic systems were codified orally, though writing was then used to develop them in some way. The formal basis for Panini's methods involved the use of "auxiliary" markers, rediscovered in the 1930s by the logician Emil Post whose rewrite system form the basis for the description of computer languages.  
@@ -737,11 +748,6 @@ Going forward, we’ll construct an NLP application by making use of artificial 
 
 
 <br/>
-<img src="../img/en_US/chapter_2/Picture64.png">
-
-<img src="../img/en_US/chapter_2/Picture65.png">
-<img src="../img/en_US/chapter_2/Picture66.png">
-<img src="../img/en_US/chapter_2/Picture67.png">
 <img src="../img/en_US/chapter_2/Picture68.png">
 <img src="../img/en_US/chapter_2/Picture69.png">
 <img src="../img/en_US/chapter_2/Picture70.png">
