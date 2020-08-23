@@ -76,7 +76,7 @@
 <br/>
 <table>
   <tr>
-    <td align="center">மாற்றம் நம்மிடம் உள்ளத்உ</td>
+    <td align="center">மாற்றம் நம்மிடம் உள்ளது</td>
     <td align="center">தரவு அறிவியல்</td>
     <td align="center">புதிர்ச்சொல்</td>
   </tr>
@@ -92,12 +92,11 @@
  
  <img src="../img/en_US/chapter_2/Picture14.png">
 
+# உரை சுரங்கம்(Text Mining) உரை பகுப்பாய்வு மற்றும் தரவு சுரங்கத்தில் இருந்து எவ்வாறு வேறுபடுகிறது?
 
-# What is Text Mining?  How is it different from Text Analytics and Data Mining?
+தரவுச்சுரங்கத்தில் தரவுகள் அனைத்தும் தரவு தளத்தில் இருக்கும்.  ஆனால் உரைச்சுரங்கத்தில் இருக்கும் தரவுகள் உரைவடிவில் இருக்கும். 
 
-In data mining, you typically have databases, and know what everything is.  In **text mining**, or **text data mining**, as some people call it (boo!), you have texts, and you don’t know what anything is (you = computer program).
-
-This is usually talked about as a difference between **structured** data (i.e., the database)–you know what everything **is**–what it **means**–in some sense, its semantics and **unstructured** data: that’s typically how we would describe text.
+தரவுச்சுரங்கத்தில் உள்ள தரவுகள் சீராக **கட்டமைக்கப்பட்ட**  (**structured**) தரவுகள். ஆனால் உரைச்சுரங்கத்தில் உள்ள தரவுகள் **கட்டமைக்கப்படாத** (**unstructured**) தரவுகள்.
 
  <img src="../img/en_US/chapter_2/Picture15.png">
 
