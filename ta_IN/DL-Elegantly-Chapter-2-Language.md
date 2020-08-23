@@ -100,12 +100,17 @@
 
  <img src="../img/en_US/chapter_2/Picture15.png">
 
-With text, you don’t know what anything means i.e. you don’t know its semantics. To put it another way, there is nothing in the data itself that tells you what each word means or is about. There is very little or no meta-data. Thus, Text Mining could be thought of as turning unstructured data into structured data.   
+ஒரு பத்தி உரையை கணினியிடம் தந்தால், அந்த கணினிக்கு அந்த உரையின் பொருளோ அல்லது அதில் உள்ள சொற்களின் பின்புலமோ தெரியாது. குறைந்த மெட்டா டேட்டா எனப்படும் தரவு பற்றிய விவரங்கள் மட்டுமே பொதுவான ஒரு உரையில் இருந்து புரிந்துகொள்ள முடியும். எனவே கட்டமைப்பில்லாத தரவைக்கொண்ட உரைச்சுரங்கத்தில் உள்ள உரைகளை கட்டமைப்புடைய உரையாக மாற்ற வேண்டும்
+  
 
  <img src="../img/en_US/chapter_2/Picture16.png">
+ 
+ உங்களிடம் உள்ள உரை தரவை ஒரு சீரான கட்டமைப்புக்குள் கொண்டுவந்து ஆரக்கிள் தரவு தளத்தில் உள்ளிட் விரும்பினால் அதற்கு ஒரே வழி உரை சுரங்க ஆய்வே ஆகும். உங்களிடம் 
+தேசிய மருத்துவ நூலகத்தில் இருந்து 23 பிஜில்லியன்  பத்திரிகை கட்டுரைகள் உள்ளது. அந்த தரவில் 23 பிஜில்லியன் கட்டுரைகளில் எந்த மருந்துகளால் எந்த மரபணுக்கள் பாதிக்கப்படுகின்றன என்று அறிய விரும்புகிறீர்கள் என்றால் உரை சுரங்க ஆய்வை பயன்படுத்தலாம். நீங்கள் அதிக அளவிலான நாட்டுப்புறக்கதைகளை சேகரித்து வைத்திருக்கிறீர்கள் என்று வைத்துக்கொள்வோம். அந்த கதைகளில்  உள்ள மாற்றாந்தாய் நல்லவராக அல்லது கெட்டவராக சித்தரிக்கப்பட்டுள்ளாரா என்பதை தெரிந்து கொள்ள வேண்டுமே? உரை சுரங்க ஆய்வை பயன்படுத்தினால் விடை எளிதில் கிடைக்கும்.
 
-If you’ve got a bunch of text and you want to structure it to populate an Oracle database?  Well, Text Mining could be the answer. Maybe you have 23 bejillion (made up number!) journal articles in the National Library of Medicine, and you want to find every statement that those 23 bejillion articles make about which genes are affected by which drugs; Again, Text Mining can come to your rescue! Or, maybe you have a huge collection of folk tales, and you want (the computer) to find every time that a stepmother is mentioned and whether the portrayal of the stepmother is positive or negative. Text Mining save me!
 <br/>
+
+மேலே குறிப்பிட்ட இரண்டு உதாரணத்திலும், கட்டமைப்பில்லாத தரவுகள், சீராண கட்டமைப்புக்கு மாற்றப்பட்டு தரவு தளத்தில் சேகரிக்கப்பட வேண்டும். அதாவது மருந்துகள் மற்றூம் புரதங்கள் கொண்ட ஒரு தரவு தளத்தையும், மாற்றாந்தாய் தொடர்பான தரவு தளத்தையும் வடிவமைக்க வேண்டி இருக்கும்.  
 
 You can see that all these scenarios are actually, examples of transforming unstructured data into structured data–you’re taking that unstructured data and using it to build a database about drugs and proteins, or a database about stepmothers.  So, you can see the term **text mining** is more appropriate than **text data mining** as **data mining** is about structured data and it does not make much sense to talk about **data mining** with respect to language.  In fact, Text mining most times, feeds data mining algorithms.
 
