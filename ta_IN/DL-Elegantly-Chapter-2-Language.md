@@ -151,7 +151,7 @@
 
 <br/>
 
-தரவு வகை எஸ்எம்எஸ் என்றால், இந்த புலத்தின் மதிப்பு உரையாக இருக்கும். எ.கா., உரை கோப்பில் சேமிக்கப்பட்ட அழைப்பு தரவின் பதிவுகளை பின்வரும் படம் காட்டுகிறது:
+.கா., உரை கோப்பில் சேமிக்கப்பட்ட தொலைபேசி அழைப்புகளின் விவரங்களை பின்வரும் படம் காட்டுகிறது:
 
 <br/>
 <table>
@@ -166,13 +166,14 @@
 </table>
 <br/>
 
-Now, the text log data shown in the preceding figure is not exactly human language, but it does contain various bits of information that can be extracted using text mining. A couple of questions that can be answered by running some simple text mining programs and then querying this data in a database could be: 
+மேலே உள்ள படத்தில் இருக்கும் தரவுகள் துள்ளியமாக நாம் பயன்படுத்தும் மொழியில் இருப்பதில்லை. உரைச்சுரங்கத்தில் இருக்கும் இது போன்ற தரவைக்கொண்டு பல தகவல்களைப் பெற முடியும்.  உதாரணத்து
+
+எத்தனை புத்தாண்டு வாழ்த்துக்கள் குறுஞ்செய்தியாக அனுப்பப்பட்டது?
+தொடர்புப் பட்டியலில் இல்லாத எத்தனை பேரை தொடர்புகொண்டார்கள்.
+
+
+தற்சமயம் உரை பகுப்பாய்வை பற்றி படிப்பதற்கு முன்னால் **பகுப்பாய்வு** என்றால் என்ன என்பதைத் தெரிந்துகொள்வோம். பகுப்பாய்வு என்பது கட்டமைப்பு, கலவை மற்றும் பொருளை ஆராய்வது, என பொருள் படும்.
  
-* How many New Year greetings were sent by SMS on the 1st January? 
-* How many people were contacted whose name was not in the contact list? 
-
-At this point, before we move on to Text Analytics, let’s define the term **Analysis**.  Analysis is an examination of structure, composition, and meaning that provides insight to advance some purpose.  
-
 <img src="../img/en_US/chapter_2/Picture24.png">
 
 Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
