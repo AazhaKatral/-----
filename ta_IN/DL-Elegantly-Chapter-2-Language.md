@@ -142,15 +142,16 @@
 </table>
 <br/>
 
-   
-In the log table shown above, 
-1.  The first two fields (Field 1 and Field 2) represent the date and time at which a call was made, or a message was sent
-2.  The third field represents the type of data. If the person made a voice call, then the value for this field will be set to voice_call. If the person sent a text message, the value of this field will be set to sms. 
-3.  The fourth field is for the phone number and name of the contact. If the number of the person is not in the contact list, then the name value will be left blank. 
-4.  The last field is for the duration of the call or text message. If the type of the data is voice_call, then the value in this field will be the duration of that call. 
+மேலே காட்டப்பட்டுள்ள பதிவு அட்டவணையில்,
+
+1) முதல் இரண்டு புலங்கள் (புலம் 1 மற்றும் புலம் 2) அழைப்பு வந்த தேதி மற்றும் நேரத்தைக் குறிக்கின்றன.
+2) மூன்றாவது புலம் தரவு வகையை குறிக்கிறது. குரல் அழைப்பா அல்லது குறுந்தகவலா என்று வகைப்படுத்தப்படுள்ளது.
+3) நான்காவது புலத்தில் தொடர்பு கொண்ட நபரின் பெயர் மற்றும் தொடர்பு எண்.நபரின் எண்ணிக்கை தொடர்பு பட்டியலில் இல்லை என்றால், பெயர் மதிப்பு காலியாக விடப்படும்.
+4) கடைசி புலம், குறுஞ்செய்தி அல்லது அழைப்பின் கால அளவு. ஆகியவற்றைக் குறிக்கிறது.
 
 <br/>
-If the type of data is SMS, then the value in this field will be the text message.  For e.g., the following figure shows records of call data stored in a text file:
+
+தரவு வகை எஸ்எம்எஸ் என்றால், இந்த புலத்தின் மதிப்பு உரையாக இருக்கும். எ.கா., உரை கோப்பில் சேமிக்கப்பட்ட அழைப்பு தரவின் பதிவுகளை பின்வரும் படம் காட்டுகிறது:
 
 <br/>
 <table>
