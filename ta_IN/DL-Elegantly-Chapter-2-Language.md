@@ -175,17 +175,17 @@
 தற்சமயம் உரை பகுப்பாய்வை பற்றி படிப்பதற்கு முன்னால் **பகுப்பாய்வு** என்றால் என்ன என்பதைத் தெரிந்துகொள்வோம். பகுப்பாய்வு என்பது கட்டமைப்பு, கலவை மற்றும் பொருளை ஆராய்வது, என பொருள் படும்.
  
 <img src="../img/en_US/chapter_2/Picture24.png">
+உரைகளை அலசுதல் என்பது கொடுக்கப்பட்ட உரையின் அமைப்பு, உள்ளடக்கம் மற்றும் பொருள் ஆகியவற்றை கூர்மையாக ஆராய்ந்து தேவையான தகவல்களைப் பெறுவதாகும்.  பகுப்பு என்பது நுட்பமான, தரமான மற்றும் இயல்பான உரைகளை அலசுவதாகும். பகுப்பாய்வு என்பது   முறையான, மீண்டும் செயல்படுத்த முடிந்த, அல்காரிதம்களால் விளக்க முடிந்த, எண்கள் மற்றும் புள்ளிவிவர ஆதாரங்களைக் கொண்ட, அளவைகளால் ஒப்பிட முடிந்த அட்டவணை அல்லது வரைபடத்தால் விளக்க முடிந்த ஆய்வாகும்.
 
-Text Analysis all about extracting useful insights based on the examination of the structure, composition and meaning of text.  Analysis is typically heuristic, informal, and/or qualitative. Analytics on the other hand is typically algorithmic. 
-Thus, Analytics in general can be defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information, whether in the form of indicators, tables, or visualizations. 
-Text Analytics is then defined as the formal, repeatable, systematic application of algorithmic, numerical and statistical methods to derive and deliver quantitative information on text data.  
+உரைப் பகுப்பாய்வு என்பது அல்காரிதம்களால் விளக்க முடிந்த, எண்கள் மற்றும் புள்ளிவிவர ஆதாரங்களைக் கொண்ட உரை தரவுகளைக்கொண்டு தேவையான விளக்கங்களைப் பெறுவதாகும்.
+
+
 
 <img src="../img/en_US/chapter_2/Picture25.png">
+பொதுவாக **உரை பகுப்பாய்வு** மற்றும் உரைச் சுரங்கம் ஆகிய இரண்டு பதங்களும் மாறி மாறி பயன்படுத்தப்படுகிறது. இவை இரண்டுமே ஒரே முறையையும், மென்பொருள்களையும் பயன்படுத்துகிறது.  ஆனால் உரை சுரங்கள் தகவல் தேடுபவர்களாலும் உரை பகுப்பாய்வு வணிகம் மற்றும் வியாபாரத்தில் சில முடிவுகளை எடுக்கவும் பயன்படுகிறது.
 
-In popular usage, the terms **text analytics** and **text mining** are used interchangeably. They both refer to the same set of methods, software tools, and applications. Distinctions in usage stems primarily from the background of the person using each — **text mining** seems most used by data miners, and **text analytics** by individuals and organizations in domains where the road to insight is paved by business intelligence tools and methods — so that the difference is largely a matter of **dialect**. 
 
-
-# What is Natural Language Processing?  How is it different from Text Analytics or Text Mining?
+# இயற்கை மொழி செயலாக்கம் என்றால் என்ன? உரை பகுப்பாய்வு அல்லது உரை சுரங்கத்திலிருந்து இது எவ்வாறு வேறுபடுகிறது? 
 
 It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).
 
