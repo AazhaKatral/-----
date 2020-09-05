@@ -186,10 +186,13 @@
 
 
 # இயற்கை மொழி செயலாக்கம் என்றால் என்ன? உரை பகுப்பாய்வு அல்லது உரை சுரங்கத்திலிருந்து இது எவ்வாறு வேறுபடுகிறது? 
-
-It is true that Linguistics professionals have a slightly different definition of Text Analytics (surprise!). They typically state that formally, Text Analytics actually does deal with language but is typically heuristic, light on semantics (meaning) and brittle (i.e. deals poorly with any kind of change; syntactic or semantic e.g., change of dialect).
+மொழியியல் வல்லுனருக்கும், உரை பகுப்பாய்வாளர்க்களுக்கும் மிகக்குறைவான வேறுபாடே உள்ளது.  பொதுவாக உரை பகுப்பாய்வில் உரையின் சாராம்சமும், உரை பற்றிய பட்டறிவும் முக்கியம். குறிப்பாக வட்டார வழக்கு போன்ற சமாசாரங்களை மோசமாக கையாளுகிறது.
 
 <img src="../img/en_US/chapter_2/Picture26.png">
+
+NLP எனப்படும் இயற்கை மொழி ஆய்வு முறையில் கொடுக்கப்பட்ட உரையின் பொருள் மற்றும் வேர்களைக் கொண்டு உரைத்தரவுகளை ஆய்வு செய்ய முடியும். ஒலி தரவுகளைக் கொண்டும் இயற்கை மொழி ஆய்வு செய்ய முடியும்.
+
+இயற்கை மொழி ஆய்வு என்பது மனிதன் பேசும், எழுதும் மொழியை ஆய்வு செய்வதாகும். இயற்கை மொழி ஆய்வு என்பது 
 
 NLP on the other hand deals with language too but is all about semantics, is robust, adaptable and is not restricted to text data. Voice (speech) recognition and analysis also come under the domain of NLP.
 Natural language means human language (as opposed to computer languages).  Natural language processing is all about building tools to handle specific linguistic tasks–parse a sentence, figure out parts of speech, stuff like that.  You might use a combination of different language processing programs to do a text mining task.  The questions are less about some set of facts. They are about the language itself!
